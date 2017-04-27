@@ -1,0 +1,4 @@
+Chr5	MSU_osa1r6_db	gene	5414915	5415184	.	+	.	ID=Gene:LOC_Os05g09580;Note=hypothetical+protein;Alias=13105.t00844
+Chr5	MSU_osa1r6_db	processed_transcript	5414915	5415184	.	+	.	ID=mRNA:LOC_Os05g09580.1;Note=13105.m01071;Gene=LOC_Os05g09580
+Chr5	MSU_osa1r6_db	CDS	5414915	5415184	.	+	0	Parent=mRNA:LOC_Os05g09580.1
+Chr5	Protein-DB	peptide_p	5415042	5415101	.	?	.	Parent=mRNA:LOC_Os05g09580.1:P999_23662

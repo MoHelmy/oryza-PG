@@ -1,0 +1,6 @@
+Chr11	MSU_osa1r6_db	gene	28237190	28238382	.	-	.	ID=Gene:LOC_Os11g47610;Note=glycosyl+hydrolase%2C+putative%2C+expressed;Alias=13111.t04248
+Chr11	MSU_osa1r6_db	processed_transcript	28237190	28238382	.	-	.	ID=mRNA:LOC_Os11g47610.1;Note=13111.m04743;Gene=LOC_Os11g47610
+Chr11	MSU_osa1r6_db	CDS	28237413	28238321	.	-	0	Parent=mRNA:LOC_Os11g47610.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	28238322	28238382	.	-	.	Parent=mRNA:LOC_Os11g47610.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	28237190	28237412	.	-	.	Parent=mRNA:LOC_Os11g47610.1
+Chr11	Protein-DB	peptide_p	28237606	28237659	.	?	.	Parent=mRNA:LOC_Os11g47610.1:P999_40942

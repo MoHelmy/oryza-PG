@@ -1,0 +1,14 @@
+Chr2	MSU_osa1r6_db	gene	14118563	14126214	.	-	.	ID=Gene:LOC_Os02g24354;Note=pyridoxal-dependent+decarboxylase+protein%2C+putative%2C+expressed;Alias=13102.t02141
+Chr2	MSU_osa1r6_db	processed_transcript	14118563	14126214	.	-	.	ID=mRNA:LOC_Os02g24354.1;Note=13102.m02639;Gene=LOC_Os02g24354
+Chr2	MSU_osa1r6_db	CDS	14125668	14126170	.	-	0	Parent=mRNA:LOC_Os02g24354.1
+Chr2	MSU_osa1r6_db	CDS	14124805	14124979	.	-	2	Parent=mRNA:LOC_Os02g24354.1
+Chr2	MSU_osa1r6_db	CDS	14123926	14124075	.	-	0	Parent=mRNA:LOC_Os02g24354.1
+Chr2	MSU_osa1r6_db	CDS	14120026	14120187	.	-	0	Parent=mRNA:LOC_Os02g24354.1
+Chr2	MSU_osa1r6_db	CDS	14119691	14119876	.	-	0	Parent=mRNA:LOC_Os02g24354.1
+Chr2	MSU_osa1r6_db	CDS	14119254	14119373	.	-	0	Parent=mRNA:LOC_Os02g24354.1
+Chr2	MSU_osa1r6_db	CDS	14119095	14119184	.	-	0	Parent=mRNA:LOC_Os02g24354.1
+Chr2	MSU_osa1r6_db	CDS	14118884	14118970	.	-	0	Parent=mRNA:LOC_Os02g24354.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	14126171	14126214	.	-	.	Parent=mRNA:LOC_Os02g24354.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	14118563	14118883	.	-	.	Parent=mRNA:LOC_Os02g24354.1
+Chr2	Protein-DB	peptide_p	14119034	14119078	.	?	.	Parent=mRNA:LOC_Os02g24354.1:P999_8852
+Chr2	Protein-DB	peptide_p	14125663	14125695	.	?	.	Parent=mRNA:LOC_Os02g24354.1:P999_8853

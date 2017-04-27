@@ -1,0 +1,16 @@
+Chr7	MSU_osa1r6_db	gene	25932054	25935546	.	+	.	ID=Gene:LOC_Os07g43316;Note=SAP+domain-containing+protein%2C+putative%2C+expressed;Alias=13107.t03967
+Chr7	MSU_osa1r6_db	processed_transcript	25932054	25935546	.	+	.	ID=mRNA:LOC_Os07g43316.1;Note=13107.m04551;Gene=LOC_Os07g43316
+Chr7	MSU_osa1r6_db	CDS	25932705	25933740	.	+	0	Parent=mRNA:LOC_Os07g43316.1
+Chr7	MSU_osa1r6_db	CDS	25934088	25934305	.	+	1	Parent=mRNA:LOC_Os07g43316.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	25932054	25932704	.	+	.	Parent=mRNA:LOC_Os07g43316.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	25934306	25934514	.	+	.	Parent=mRNA:LOC_Os07g43316.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	25934733	25935546	.	+	.	Parent=mRNA:LOC_Os07g43316.1
+Chr7	MSU_osa1r6_db	processed_transcript	25932054	25935546	.	+	.	ID=mRNA:LOC_Os07g43316.2;Note=13107.m10037;Gene=LOC_Os07g43316
+Chr7	MSU_osa1r6_db	CDS	25932705	25933740	.	+	0	Parent=mRNA:LOC_Os07g43316.2
+Chr7	MSU_osa1r6_db	CDS	25934088	25934282	.	+	1	Parent=mRNA:LOC_Os07g43316.2
+Chr7	MSU_osa1r6_db	CDS	25934363	25934514	.	+	1	Parent=mRNA:LOC_Os07g43316.2
+Chr7	MSU_osa1r6_db	CDS	25934733	25935197	.	+	0	Parent=mRNA:LOC_Os07g43316.2
+Chr7	MSU_osa1r6_db	five_prime_UTR	25932054	25932704	.	+	.	Parent=mRNA:LOC_Os07g43316.2
+Chr7	MSU_osa1r6_db	three_prime_UTR	25935198	25935546	.	+	.	Parent=mRNA:LOC_Os07g43316.2
+Chr7	cDNA-DB	peptide_c	25932388	25932423	.	?	.	Parent=mRNA:LOC_Os07g43316:C999_6416
+Chr7	cDNA-DB	peptide_c	25932586	25932630	.	?	.	Parent=mRNA:LOC_Os07g43316:C999_7351

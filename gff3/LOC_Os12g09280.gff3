@@ -1,0 +1,15 @@
+Chr12	MSU_osa1r6_db	gene	4859177	4862153	.	-	.	ID=Gene:LOC_Os12g09280;Note=RNA+polymerase+subunit%2C+putative%2C+expressed;Alias=13112.t00807
+Chr12	MSU_osa1r6_db	processed_transcript	4859221	4862153	.	-	.	ID=mRNA:LOC_Os12g09280.1;Note=13112.m00982;Gene=LOC_Os12g09280
+Chr12	MSU_osa1r6_db	CDS	4861801	4861901	.	-	0	Parent=mRNA:LOC_Os12g09280.1
+Chr12	MSU_osa1r6_db	CDS	4860089	4860165	.	-	2	Parent=mRNA:LOC_Os12g09280.1
+Chr12	MSU_osa1r6_db	CDS	4859468	4859616	.	-	1	Parent=mRNA:LOC_Os12g09280.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	4862047	4862153	.	-	.	Parent=mRNA:LOC_Os12g09280.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	4861902	4861917	.	-	.	Parent=mRNA:LOC_Os12g09280.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	4859221	4859467	.	-	.	Parent=mRNA:LOC_Os12g09280.1
+Chr12	MSU_osa1r6_db	processed_transcript	4859177	4860916	.	-	.	ID=mRNA:LOC_Os12g09280.2;Note=13112.m00983;Gene=LOC_Os12g09280
+Chr12	MSU_osa1r6_db	CDS	4860884	4860894	.	-	0	Parent=mRNA:LOC_Os12g09280.2
+Chr12	MSU_osa1r6_db	CDS	4860089	4860165	.	-	2	Parent=mRNA:LOC_Os12g09280.2
+Chr12	MSU_osa1r6_db	CDS	4859468	4859616	.	-	1	Parent=mRNA:LOC_Os12g09280.2
+Chr12	MSU_osa1r6_db	five_prime_UTR	4860895	4860916	.	-	.	Parent=mRNA:LOC_Os12g09280.2
+Chr12	MSU_osa1r6_db	three_prime_UTR	4859177	4859467	.	-	.	Parent=mRNA:LOC_Os12g09280.2
+Chr12	Protein-DB	peptide_p	4861783	4861815	.	?	.	Parent=mRNA:LOC_Os12g09280.1:P999_41494

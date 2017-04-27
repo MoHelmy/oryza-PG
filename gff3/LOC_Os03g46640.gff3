@@ -1,0 +1,16 @@
+Chr3	MSU_osa1r6_db	gene	26389337	26390553	.	-	.	ID=Gene:LOC_Os03g46640;Note=deoxyuridine+5-triphosphate+nucleotidohydrolase%2C+putative%2C+expressed;Alias=13103.t04037
+Chr3	MSU_osa1r6_db	processed_transcript	26389337	26390553	.	-	.	ID=mRNA:LOC_Os03g46640.1;Note=13103.m05021;Gene=LOC_Os03g46640
+Chr3	MSU_osa1r6_db	CDS	26390208	26390548	.	-	0	Parent=mRNA:LOC_Os03g46640.1
+Chr3	MSU_osa1r6_db	CDS	26390019	26390110	.	-	2	Parent=mRNA:LOC_Os03g46640.1
+Chr3	MSU_osa1r6_db	CDS	26389687	26389931	.	-	1	Parent=mRNA:LOC_Os03g46640.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	26390549	26390553	.	-	.	Parent=mRNA:LOC_Os03g46640.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	26389337	26389686	.	-	.	Parent=mRNA:LOC_Os03g46640.1
+Chr3	cDNA-DB	peptide_c	26389815	26389868	.	?	.	Parent=mRNA:LOC_Os03g46640:C999_1004
+Chr3	Protein-DB	peptide_p	26389815	26389868	.	?	.	Parent=mRNA:LOC_Os03g46640.1:P999_17106
+Chr3	Protein-DB	peptide_p	26389809	26389868	.	?	.	Parent=mRNA:LOC_Os03g46640.1:P999_17108
+Chr3	Protein-DB	peptide_p	26390097	26390171	.	?	.	Parent=mRNA:LOC_Os03g46640.1:P999_17112
+Chr3	Protein-DB	peptide_p	26389616	26389648	.	?	.	Parent=mRNA:LOC_Os03g46640.1:P999_17115
+Chr3	Protein-DB	peptide_p	26390031	26390096	.	?	.	Parent=mRNA:LOC_Os03g46640.1:P999_17123
+Chr3	Protein-DB	peptide_p	26389986	26390030	.	?	.	Parent=mRNA:LOC_Os03g46640.1:P999_17127
+Chr3	Protein-DB	peptide_p	26389649	26389690	.	?	.	Parent=mRNA:LOC_Os03g46640.1:P999_17132
+Chr3	Protein-DB	peptide_p	26389619	26389648	.	?	.	Parent=mRNA:LOC_Os03g46640.1:P999_17144

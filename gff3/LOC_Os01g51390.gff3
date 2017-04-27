@@ -1,0 +1,13 @@
+Chr1	MSU_osa1r6_db	gene	29543616	29547479	.	+	.	ID=Gene:LOC_Os01g51390;Note=mitochondrial-processing+peptidase+subunit%2C+mitochondrial+precursor%2C+putative%2C+expressed;Alias=13101.t04491
+Chr1	MSU_osa1r6_db	processed_transcript	29543616	29547479	.	+	.	ID=mRNA:LOC_Os01g51390.1;Note=13101.m05362;Gene=LOC_Os01g51390
+Chr1	MSU_osa1r6_db	CDS	29543723	29544277	.	+	0	Parent=mRNA:LOC_Os01g51390.1
+Chr1	MSU_osa1r6_db	CDS	29544888	29545052	.	+	0	Parent=mRNA:LOC_Os01g51390.1
+Chr1	MSU_osa1r6_db	CDS	29545146	29545283	.	+	0	Parent=mRNA:LOC_Os01g51390.1
+Chr1	MSU_osa1r6_db	CDS	29545383	29545534	.	+	0	Parent=mRNA:LOC_Os01g51390.1
+Chr1	MSU_osa1r6_db	CDS	29545647	29545755	.	+	2	Parent=mRNA:LOC_Os01g51390.1
+Chr1	MSU_osa1r6_db	CDS	29545979	29546077	.	+	0	Parent=mRNA:LOC_Os01g51390.1
+Chr1	MSU_osa1r6_db	CDS	29546749	29546814	.	+	0	Parent=mRNA:LOC_Os01g51390.1
+Chr1	MSU_osa1r6_db	CDS	29546906	29547013	.	+	0	Parent=mRNA:LOC_Os01g51390.1
+Chr1	MSU_osa1r6_db	CDS	29547126	29547251	.	+	0	Parent=mRNA:LOC_Os01g51390.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	29543616	29543722	.	+	.	Parent=mRNA:LOC_Os01g51390.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	29547252	29547479	.	+	.	Parent=mRNA:LOC_Os01g51390.1

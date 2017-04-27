@@ -1,0 +1,4 @@
+Chr3	MSU_osa1r6_db	gene	29009030	29013131	.	-	.	ID=Gene:LOC_Os03g50810;Note=receptor+protein+kinase+TMK1+precursor%2C+putative%2C+expressed;Alias=13103.t04427
+Chr3	MSU_osa1r6_db	CDS	29001070	29001077	.	-	1	Parent=mRNA:LOC_Os03g50800.1
+Chr3	MSU_osa1r6_db	CDS	29001119	29001476	.	-	0	Parent=mRNA:LOC_Os03g50800.1
+Chr3	MSU_osa1r6_db	processed_transcript	29001070	29001476	.	-	.	ID=mRNA:LOC_Os03g50800.1;Note=13103.m05525;Gene=LOC_Os03g50800

@@ -1,0 +1,6 @@
+Chr6	MSU_osa1r6_db	gene	10012742	10016980	.	-	.	ID=Gene:LOC_Os06g17290;Note=phosphatidylinositol+3-+and+4-kinase+family+protein%2C+putative%2C+expressed;Alias=13106.t01600
+Chr6	MSU_osa1r6_db	processed_transcript	10012742	10016980	.	-	.	ID=mRNA:LOC_Os06g17290.1;Note=13106.m01902;Gene=LOC_Os06g17290
+Chr6	MSU_osa1r6_db	CDS	10013270	10015372	.	-	0	Parent=mRNA:LOC_Os06g17290.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	10016673	10016980	.	-	.	Parent=mRNA:LOC_Os06g17290.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	10015373	10015517	.	-	.	Parent=mRNA:LOC_Os06g17290.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	10012742	10013269	.	-	.	Parent=mRNA:LOC_Os06g17290.1

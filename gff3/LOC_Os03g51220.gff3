@@ -1,0 +1,13 @@
+Chr3	MSU_osa1r6_db	gene	29289128	29295132	.	+	.	ID=Gene:LOC_Os03g51220;Note=SWI%2FSNF-related+matrix-associated+actin-dependent+regulator+of+chromatin+subfamily+C+member%2C+putative%2C+expressed;Alias=13103.t04461
+Chr3	MSU_osa1r6_db	processed_transcript	29289128	29295132	.	+	.	ID=mRNA:LOC_Os03g51220.1;Note=13103.m05568;Gene=LOC_Os03g51220
+Chr3	MSU_osa1r6_db	CDS	29289220	29289631	.	+	0	Parent=mRNA:LOC_Os03g51220.1
+Chr3	MSU_osa1r6_db	CDS	29290804	29291345	.	+	1	Parent=mRNA:LOC_Os03g51220.1
+Chr3	MSU_osa1r6_db	CDS	29292257	29292982	.	+	0	Parent=mRNA:LOC_Os03g51220.1
+Chr3	MSU_osa1r6_db	CDS	29293060	29293226	.	+	0	Parent=mRNA:LOC_Os03g51220.1
+Chr3	MSU_osa1r6_db	CDS	29293304	29293569	.	+	2	Parent=mRNA:LOC_Os03g51220.1
+Chr3	MSU_osa1r6_db	CDS	29293654	29293839	.	+	1	Parent=mRNA:LOC_Os03g51220.1
+Chr3	MSU_osa1r6_db	CDS	29294408	29294604	.	+	1	Parent=mRNA:LOC_Os03g51220.1
+Chr3	MSU_osa1r6_db	CDS	29294693	29294941	.	+	0	Parent=mRNA:LOC_Os03g51220.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	29289128	29289219	.	+	.	Parent=mRNA:LOC_Os03g51220.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	29294942	29295132	.	+	.	Parent=mRNA:LOC_Os03g51220.1
+Chr3	Protein-DB	peptide_p	29290885	29290911	.	?	.	Parent=mRNA:LOC_Os03g51220.1:P999_17873

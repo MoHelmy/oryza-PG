@@ -1,0 +1,8 @@
+Chr5	MSU_osa1r6_db	gene	14842530	14847089	.	-	.	ID=Gene:LOC_Os05g25640;Note=cytochrome+P450%2C+putative%2C+expressed;Alias=13105.t02246
+Chr5	MSU_osa1r6_db	processed_transcript	14842530	14847089	.	-	.	ID=mRNA:LOC_Os05g25640.1;Note=13105.m02628;Gene=LOC_Os05g25640
+Chr5	MSU_osa1r6_db	CDS	14846229	14847013	.	-	0	Parent=mRNA:LOC_Os05g25640.1
+Chr5	MSU_osa1r6_db	CDS	14844471	14844592	.	-	2	Parent=mRNA:LOC_Os05g25640.1
+Chr5	MSU_osa1r6_db	CDS	14842790	14843385	.	-	1	Parent=mRNA:LOC_Os05g25640.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	14847014	14847089	.	-	.	Parent=mRNA:LOC_Os05g25640.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	14842530	14842789	.	-	.	Parent=mRNA:LOC_Os05g25640.1
+Chr5	Protein-DB	peptide_p	14842799	14842822	.	?	.	Parent=mRNA:LOC_Os05g25640.1:P999_24265

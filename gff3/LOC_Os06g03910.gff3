@@ -1,0 +1,11 @@
+Chr6	MSU_osa1r6_db	gene	1573485	1576177	.	-	.	ID=Gene:LOC_Os06g03910;Note=hydrolase%2C+NUDIX+family%2C+domain+containing+protein%2C+expressed;Alias=13106.t00279
+Chr6	MSU_osa1r6_db	processed_transcript	1573485	1576177	.	-	.	ID=mRNA:LOC_Os06g03910.1;Note=13106.m00336;Gene=LOC_Os06g03910
+Chr6	MSU_osa1r6_db	CDS	1575833	1576171	.	-	0	Parent=mRNA:LOC_Os06g03910.1
+Chr6	MSU_osa1r6_db	CDS	1575638	1575715	.	-	0	Parent=mRNA:LOC_Os06g03910.1
+Chr6	MSU_osa1r6_db	CDS	1575036	1575128	.	-	0	Parent=mRNA:LOC_Os06g03910.1
+Chr6	MSU_osa1r6_db	CDS	1574859	1574951	.	-	0	Parent=mRNA:LOC_Os06g03910.1
+Chr6	MSU_osa1r6_db	CDS	1574580	1574678	.	-	0	Parent=mRNA:LOC_Os06g03910.1
+Chr6	MSU_osa1r6_db	CDS	1573796	1574071	.	-	0	Parent=mRNA:LOC_Os06g03910.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	1576172	1576177	.	-	.	Parent=mRNA:LOC_Os06g03910.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	1573485	1573795	.	-	.	Parent=mRNA:LOC_Os06g03910.1
+Chr6	Protein-DB	peptide_p	1573687	1573752	.	?	.	Parent=mRNA:LOC_Os06g03910.1:P999_27052

@@ -1,0 +1,10 @@
+Chr4	MSU_osa1r6_db	gene	26732755	26735520	.	-	.	ID=Gene:LOC_Os04g45490;Note=elongation+factor%2C+putative%2C+expressed;Alias=13104.t04071
+Chr4	MSU_osa1r6_db	processed_transcript	26732755	26735520	.	-	.	ID=mRNA:LOC_Os04g45490.1;Note=13104.m04563;Gene=LOC_Os04g45490
+Chr4	MSU_osa1r6_db	CDS	26734140	26735300	.	-	0	Parent=mRNA:LOC_Os04g45490.1
+Chr4	MSU_osa1r6_db	CDS	26733256	26733768	.	-	0	Parent=mRNA:LOC_Os04g45490.1
+Chr4	MSU_osa1r6_db	CDS	26732994	26733167	.	-	0	Parent=mRNA:LOC_Os04g45490.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	26735301	26735520	.	-	.	Parent=mRNA:LOC_Os04g45490.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	26732755	26732993	.	-	.	Parent=mRNA:LOC_Os04g45490.1
+Chr4	Protein-DB	peptide_p	26733630	26733671	.	?	.	Parent=mRNA:LOC_Os04g45490.1:P999_21239
+Chr4	Protein-DB	peptide_p	26733672	26733713	.	?	.	Parent=mRNA:LOC_Os04g45490.1:P999_21240
+Chr4	Protein-DB	peptide_p	26733141	26733161	.	?	.	Parent=mRNA:LOC_Os04g45490.1:P999_21241

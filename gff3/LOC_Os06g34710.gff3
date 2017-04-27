@@ -1,0 +1,12 @@
+Chr6	MSU_osa1r6_db	gene	20168369	20176264	.	+	.	ID=Gene:LOC_Os06g34710;Note=expressed+protein;Alias=13106.t03148
+Chr6	MSU_osa1r6_db	processed_transcript	20168369	20176264	.	+	.	ID=mRNA:LOC_Os06g34710.1;Note=13106.m03585;Gene=LOC_Os06g34710
+Chr6	MSU_osa1r6_db	CDS	20168369	20171314	.	+	0	Parent=mRNA:LOC_Os06g34710.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	20171315	20171339	.	+	.	Parent=mRNA:LOC_Os06g34710.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	20175870	20176264	.	+	.	Parent=mRNA:LOC_Os06g34710.1
+Chr6	Protein-DB	peptide_p	952	996	.	?	.	Parent=mRNA:LOC_Os06g34710.1:P28530
+Chr6	Protein-DB	peptide_p	997	1038	.	?	.	Parent=mRNA:LOC_Os06g34710.1:P28531
+Chr6	Protein-DB	peptide_p	217	258	.	?	.	Parent=mRNA:LOC_Os06g34710.1:P28532
+Chr6	Protein-DB	peptide_p	259	285	.	?	.	Parent=mRNA:LOC_Os06g34710.1:P28533
+Chr6	Protein-DB	peptide_p	631	669	.	?	.	Parent=mRNA:LOC_Os06g34710.1:P28538
+Chr6	cDNA-DB	peptide_c	20169156	20169173	.	?	.	Parent=mRNA:LOC_Os06g34710.1:PC20
+

@@ -1,0 +1,8 @@
+Chr3	MSU_osa1r6_db	gene	34501132	34504149	.	-	.	ID=Gene:LOC_Os03g60720;Note=expansin+precursor%2C+putative%2C+expressed;Alias=13103.t05319
+Chr3	MSU_osa1r6_db	processed_transcript	34501132	34504149	.	-	.	ID=mRNA:LOC_Os03g60720.1;Note=13103.m06667;Gene=LOC_Os03g60720
+Chr3	MSU_osa1r6_db	CDS	34503444	34503928	.	-	0	Parent=mRNA:LOC_Os03g60720.1
+Chr3	MSU_osa1r6_db	CDS	34501768	34502077	.	-	2	Parent=mRNA:LOC_Os03g60720.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	34503929	34504149	.	-	.	Parent=mRNA:LOC_Os03g60720.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	34501132	34501767	.	-	.	Parent=mRNA:LOC_Os03g60720.1
+Chr3	Protein-DB	peptide_p	34503437	34503499	.	?	.	Parent=mRNA:LOC_Os03g60720.1:P999_19288
+Chr3	Protein-DB	peptide_p	34503323	34503355	.	?	.	Parent=mRNA:LOC_Os03g60720.1:P999_19289

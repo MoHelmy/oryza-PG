@@ -1,0 +1,17 @@
+Chr3	MSU_osa1r6_db	gene	7444928	7448549	.	-	.	ID=Gene:LOC_Os03g13750;Note=erwinia+induced+protein+2%2C+putative%2C+expressed;Alias=13103.t01185
+Chr3	MSU_osa1r6_db	processed_transcript	7444928	7448549	.	-	.	ID=mRNA:LOC_Os03g13750.1;Note=13103.m01594;Gene=LOC_Os03g13750
+Chr3	MSU_osa1r6_db	CDS	7448213	7448384	.	-	0	Parent=mRNA:LOC_Os03g13750.1
+Chr3	MSU_osa1r6_db	CDS	7448018	7448100	.	-	1	Parent=mRNA:LOC_Os03g13750.1
+Chr3	MSU_osa1r6_db	CDS	7446152	7446207	.	-	0	Parent=mRNA:LOC_Os03g13750.1
+Chr3	MSU_osa1r6_db	CDS	7445983	7446061	.	-	2	Parent=mRNA:LOC_Os03g13750.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	7448385	7448549	.	-	.	Parent=mRNA:LOC_Os03g13750.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	7445966	7445982	.	-	.	Parent=mRNA:LOC_Os03g13750.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	7444928	7445266	.	-	.	Parent=mRNA:LOC_Os03g13750.1
+Chr3	MSU_osa1r6_db	processed_transcript	7444939	7448549	.	-	.	ID=mRNA:LOC_Os03g13750.2;Note=13103.m12869;Gene=LOC_Os03g13750
+Chr3	MSU_osa1r6_db	CDS	7448213	7448384	.	-	0	Parent=mRNA:LOC_Os03g13750.2
+Chr3	MSU_osa1r6_db	CDS	7448018	7448100	.	-	1	Parent=mRNA:LOC_Os03g13750.2
+Chr3	MSU_osa1r6_db	CDS	7446152	7446207	.	-	0	Parent=mRNA:LOC_Os03g13750.2
+Chr3	MSU_osa1r6_db	CDS	7445224	7445266	.	-	2	Parent=mRNA:LOC_Os03g13750.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	7448385	7448549	.	-	.	Parent=mRNA:LOC_Os03g13750.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	7444939	7445223	.	-	.	Parent=mRNA:LOC_Os03g13750.2
+Chr3	Protein-DB	peptide_p	7445404	7445442	.	?	.	Parent=mRNA:LOC_Os03g13750.1:P999_14200

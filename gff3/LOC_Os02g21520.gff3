@@ -1,0 +1,10 @@
+Chr2	MSU_osa1r6_db	gene	12765278	12772118	.	+	.	ID=Gene:LOC_Os02g21520;Note=chalcone+isomerase+3%2C+putative%2C+expressed;Alias=13102.t01949
+Chr2	MSU_osa1r6_db	processed_transcript	12765278	12772118	.	+	.	ID=mRNA:LOC_Os02g21520.1;Note=13102.m02412;Gene=LOC_Os02g21520
+Chr2	MSU_osa1r6_db	CDS	12765341	12765563	.	+	0	Parent=mRNA:LOC_Os02g21520.1
+Chr2	MSU_osa1r6_db	CDS	12767867	12767965	.	+	1	Parent=mRNA:LOC_Os02g21520.1
+Chr2	MSU_osa1r6_db	CDS	12770061	12770204	.	+	1	Parent=mRNA:LOC_Os02g21520.1
+Chr2	MSU_osa1r6_db	CDS	12770276	12770490	.	+	1	Parent=mRNA:LOC_Os02g21520.1
+Chr2	MSU_osa1r6_db	CDS	12771644	12771805	.	+	0	Parent=mRNA:LOC_Os02g21520.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	12765278	12765340	.	+	.	Parent=mRNA:LOC_Os02g21520.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	12771806	12772118	.	+	.	Parent=mRNA:LOC_Os02g21520.1
+Chr2	Protein-DB	peptide_p	12770154	12770204	.	?	.	Parent=mRNA:LOC_Os02g21520.1:P999_8746

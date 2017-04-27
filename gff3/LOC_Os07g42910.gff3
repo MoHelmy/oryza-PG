@@ -1,0 +1,10 @@
+Chr7	MSU_osa1r6_db	gene	25690840	25693751	.	-	.	ID=Gene:LOC_Os07g42910;Note=cytochrome+c+oxidase+subunit%2C+putative%2C+expressed;Alias=13107.t03929
+Chr7	MSU_osa1r6_db	processed_transcript	25690840	25693751	.	-	.	ID=mRNA:LOC_Os07g42910.1;Note=13107.m04498;Gene=LOC_Os07g42910
+Chr7	MSU_osa1r6_db	CDS	25693610	25693651	.	-	0	Parent=mRNA:LOC_Os07g42910.1
+Chr7	MSU_osa1r6_db	CDS	25691838	25692101	.	-	0	Parent=mRNA:LOC_Os07g42910.1
+Chr7	MSU_osa1r6_db	CDS	25691673	25691755	.	-	0	Parent=mRNA:LOC_Os07g42910.1
+Chr7	MSU_osa1r6_db	CDS	25691495	25691576	.	-	2	Parent=mRNA:LOC_Os07g42910.1
+Chr7	MSU_osa1r6_db	CDS	25691117	25691170	.	-	0	Parent=mRNA:LOC_Os07g42910.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	25693652	25693751	.	-	.	Parent=mRNA:LOC_Os07g42910.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	25690840	25691116	.	-	.	Parent=mRNA:LOC_Os07g42910.1
+Chr7	Protein-DB	peptide_p	25692584	25692634	.	?	.	Parent=mRNA:LOC_Os07g42910.1:P999_31613

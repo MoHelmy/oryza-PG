@@ -1,0 +1,9 @@
+Chr2	MSU_osa1r6_db	gene	27903683	27906198	.	-	.	ID=Gene:LOC_Os02g45820;Note=mitochondrial+import+inner+membrane+translocase+subunit+Tim%2C+putative%2C+expressed;Alias=13102.t04202
+Chr2	MSU_osa1r6_db	processed_transcript	27903683	27906198	.	-	.	ID=mRNA:LOC_Os02g45820.1;Note=13102.m05141;Gene=LOC_Os02g45820
+Chr2	MSU_osa1r6_db	CDS	27905964	27906068	.	-	0	Parent=mRNA:LOC_Os02g45820.1
+Chr2	MSU_osa1r6_db	CDS	27904023	27904172	.	-	0	Parent=mRNA:LOC_Os02g45820.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	27906069	27906198	.	-	.	Parent=mRNA:LOC_Os02g45820.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	27903683	27904022	.	-	.	Parent=mRNA:LOC_Os02g45820.1
+Chr2	Protein-DB	peptide_p	27903880	27903918	.	?	.	Parent=mRNA:LOC_Os02g45820.1:P999_10654
+Chr2	Protein-DB	peptide_p	27905806	27905835	.	?	.	Parent=mRNA:LOC_Os02g45820.1:P999_10658
+Chr2	Protein-DB	peptide_p	27905737	27905754	.	?	.	Parent=mRNA:LOC_Os02g45820.1:P999_10659

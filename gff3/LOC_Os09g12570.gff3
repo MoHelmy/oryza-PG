@@ -1,0 +1,16 @@
+Chr9	MSU_osa1r6_db	gene	7204126	7207212	.	-	.	ID=Gene:LOC_Os09g12570;Note=ubiquitin-conjugating+enzyme%2C+putative%2C+expressed;Alias=13109.t01052
+Chr9	MSU_osa1r6_db	processed_transcript	7204126	7207212	.	-	.	ID=mRNA:LOC_Os09g12570.1;Note=13109.m01139;Gene=LOC_Os09g12570
+Chr9	MSU_osa1r6_db	CDS	7207049	7207088	.	-	0	Parent=mRNA:LOC_Os09g12570.1
+Chr9	MSU_osa1r6_db	CDS	7205256	7205395	.	-	1	Parent=mRNA:LOC_Os09g12570.1
+Chr9	MSU_osa1r6_db	CDS	7204720	7204845	.	-	0	Parent=mRNA:LOC_Os09g12570.1
+Chr9	MSU_osa1r6_db	CDS	7204485	7204625	.	-	0	Parent=mRNA:LOC_Os09g12570.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	7207089	7207212	.	-	.	Parent=mRNA:LOC_Os09g12570.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	7204126	7204484	.	-	.	Parent=mRNA:LOC_Os09g12570.1
+Chr9	Protein-DB	peptide_p	7205991	7206050	.	?	.	Parent=mRNA:LOC_Os09g12570.1:P999_35226
+Chr9	Protein-DB	peptide_p	7206584	7206628	.	?	.	Parent=mRNA:LOC_Os09g12570.1:P999_35228
+Chr9	Protein-DB	peptide_p	7206756	7206791	.	?	.	Parent=mRNA:LOC_Os09g12570.1:P999_35229
+Chr9	Protein-DB	peptide_p	7206051	7206083	.	?	.	Parent=mRNA:LOC_Os09g12570.1:P999_35230
+Chr9	Protein-DB	peptide_p	7206756	7206794	.	?	.	Parent=mRNA:LOC_Os09g12570.1:P999_35231
+Chr9	Protein-DB	peptide_p	7205961	7205990	.	?	.	Parent=mRNA:LOC_Os09g12570.1:P999_35232
+Chr9	Protein-DB	peptide_p	7205961	7205981	.	?	.	Parent=mRNA:LOC_Os09g12570.1:P999_35233
+Chr9	Protein-DB	peptide_p	7206729	7206755	.	?	.	Parent=mRNA:LOC_Os09g12570.1:P999_35241

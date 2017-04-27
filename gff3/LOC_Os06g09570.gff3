@@ -1,0 +1,9 @@
+Chr6	MSU_osa1r6_db	gene	4869861	4873712	.	-	.	ID=Gene:LOC_Os06g09570;Note=nucleolar+GTP-binding+protein+1%2C+putative%2C+expressed;Alias=13106.t00837
+Chr6	MSU_osa1r6_db	processed_transcript	4869861	4873712	.	-	.	ID=mRNA:LOC_Os06g09570.1;Note=13106.m01033;Gene=LOC_Os06g09570
+Chr6	MSU_osa1r6_db	CDS	4870358	4872388	.	-	0	Parent=mRNA:LOC_Os06g09570.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	4873601	4873712	.	-	.	Parent=mRNA:LOC_Os06g09570.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	4872389	4872409	.	-	.	Parent=mRNA:LOC_Os06g09570.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	4870321	4870357	.	-	.	Parent=mRNA:LOC_Os06g09570.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	4869861	4870229	.	-	.	Parent=mRNA:LOC_Os06g09570.1
+Chr6	Protein-DB	peptide_p	4871693	4871728	.	?	.	Parent=mRNA:LOC_Os06g09570.1:P999_27544
+Chr6	Protein-DB	peptide_p	4871210	4871260	.	?	.	Parent=mRNA:LOC_Os06g09570.1:P999_27548

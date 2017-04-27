@@ -1,0 +1,9 @@
+Chr1	MSU_osa1r6_db	gene	5548619	5550003	.	-	.	ID=Gene:LOC_Os01g10490;Note=keratin%2C+type+I+cytoskeletal+9%2C+putative%2C+expressed;Alias=13101.t00922
+Chr1	MSU_osa1r6_db	processed_transcript	5548619	5550003	.	-	.	ID=mRNA:LOC_Os01g10490.1;Note=13101.m01134;Gene=LOC_Os01g10490
+Chr1	MSU_osa1r6_db	CDS	5549847	5549982	.	-	0	Parent=mRNA:LOC_Os01g10490.1
+Chr1	MSU_osa1r6_db	CDS	5549327	5549768	.	-	1	Parent=mRNA:LOC_Os01g10490.1
+Chr1	MSU_osa1r6_db	CDS	5548908	5549235	.	-	2	Parent=mRNA:LOC_Os01g10490.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	5549983	5550003	.	-	.	Parent=mRNA:LOC_Os01g10490.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	5548619	5548907	.	-	.	Parent=mRNA:LOC_Os01g10490.1
+Chr1	Protein-DB	peptide_p	5549551	5549586	.	?	.	Parent=mRNA:LOC_Os01g10490.1:P999_985
+Chr1	Protein-DB	peptide_p	5549587	5549619	.	?	.	Parent=mRNA:LOC_Os01g10490.1:P999_986

@@ -1,0 +1,8 @@
+Chr8	MSU_osa1r6_db	gene	4711557	4716884	.	+	.	ID=Gene:LOC_Os08g08240;Note=transposon+protein%2C+putative%2C+unclassified%2C+expressed;Alias=13108.t00713
+Chr8	MSU_osa1r6_db	processed_transcript	4711557	4716884	.	+	.	ID=mRNA:LOC_Os08g08240.1;Note=13108.m00856;Gene=LOC_Os08g08240
+Chr8	MSU_osa1r6_db	CDS	4712714	4713014	.	+	0	Parent=mRNA:LOC_Os08g08240.1
+Chr8	MSU_osa1r6_db	CDS	4714068	4716133	.	+	1	Parent=mRNA:LOC_Os08g08240.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	4711557	4711820	.	+	.	Parent=mRNA:LOC_Os08g08240.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	4712708	4712713	.	+	.	Parent=mRNA:LOC_Os08g08240.1
+Chr8	MSU_osa1r6_db	three_prime_UTR	4716134	4716137	.	+	.	Parent=mRNA:LOC_Os08g08240.1
+Chr8	MSU_osa1r6_db	three_prime_UTR	4716560	4716884	.	+	.	Parent=mRNA:LOC_Os08g08240.1

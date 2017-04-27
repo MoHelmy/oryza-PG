@@ -1,0 +1,8 @@
+Chr2	MSU_osa1r6_db	gene	299744	302823	.	+	.	ID=Gene:LOC_Os02g01520;Note=IQ+calmodulin-binding+motif+family+protein%2C+putative%2C+expressed;Alias=13102.t00055
+Chr2	MSU_osa1r6_db	processed_transcript	299744	302823	.	+	.	ID=mRNA:LOC_Os02g01520.1;Note=13102.m00072;Gene=LOC_Os02g01520
+Chr2	MSU_osa1r6_db	CDS	300122	300907	.	+	0	Parent=mRNA:LOC_Os02g01520.1
+Chr2	MSU_osa1r6_db	CDS	301447	301722	.	+	0	Parent=mRNA:LOC_Os02g01520.1
+Chr2	MSU_osa1r6_db	CDS	302347	302481	.	+	0	Parent=mRNA:LOC_Os02g01520.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	299744	300121	.	+	.	Parent=mRNA:LOC_Os02g01520.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	302482	302823	.	+	.	Parent=mRNA:LOC_Os02g01520.1
+Chr2	Protein-DB	peptide_p	301613	301639	.	?	.	Parent=mRNA:LOC_Os02g01520.1:P999_6425

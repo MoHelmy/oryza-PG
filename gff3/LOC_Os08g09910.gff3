@@ -1,0 +1,7 @@
+Chr8	MSU_osa1r6_db	gene	5719455	5722824	.	+	.	ID=Gene:LOC_Os08g09910;Note=OsFBX276+-+F-box+domain+containing+protein;Alias=13108.t00881
+Chr8	MSU_osa1r6_db	processed_transcript	5719455	5722824	.	+	.	ID=mRNA:LOC_Os08g09910.1;Note=13108.m01046;Gene=LOC_Os08g09910
+Chr8	MSU_osa1r6_db	CDS	5719455	5719494	.	+	0	Parent=mRNA:LOC_Os08g09910.1
+Chr8	MSU_osa1r6_db	CDS	5719683	5721016	.	+	1	Parent=mRNA:LOC_Os08g09910.1
+Chr8	MSU_osa1r6_db	CDS	5721829	5722020	.	+	0	Parent=mRNA:LOC_Os08g09910.1
+Chr8	MSU_osa1r6_db	CDS	5722116	5722305	.	+	0	Parent=mRNA:LOC_Os08g09910.1
+Chr8	MSU_osa1r6_db	CDS	5722745	5722824	.	+	1	Parent=mRNA:LOC_Os08g09910.1

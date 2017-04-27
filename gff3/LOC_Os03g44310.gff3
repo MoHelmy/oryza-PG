@@ -1,0 +1,12 @@
+Chr3	MSU_osa1r6_db	gene	24903664	24909155	.	-	.	ID=Gene:LOC_Os03g44310;Note=initiation+factor+2+subunit+family+domain+containing+protein%2C+expressed;Alias=13103.t03823
+Chr3	MSU_osa1r6_db	processed_transcript	24903664	24909155	.	-	.	ID=mRNA:LOC_Os03g44310.1;Note=13103.m04769;Gene=LOC_Os03g44310
+Chr3	MSU_osa1r6_db	CDS	24908648	24909017	.	-	0	Parent=mRNA:LOC_Os03g44310.1
+Chr3	MSU_osa1r6_db	CDS	24907447	24907587	.	-	1	Parent=mRNA:LOC_Os03g44310.1
+Chr3	MSU_osa1r6_db	CDS	24906990	24907357	.	-	1	Parent=mRNA:LOC_Os03g44310.1
+Chr3	MSU_osa1r6_db	CDS	24905726	24906470	.	-	0	Parent=mRNA:LOC_Os03g44310.1
+Chr3	MSU_osa1r6_db	CDS	24905545	24905641	.	-	1	Parent=mRNA:LOC_Os03g44310.1
+Chr3	MSU_osa1r6_db	CDS	24905374	24905428	.	-	2	Parent=mRNA:LOC_Os03g44310.1
+Chr3	MSU_osa1r6_db	CDS	24904202	24904264	.	-	0	Parent=mRNA:LOC_Os03g44310.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	24909018	24909155	.	-	.	Parent=mRNA:LOC_Os03g44310.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	24903664	24904201	.	-	.	Parent=mRNA:LOC_Os03g44310.1
+Chr3	Protein-DB	peptide_p	24906674	24906700	.	?	.	Parent=mRNA:LOC_Os03g44310.1:P999_16983

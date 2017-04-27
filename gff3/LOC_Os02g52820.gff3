@@ -1,0 +1,9 @@
+Chr2	MSU_osa1r6_db	gene	32289451	32292822	.	+	.	ID=Gene:LOC_Os02g52820;Note=cold-induced+protein%2C+putative%2C+expressed;Alias=13102.t04908
+Chr2	MSU_osa1r6_db	processed_transcript	32289451	32292822	.	+	.	ID=mRNA:LOC_Os02g52820.1;Note=13102.m06021;Gene=LOC_Os02g52820
+Chr2	MSU_osa1r6_db	CDS	32289528	32289770	.	+	0	Parent=mRNA:LOC_Os02g52820.1
+Chr2	MSU_osa1r6_db	CDS	32289865	32290155	.	+	0	Parent=mRNA:LOC_Os02g52820.1
+Chr2	MSU_osa1r6_db	CDS	32290795	32291131	.	+	0	Parent=mRNA:LOC_Os02g52820.1
+Chr2	MSU_osa1r6_db	CDS	32291582	32291916	.	+	1	Parent=mRNA:LOC_Os02g52820.1
+Chr2	MSU_osa1r6_db	CDS	32292401	32292652	.	+	0	Parent=mRNA:LOC_Os02g52820.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	32289451	32289527	.	+	.	Parent=mRNA:LOC_Os02g52820.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	32292653	32292822	.	+	.	Parent=mRNA:LOC_Os02g52820.1

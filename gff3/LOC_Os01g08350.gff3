@@ -1,0 +1,6 @@
+Chr1	MSU_osa1r6_db	gene	4094856	4095249	.	+	.	ID=Gene:LOC_Os01g08350;Note=ATP+synthase+subunit+alpha%2C+mitochondrial%2C+putative;Alias=13101.t00712
+Chr1	MSU_osa1r6_db	processed_transcript	4094856	4095249	.	+	.	ID=mRNA:LOC_Os01g08350.1;Note=13101.m00872;Gene=LOC_Os01g08350
+Chr1	MSU_osa1r6_db	CDS	4094856	4095117	.	+	0	Parent=mRNA:LOC_Os01g08350.1
+Chr1	MSU_osa1r6_db	CDS	4095161	4095249	.	+	1	Parent=mRNA:LOC_Os01g08350.1
+Chr1	Protein-DB	peptide_p	4095022	4095057	.	?	.	Parent=mRNA:LOC_Os01g08350.1:P999_705
+Chr1	Protein-DB	peptide_p	4095022	4095081	.	?	.	Parent=mRNA:LOC_Os01g08350.1:P999_706

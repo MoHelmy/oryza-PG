@@ -1,0 +1,12 @@
+Chr1	MSU_osa1r6_db	gene	5717883	5723184	.	-	.	ID=Gene:LOC_Os01g10690;Note=POLD3+-+Putative+DNA+polymerase+delta+complex+subunit%2C+expressed;Alias=13101.t00939
+Chr1	MSU_osa1r6_db	processed_transcript	5717883	5723184	.	-	.	ID=mRNA:LOC_Os01g10690.1;Note=13101.m01155;Gene=LOC_Os01g10690
+Chr1	MSU_osa1r6_db	CDS	5722952	5723032	.	-	0	Parent=mRNA:LOC_Os01g10690.1
+Chr1	MSU_osa1r6_db	CDS	5721756	5721811	.	-	0	Parent=mRNA:LOC_Os01g10690.1
+Chr1	MSU_osa1r6_db	CDS	5721541	5721665	.	-	2	Parent=mRNA:LOC_Os01g10690.1
+Chr1	MSU_osa1r6_db	CDS	5721260	5721419	.	-	1	Parent=mRNA:LOC_Os01g10690.1
+Chr1	MSU_osa1r6_db	CDS	5720612	5721024	.	-	2	Parent=mRNA:LOC_Os01g10690.1
+Chr1	MSU_osa1r6_db	CDS	5719990	5720472	.	-	1	Parent=mRNA:LOC_Os01g10690.1
+Chr1	MSU_osa1r6_db	CDS	5719303	5719384	.	-	1	Parent=mRNA:LOC_Os01g10690.1
+Chr1	MSU_osa1r6_db	CDS	5718421	5718559	.	-	2	Parent=mRNA:LOC_Os01g10690.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	5723033	5723184	.	-	.	Parent=mRNA:LOC_Os01g10690.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	5717883	5718420	.	-	.	Parent=mRNA:LOC_Os01g10690.1

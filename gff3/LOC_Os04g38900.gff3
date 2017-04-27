@@ -1,0 +1,15 @@
+Chr4	MSU_osa1r6_db	gene	22930974	22932817	.	-	.	ID=Gene:LOC_Os04g38900;Note=prohibitin%2C+putative%2C+expressed;Alias=13104.t03442
+Chr4	MSU_osa1r6_db	processed_transcript	22930974	22932817	.	-	.	ID=mRNA:LOC_Os04g38900.1;Note=13104.m03749;Gene=LOC_Os04g38900
+Chr4	MSU_osa1r6_db	CDS	22931819	22932669	.	-	0	Parent=mRNA:LOC_Os04g38900.1
+Chr4	MSU_osa1r6_db	CDS	22931486	22931525	.	-	2	Parent=mRNA:LOC_Os04g38900.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	22932670	22932817	.	-	.	Parent=mRNA:LOC_Os04g38900.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	22930974	22931485	.	-	.	Parent=mRNA:LOC_Os04g38900.1
+Chr4	MSU_osa1r6_db	processed_transcript	22931546	22932817	.	-	.	ID=mRNA:LOC_Os04g38900.2;Note=13104.m03750;Gene=LOC_Os04g38900
+Chr4	MSU_osa1r6_db	CDS	22931806	22932669	.	-	0	Parent=mRNA:LOC_Os04g38900.2
+Chr4	MSU_osa1r6_db	five_prime_UTR	22932670	22932817	.	-	.	Parent=mRNA:LOC_Os04g38900.2
+Chr4	MSU_osa1r6_db	three_prime_UTR	22931546	22931805	.	-	.	Parent=mRNA:LOC_Os04g38900.2
+Chr4	Protein-DB	peptide_p	22931219	22931242	.	?	.	Parent=mRNA:LOC_Os04g38900.1:P999_20733
+Chr4	Protein-DB	peptide_p	22931348	22931386	.	?	.	Parent=mRNA:LOC_Os04g38900.1:P999_20734
+Chr4	Protein-DB	peptide_p	22931813	22931863	.	?	.	Parent=mRNA:LOC_Os04g38900.1:P999_20742
+Chr4	Protein-DB	peptide_p	22931498	22931530	.	?	.	Parent=mRNA:LOC_Os04g38900.1:P999_20743
+Chr4	Protein-DB	peptide_p	22931906	22931947	.	?	.	Parent=mRNA:LOC_Os04g38900.1:P999_20747

@@ -1,0 +1,10 @@
+Chr1	MSU_osa1r6_db	gene	36394443	36397142	.	+	.	ID=Gene:LOC_Os01g62840;Note=mannose-1-phosphate+guanyltransferase%2C+putative%2C+expressed;Alias=13101.t05584
+Chr1	MSU_osa1r6_db	processed_transcript	36394443	36397142	.	+	.	ID=mRNA:LOC_Os01g62840.1;Note=13101.m06740;Gene=LOC_Os01g62840
+Chr1	MSU_osa1r6_db	CDS	36394877	36394987	.	+	0	Parent=mRNA:LOC_Os01g62840.1
+Chr1	MSU_osa1r6_db	CDS	36395475	36395537	.	+	0	Parent=mRNA:LOC_Os01g62840.1
+Chr1	MSU_osa1r6_db	CDS	36395628	36395867	.	+	0	Parent=mRNA:LOC_Os01g62840.1
+Chr1	MSU_osa1r6_db	CDS	36395943	36396614	.	+	0	Parent=mRNA:LOC_Os01g62840.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	36394443	36394670	.	+	.	Parent=mRNA:LOC_Os01g62840.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	36394797	36394876	.	+	.	Parent=mRNA:LOC_Os01g62840.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	36396615	36397142	.	+	.	Parent=mRNA:LOC_Os01g62840.1
+Chr1	Protein-DB	peptide_p	36394884	36394916	.	?	.	Parent=mRNA:LOC_Os01g62840.1:P999_4965

@@ -1,0 +1,11 @@
+Chr1	MSU_osa1r6_db	gene	15643786	15648494	.	+	.	ID=Gene:LOC_Os01g27990;Note=NPL4%2C+putative%2C+expressed;Alias=13101.t02423
+Chr1	MSU_osa1r6_db	processed_transcript	15643786	15648494	.	+	.	ID=mRNA:LOC_Os01g27990.1;Note=13101.m02905;Gene=LOC_Os01g27990
+Chr1	MSU_osa1r6_db	CDS	15643987	15644982	.	+	0	Parent=mRNA:LOC_Os01g27990.1
+Chr1	MSU_osa1r6_db	CDS	15647928	15648179	.	+	0	Parent=mRNA:LOC_Os01g27990.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	15643786	15643986	.	+	.	Parent=mRNA:LOC_Os01g27990.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	15648180	15648494	.	+	.	Parent=mRNA:LOC_Os01g27990.1
+Chr1	MSU_osa1r6_db	processed_transcript	15643786	15646039	.	+	.	ID=mRNA:LOC_Os01g27990.2;Note=13101.m02906;Gene=LOC_Os01g27990
+Chr1	MSU_osa1r6_db	CDS	15643987	15645042	.	+	0	Parent=mRNA:LOC_Os01g27990.2
+Chr1	MSU_osa1r6_db	five_prime_UTR	15643786	15643986	.	+	.	Parent=mRNA:LOC_Os01g27990.2
+Chr1	MSU_osa1r6_db	three_prime_UTR	15645043	15646039	.	+	.	Parent=mRNA:LOC_Os01g27990.2
+Chr1	Protein-DB	peptide_p	15644582	15644614	.	?	.	Parent=mRNA:LOC_Os01g27990.1:P999_2342

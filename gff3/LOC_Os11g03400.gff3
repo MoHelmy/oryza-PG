@@ -1,0 +1,14 @@
+Chr11	MSU_osa1r6_db	gene	1284393	1285292	.	-	.	ID=Gene:LOC_Os11g03400;Note=ribosomal+protein%2C+putative%2C+expressed;Alias=13111.t00234
+Chr11	MSU_osa1r6_db	processed_transcript	1284393	1285292	.	-	.	ID=mRNA:LOC_Os11g03400.1;Note=13111.m00279;Gene=LOC_Os11g03400
+Chr11	MSU_osa1r6_db	CDS	1284723	1285172	.	-	0	Parent=mRNA:LOC_Os11g03400.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	1285173	1285292	.	-	.	Parent=mRNA:LOC_Os11g03400.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	1284393	1284722	.	-	.	Parent=mRNA:LOC_Os11g03400.1
+Chr11	Protein-DB	peptide_p	1284568	1284609	.	?	.	Parent=mRNA:LOC_Os11g03400.1:P999_39267
+Chr11	Protein-DB	peptide_p	1284571	1284609	.	?	.	Parent=mRNA:LOC_Os11g03400.1:P999_39268
+Chr11	Protein-DB	peptide_p	1284754	1284777	.	?	.	Parent=mRNA:LOC_Os11g03400.1:P999_39269
+Chr11	Protein-DB	peptide_p	1284793	1284816	.	?	.	Parent=mRNA:LOC_Os11g03400.1:P999_39271
+Chr11	Protein-DB	peptide_p	1284667	1284702	.	?	.	Parent=mRNA:LOC_Os11g03400.1:P999_39273
+Chr11	Protein-DB	peptide_p	1284622	1284666	.	?	.	Parent=mRNA:LOC_Os11g03400.1:P999_39275
+Chr11	Protein-DB	peptide_p	1284574	1284609	.	?	.	Parent=mRNA:LOC_Os11g03400.1:P999_39285
+Chr11	Protein-DB	peptide_p	1284673	1284702	.	?	.	Parent=mRNA:LOC_Os11g03400.1:P999_39289
+Chr11	Protein-DB	peptide_p	1284874	1284897	.	?	.	Parent=mRNA:LOC_Os11g03400.1:P999_39290

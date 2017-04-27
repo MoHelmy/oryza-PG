@@ -1,0 +1,6 @@
+Chr6	MSU_osa1r6_db	gene	28824832	28826038	.	+	.	ID=Gene:LOC_Os06g47600;Note=thaumatin+family+domain+containing+protein%2C+expressed;Alias=13106.t04428
+Chr6	MSU_osa1r6_db	processed_transcript	28824832	28826038	.	+	.	ID=mRNA:LOC_Os06g47600.1;Note=13106.m05056;Gene=LOC_Os06g47600
+Chr6	MSU_osa1r6_db	CDS	28824908	28825663	.	+	0	Parent=mRNA:LOC_Os06g47600.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	28824832	28824907	.	+	.	Parent=mRNA:LOC_Os06g47600.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	28825664	28826038	.	+	.	Parent=mRNA:LOC_Os06g47600.1
+Chr6	Protein-DB	peptide_p	28825104	28825127	.	?	.	Parent=mRNA:LOC_Os06g47600.1:P999_29427

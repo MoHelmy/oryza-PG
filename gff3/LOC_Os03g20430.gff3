@@ -1,0 +1,7 @@
+Chr3	MSU_osa1r6_db	gene	11558880	11561282	.	+	.	ID=Gene:LOC_Os03g20430;Note=histone-lysine+N-methyltransferase%2C+H3+lysine-9+specific+SUVH8%2C+putative%2C+expressed;Alias=13103.t01827
+Chr3	MSU_osa1r6_db	processed_transcript	11558880	11561282	.	+	.	ID=mRNA:LOC_Os03g20430.1;Note=13103.m02452;Gene=LOC_Os03g20430
+Chr3	MSU_osa1r6_db	CDS	11559080	11559272	.	+	0	Parent=mRNA:LOC_Os03g20430.1
+Chr3	MSU_osa1r6_db	CDS	11559399	11560810	.	+	1	Parent=mRNA:LOC_Os03g20430.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	11558880	11559079	.	+	.	Parent=mRNA:LOC_Os03g20430.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	11560811	11561282	.	+	.	Parent=mRNA:LOC_Os03g20430.1
+Chr3	Protein-DB	peptide_p	11560059	11560085	.	?	.	Parent=mRNA:LOC_Os03g20430.1:P999_15242

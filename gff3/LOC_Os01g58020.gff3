@@ -1,0 +1,4 @@
+Chr1	MSU_osa1r6_db	gene	33553127	33553744	.	+	.	ID=Gene:LOC_Os01g58020;Note=ribulose+bisphosphate+carboxylase+large+chain+precursor%2C+putative;Alias=13101.t05125
+Chr1	MSU_osa1r6_db	processed_transcript	33553127	33553744	.	+	.	ID=mRNA:LOC_Os01g58020.1;Note=13101.m06160;Gene=LOC_Os01g58020
+Chr1	MSU_osa1r6_db	CDS	33553127	33553744	.	+	0	Parent=mRNA:LOC_Os01g58020.1
+Chr1	Protein-DB	peptide_p	33553224	33553250	.	?	.	Parent=mRNA:LOC_Os01g58020.1:P999_4527

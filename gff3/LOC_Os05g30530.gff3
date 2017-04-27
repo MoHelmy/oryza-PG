@@ -1,0 +1,12 @@
+Chr5	MSU_osa1r6_db	gene	17632739	17635426	.	+	.	ID=Gene:LOC_Os05g30530;Note=40S+ribosomal+protein+S4%2C+putative%2C+expressed;Alias=13105.t02676
+Chr5	MSU_osa1r6_db	processed_transcript	17632739	17635426	.	+	.	ID=mRNA:LOC_Os05g30530.1;Note=13105.m03120;Gene=LOC_Os05g30530
+Chr5	MSU_osa1r6_db	CDS	17632839	17632841	.	+	0	Parent=mRNA:LOC_Os05g30530.1
+Chr5	MSU_osa1r6_db	CDS	17633512	17633589	.	+	0	Parent=mRNA:LOC_Os05g30530.1
+Chr5	MSU_osa1r6_db	CDS	17633846	17634026	.	+	0	Parent=mRNA:LOC_Os05g30530.1
+Chr5	MSU_osa1r6_db	CDS	17634117	17634214	.	+	1	Parent=mRNA:LOC_Os05g30530.1
+Chr5	MSU_osa1r6_db	CDS	17634721	17635152	.	+	0	Parent=mRNA:LOC_Os05g30530.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	17632739	17632838	.	+	.	Parent=mRNA:LOC_Os05g30530.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	17635153	17635426	.	+	.	Parent=mRNA:LOC_Os05g30530.1
+Chr5	Protein-DB	peptide_p	17634884	17634922	.	?	.	Parent=mRNA:LOC_Os05g30530.1:P999_24545
+Chr5	Protein-DB	peptide_p	17633543	17633575	.	?	.	Parent=mRNA:LOC_Os05g30530.1:P999_24546
+Chr5	Protein-DB	peptide_p	17635058	17635081	.	?	.	Parent=mRNA:LOC_Os05g30530.1:P999_24549

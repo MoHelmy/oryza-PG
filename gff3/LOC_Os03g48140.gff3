@@ -1,0 +1,5 @@
+Chr3	MSU_osa1r6_db	gene	27367888	27380565	.	-	.	ID=Gene:LOC_Os03g48140;Note=myosin%2C+putative%2C+expressed;Alias=13103.t04187
+Chr3	MSU_osa1r6_db	CDS	27363172	27363426	.	-	0	Parent=mRNA:LOC_Os03g48120.1
+Chr3	MSU_osa1r6_db	CDS	27363488	27363883	.	-	0	Parent=mRNA:LOC_Os03g48120.1
+Chr3	MSU_osa1r6_db	CDS	27364099	27364104	.	-	0	Parent=mRNA:LOC_Os03g48120.1
+Chr3	MSU_osa1r6_db	processed_transcript	27363172	27364104	.	-	.	ID=mRNA:LOC_Os03g48120.1;Note=13103.m05193;Gene=LOC_Os03g48120

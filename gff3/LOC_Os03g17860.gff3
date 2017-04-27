@@ -1,0 +1,15 @@
+Chr3	MSU_osa1r6_db	gene	9951724	9954074	.	-	.	ID=Gene:LOC_Os03g17860;Note=OsPDIL5-1++protein+disulfide+isomerase+PDIL5-1%2C+expressed;Alias=13103.t01578
+Chr3	MSU_osa1r6_db	processed_transcript	9951724	9954074	.	-	.	ID=mRNA:LOC_Os03g17860.1;Note=13103.m02133;Gene=LOC_Os03g17860
+Chr3	MSU_osa1r6_db	CDS	9953890	9954015	.	-	0	Parent=mRNA:LOC_Os03g17860.1
+Chr3	MSU_osa1r6_db	CDS	9953267	9953325	.	-	0	Parent=mRNA:LOC_Os03g17860.1
+Chr3	MSU_osa1r6_db	CDS	9952993	9953168	.	-	2	Parent=mRNA:LOC_Os03g17860.1
+Chr3	MSU_osa1r6_db	CDS	9951993	9952075	.	-	1	Parent=mRNA:LOC_Os03g17860.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	9954016	9954074	.	-	.	Parent=mRNA:LOC_Os03g17860.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	9951724	9951992	.	-	.	Parent=mRNA:LOC_Os03g17860.1
+Chr3	MSU_osa1r6_db	processed_transcript	9952748	9954074	.	-	.	ID=mRNA:LOC_Os03g17860.2;Note=13103.m02134;Gene=LOC_Os03g17860
+Chr3	MSU_osa1r6_db	CDS	9953890	9954015	.	-	0	Parent=mRNA:LOC_Os03g17860.2
+Chr3	MSU_osa1r6_db	CDS	9953267	9953325	.	-	0	Parent=mRNA:LOC_Os03g17860.2
+Chr3	MSU_osa1r6_db	CDS	9952976	9953168	.	-	2	Parent=mRNA:LOC_Os03g17860.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	9954016	9954074	.	-	.	Parent=mRNA:LOC_Os03g17860.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	9952748	9952975	.	-	.	Parent=mRNA:LOC_Os03g17860.2
+Chr3	Protein-DB	peptide_p	9952635	9952667	.	?	.	Parent=mRNA:LOC_Os03g17860.1:P999_14750

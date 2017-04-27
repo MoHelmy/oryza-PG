@@ -1,0 +1,10 @@
+Chr11	MSU_osa1r6_db	gene	19559890	19563575	.	+	.	ID=Gene:LOC_Os11g34200;Note=histone-like+transcription+factor+and+archaeal+histone%2C+putative%2C+expressed;Alias=13111.t02969
+Chr11	MSU_osa1r6_db	processed_transcript	19559890	19563575	.	+	.	ID=mRNA:LOC_Os11g34200.1;Note=13111.m03312;Gene=LOC_Os11g34200
+Chr11	MSU_osa1r6_db	CDS	19559988	19560020	.	+	0	Parent=mRNA:LOC_Os11g34200.1
+Chr11	MSU_osa1r6_db	CDS	19561161	19561233	.	+	0	Parent=mRNA:LOC_Os11g34200.1
+Chr11	MSU_osa1r6_db	CDS	19561689	19561782	.	+	1	Parent=mRNA:LOC_Os11g34200.1
+Chr11	MSU_osa1r6_db	CDS	19562485	19562601	.	+	2	Parent=mRNA:LOC_Os11g34200.1
+Chr11	MSU_osa1r6_db	CDS	19562686	19562743	.	+	2	Parent=mRNA:LOC_Os11g34200.1
+Chr11	MSU_osa1r6_db	CDS	19562815	19563216	.	+	0	Parent=mRNA:LOC_Os11g34200.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	19559890	19559987	.	+	.	Parent=mRNA:LOC_Os11g34200.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	19563217	19563575	.	+	.	Parent=mRNA:LOC_Os11g34200.1

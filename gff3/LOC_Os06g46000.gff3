@@ -1,0 +1,14 @@
+Chr6	MSU_osa1r6_db	gene	27876524	27879147	.	-	.	ID=Gene:LOC_Os06g46000;Note=tubulin%2FFtsZ+domain+containing+protein%2C+putative%2C+expressed;Alias=13106.t04270
+Chr6	MSU_osa1r6_db	processed_transcript	27876524	27879147	.	-	.	ID=mRNA:LOC_Os06g46000.1;Note=13106.m04857;Gene=LOC_Os06g46000
+Chr6	MSU_osa1r6_db	CDS	27878641	27879034	.	-	0	Parent=mRNA:LOC_Os06g46000.1
+Chr6	MSU_osa1r6_db	CDS	27878126	27878395	.	-	1	Parent=mRNA:LOC_Os06g46000.1
+Chr6	MSU_osa1r6_db	CDS	27876893	27877569	.	-	1	Parent=mRNA:LOC_Os06g46000.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	27879035	27879147	.	-	.	Parent=mRNA:LOC_Os06g46000.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	27876524	27876892	.	-	.	Parent=mRNA:LOC_Os06g46000.1
+Chr6	Protein-DB	peptide_p	2001	2051	.	?	.	Parent=mRNA:LOC_Os06g46000.1:P29320
+Chr6	Protein-DB	peptide_p	1581	1637	.	?	.	Parent=mRNA:LOC_Os06g46000.1:P29321
+Chr6	Protein-DB	peptide_p	171	218	.	?	.	Parent=mRNA:LOC_Os06g46000.1:P29322
+Chr6	Protein-DB	peptide_p	1965	2000	.	?	.	Parent=mRNA:LOC_Os06g46000.1:P29327
+Chr6	Protein-DB	peptide_p	345	422	.	?	.	Parent=mRNA:LOC_Os06g46000.1:P29333
+Chr6	Protein-DB	peptide_p	219	251	.	?	.	Parent=mRNA:LOC_Os06g46000.1:P29336
+Chr6	cDNA-DB	peptide_c	27876824	27876868	.	?	.	Parent=mRNA:LOC_Os06g46000.1:PC10

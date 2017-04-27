@@ -1,0 +1,9 @@
+Chr2	MSU_osa1r6_db	gene	9458280	9463802	.	-	.	ID=Gene:LOC_Os02g16550;Note=Ser%2FThr+protein+phosphatase+family+protein%2C+putative%2C+expressed;Alias=13102.t01463
+Chr2	MSU_osa1r6_db	processed_transcript	9458280	9463802	.	-	.	ID=mRNA:LOC_Os02g16550.1;Note=13102.m01852;Gene=LOC_Os02g16550
+Chr2	MSU_osa1r6_db	CDS	9463351	9463482	.	-	0	Parent=mRNA:LOC_Os02g16550.1
+Chr2	MSU_osa1r6_db	CDS	9460715	9460852	.	-	0	Parent=mRNA:LOC_Os02g16550.1
+Chr2	MSU_osa1r6_db	CDS	9458647	9458943	.	-	0	Parent=mRNA:LOC_Os02g16550.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	9463483	9463802	.	-	.	Parent=mRNA:LOC_Os02g16550.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	9458280	9458646	.	-	.	Parent=mRNA:LOC_Os02g16550.1
+Chr2	Protein-DB	peptide_p	9461252	9461281	.	?	.	Parent=mRNA:LOC_Os02g16550.1:P999_8533
+Chr2	Protein-DB	peptide_p	9458604	9458645	.	?	.	Parent=mRNA:LOC_Os02g16550.1:P999_8534

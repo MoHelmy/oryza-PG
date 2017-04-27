@@ -1,0 +1,15 @@
+Chr9	MSU_osa1r6_db	gene	7292011	7299555	.	-	.	ID=Gene:LOC_Os09g12730;Note=RNA+recognition+motif+containing+protein%2C+expressed;Alias=13109.t01069
+Chr9	MSU_osa1r6_db	processed_transcript	7292011	7299542	.	-	.	ID=mRNA:LOC_Os09g12730.1;Note=13109.m01160;Gene=LOC_Os09g12730
+Chr9	MSU_osa1r6_db	CDS	7298970	7299332	.	-	0	Parent=mRNA:LOC_Os09g12730.1
+Chr9	MSU_osa1r6_db	CDS	7295231	7296441	.	-	0	Parent=mRNA:LOC_Os09g12730.1
+Chr9	MSU_osa1r6_db	CDS	7293313	7294756	.	-	2	Parent=mRNA:LOC_Os09g12730.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	7299441	7299542	.	-	.	Parent=mRNA:LOC_Os09g12730.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	7293306	7293312	.	-	.	Parent=mRNA:LOC_Os09g12730.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	7292011	7292337	.	-	.	Parent=mRNA:LOC_Os09g12730.1
+Chr9	MSU_osa1r6_db	processed_transcript	7292011	7299555	.	-	.	ID=mRNA:LOC_Os09g12730.2;Note=13109.m01161;Gene=LOC_Os09g12730
+Chr9	MSU_osa1r6_db	CDS	7298970	7299332	.	-	0	Parent=mRNA:LOC_Os09g12730.2
+Chr9	MSU_osa1r6_db	CDS	7295231	7296441	.	-	0	Parent=mRNA:LOC_Os09g12730.2
+Chr9	MSU_osa1r6_db	CDS	7293313	7294756	.	-	2	Parent=mRNA:LOC_Os09g12730.2
+Chr9	MSU_osa1r6_db	five_prime_UTR	7299434	7299555	.	-	.	Parent=mRNA:LOC_Os09g12730.2
+Chr9	MSU_osa1r6_db	three_prime_UTR	7293306	7293312	.	-	.	Parent=mRNA:LOC_Os09g12730.2
+Chr9	MSU_osa1r6_db	three_prime_UTR	7292011	7292337	.	-	.	Parent=mRNA:LOC_Os09g12730.2

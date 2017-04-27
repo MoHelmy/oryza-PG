@@ -1,0 +1,8 @@
+Chr4	MSU_osa1r6_db	gene	21523490	21526682	.	-	.	ID=Gene:LOC_Os04g35590;Note=thioesterase+family+protein%2C+putative%2C+expressed;Alias=13104.t03212
+Chr4	MSU_osa1r6_db	processed_transcript	21523490	21526682	.	-	.	ID=mRNA:LOC_Os04g35590.1;Note=13104.m03476;Gene=LOC_Os04g35590
+Chr4	MSU_osa1r6_db	CDS	21526367	21526540	.	-	0	Parent=mRNA:LOC_Os04g35590.1
+Chr4	MSU_osa1r6_db	CDS	21526113	21526256	.	-	0	Parent=mRNA:LOC_Os04g35590.1
+Chr4	MSU_osa1r6_db	CDS	21523931	21524074	.	-	0	Parent=mRNA:LOC_Os04g35590.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	21526541	21526682	.	-	.	Parent=mRNA:LOC_Os04g35590.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	21523490	21523930	.	-	.	Parent=mRNA:LOC_Os04g35590.1
+Chr4	Protein-DB	peptide_p	21523717	21523746	.	?	.	Parent=mRNA:LOC_Os04g35590.1:P999_20670

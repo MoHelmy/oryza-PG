@@ -1,0 +1,7 @@
+Chr11	MSU_osa1r6_db	gene	21749662	21752992	.	+	.	ID=Gene:LOC_Os11g37640;Note=ADP-ribosylation+factor%2C+putative%2C+expressed;Alias=13111.t03303
+Chr11	MSU_osa1r6_db	processed_transcript	21749662	21752992	.	+	.	ID=mRNA:LOC_Os11g37640.1;Note=13111.m03685;Gene=LOC_Os11g37640
+Chr11	MSU_osa1r6_db	CDS	21749881	21750072	.	+	0	Parent=mRNA:LOC_Os11g37640.1
+Chr11	MSU_osa1r6_db	CDS	21752357	21752719	.	+	0	Parent=mRNA:LOC_Os11g37640.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	21749662	21749880	.	+	.	Parent=mRNA:LOC_Os11g37640.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	21752720	21752992	.	+	.	Parent=mRNA:LOC_Os11g37640.1
+Chr11	Protein-DB	peptide_p	21752463	21752492	.	?	.	Parent=mRNA:LOC_Os11g37640.1:P999_40755

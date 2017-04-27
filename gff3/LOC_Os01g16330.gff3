@@ -1,0 +1,12 @@
+Chr1	MSU_osa1r6_db	gene	9258137	9263342	.	+	.	ID=Gene:LOC_Os01g16330;Note=OsRhmbd2+-+Putative+Rhomboid+homologue%2C+expressed;Alias=13101.t01479
+Chr1	MSU_osa1r6_db	processed_transcript	9258137	9263342	.	+	.	ID=mRNA:LOC_Os01g16330.1;Note=13101.m01823;Gene=LOC_Os01g16330
+Chr1	MSU_osa1r6_db	CDS	9258427	9258451	.	+	0	Parent=mRNA:LOC_Os01g16330.1
+Chr1	MSU_osa1r6_db	CDS	9258581	9258681	.	+	1	Parent=mRNA:LOC_Os01g16330.1
+Chr1	MSU_osa1r6_db	CDS	9259625	9259765	.	+	0	Parent=mRNA:LOC_Os01g16330.1
+Chr1	MSU_osa1r6_db	CDS	9260263	9260329	.	+	0	Parent=mRNA:LOC_Os01g16330.1
+Chr1	MSU_osa1r6_db	CDS	9261039	9261193	.	+	1	Parent=mRNA:LOC_Os01g16330.1
+Chr1	MSU_osa1r6_db	CDS	9261285	9261386	.	+	0	Parent=mRNA:LOC_Os01g16330.1
+Chr1	MSU_osa1r6_db	CDS	9262022	9262141	.	+	0	Parent=mRNA:LOC_Os01g16330.1
+Chr1	MSU_osa1r6_db	CDS	9262688	9262855	.	+	0	Parent=mRNA:LOC_Os01g16330.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	9258137	9258426	.	+	.	Parent=mRNA:LOC_Os01g16330.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	9262856	9263342	.	+	.	Parent=mRNA:LOC_Os01g16330.1

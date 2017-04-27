@@ -1,0 +1,7 @@
+Chr10	MSU_osa1r6_db	gene	13089062	13092765	.	+	.	ID=Gene:LOC_Os10g25450;Note=OsSub60+-+Putative+Subtilisin+homologue%2C+expressed;Alias=13110.t01957
+Chr10	MSU_osa1r6_db	processed_transcript	13089062	13092765	.	+	.	ID=mRNA:LOC_Os10g25450.1;Note=13110.m02145;Gene=LOC_Os10g25450
+Chr10	MSU_osa1r6_db	CDS	13089165	13090824	.	+	0	Parent=mRNA:LOC_Os10g25450.1
+Chr10	MSU_osa1r6_db	CDS	13091686	13092347	.	+	1	Parent=mRNA:LOC_Os10g25450.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	13089062	13089164	.	+	.	Parent=mRNA:LOC_Os10g25450.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	13092348	13092765	.	+	.	Parent=mRNA:LOC_Os10g25450.1
+Chr10	Protein-DB	peptide_p	13091893	13091931	.	?	.	Parent=mRNA:LOC_Os10g25450.1:P999_37548

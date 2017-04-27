@@ -1,0 +1,6 @@
+Chr9	MSU_osa1r6_db	gene	18671136	18672105	.	+	.	ID=Gene:LOC_Os09g31040;Note=EF+hand+family+protein%2C+putative%2C+expressed;Alias=13109.t02749
+Chr9	MSU_osa1r6_db	processed_transcript	18671136	18672105	.	+	.	ID=mRNA:LOC_Os09g31040.1;Note=13109.m03074;Gene=LOC_Os09g31040
+Chr9	MSU_osa1r6_db	CDS	18671454	18671867	.	+	0	Parent=mRNA:LOC_Os09g31040.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	18671136	18671453	.	+	.	Parent=mRNA:LOC_Os09g31040.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	18671868	18672105	.	+	.	Parent=mRNA:LOC_Os09g31040.1
+Chr9	Protein-DB	peptide_p	18671491	18671538	.	?	.	Parent=mRNA:LOC_Os09g31040.1:P999_36177

@@ -1,0 +1,8 @@
+Chr3	MSU_osa1r6_db	gene	481917	483761	.	-	.	ID=Gene:LOC_Os03g01770;Note=rhodanese%2C+putative%2C+expressed;Alias=13103.t00079
+Chr3	MSU_osa1r6_db	processed_transcript	481917	483761	.	-	.	ID=mRNA:LOC_Os03g01770.1;Note=13103.m00111;Gene=LOC_Os03g01770
+Chr3	MSU_osa1r6_db	CDS	483605	483687	.	-	0	Parent=mRNA:LOC_Os03g01770.1
+Chr3	MSU_osa1r6_db	CDS	483385	483523	.	-	2	Parent=mRNA:LOC_Os03g01770.1
+Chr3	MSU_osa1r6_db	CDS	482179	482349	.	-	0	Parent=mRNA:LOC_Os03g01770.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	483688	483761	.	-	.	Parent=mRNA:LOC_Os03g01770.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	481917	482178	.	-	.	Parent=mRNA:LOC_Os03g01770.1
+Chr3	Protein-DB	peptide_p	483336	483401	.	?	.	Parent=mRNA:LOC_Os03g01770.1:P999_12618

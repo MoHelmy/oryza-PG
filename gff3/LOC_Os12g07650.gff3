@@ -1,0 +1,8 @@
+Chr12	MSU_osa1r6_db	gene	3848321	3852388	.	-	.	ID=Gene:LOC_Os12g07650;Note=OsGrx_S16+-+glutaredoxin+subgroup+II%2C+expressed;Alias=13112.t00648
+Chr12	MSU_osa1r6_db	processed_transcript	3848321	3852388	.	-	.	ID=mRNA:LOC_Os12g07650.1;Note=13112.m00802;Gene=LOC_Os12g07650
+Chr12	MSU_osa1r6_db	CDS	3852000	3852350	.	-	0	Parent=mRNA:LOC_Os12g07650.1
+Chr12	MSU_osa1r6_db	CDS	3848702	3849208	.	-	0	Parent=mRNA:LOC_Os12g07650.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	3852351	3852388	.	-	.	Parent=mRNA:LOC_Os12g07650.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	3848321	3848701	.	-	.	Parent=mRNA:LOC_Os12g07650.1
+Chr12	Protein-DB	peptide_p	3851502	3851534	.	?	.	Parent=mRNA:LOC_Os12g07650.1:P999_41414
+Chr12	Protein-DB	peptide_p	3851979	3852002	.	?	.	Parent=mRNA:LOC_Os12g07650.1:P999_41415

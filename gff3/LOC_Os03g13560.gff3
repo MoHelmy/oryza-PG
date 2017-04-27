@@ -1,0 +1,12 @@
+Chr3	MSU_osa1r6_db	gene	7328101	7334051	.	-	.	ID=Gene:LOC_Os03g13560;Note=hydroxyproline-rich+glycoprotein+family+protein%2C+putative%2C+expressed;Alias=13103.t01168
+Chr3	MSU_osa1r6_db	processed_transcript	7328101	7334051	.	-	.	ID=mRNA:LOC_Os03g13560.1;Note=13103.m01573;Gene=LOC_Os03g13560
+Chr3	MSU_osa1r6_db	CDS	7333312	7333813	.	-	0	Parent=mRNA:LOC_Os03g13560.1
+Chr3	MSU_osa1r6_db	CDS	7332076	7332171	.	-	1	Parent=mRNA:LOC_Os03g13560.1
+Chr3	MSU_osa1r6_db	CDS	7331212	7331315	.	-	1	Parent=mRNA:LOC_Os03g13560.1
+Chr3	MSU_osa1r6_db	CDS	7330986	7331103	.	-	0	Parent=mRNA:LOC_Os03g13560.1
+Chr3	MSU_osa1r6_db	CDS	7330430	7330540	.	-	1	Parent=mRNA:LOC_Os03g13560.1
+Chr3	MSU_osa1r6_db	CDS	7330229	7330341	.	-	1	Parent=mRNA:LOC_Os03g13560.1
+Chr3	MSU_osa1r6_db	CDS	7330001	7330152	.	-	0	Parent=mRNA:LOC_Os03g13560.1
+Chr3	MSU_osa1r6_db	CDS	7328734	7329514	.	-	2	Parent=mRNA:LOC_Os03g13560.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	7333814	7334051	.	-	.	Parent=mRNA:LOC_Os03g13560.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	7328101	7328733	.	-	.	Parent=mRNA:LOC_Os03g13560.1

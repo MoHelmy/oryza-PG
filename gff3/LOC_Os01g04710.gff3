@@ -1,0 +1,7 @@
+Chr1	MSU_osa1r6_db	gene	2119381	2121366	.	+	.	ID=Gene:LOC_Os01g04710;Note=aspartic+proteinase%2C+putative%2C+expressed;Alias=13101.t00356
+Chr1	MSU_osa1r6_db	processed_transcript	2119381	2121366	.	+	.	ID=mRNA:LOC_Os01g04710.1;Note=13101.m00432;Gene=LOC_Os01g04710
+Chr1	MSU_osa1r6_db	CDS	2119519	2121033	.	+	0	Parent=mRNA:LOC_Os01g04710.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	2119381	2119518	.	+	.	Parent=mRNA:LOC_Os01g04710.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	2121034	2121366	.	+	.	Parent=mRNA:LOC_Os01g04710.1
+Chr1	Protein-DB	peptide_p	2120759	2120806	.	?	.	Parent=mRNA:LOC_Os01g04710.1:P999_287
+Chr1	Protein-DB	peptide_p	2120807	2120839	.	?	.	Parent=mRNA:LOC_Os01g04710.1:P999_288

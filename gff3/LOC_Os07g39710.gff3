@@ -1,0 +1,10 @@
+Chr7	MSU_osa1r6_db	gene	23796960	23801662	.	-	.	ID=Gene:LOC_Os07g39710;Note=NADH+dehydrogenase+iron-sulfur+protein+4%2C+mitochondrial+precursor%2C+putative%2C+expressed;Alias=13107.t03621
+Chr7	MSU_osa1r6_db	processed_transcript	23796960	23801662	.	-	.	ID=mRNA:LOC_Os07g39710.1;Note=13107.m04118;Gene=LOC_Os07g39710
+Chr7	MSU_osa1r6_db	CDS	23801381	23801551	.	-	0	Parent=mRNA:LOC_Os07g39710.1
+Chr7	MSU_osa1r6_db	CDS	23800017	23800105	.	-	0	Parent=mRNA:LOC_Os07g39710.1
+Chr7	MSU_osa1r6_db	CDS	23799434	23799563	.	-	2	Parent=mRNA:LOC_Os07g39710.1
+Chr7	MSU_osa1r6_db	CDS	23798730	23798759	.	-	0	Parent=mRNA:LOC_Os07g39710.1
+Chr7	MSU_osa1r6_db	CDS	23797335	23797394	.	-	0	Parent=mRNA:LOC_Os07g39710.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	23801552	23801662	.	-	.	Parent=mRNA:LOC_Os07g39710.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	23796960	23797334	.	-	.	Parent=mRNA:LOC_Os07g39710.1
+Chr7	Protein-DB	peptide_p	23799172	23799192	.	?	.	Parent=mRNA:LOC_Os07g39710.1:P999_31365

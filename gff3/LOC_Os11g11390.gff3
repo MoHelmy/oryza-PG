@@ -1,0 +1,10 @@
+Chr11	MSU_osa1r6_db	gene	6317016	6319704	.	+	.	ID=Gene:LOC_Os11g11390;Note=ribosomal+protein%2C+putative%2C+expressed;Alias=13111.t01036
+Chr11	MSU_osa1r6_db	processed_transcript	6317016	6319704	.	+	.	ID=mRNA:LOC_Os11g11390.1;Note=13111.m01208;Gene=LOC_Os11g11390
+Chr11	MSU_osa1r6_db	CDS	6317088	6317097	.	+	0	Parent=mRNA:LOC_Os11g11390.1
+Chr11	MSU_osa1r6_db	CDS	6318393	6318894	.	+	1	Parent=mRNA:LOC_Os11g11390.1
+Chr11	MSU_osa1r6_db	CDS	6318986	6319067	.	+	2	Parent=mRNA:LOC_Os11g11390.1
+Chr11	MSU_osa1r6_db	CDS	6319312	6319392	.	+	0	Parent=mRNA:LOC_Os11g11390.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	6317016	6317087	.	+	.	Parent=mRNA:LOC_Os11g11390.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	6319393	6319704	.	+	.	Parent=mRNA:LOC_Os11g11390.1
+Chr11	Protein-DB	peptide_p	6319042	6319071	.	?	.	Parent=mRNA:LOC_Os11g11390.1:P999_40100
+Chr11	Protein-DB	peptide_p	6318555	6318590	.	?	.	Parent=mRNA:LOC_Os11g11390.1:P999_40106

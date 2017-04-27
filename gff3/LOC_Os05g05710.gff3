@@ -1,0 +1,17 @@
+Chr5	MSU_osa1r6_db	gene	2845642	2851635	.	+	.	ID=Gene:LOC_Os05g05710;Note=serine%2Fthreonine-protein+phosphatase+2A+regulatory+subunit+B+subunitgamma%2C+putative%2C+expressed;Alias=13105.t00465
+Chr5	MSU_osa1r6_db	processed_transcript	2845642	2851635	.	+	.	ID=mRNA:LOC_Os05g05710.1;Note=13105.m00605;Gene=LOC_Os05g05710
+Chr5	MSU_osa1r6_db	CDS	2845783	2845954	.	+	0	Parent=mRNA:LOC_Os05g05710.1
+Chr5	MSU_osa1r6_db	CDS	2847173	2847264	.	+	1	Parent=mRNA:LOC_Os05g05710.1
+Chr5	MSU_osa1r6_db	CDS	2847487	2847549	.	+	0	Parent=mRNA:LOC_Os05g05710.1
+Chr5	MSU_osa1r6_db	CDS	2847672	2847770	.	+	0	Parent=mRNA:LOC_Os05g05710.1
+Chr5	MSU_osa1r6_db	CDS	2848099	2848257	.	+	0	Parent=mRNA:LOC_Os05g05710.1
+Chr5	MSU_osa1r6_db	CDS	2848793	2848864	.	+	0	Parent=mRNA:LOC_Os05g05710.1
+Chr5	MSU_osa1r6_db	CDS	2848940	2849072	.	+	0	Parent=mRNA:LOC_Os05g05710.1
+Chr5	MSU_osa1r6_db	CDS	2849186	2849250	.	+	1	Parent=mRNA:LOC_Os05g05710.1
+Chr5	MSU_osa1r6_db	CDS	2849389	2849464	.	+	0	Parent=mRNA:LOC_Os05g05710.1
+Chr5	MSU_osa1r6_db	CDS	2849609	2849710	.	+	1	Parent=mRNA:LOC_Os05g05710.1
+Chr5	MSU_osa1r6_db	CDS	2849897	2850089	.	+	1	Parent=mRNA:LOC_Os05g05710.1
+Chr5	MSU_osa1r6_db	CDS	2850949	2851189	.	+	2	Parent=mRNA:LOC_Os05g05710.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	2845642	2845782	.	+	.	Parent=mRNA:LOC_Os05g05710.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	2851190	2851635	.	+	.	Parent=mRNA:LOC_Os05g05710.1
+Chr5	Protein-DB	peptide_p	2851053	2851082	.	?	.	Parent=mRNA:LOC_Os05g05710.1:P999_23002

@@ -1,0 +1,7 @@
+Chr6	MSU_osa1r6_db	gene	5917107	5918691	.	-	.	ID=Gene:LOC_Os06g11290;Note=12-oxophytodienoate+reductase%2C+putative%2C+expressed;Alias=13106.t01004
+Chr6	MSU_osa1r6_db	processed_transcript	5917107	5918691	.	-	.	ID=mRNA:LOC_Os06g11290.1;Note=13106.m01222;Gene=LOC_Os06g11290
+Chr6	MSU_osa1r6_db	CDS	5918222	5918582	.	-	0	Parent=mRNA:LOC_Os06g11290.1
+Chr6	MSU_osa1r6_db	CDS	5917321	5918102	.	-	1	Parent=mRNA:LOC_Os06g11290.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	5918583	5918691	.	-	.	Parent=mRNA:LOC_Os06g11290.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	5917107	5917320	.	-	.	Parent=mRNA:LOC_Os06g11290.1
+Chr6	Protein-DB	peptide_p	5917918	5917968	.	?	.	Parent=mRNA:LOC_Os06g11290.1:P999_27704

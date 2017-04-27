@@ -1,0 +1,14 @@
+Chr6	MSU_osa1r6_db	gene	1871635	1874912	.	-	.	ID=Gene:LOC_Os06g04380;Note=aminomethyltransferase%2C+putative%2C+expressed;Alias=13106.t00323
+Chr6	MSU_osa1r6_db	processed_transcript	1871635	1874912	.	-	.	ID=mRNA:LOC_Os06g04380.1;Note=13106.m00392;Gene=LOC_Os06g04380
+Chr6	MSU_osa1r6_db	CDS	1874429	1874877	.	-	0	Parent=mRNA:LOC_Os06g04380.1
+Chr6	MSU_osa1r6_db	CDS	1873345	1873598	.	-	2	Parent=mRNA:LOC_Os06g04380.1
+Chr6	MSU_osa1r6_db	CDS	1873148	1873246	.	-	1	Parent=mRNA:LOC_Os06g04380.1
+Chr6	MSU_osa1r6_db	CDS	1872298	1872456	.	-	1	Parent=mRNA:LOC_Os06g04380.1
+Chr6	MSU_osa1r6_db	CDS	1871964	1872208	.	-	1	Parent=mRNA:LOC_Os06g04380.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	1874878	1874912	.	-	.	Parent=mRNA:LOC_Os06g04380.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	1871635	1871963	.	-	.	Parent=mRNA:LOC_Os06g04380.1
+Chr6	Protein-DB	peptide_p	1871932	1871988	.	?	.	Parent=mRNA:LOC_Os06g04380.1:P999_27164
+Chr6	Protein-DB	peptide_p	1874214	1874249	.	?	.	Parent=mRNA:LOC_Os06g04380.1:P999_27166
+Chr6	Protein-DB	peptide_p	1874399	1874431	.	?	.	Parent=mRNA:LOC_Os06g04380.1:P999_27167
+Chr6	Protein-DB	peptide_p	1873358	1873399	.	?	.	Parent=mRNA:LOC_Os06g04380.1:P999_27168
+Chr6	Protein-DB	peptide_p	1871857	1871886	.	?	.	Parent=mRNA:LOC_Os06g04380.1:P999_27171

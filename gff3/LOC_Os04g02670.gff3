@@ -1,0 +1,7 @@
+Chr4	MSU_osa1r6_db	gene	1003913	1005623	.	-	.	ID=Gene:LOC_Os04g02670;Note=hypothetical+protein;Alias=13104.t00158
+Chr4	MSU_osa1r6_db	processed_transcript	1003913	1005623	.	-	.	ID=mRNA:LOC_Os04g02670.1;Note=13104.m00186;Gene=LOC_Os04g02670
+Chr4	MSU_osa1r6_db	CDS	1005576	1005623	.	-	0	Parent=mRNA:LOC_Os04g02670.1
+Chr4	MSU_osa1r6_db	CDS	1005388	1005453	.	-	0	Parent=mRNA:LOC_Os04g02670.1
+Chr4	MSU_osa1r6_db	CDS	1003913	1003957	.	-	0	Parent=mRNA:LOC_Os04g02670.1
+Chr4	Protein-DB	peptide_p	1003917	1003967	.	?	.	Parent=mRNA:LOC_Os04g02670.1:P999_19818
+Chr4	Protein-DB	peptide_p	1004093	1004134	.	?	.	Parent=mRNA:LOC_Os04g02670.1:P999_19819

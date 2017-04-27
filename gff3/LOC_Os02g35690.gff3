@@ -1,0 +1,12 @@
+Chr2	MSU_osa1r6_db	gene	21443731	21445480	.	-	.	ID=Gene:LOC_Os02g35690;Note=transcription+factor+like+protein%2C+putative%2C+expressed;Alias=13102.t03224
+Chr2	MSU_osa1r6_db	processed_transcript	21443731	21445480	.	-	.	ID=mRNA:LOC_Os02g35690.1;Note=13102.m03879;Gene=LOC_Os02g35690
+Chr2	MSU_osa1r6_db	CDS	21444129	21445388	.	-	0	Parent=mRNA:LOC_Os02g35690.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	21445389	21445480	.	-	.	Parent=mRNA:LOC_Os02g35690.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	21443731	21444128	.	-	.	Parent=mRNA:LOC_Os02g35690.1
+Chr2	MSU_osa1r6_db	processed_transcript	21443731	21445480	.	-	.	ID=mRNA:LOC_Os02g35690.2;Note=13102.m03880;Gene=LOC_Os02g35690
+Chr2	MSU_osa1r6_db	CDS	21444435	21445388	.	-	0	Parent=mRNA:LOC_Os02g35690.2
+Chr2	MSU_osa1r6_db	CDS	21444190	21444276	.	-	0	Parent=mRNA:LOC_Os02g35690.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	21445389	21445480	.	-	.	Parent=mRNA:LOC_Os02g35690.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	21443731	21444189	.	-	.	Parent=mRNA:LOC_Os02g35690.2
+Chr2	Protein-DB	peptide_p	21444637	21444657	.	?	.	Parent=mRNA:LOC_Os02g35690.1:P999_9586
+Chr2	Protein-DB	peptide_p	21444937	21445005	.	?	.	Parent=mRNA:LOC_Os02g35690.1:P999_9588

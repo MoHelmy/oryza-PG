@@ -1,0 +1,11 @@
+Chr2	MSU_osa1r6_db	gene	22096619	22099255	.	+	.	ID=Gene:LOC_Os02g36600;Note=aldose+1-epimerase%2C+putative%2C+expressed;Alias=13102.t03314
+Chr2	MSU_osa1r6_db	processed_transcript	22096619	22099255	.	+	.	ID=mRNA:LOC_Os02g36600.1;Note=13102.m03996;Gene=LOC_Os02g36600
+Chr2	MSU_osa1r6_db	CDS	22096651	22096849	.	+	0	Parent=mRNA:LOC_Os02g36600.1
+Chr2	MSU_osa1r6_db	CDS	22097033	22097082	.	+	1	Parent=mRNA:LOC_Os02g36600.1
+Chr2	MSU_osa1r6_db	CDS	22097276	22097399	.	+	0	Parent=mRNA:LOC_Os02g36600.1
+Chr2	MSU_osa1r6_db	CDS	22097548	22097655	.	+	1	Parent=mRNA:LOC_Os02g36600.1
+Chr2	MSU_osa1r6_db	CDS	22098348	22099003	.	+	1	Parent=mRNA:LOC_Os02g36600.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	22096619	22096650	.	+	.	Parent=mRNA:LOC_Os02g36600.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	22099004	22099255	.	+	.	Parent=mRNA:LOC_Os02g36600.1
+Chr2	Protein-DB	peptide_p	22098546	22098587	.	?	.	Parent=mRNA:LOC_Os02g36600.1:P999_9596
+Chr2	Protein-DB	peptide_p	22098588	22098647	.	?	.	Parent=mRNA:LOC_Os02g36600.1:P999_9597

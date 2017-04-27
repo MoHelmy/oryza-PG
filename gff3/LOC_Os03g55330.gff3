@@ -1,0 +1,6 @@
+Chr3	MSU_osa1r6_db	gene	31469123	31472947	.	-	.	ID=Gene:LOC_Os03g55330;Note=ankyrin+repeat+domain+containing+protein%2C+putative%2C+expressed;Alias=13103.t04802
+Chr3	MSU_osa1r6_db	processed_transcript	31469123	31472947	.	-	.	ID=mRNA:LOC_Os03g55330.1;Note=13103.m06020;Gene=LOC_Os03g55330
+Chr3	MSU_osa1r6_db	CDS	31472225	31472915	.	-	0	Parent=mRNA:LOC_Os03g55330.1
+Chr3	MSU_osa1r6_db	CDS	31469578	31469894	.	-	1	Parent=mRNA:LOC_Os03g55330.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	31472916	31472947	.	-	.	Parent=mRNA:LOC_Os03g55330.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	31469123	31469577	.	-	.	Parent=mRNA:LOC_Os03g55330.1

@@ -1,0 +1,11 @@
+Chr1	MSU_osa1r6_db	gene	30654245	30656150	.	+	.	ID=Gene:LOC_Os01g53350;Note=anthocyanidin+5%2C3-O-glucosyltransferase%2C+putative%2C+expressed;Alias=13101.t04677
+Chr1	MSU_osa1r6_db	processed_transcript	30654245	30656150	.	+	.	ID=mRNA:LOC_Os01g53350.1;Note=13101.m05587;Gene=LOC_Os01g53350
+Chr1	MSU_osa1r6_db	CDS	30654370	30655806	.	+	0	Parent=mRNA:LOC_Os01g53350.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	30654245	30654369	.	+	.	Parent=mRNA:LOC_Os01g53350.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	30655807	30656150	.	+	.	Parent=mRNA:LOC_Os01g53350.1
+Chr1	MSU_osa1r6_db	processed_transcript	30654245	30656135	.	+	.	ID=mRNA:LOC_Os01g53350.2;Note=13101.m05588;Gene=LOC_Os01g53350
+Chr1	MSU_osa1r6_db	CDS	30654370	30655575	.	+	0	Parent=mRNA:LOC_Os01g53350.2
+Chr1	MSU_osa1r6_db	CDS	30655726	30655806	.	+	0	Parent=mRNA:LOC_Os01g53350.2
+Chr1	MSU_osa1r6_db	five_prime_UTR	30654245	30654369	.	+	.	Parent=mRNA:LOC_Os01g53350.2
+Chr1	MSU_osa1r6_db	three_prime_UTR	30655807	30656135	.	+	.	Parent=mRNA:LOC_Os01g53350.2
+Chr1	Protein-DB	peptide_p	30654980	30655033	.	?	.	Parent=mRNA:LOC_Os01g53350.1:P999_4122

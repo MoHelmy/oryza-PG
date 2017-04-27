@@ -1,0 +1,9 @@
+Chr7	MSU_osa1r6_db	gene	3359002	3360560	.	-	.	ID=Gene:LOC_Os07g06880;Note=gibberellin+receptor+GID1L2%2C+putative%2C+expressed;Alias=13107.t00576
+Chr7	MSU_osa1r6_db	processed_transcript	3359002	3360560	.	-	.	ID=mRNA:LOC_Os07g06880.1;Note=13107.m00665;Gene=LOC_Os07g06880
+Chr7	MSU_osa1r6_db	CDS	3359361	3360353	.	-	0	Parent=mRNA:LOC_Os07g06880.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	3360354	3360560	.	-	.	Parent=mRNA:LOC_Os07g06880.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	3359002	3359360	.	-	.	Parent=mRNA:LOC_Os07g06880.1
+Chr7	Protein-DB	peptide_p	3359414	3359464	.	?	.	Parent=mRNA:LOC_Os07g06880.1:P999_30092
+Chr7	Protein-DB	peptide_p	3359246	3359284	.	?	.	Parent=mRNA:LOC_Os07g06880.1:P999_30093
+Chr7	Protein-DB	peptide_p	3360155	3360190	.	?	.	Parent=mRNA:LOC_Os07g06880.1:P999_30096
+Chr7	Protein-DB	peptide_p	3359765	3359812	.	?	.	Parent=mRNA:LOC_Os07g06880.1:P999_30100

@@ -1,0 +1,16 @@
+Chr8	MSU_osa1r6_db	gene	9070643	9074887	.	-	.	ID=Gene:LOC_Os08g15030;Note=aspartate+carbamoyltransferase%2C+putative%2C+expressed;Alias=13108.t01386
+Chr8	MSU_osa1r6_db	processed_transcript	9070643	9074887	.	-	.	ID=mRNA:LOC_Os08g15030.1;Note=13108.m01609;Gene=LOC_Os08g15030
+Chr8	MSU_osa1r6_db	CDS	9074393	9074825	.	-	0	Parent=mRNA:LOC_Os08g15030.1
+Chr8	MSU_osa1r6_db	CDS	9072874	9073013	.	-	1	Parent=mRNA:LOC_Os08g15030.1
+Chr8	MSU_osa1r6_db	CDS	9072018	9072191	.	-	0	Parent=mRNA:LOC_Os08g15030.1
+Chr8	MSU_osa1r6_db	CDS	9071677	9071913	.	-	0	Parent=mRNA:LOC_Os08g15030.1
+Chr8	MSU_osa1r6_db	CDS	9070920	9071027	.	-	0	Parent=mRNA:LOC_Os08g15030.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	9074826	9074887	.	-	.	Parent=mRNA:LOC_Os08g15030.1
+Chr8	MSU_osa1r6_db	three_prime_UTR	9070643	9070919	.	-	.	Parent=mRNA:LOC_Os08g15030.1
+Chr8	Protein-DB	peptide_p	9073795	9073815	.	?	.	Parent=mRNA:LOC_Os08g15030.1:P999_33233
+Chr8	Protein-DB	peptide_p	9073397	9073429	.	?	.	Parent=mRNA:LOC_Os08g15030.1:P999_33238
+Chr8	Protein-DB	peptide_p	9073816	9073845	.	?	.	Parent=mRNA:LOC_Os08g15030.1:P999_33239
+Chr8	Protein-DB	peptide_p	9071039	9071062	.	?	.	Parent=mRNA:LOC_Os08g15030.1:P999_33240
+Chr8	Protein-DB	peptide_p	9070859	9070894	.	?	.	Parent=mRNA:LOC_Os08g15030.1:P999_33241
+Chr8	Protein-DB	peptide_p	9070895	9070927	.	?	.	Parent=mRNA:LOC_Os08g15030.1:P999_33247
+Chr8	Protein-DB	peptide_p	9070859	9070927	.	?	.	Parent=mRNA:LOC_Os08g15030.1:P999_33249

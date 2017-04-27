@@ -1,0 +1,7 @@
+Chr4	MSU_osa1r6_db	gene	34087541	34091558	.	-	.	ID=Gene:LOC_Os04g57600;Note=zinc+finger+C-x8-C-x5-C-x3-H+type+family+protein%2C+expressed;Alias=13104.t05235
+Chr4	MSU_osa1r6_db	processed_transcript	34087541	34091558	.	-	.	ID=mRNA:LOC_Os04g57600.1;Note=13104.m06034;Gene=LOC_Os04g57600
+Chr4	MSU_osa1r6_db	CDS	34091144	34091290	.	-	0	Parent=mRNA:LOC_Os04g57600.1
+Chr4	MSU_osa1r6_db	CDS	34090026	34090136	.	-	0	Parent=mRNA:LOC_Os04g57600.1
+Chr4	MSU_osa1r6_db	CDS	34087924	34089801	.	-	0	Parent=mRNA:LOC_Os04g57600.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	34091291	34091558	.	-	.	Parent=mRNA:LOC_Os04g57600.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	34087541	34087923	.	-	.	Parent=mRNA:LOC_Os04g57600.1

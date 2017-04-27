@@ -1,0 +1,7 @@
+Chr6	MSU_osa1r6_db	gene	28147941	28148791	.	-	.	ID=Gene:LOC_Os06g46390;Note=LSM+domain+containing+protein%2C+expressed;Alias=13106.t04307
+Chr6	MSU_osa1r6_db	processed_transcript	28147941	28148791	.	-	.	ID=mRNA:LOC_Os06g46390.1;Note=13106.m04901;Gene=LOC_Os06g46390
+Chr6	MSU_osa1r6_db	CDS	28148268	28148618	.	-	0	Parent=mRNA:LOC_Os06g46390.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	28148715	28148791	.	-	.	Parent=mRNA:LOC_Os06g46390.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	28148619	28148632	.	-	.	Parent=mRNA:LOC_Os06g46390.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	28147941	28148267	.	-	.	Parent=mRNA:LOC_Os06g46390.1
+Chr6	Protein-DB	peptide_p	28148271	28148309	.	?	.	Parent=mRNA:LOC_Os06g46390.1:P999_29341

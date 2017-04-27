@@ -1,0 +1,17 @@
+Chr7	MSU_osa1r6_db	gene	25725424	25729187	.	-	.	ID=Gene:LOC_Os07g42960;Note=phospho-2-dehydro-3-deoxyheptonate+aldolase%2C+chloroplast+precursor%2C+putative%2C+expressed;Alias=13107.t03933
+Chr7	MSU_osa1r6_db	processed_transcript	25725424	25729187	.	-	.	ID=mRNA:LOC_Os07g42960.1;Note=13107.m04511;Gene=LOC_Os07g42960
+Chr7	MSU_osa1r6_db	CDS	25728431	25728964	.	-	0	Parent=mRNA:LOC_Os07g42960.1
+Chr7	MSU_osa1r6_db	CDS	25728060	25728337	.	-	0	Parent=mRNA:LOC_Os07g42960.1
+Chr7	MSU_osa1r6_db	CDS	25726775	25727051	.	-	2	Parent=mRNA:LOC_Os07g42960.1
+Chr7	MSU_osa1r6_db	CDS	25726423	25726668	.	-	0	Parent=mRNA:LOC_Os07g42960.1
+Chr7	MSU_osa1r6_db	CDS	25725726	25726004	.	-	0	Parent=mRNA:LOC_Os07g42960.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	25728965	25729187	.	-	.	Parent=mRNA:LOC_Os07g42960.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	25725424	25725725	.	-	.	Parent=mRNA:LOC_Os07g42960.1
+Chr7	MSU_osa1r6_db	processed_transcript	25725424	25728430	.	-	.	ID=mRNA:LOC_Os07g42960.2;Note=13107.m04512;Gene=LOC_Os07g42960
+Chr7	MSU_osa1r6_db	CDS	25728060	25728328	.	-	0	Parent=mRNA:LOC_Os07g42960.2
+Chr7	MSU_osa1r6_db	CDS	25726775	25727051	.	-	2	Parent=mRNA:LOC_Os07g42960.2
+Chr7	MSU_osa1r6_db	CDS	25726423	25726668	.	-	0	Parent=mRNA:LOC_Os07g42960.2
+Chr7	MSU_osa1r6_db	CDS	25725726	25726004	.	-	0	Parent=mRNA:LOC_Os07g42960.2
+Chr7	MSU_osa1r6_db	five_prime_UTR	25728329	25728430	.	-	.	Parent=mRNA:LOC_Os07g42960.2
+Chr7	MSU_osa1r6_db	three_prime_UTR	25725424	25725725	.	-	.	Parent=mRNA:LOC_Os07g42960.2
+Chr7	Protein-DB	peptide_p	25726359	25726394	.	?	.	Parent=mRNA:LOC_Os07g42960.1:P999_31655

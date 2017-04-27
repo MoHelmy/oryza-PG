@@ -1,0 +1,15 @@
+Chr7	MSU_osa1r6_db	gene	3609787	3613404	.	-	.	ID=Gene:LOC_Os07g07270;Note=MBTB13+-+Bric-a-Brac%2C+Tramtrack%2C+Broad+Complex+BTB+domain+with+Meprin+and+TRAF+Homology+MATH+domain%2C+expressed;Alias=13107.t00611
+Chr7	MSU_osa1r6_db	processed_transcript	3609787	3613404	.	-	.	ID=mRNA:LOC_Os07g07270.1;Note=13107.m00706;Gene=LOC_Os07g07270
+Chr7	MSU_osa1r6_db	CDS	3612865	3613307	.	-	0	Parent=mRNA:LOC_Os07g07270.1
+Chr7	MSU_osa1r6_db	CDS	3611495	3611867	.	-	2	Parent=mRNA:LOC_Os07g07270.1
+Chr7	MSU_osa1r6_db	CDS	3611131	3611404	.	-	0	Parent=mRNA:LOC_Os07g07270.1
+Chr7	MSU_osa1r6_db	CDS	3610143	3610327	.	-	1	Parent=mRNA:LOC_Os07g07270.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	3613308	3613404	.	-	.	Parent=mRNA:LOC_Os07g07270.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	3609787	3610142	.	-	.	Parent=mRNA:LOC_Os07g07270.1
+Chr7	MSU_osa1r6_db	processed_transcript	3609787	3613404	.	-	.	ID=mRNA:LOC_Os07g07270.2;Note=13107.m00707;Gene=LOC_Os07g07270
+Chr7	MSU_osa1r6_db	CDS	3612865	3613307	.	-	0	Parent=mRNA:LOC_Os07g07270.2
+Chr7	MSU_osa1r6_db	CDS	3611495	3611867	.	-	2	Parent=mRNA:LOC_Os07g07270.2
+Chr7	MSU_osa1r6_db	CDS	3611131	3611404	.	-	0	Parent=mRNA:LOC_Os07g07270.2
+Chr7	MSU_osa1r6_db	CDS	3610322	3610347	.	-	1	Parent=mRNA:LOC_Os07g07270.2
+Chr7	MSU_osa1r6_db	five_prime_UTR	3613308	3613404	.	-	.	Parent=mRNA:LOC_Os07g07270.2
+Chr7	MSU_osa1r6_db	three_prime_UTR	3609787	3610321	.	-	.	Parent=mRNA:LOC_Os07g07270.2

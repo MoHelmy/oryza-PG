@@ -1,0 +1,12 @@
+Chr11	MSU_osa1r6_db	gene	1858334	1864303	.	+	.	ID=Gene:LOC_Os11g04460;Note=calcium-transporting+ATPase%2C+plasma+membrane-type%2C+putative%2C+expressed;Alias=13111.t00342
+Chr11	MSU_osa1r6_db	processed_transcript	1858334	1864303	.	+	.	ID=mRNA:LOC_Os11g04460.1;Note=13111.m00403;Gene=LOC_Os11g04460
+Chr11	MSU_osa1r6_db	CDS	1858363	1858548	.	+	0	Parent=mRNA:LOC_Os11g04460.1
+Chr11	MSU_osa1r6_db	CDS	1860360	1860414	.	+	0	Parent=mRNA:LOC_Os11g04460.1
+Chr11	MSU_osa1r6_db	CDS	1860568	1862444	.	+	1	Parent=mRNA:LOC_Os11g04460.1
+Chr11	MSU_osa1r6_db	CDS	1862519	1862677	.	+	0	Parent=mRNA:LOC_Os11g04460.1
+Chr11	MSU_osa1r6_db	CDS	1862869	1863040	.	+	0	Parent=mRNA:LOC_Os11g04460.1
+Chr11	MSU_osa1r6_db	CDS	1863142	1863440	.	+	1	Parent=mRNA:LOC_Os11g04460.1
+Chr11	MSU_osa1r6_db	CDS	1863716	1864021	.	+	0	Parent=mRNA:LOC_Os11g04460.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	1858334	1858362	.	+	.	Parent=mRNA:LOC_Os11g04460.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	1864022	1864303	.	+	.	Parent=mRNA:LOC_Os11g04460.1
+Chr11	Protein-DB	peptide_p	1862302	1862334	.	?	.	Parent=mRNA:LOC_Os11g04460.1:P999_39368

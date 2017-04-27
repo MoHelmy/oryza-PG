@@ -1,0 +1,12 @@
+Chr9	MSU_osa1r6_db	gene	22091683	22094820	.	-	.	ID=Gene:LOC_Os09g38370;Note=signal+peptidase+complex+subunit+3%2C+putative%2C+expressed;Alias=13109.t03319
+Chr9	MSU_osa1r6_db	processed_transcript	22091683	22094820	.	-	.	ID=mRNA:LOC_Os09g38370.1;Note=13109.m03815;Gene=LOC_Os09g38370
+Chr9	MSU_osa1r6_db	CDS	22094538	22094663	.	-	0	Parent=mRNA:LOC_Os09g38370.1
+Chr9	MSU_osa1r6_db	CDS	22094275	22094322	.	-	0	Parent=mRNA:LOC_Os09g38370.1
+Chr9	MSU_osa1r6_db	CDS	22094111	22094173	.	-	0	Parent=mRNA:LOC_Os09g38370.1
+Chr9	MSU_osa1r6_db	CDS	22093625	22093678	.	-	0	Parent=mRNA:LOC_Os09g38370.1
+Chr9	MSU_osa1r6_db	CDS	22092774	22092860	.	-	0	Parent=mRNA:LOC_Os09g38370.1
+Chr9	MSU_osa1r6_db	CDS	22092051	22092176	.	-	0	Parent=mRNA:LOC_Os09g38370.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	22094664	22094820	.	-	.	Parent=mRNA:LOC_Os09g38370.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	22091683	22092050	.	-	.	Parent=mRNA:LOC_Os09g38370.1
+Chr9	Protein-DB	peptide_p	22093689	22093712	.	?	.	Parent=mRNA:LOC_Os09g38370.1:P999_36843
+Chr9	Protein-DB	peptide_p	22091841	22091861	.	?	.	Parent=mRNA:LOC_Os09g38370.1:P999_36844

@@ -1,0 +1,15 @@
+Chr1	MSU_osa1r6_db	gene	9272876	9278032	.	-	.	ID=Gene:LOC_Os01g16354;Note=rab+GDP+dissociation+inhibitor+alpha%2C+putative%2C+expressed;Alias=13101.t01482
+Chr1	MSU_osa1r6_db	processed_transcript	9272876	9278032	.	-	.	ID=mRNA:LOC_Os01g16354.1;Note=13101.m01827;Gene=LOC_Os01g16354
+Chr1	MSU_osa1r6_db	CDS	9277171	9277895	.	-	0	Parent=mRNA:LOC_Os01g16354.1
+Chr1	MSU_osa1r6_db	CDS	9276962	9277084	.	-	2	Parent=mRNA:LOC_Os01g16354.1
+Chr1	MSU_osa1r6_db	CDS	9276695	9276783	.	-	2	Parent=mRNA:LOC_Os01g16354.1
+Chr1	MSU_osa1r6_db	CDS	9276121	9276155	.	-	1	Parent=mRNA:LOC_Os01g16354.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	9277896	9278032	.	-	.	Parent=mRNA:LOC_Os01g16354.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	9276117	9276120	.	-	.	Parent=mRNA:LOC_Os01g16354.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	9275553	9275769	.	-	.	Parent=mRNA:LOC_Os01g16354.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	9275374	9275449	.	-	.	Parent=mRNA:LOC_Os01g16354.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	9275013	9275211	.	-	.	Parent=mRNA:LOC_Os01g16354.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	9274823	9274903	.	-	.	Parent=mRNA:LOC_Os01g16354.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	9274355	9274463	.	-	.	Parent=mRNA:LOC_Os01g16354.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	9272876	9273344	.	-	.	Parent=mRNA:LOC_Os01g16354.1
+Chr1	Protein-DB	peptide_p	9273665	9273709	.	?	.	Parent=mRNA:LOC_Os01g16354.1:P999_1449

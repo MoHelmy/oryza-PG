@@ -1,0 +1,9 @@
+Chr2	MSU_osa1r6_db	gene	25673843	25677732	.	-	.	ID=Gene:LOC_Os02g42700;Note=thioredoxin%2C+putative%2C+expressed;Alias=13102.t03883
+Chr2	MSU_osa1r6_db	processed_transcript	25673843	25677732	.	-	.	ID=mRNA:LOC_Os02g42700.1;Note=13102.m04737;Gene=LOC_Os02g42700
+Chr2	MSU_osa1r6_db	CDS	25677453	25677654	.	-	0	Parent=mRNA:LOC_Os02g42700.1
+Chr2	MSU_osa1r6_db	CDS	25674265	25674584	.	-	1	Parent=mRNA:LOC_Os02g42700.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	25677655	25677732	.	-	.	Parent=mRNA:LOC_Os02g42700.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	25673843	25674264	.	-	.	Parent=mRNA:LOC_Os02g42700.1
+Chr2	Protein-DB	peptide_p	25677240	25677296	.	?	.	Parent=mRNA:LOC_Os02g42700.1:P999_10351
+Chr2	Protein-DB	peptide_p	25677243	25677296	.	?	.	Parent=mRNA:LOC_Os02g42700.1:P999_10354
+Chr2	Protein-DB	peptide_p	25677153	25677200	.	?	.	Parent=mRNA:LOC_Os02g42700.1:P999_10355

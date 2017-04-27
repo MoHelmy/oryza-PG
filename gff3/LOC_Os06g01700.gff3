@@ -1,0 +1,13 @@
+Chr6	MSU_osa1r6_db	gene	412319	415045	.	-	.	ID=Gene:LOC_Os06g01700;Note=CWC15+homolog+A%2C+putative%2C+expressed;Alias=13106.t00065
+Chr6	MSU_osa1r6_db	processed_transcript	412319	415045	.	-	.	ID=mRNA:LOC_Os06g01700.1;Note=13106.m00081;Gene=LOC_Os06g01700
+Chr6	MSU_osa1r6_db	CDS	414812	414942	.	-	0	Parent=mRNA:LOC_Os06g01700.1
+Chr6	MSU_osa1r6_db	CDS	414117	414223	.	-	2	Parent=mRNA:LOC_Os06g01700.1
+Chr6	MSU_osa1r6_db	CDS	413902	413943	.	-	1	Parent=mRNA:LOC_Os06g01700.1
+Chr6	MSU_osa1r6_db	CDS	413733	413820	.	-	1	Parent=mRNA:LOC_Os06g01700.1
+Chr6	MSU_osa1r6_db	CDS	413104	413197	.	-	2	Parent=mRNA:LOC_Os06g01700.1
+Chr6	MSU_osa1r6_db	CDS	412891	412997	.	-	0	Parent=mRNA:LOC_Os06g01700.1
+Chr6	MSU_osa1r6_db	CDS	412675	412798	.	-	2	Parent=mRNA:LOC_Os06g01700.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	414943	415045	.	-	.	Parent=mRNA:LOC_Os06g01700.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	412319	412674	.	-	.	Parent=mRNA:LOC_Os06g01700.1
+Chr6	Protein-DB	peptide_p	414565	414591	.	?	.	Parent=mRNA:LOC_Os06g01700.1:P999_26850
+Chr6	Protein-DB	peptide_p	414568	414591	.	?	.	Parent=mRNA:LOC_Os06g01700.1:P999_26851

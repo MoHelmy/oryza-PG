@@ -1,0 +1,11 @@
+Chr6	MSU_osa1r6_db	gene	6154941	6158889	.	+	.	ID=Gene:LOC_Os06g11620;Note=RNA+recognition+motif+containing+protein%2C+putative%2C+expressed;Alias=13106.t01037
+Chr6	MSU_osa1r6_db	processed_transcript	6154941	6158889	.	+	.	ID=mRNA:LOC_Os06g11620.1;Note=13106.m01261;Gene=LOC_Os06g11620
+Chr6	MSU_osa1r6_db	CDS	6155045	6155137	.	+	0	Parent=mRNA:LOC_Os06g11620.1
+Chr6	MSU_osa1r6_db	CDS	6155258	6155357	.	+	0	Parent=mRNA:LOC_Os06g11620.1
+Chr6	MSU_osa1r6_db	CDS	6156753	6156823	.	+	1	Parent=mRNA:LOC_Os06g11620.1
+Chr6	MSU_osa1r6_db	CDS	6158057	6158248	.	+	0	Parent=mRNA:LOC_Os06g11620.1
+Chr6	MSU_osa1r6_db	CDS	6158352	6158470	.	+	0	Parent=mRNA:LOC_Os06g11620.1
+Chr6	MSU_osa1r6_db	CDS	6158578	6158617	.	+	2	Parent=mRNA:LOC_Os06g11620.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	6154941	6155044	.	+	.	Parent=mRNA:LOC_Os06g11620.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	6158618	6158889	.	+	.	Parent=mRNA:LOC_Os06g11620.1
+Chr6	Protein-DB	peptide_p	6155295	6155324	.	?	.	Parent=mRNA:LOC_Os06g11620.1:P999_27736

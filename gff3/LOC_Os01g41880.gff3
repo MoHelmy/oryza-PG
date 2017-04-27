@@ -1,0 +1,12 @@
+Chr1	MSU_osa1r6_db	gene	23739769	23743951	.	-	.	ID=Gene:LOC_Os01g41880;Note=hyaluronan%2FmRNA+binding+family+domain+containing+protein%2C+expressed;Alias=13101.t03628
+Chr1	MSU_osa1r6_db	processed_transcript	23739769	23743951	.	-	.	ID=mRNA:LOC_Os01g41880.1;Note=13101.m04298;Gene=LOC_Os01g41880
+Chr1	MSU_osa1r6_db	CDS	23743538	23743700	.	-	0	Parent=mRNA:LOC_Os01g41880.1
+Chr1	MSU_osa1r6_db	CDS	23742570	23742981	.	-	1	Parent=mRNA:LOC_Os01g41880.1
+Chr1	MSU_osa1r6_db	CDS	23742322	23742466	.	-	2	Parent=mRNA:LOC_Os01g41880.1
+Chr1	MSU_osa1r6_db	CDS	23740442	23740600	.	-	0	Parent=mRNA:LOC_Os01g41880.1
+Chr1	MSU_osa1r6_db	CDS	23740305	23740361	.	-	0	Parent=mRNA:LOC_Os01g41880.1
+Chr1	MSU_osa1r6_db	CDS	23740023	23740223	.	-	0	Parent=mRNA:LOC_Os01g41880.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	23743701	23743951	.	-	.	Parent=mRNA:LOC_Os01g41880.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	23739769	23740022	.	-	.	Parent=mRNA:LOC_Os01g41880.1
+Chr1	Protein-DB	peptide_p	23740033	23740101	.	?	.	Parent=mRNA:LOC_Os01g41880.1:P999_2900
+Chr1	Protein-DB	peptide_p	23743253	23743276	.	?	.	Parent=mRNA:LOC_Os01g41880.1:P999_2902

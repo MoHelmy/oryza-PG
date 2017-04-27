@@ -1,0 +1,15 @@
+Chr9	MSU_osa1r6_db	gene	6989893	6993473	.	+	.	ID=Gene:LOC_Os09g12270;Note=peptidyl-prolyl+cis-trans+isomerase%2C+FKBP-type%2C+putative%2C+expressed;Alias=13109.t01023
+Chr9	MSU_osa1r6_db	processed_transcript	6989893	6993473	.	+	.	ID=mRNA:LOC_Os09g12270.1;Note=13109.m01109;Gene=LOC_Os09g12270
+Chr9	MSU_osa1r6_db	CDS	6990055	6990067	.	+	0	Parent=mRNA:LOC_Os09g12270.1
+Chr9	MSU_osa1r6_db	CDS	6990153	6990226	.	+	1	Parent=mRNA:LOC_Os09g12270.1
+Chr9	MSU_osa1r6_db	CDS	6990633	6990868	.	+	0	Parent=mRNA:LOC_Os09g12270.1
+Chr9	MSU_osa1r6_db	CDS	6990965	6991146	.	+	2	Parent=mRNA:LOC_Os09g12270.1
+Chr9	MSU_osa1r6_db	CDS	6991740	6992040	.	+	1	Parent=mRNA:LOC_Os09g12270.1
+Chr9	MSU_osa1r6_db	CDS	6992140	6992338	.	+	2	Parent=mRNA:LOC_Os09g12270.1
+Chr9	MSU_osa1r6_db	CDS	6992581	6992665	.	+	0	Parent=mRNA:LOC_Os09g12270.1
+Chr9	MSU_osa1r6_db	CDS	6992742	6992783	.	+	1	Parent=mRNA:LOC_Os09g12270.1
+Chr9	MSU_osa1r6_db	CDS	6992864	6992912	.	+	1	Parent=mRNA:LOC_Os09g12270.1
+Chr9	MSU_osa1r6_db	CDS	6993060	6993153	.	+	2	Parent=mRNA:LOC_Os09g12270.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	6989893	6990054	.	+	.	Parent=mRNA:LOC_Os09g12270.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	6993154	6993473	.	+	.	Parent=mRNA:LOC_Os09g12270.1
+Chr9	Protein-DB	peptide_p	6993095	6993130	.	?	.	Parent=mRNA:LOC_Os09g12270.1:P999_35220

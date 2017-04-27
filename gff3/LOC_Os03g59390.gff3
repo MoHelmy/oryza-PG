@@ -1,0 +1,12 @@
+Chr3	MSU_osa1r6_db	gene	33798670	33802969	.	+	.	ID=Gene:LOC_Os03g59390;Note=CAMK_CAMK_like.24+-+CAMK+includes+calcium%2Fcalmodulin+depedent+protein+kinases%2C+expressed;Alias=13103.t05194
+Chr3	MSU_osa1r6_db	processed_transcript	33798670	33802969	.	+	.	ID=mRNA:LOC_Os03g59390.1;Note=13103.m06519;Gene=LOC_Os03g59390
+Chr3	MSU_osa1r6_db	CDS	33799064	33799594	.	+	0	Parent=mRNA:LOC_Os03g59390.1
+Chr3	MSU_osa1r6_db	CDS	33800174	33800297	.	+	0	Parent=mRNA:LOC_Os03g59390.1
+Chr3	MSU_osa1r6_db	CDS	33800517	33800660	.	+	1	Parent=mRNA:LOC_Os03g59390.1
+Chr3	MSU_osa1r6_db	CDS	33800747	33800899	.	+	1	Parent=mRNA:LOC_Os03g59390.1
+Chr3	MSU_osa1r6_db	CDS	33801257	33801372	.	+	1	Parent=mRNA:LOC_Os03g59390.1
+Chr3	MSU_osa1r6_db	CDS	33801537	33801704	.	+	0	Parent=mRNA:LOC_Os03g59390.1
+Chr3	MSU_osa1r6_db	CDS	33801798	33802028	.	+	0	Parent=mRNA:LOC_Os03g59390.1
+Chr3	MSU_osa1r6_db	CDS	33802513	33802662	.	+	0	Parent=mRNA:LOC_Os03g59390.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	33798670	33799063	.	+	.	Parent=mRNA:LOC_Os03g59390.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	33802663	33802969	.	+	.	Parent=mRNA:LOC_Os03g59390.1

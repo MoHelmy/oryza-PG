@@ -1,0 +1,15 @@
+Chr2	MSU_osa1r6_db	gene	397365	403540	.	+	.	ID=Gene:LOC_Os02g01720;Note=transmembrane+protein+120A%2C+putative%2C+expressed;Alias=13102.t00074
+Chr2	MSU_osa1r6_db	processed_transcript	397365	403540	.	+	.	ID=mRNA:LOC_Os02g01720.1;Note=13102.m00097;Gene=LOC_Os02g01720
+Chr2	MSU_osa1r6_db	CDS	397406	397609	.	+	0	Parent=mRNA:LOC_Os02g01720.1
+Chr2	MSU_osa1r6_db	CDS	398483	398561	.	+	0	Parent=mRNA:LOC_Os02g01720.1
+Chr2	MSU_osa1r6_db	CDS	398648	398742	.	+	1	Parent=mRNA:LOC_Os02g01720.1
+Chr2	MSU_osa1r6_db	CDS	399289	399393	.	+	0	Parent=mRNA:LOC_Os02g01720.1
+Chr2	MSU_osa1r6_db	CDS	399496	399575	.	+	0	Parent=mRNA:LOC_Os02g01720.1
+Chr2	MSU_osa1r6_db	CDS	399832	399922	.	+	2	Parent=mRNA:LOC_Os02g01720.1
+Chr2	MSU_osa1r6_db	CDS	400021	400128	.	+	0	Parent=mRNA:LOC_Os02g01720.1
+Chr2	MSU_osa1r6_db	CDS	400529	400615	.	+	0	Parent=mRNA:LOC_Os02g01720.1
+Chr2	MSU_osa1r6_db	CDS	400862	400930	.	+	0	Parent=mRNA:LOC_Os02g01720.1
+Chr2	MSU_osa1r6_db	CDS	403042	403188	.	+	0	Parent=mRNA:LOC_Os02g01720.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	397365	397405	.	+	.	Parent=mRNA:LOC_Os02g01720.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	403189	403540	.	+	.	Parent=mRNA:LOC_Os02g01720.1
+Chr2	Protein-DB	peptide_p	397566	397613	.	?	.	Parent=mRNA:LOC_Os02g01720.1:P999_6481

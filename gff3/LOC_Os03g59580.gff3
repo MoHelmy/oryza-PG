@@ -1,0 +1,9 @@
+Chr3	MSU_osa1r6_db	gene	33909682	33913968	.	-	.	ID=Gene:LOC_Os03g59580;Note=hydrolase%2C+NUDIX+family%2C+domain+containing+protein%2C+expressed;Alias=13103.t05212
+Chr3	MSU_osa1r6_db	processed_transcript	33909682	33913968	.	-	.	ID=mRNA:LOC_Os03g59580.1;Note=13103.m06538;Gene=LOC_Os03g59580
+Chr3	MSU_osa1r6_db	CDS	33913749	33913819	.	-	0	Parent=mRNA:LOC_Os03g59580.1
+Chr3	MSU_osa1r6_db	CDS	33912275	33912392	.	-	2	Parent=mRNA:LOC_Os03g59580.1
+Chr3	MSU_osa1r6_db	CDS	33911579	33911662	.	-	0	Parent=mRNA:LOC_Os03g59580.1
+Chr3	MSU_osa1r6_db	CDS	33910051	33910329	.	-	0	Parent=mRNA:LOC_Os03g59580.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	33913820	33913968	.	-	.	Parent=mRNA:LOC_Os03g59580.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	33909682	33910050	.	-	.	Parent=mRNA:LOC_Os03g59580.1
+Chr3	Protein-DB	peptide_p	33911989	33912033	.	?	.	Parent=mRNA:LOC_Os03g59580.1:P999_19083

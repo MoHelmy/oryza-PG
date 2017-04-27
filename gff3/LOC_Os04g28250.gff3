@@ -1,0 +1,11 @@
+Chr4	MSU_osa1r6_db	gene	16522035	16522876	.	-	.	ID=Gene:LOC_Os04g28250;Note=cysteine+proteinase+inhibitor+precursor%2C+putative%2C+expressed;Alias=13104.t02503
+Chr4	MSU_osa1r6_db	processed_transcript	16522035	16522876	.	-	.	ID=mRNA:LOC_Os04g28250.1;Note=13104.m02675;Gene=LOC_Os04g28250
+Chr4	MSU_osa1r6_db	CDS	16522394	16522849	.	-	0	Parent=mRNA:LOC_Os04g28250.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	16522850	16522876	.	-	.	Parent=mRNA:LOC_Os04g28250.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	16522035	16522393	.	-	.	Parent=mRNA:LOC_Os04g28250.1
+Chr4	Protein-DB	peptide_p	16522474	16522515	.	?	.	Parent=mRNA:LOC_Os04g28250.1:P999_20273
+Chr4	Protein-DB	peptide_p	16522267	16522314	.	?	.	Parent=mRNA:LOC_Os04g28250.1:P999_20275
+Chr4	Protein-DB	peptide_p	16522408	16522461	.	?	.	Parent=mRNA:LOC_Os04g28250.1:P999_20276
+Chr4	Protein-DB	peptide_p	16522240	16522263	.	?	.	Parent=mRNA:LOC_Os04g28250.1:P999_20281
+Chr4	Protein-DB	peptide_p	16522273	16522314	.	?	.	Parent=mRNA:LOC_Os04g28250.1:P999_20284
+Chr4	Protein-DB	peptide_p	16522435	16522461	.	?	.	Parent=mRNA:LOC_Os04g28250.1:P999_20285

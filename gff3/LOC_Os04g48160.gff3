@@ -1,0 +1,8 @@
+Chr4	MSU_osa1r6_db	gene	28478686	28481289	.	-	.	ID=Gene:LOC_Os04g48160;Note=IQ+calmodulin-binding+motif+family+protein%2C+putative%2C+expressed;Alias=13104.t04326
+Chr4	MSU_osa1r6_db	processed_transcript	28478686	28481289	.	-	.	ID=mRNA:LOC_Os04g48160.1;Note=13104.m04897;Gene=LOC_Os04g48160
+Chr4	MSU_osa1r6_db	CDS	28480708	28481121	.	-	0	Parent=mRNA:LOC_Os04g48160.1
+Chr4	MSU_osa1r6_db	CDS	28480015	28480191	.	-	0	Parent=mRNA:LOC_Os04g48160.1
+Chr4	MSU_osa1r6_db	CDS	28479790	28479867	.	-	0	Parent=mRNA:LOC_Os04g48160.1
+Chr4	MSU_osa1r6_db	CDS	28478977	28479702	.	-	0	Parent=mRNA:LOC_Os04g48160.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	28481122	28481289	.	-	.	Parent=mRNA:LOC_Os04g48160.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	28478686	28478976	.	-	.	Parent=mRNA:LOC_Os04g48160.1

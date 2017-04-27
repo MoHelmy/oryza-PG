@@ -1,0 +1,11 @@
+Chr12	MSU_osa1r6_db	gene	26166573	26170025	.	+	.	ID=Gene:LOC_Os12g42230;Note=transketolase%2C+putative%2C+expressed;Alias=13112.t03912
+Chr12	MSU_osa1r6_db	processed_transcript	26166573	26170025	.	+	.	ID=mRNA:LOC_Os12g42230.1;Note=13112.m04434;Gene=LOC_Os12g42230
+Chr12	MSU_osa1r6_db	CDS	26166719	26166883	.	+	0	Parent=mRNA:LOC_Os12g42230.1
+Chr12	MSU_osa1r6_db	CDS	26166976	26167013	.	+	0	Parent=mRNA:LOC_Os12g42230.1
+Chr12	MSU_osa1r6_db	CDS	26168678	26169650	.	+	2	Parent=mRNA:LOC_Os12g42230.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	26166573	26166718	.	+	.	Parent=mRNA:LOC_Os12g42230.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	26169651	26170025	.	+	.	Parent=mRNA:LOC_Os12g42230.1
+Chr12	Protein-DB	peptide_p	26168803	26168832	.	?	.	Parent=mRNA:LOC_Os12g42230.1:P999_42620
+Chr12	Protein-DB	peptide_p	26168680	26168709	.	?	.	Parent=mRNA:LOC_Os12g42230.1:P999_42621
+Chr12	Protein-DB	peptide_p	26169355	26169384	.	?	.	Parent=mRNA:LOC_Os12g42230.1:P999_42622
+Chr12	Protein-DB	peptide_p	26169166	26169216	.	?	.	Parent=mRNA:LOC_Os12g42230.1:P999_42627

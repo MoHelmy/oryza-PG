@@ -1,0 +1,7 @@
+Chr10	MSU_osa1r6_db	gene	8744104	8756561	.	+	.	ID=Gene:LOC_Os10g17489;Note=UDP-glucoronosyl+and+UDP-glucosyl+transferase+domain+containing+protein%2C+expressed;Alias=13110.t01300
+Chr10	MSU_osa1r6_db	processed_transcript	8744104	8756561	.	+	.	ID=mRNA:LOC_Os10g17489.1;Note=13110.m01431;Gene=LOC_Os10g17489
+Chr10	MSU_osa1r6_db	CDS	8744141	8744681	.	+	0	Parent=mRNA:LOC_Os10g17489.1
+Chr10	MSU_osa1r6_db	CDS	8755398	8756314	.	+	1	Parent=mRNA:LOC_Os10g17489.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	8744104	8744140	.	+	.	Parent=mRNA:LOC_Os10g17489.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	8756315	8756561	.	+	.	Parent=mRNA:LOC_Os10g17489.1
+Chr10	Protein-DB	peptide_p	8755509	8755541	.	?	.	Parent=mRNA:LOC_Os10g17489.1:P999_37375

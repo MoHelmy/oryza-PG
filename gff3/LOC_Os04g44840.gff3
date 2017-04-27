@@ -1,0 +1,11 @@
+Chr4	MSU_osa1r6_db	gene	26358099	26361799	.	-	.	ID=Gene:LOC_Os04g44840;Note=glycosyl+hydrolase+family+3+protein%2C+putative%2C+expressed;Alias=13104.t04008
+Chr4	MSU_osa1r6_db	processed_transcript	26358099	26361799	.	-	.	ID=mRNA:LOC_Os04g44840.1;Note=13104.m04484;Gene=LOC_Os04g44840
+Chr4	MSU_osa1r6_db	CDS	26361076	26361756	.	-	0	Parent=mRNA:LOC_Os04g44840.1
+Chr4	MSU_osa1r6_db	CDS	26360313	26360479	.	-	0	Parent=mRNA:LOC_Os04g44840.1
+Chr4	MSU_osa1r6_db	CDS	26360089	26360186	.	-	2	Parent=mRNA:LOC_Os04g44840.1
+Chr4	MSU_osa1r6_db	CDS	26359482	26359832	.	-	1	Parent=mRNA:LOC_Os04g44840.1
+Chr4	MSU_osa1r6_db	CDS	26358985	26359401	.	-	1	Parent=mRNA:LOC_Os04g44840.1
+Chr4	MSU_osa1r6_db	CDS	26358292	26358890	.	-	1	Parent=mRNA:LOC_Os04g44840.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	26361757	26361799	.	-	.	Parent=mRNA:LOC_Os04g44840.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	26358099	26358291	.	-	.	Parent=mRNA:LOC_Os04g44840.1
+Chr4	Protein-DB	peptide_p	26358299	26358331	.	?	.	Parent=mRNA:LOC_Os04g44840.1:P999_21235

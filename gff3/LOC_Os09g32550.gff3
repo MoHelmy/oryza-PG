@@ -1,0 +1,14 @@
+Chr9	MSU_osa1r6_db	gene	19433293	19437299	.	-	.	ID=Gene:LOC_Os09g32550;Note=glucan+endo-1%2C3-beta-glucosidase+precursor%2C+putative%2C+expressed;Alias=13109.t02872
+Chr9	MSU_osa1r6_db	processed_transcript	19433293	19437299	.	-	.	ID=mRNA:LOC_Os09g32550.1;Note=13109.m03248;Gene=LOC_Os09g32550
+Chr9	MSU_osa1r6_db	CDS	19437210	19437261	.	-	0	Parent=mRNA:LOC_Os09g32550.1
+Chr9	MSU_osa1r6_db	CDS	19435768	19437120	.	-	1	Parent=mRNA:LOC_Os09g32550.1
+Chr9	MSU_osa1r6_db	CDS	19433773	19433810	.	-	1	Parent=mRNA:LOC_Os09g32550.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	19437262	19437299	.	-	.	Parent=mRNA:LOC_Os09g32550.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	19433293	19433772	.	-	.	Parent=mRNA:LOC_Os09g32550.1
+Chr9	MSU_osa1r6_db	processed_transcript	19433293	19437299	.	-	.	ID=mRNA:LOC_Os09g32550.2;Note=13109.m03247;Gene=LOC_Os09g32550
+Chr9	MSU_osa1r6_db	CDS	19437210	19437261	.	-	0	Parent=mRNA:LOC_Os09g32550.2
+Chr9	MSU_osa1r6_db	CDS	19435768	19437111	.	-	1	Parent=mRNA:LOC_Os09g32550.2
+Chr9	MSU_osa1r6_db	CDS	19433773	19433810	.	-	1	Parent=mRNA:LOC_Os09g32550.2
+Chr9	MSU_osa1r6_db	five_prime_UTR	19437262	19437299	.	-	.	Parent=mRNA:LOC_Os09g32550.2
+Chr9	MSU_osa1r6_db	three_prime_UTR	19433293	19433772	.	-	.	Parent=mRNA:LOC_Os09g32550.2
+Chr9	Protein-DB	peptide_p	19433667	19433732	.	?	.	Parent=mRNA:LOC_Os09g32550.1:P999_36308

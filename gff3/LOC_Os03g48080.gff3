@@ -1,0 +1,12 @@
+Chr3	MSU_osa1r6_db	gene	27336339	27339764	.	-	.	ID=Gene:LOC_Os03g48080;Note=CHCH+domain+containing+protein%2C+expressed;Alias=13103.t04181
+Chr3	MSU_osa1r6_db	processed_transcript	27336339	27339764	.	-	.	ID=mRNA:LOC_Os03g48080.1;Note=13103.m05188;Gene=LOC_Os03g48080
+Chr3	MSU_osa1r6_db	CDS	27339646	27339664	.	-	0	Parent=mRNA:LOC_Os03g48080.1
+Chr3	MSU_osa1r6_db	CDS	27337646	27337699	.	-	1	Parent=mRNA:LOC_Os03g48080.1
+Chr3	MSU_osa1r6_db	CDS	27337374	27337454	.	-	1	Parent=mRNA:LOC_Os03g48080.1
+Chr3	MSU_osa1r6_db	CDS	27337110	27337282	.	-	1	Parent=mRNA:LOC_Os03g48080.1
+Chr3	MSU_osa1r6_db	CDS	27336649	27336738	.	-	0	Parent=mRNA:LOC_Os03g48080.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	27339665	27339764	.	-	.	Parent=mRNA:LOC_Os03g48080.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	27336339	27336648	.	-	.	Parent=mRNA:LOC_Os03g48080.1
+Chr3	Protein-DB	peptide_p	27339366	27339398	.	?	.	Parent=mRNA:LOC_Os03g48080.1:P999_17202
+Chr3	Protein-DB	peptide_p	27338860	27338886	.	?	.	Parent=mRNA:LOC_Os03g48080.1:P999_17203
+Chr3	Protein-DB	peptide_p	27339399	27339434	.	?	.	Parent=mRNA:LOC_Os03g48080.1:P999_17204

@@ -1,0 +1,15 @@
+Chr1	MSU_osa1r6_db	gene	41140631	41142421	.	-	.	ID=Gene:LOC_Os01g71090;Note=xylanase+inhibitor%2C+putative%2C+expressed;Alias=13101.t06332
+Chr1	MSU_osa1r6_db	processed_transcript	41140631	41142421	.	-	.	ID=mRNA:LOC_Os01g71090.1;Note=13101.m07740;Gene=LOC_Os01g71090
+Chr1	MSU_osa1r6_db	CDS	41141102	41142361	.	-	0	Parent=mRNA:LOC_Os01g71090.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	41142362	41142421	.	-	.	Parent=mRNA:LOC_Os01g71090.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	41140631	41141101	.	-	.	Parent=mRNA:LOC_Os01g71090.1
+Chr1	Protein-DB	peptide_p	41141472	41141519	.	?	.	Parent=mRNA:LOC_Os01g71090.1:P999_5860
+Chr1	Protein-DB	peptide_p	41141286	41141306	.	?	.	Parent=mRNA:LOC_Os01g71090.1:P999_5865
+Chr1	Protein-DB	peptide_p	41140824	41140859	.	?	.	Parent=mRNA:LOC_Os01g71090.1:P999_5871
+Chr1	Protein-DB	peptide_p	41141415	41141471	.	?	.	Parent=mRNA:LOC_Os01g71090.1:P999_5875
+Chr1	Protein-DB	peptide_p	41141253	41141285	.	?	.	Parent=mRNA:LOC_Os01g71090.1:P999_5881
+Chr1	Protein-DB	peptide_p	41140791	41140823	.	?	.	Parent=mRNA:LOC_Os01g71090.1:P999_5884
+Chr1	Protein-DB	peptide_p	41141418	41141471	.	?	.	Parent=mRNA:LOC_Os01g71090.1:P999_5887
+Chr1	Protein-DB	peptide_p	41141670	41141696	.	?	.	Parent=mRNA:LOC_Os01g71090.1:P999_5891
+Chr1	Protein-DB	peptide_p	41141769	41141795	.	?	.	Parent=mRNA:LOC_Os01g71090.1:P999_5892
+Chr1	Protein-DB	peptide_p	41141610	41141645	.	?	.	Parent=mRNA:LOC_Os01g71090.1:P999_5897

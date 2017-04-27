@@ -1,0 +1,8 @@
+Chr7	MSU_osa1r6_db	gene	17194216	17195995	.	-	.	ID=Gene:LOC_Os07g29320;Note=rRNA-processing+protein+EBP2%2C+putative%2C+expressed;Alias=13107.t02614
+Chr7	MSU_osa1r6_db	processed_transcript	17194216	17195995	.	-	.	ID=mRNA:LOC_Os07g29320.1;Note=13107.m02937;Gene=LOC_Os07g29320
+Chr7	MSU_osa1r6_db	CDS	17194605	17195480	.	-	0	Parent=mRNA:LOC_Os07g29320.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	17195853	17195995	.	-	.	Parent=mRNA:LOC_Os07g29320.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	17195481	17195485	.	-	.	Parent=mRNA:LOC_Os07g29320.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	17194216	17194604	.	-	.	Parent=mRNA:LOC_Os07g29320.1
+Chr7	Protein-DB	peptide_p	17195338	17195388	.	?	.	Parent=mRNA:LOC_Os07g29320.1:P999_30927
+Chr7	Protein-DB	peptide_p	17194984	17195010	.	?	.	Parent=mRNA:LOC_Os07g29320.1:P999_30928

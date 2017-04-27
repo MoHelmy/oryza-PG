@@ -1,0 +1,10 @@
+Chr1	MSU_osa1r6_db	gene	3923363	3925556	.	+	.	ID=Gene:LOC_Os01g08110;Note=flavonol-3-O-glycoside-7-O-glucosyltransferase+1%2C+putative%2C+expressed;Alias=13101.t00688
+Chr1	MSU_osa1r6_db	processed_transcript	3923363	3925556	.	+	.	ID=mRNA:LOC_Os01g08110.1;Note=13101.m00839;Gene=LOC_Os01g08110
+Chr1	MSU_osa1r6_db	CDS	3923433	3923932	.	+	0	Parent=mRNA:LOC_Os01g08110.1
+Chr1	MSU_osa1r6_db	CDS	3924105	3925098	.	+	2	Parent=mRNA:LOC_Os01g08110.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	3923363	3923432	.	+	.	Parent=mRNA:LOC_Os01g08110.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	3925099	3925556	.	+	.	Parent=mRNA:LOC_Os01g08110.1
+Chr1	Protein-DB	peptide_p	3924917	3924979	.	?	.	Parent=mRNA:LOC_Os01g08110.1:P999_648
+Chr1	Protein-DB	peptide_p	3923671	3923739	.	?	.	Parent=mRNA:LOC_Os01g08110.1:P999_649
+Chr1	Protein-DB	peptide_p	3924845	3924868	.	?	.	Parent=mRNA:LOC_Os01g08110.1:P999_651
+Chr1	Protein-DB	peptide_p	3923893	3923934	.	?	.	Parent=mRNA:LOC_Os01g08110.1:P999_653

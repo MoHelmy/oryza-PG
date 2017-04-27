@@ -1,0 +1,11 @@
+Chr5	MSU_osa1r6_db	gene	25091323	25095076	.	+	.	ID=Gene:LOC_Os05g43230;Note=oryzain+alpha+chain+precursor%2C+putative%2C+expressed;Alias=13105.t03850
+Chr5	MSU_osa1r6_db	processed_transcript	25091323	25095076	.	+	.	ID=mRNA:LOC_Os05g43230.1;Note=13105.m04548;Gene=LOC_Os05g43230
+Chr5	MSU_osa1r6_db	CDS	25091651	25092092	.	+	0	Parent=mRNA:LOC_Os05g43230.1
+Chr5	MSU_osa1r6_db	CDS	25093355	25093590	.	+	1	Parent=mRNA:LOC_Os05g43230.1
+Chr5	MSU_osa1r6_db	CDS	25093678	25093818	.	+	0	Parent=mRNA:LOC_Os05g43230.1
+Chr5	MSU_osa1r6_db	CDS	25093921	25094352	.	+	0	Parent=mRNA:LOC_Os05g43230.1
+Chr5	MSU_osa1r6_db	CDS	25094580	25094681	.	+	0	Parent=mRNA:LOC_Os05g43230.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	25091323	25091650	.	+	.	Parent=mRNA:LOC_Os05g43230.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	25094682	25094709	.	+	.	Parent=mRNA:LOC_Os05g43230.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	25094794	25095076	.	+	.	Parent=mRNA:LOC_Os05g43230.1
+Chr5	Protein-DB	peptide_p	25093412	25093462	.	?	.	Parent=mRNA:LOC_Os05g43230.1:P999_25712

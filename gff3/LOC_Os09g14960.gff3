@@ -1,0 +1,14 @@
+Chr9	MSU_osa1r6_db	gene	8968315	8972896	.	-	.	ID=Gene:LOC_Os09g14960;Note=transposon+protein%2C+putative%2C+Pong+sub-class%2C+expressed;Alias=13109.t01290
+Chr9	MSU_osa1r6_db	processed_transcript	8968315	8972896	.	-	.	ID=mRNA:LOC_Os09g14960.1;Note=13109.m01403;Gene=LOC_Os09g14960
+Chr9	MSU_osa1r6_db	CDS	8970051	8970458	.	-	0	Parent=mRNA:LOC_Os09g14960.1
+Chr9	MSU_osa1r6_db	CDS	8968792	8969967	.	-	0	Parent=mRNA:LOC_Os09g14960.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	8972561	8972896	.	-	.	Parent=mRNA:LOC_Os09g14960.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	8972391	8972464	.	-	.	Parent=mRNA:LOC_Os09g14960.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	8970459	8970748	.	-	.	Parent=mRNA:LOC_Os09g14960.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	8968315	8968791	.	-	.	Parent=mRNA:LOC_Os09g14960.1
+Chr9	MSU_osa1r6_db	processed_transcript	8968315	8972896	.	-	.	ID=mRNA:LOC_Os09g14960.2;Note=13109.m01404;Gene=LOC_Os09g14960
+Chr9	MSU_osa1r6_db	CDS	8970051	8970458	.	-	0	Parent=mRNA:LOC_Os09g14960.2
+Chr9	MSU_osa1r6_db	CDS	8968792	8969967	.	-	0	Parent=mRNA:LOC_Os09g14960.2
+Chr9	MSU_osa1r6_db	five_prime_UTR	8972561	8972896	.	-	.	Parent=mRNA:LOC_Os09g14960.2
+Chr9	MSU_osa1r6_db	five_prime_UTR	8970459	8970748	.	-	.	Parent=mRNA:LOC_Os09g14960.2
+Chr9	MSU_osa1r6_db	three_prime_UTR	8968315	8968791	.	-	.	Parent=mRNA:LOC_Os09g14960.2

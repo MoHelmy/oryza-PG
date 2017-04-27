@@ -1,0 +1,15 @@
+Chr12	MSU_osa1r6_db	gene	25613822	25618647	.	+	.	ID=Gene:LOC_Os12g41400;Note=eukaryotic+translation+initiation+factor+2+subunit+gamma%2C+putative%2C+expressed;Alias=13112.t03827
+Chr12	MSU_osa1r6_db	processed_transcript	25613822	25618647	.	+	.	ID=mRNA:LOC_Os12g41400.1;Note=13112.m04321;Gene=LOC_Os12g41400
+Chr12	MSU_osa1r6_db	CDS	25614975	25615080	.	+	0	Parent=mRNA:LOC_Os12g41400.1
+Chr12	MSU_osa1r6_db	CDS	25615591	25615652	.	+	1	Parent=mRNA:LOC_Os12g41400.1
+Chr12	MSU_osa1r6_db	CDS	25616075	25616187	.	+	0	Parent=mRNA:LOC_Os12g41400.1
+Chr12	MSU_osa1r6_db	CDS	25616452	25616554	.	+	2	Parent=mRNA:LOC_Os12g41400.1
+Chr12	MSU_osa1r6_db	CDS	25616939	25617166	.	+	0	Parent=mRNA:LOC_Os12g41400.1
+Chr12	MSU_osa1r6_db	CDS	25617247	25617465	.	+	0	Parent=mRNA:LOC_Os12g41400.1
+Chr12	MSU_osa1r6_db	CDS	25617558	25617818	.	+	0	Parent=mRNA:LOC_Os12g41400.1
+Chr12	MSU_osa1r6_db	CDS	25617898	25618200	.	+	0	Parent=mRNA:LOC_Os12g41400.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	25613822	25614077	.	+	.	Parent=mRNA:LOC_Os12g41400.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	25614967	25614974	.	+	.	Parent=mRNA:LOC_Os12g41400.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	25618201	25618647	.	+	.	Parent=mRNA:LOC_Os12g41400.1
+Chr12	Protein-DB	peptide_p	25618118	25618138	.	?	.	Parent=mRNA:LOC_Os12g41400.1:P999_42560
+Chr12	Protein-DB	peptide_p	25616085	25616105	.	?	.	Parent=mRNA:LOC_Os12g41400.1:P999_42562

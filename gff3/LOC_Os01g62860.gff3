@@ -1,0 +1,12 @@
+Chr1	MSU_osa1r6_db	gene	36402399	36406337	.	+	.	ID=Gene:LOC_Os01g62860;Note=oxidoreductase%2C+aldo%2Fketo+reductase+family+protein%2C+putative%2C+expressed;Alias=13101.t05586
+Chr1	MSU_osa1r6_db	processed_transcript	36402399	36406337	.	+	.	ID=mRNA:LOC_Os01g62860.1;Note=13101.m06742;Gene=LOC_Os01g62860
+Chr1	MSU_osa1r6_db	CDS	36402602	36402712	.	+	0	Parent=mRNA:LOC_Os01g62860.1
+Chr1	MSU_osa1r6_db	CDS	36402839	36402889	.	+	0	Parent=mRNA:LOC_Os01g62860.1
+Chr1	MSU_osa1r6_db	CDS	36403379	36403455	.	+	0	Parent=mRNA:LOC_Os01g62860.1
+Chr1	MSU_osa1r6_db	CDS	36403574	36403661	.	+	2	Parent=mRNA:LOC_Os01g62860.1
+Chr1	MSU_osa1r6_db	CDS	36404314	36404589	.	+	0	Parent=mRNA:LOC_Os01g62860.1
+Chr1	MSU_osa1r6_db	CDS	36404700	36404948	.	+	0	Parent=mRNA:LOC_Os01g62860.1
+Chr1	MSU_osa1r6_db	CDS	36406013	36406096	.	+	0	Parent=mRNA:LOC_Os01g62860.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	36402399	36402601	.	+	.	Parent=mRNA:LOC_Os01g62860.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	36406097	36406337	.	+	.	Parent=mRNA:LOC_Os01g62860.1
+Chr1	Protein-DB	peptide_p	36402639	36402713	.	?	.	Parent=mRNA:LOC_Os01g62860.1:P999_4966

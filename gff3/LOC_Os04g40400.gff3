@@ -1,0 +1,16 @@
+Chr4	MSU_osa1r6_db	gene	23827935	23831738	.	+	.	ID=Gene:LOC_Os04g40400;Note=eukaryotic+translation+initiation+factor+4B%2C+putative%2C+expressed;Alias=13104.t03584
+Chr4	MSU_osa1r6_db	processed_transcript	23827935	23831738	.	+	.	ID=mRNA:LOC_Os04g40400.1;Note=13104.m03932;Gene=LOC_Os04g40400
+Chr4	MSU_osa1r6_db	CDS	23828033	23829204	.	+	0	Parent=mRNA:LOC_Os04g40400.1
+Chr4	MSU_osa1r6_db	CDS	23830074	23830475	.	+	2	Parent=mRNA:LOC_Os04g40400.1
+Chr4	MSU_osa1r6_db	CDS	23831301	23831325	.	+	2	Parent=mRNA:LOC_Os04g40400.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	23827935	23828032	.	+	.	Parent=mRNA:LOC_Os04g40400.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	23831326	23831738	.	+	.	Parent=mRNA:LOC_Os04g40400.1
+Chr4	Protein-DB	peptide_p	23830229	23830264	.	?	.	Parent=mRNA:LOC_Os04g40400.1:P999_20866
+Chr4	Protein-DB	peptide_p	23828610	23828636	.	?	.	Parent=mRNA:LOC_Os04g40400.1:P999_20867
+Chr4	Protein-DB	peptide_p	23828316	23828360	.	?	.	Parent=mRNA:LOC_Os04g40400.1:P999_20869
+Chr4	Protein-DB	peptide_p	23830097	23830126	.	?	.	Parent=mRNA:LOC_Os04g40400.1:P999_20870
+Chr4	Protein-DB	peptide_p	23828226	23828279	.	?	.	Parent=mRNA:LOC_Os04g40400.1:P999_20871
+Chr4	Protein-DB	peptide_p	23828814	23828879	.	?	.	Parent=mRNA:LOC_Os04g40400.1:P999_20872
+Chr4	Protein-DB	peptide_p	23830418	23830438	.	?	.	Parent=mRNA:LOC_Os04g40400.1:P999_20875
+Chr4	Protein-DB	peptide_p	23829171	23829194	.	?	.	Parent=mRNA:LOC_Os04g40400.1:P999_20876
+Chr4	Protein-DB	peptide_p	23830157	23830210	.	?	.	Parent=mRNA:LOC_Os04g40400.1:P999_20878

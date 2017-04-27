@@ -1,0 +1,11 @@
+Chr2	MSU_osa1r6_db	gene	7135134	7138112	.	-	.	ID=Gene:LOC_Os02g13380;Note=early+nodulin+93+ENOD93+protein%2C+putative%2C+expressed;Alias=13102.t01149
+Chr2	MSU_osa1r6_db	processed_transcript	7135134	7138112	.	-	.	ID=mRNA:LOC_Os02g13380.1;Note=13102.m01484;Gene=LOC_Os02g13380
+Chr2	MSU_osa1r6_db	CDS	7137846	7138080	.	-	0	Parent=mRNA:LOC_Os02g13380.1
+Chr2	MSU_osa1r6_db	CDS	7137282	7137343	.	-	1	Parent=mRNA:LOC_Os02g13380.1
+Chr2	MSU_osa1r6_db	CDS	7136872	7136947	.	-	0	Parent=mRNA:LOC_Os02g13380.1
+Chr2	MSU_osa1r6_db	CDS	7135476	7135567	.	-	1	Parent=mRNA:LOC_Os02g13380.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	7138081	7138112	.	-	.	Parent=mRNA:LOC_Os02g13380.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	7135134	7135475	.	-	.	Parent=mRNA:LOC_Os02g13380.1
+Chr2	Protein-DB	peptide_p	7135377	7135400	.	?	.	Parent=mRNA:LOC_Os02g13380.1:P999_8335
+Chr2	Protein-DB	peptide_p	7135368	7135400	.	?	.	Parent=mRNA:LOC_Os02g13380.1:P999_8336
+Chr2	Protein-DB	peptide_p	7135927	7135968	.	?	.	Parent=mRNA:LOC_Os02g13380.1:P999_8337

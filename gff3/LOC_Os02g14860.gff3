@@ -1,0 +1,13 @@
+Chr2	MSU_osa1r6_db	gene	8262545	8265722	.	+	.	ID=Gene:LOC_Os02g14860;Note=prefoldin+subunit%2C+putative%2C+expressed;Alias=13102.t01295
+Chr2	MSU_osa1r6_db	processed_transcript	8262545	8265722	.	+	.	ID=mRNA:LOC_Os02g14860.1;Note=13102.m01658;Gene=LOC_Os02g14860
+Chr2	MSU_osa1r6_db	CDS	8262635	8262734	.	+	0	Parent=mRNA:LOC_Os02g14860.1
+Chr2	MSU_osa1r6_db	CDS	8262832	8262902	.	+	1	Parent=mRNA:LOC_Os02g14860.1
+Chr2	MSU_osa1r6_db	CDS	8263000	8263124	.	+	0	Parent=mRNA:LOC_Os02g14860.1
+Chr2	MSU_osa1r6_db	CDS	8263231	8263291	.	+	2	Parent=mRNA:LOC_Os02g14860.1
+Chr2	MSU_osa1r6_db	CDS	8265310	8265357	.	+	0	Parent=mRNA:LOC_Os02g14860.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	8262545	8262634	.	+	.	Parent=mRNA:LOC_Os02g14860.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	8265358	8265722	.	+	.	Parent=mRNA:LOC_Os02g14860.1
+Chr2	Protein-DB	peptide_p	8263100	8263126	.	?	.	Parent=mRNA:LOC_Os02g14860.1:P999_8504
+Chr2	Protein-DB	peptide_p	8263001	8263039	.	?	.	Parent=mRNA:LOC_Os02g14860.1:P999_8509
+Chr2	Protein-DB	peptide_p	8262693	8262725	.	?	.	Parent=mRNA:LOC_Os02g14860.1:P999_8512
+Chr2	Protein-DB	peptide_p	8262862	8262903	.	?	.	Parent=mRNA:LOC_Os02g14860.1:P999_8513

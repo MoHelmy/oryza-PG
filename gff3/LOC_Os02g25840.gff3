@@ -1,0 +1,6 @@
+Chr2	MSU_osa1r6_db	gene	15135610	15137741	.	-	.	ID=Gene:LOC_Os02g25840;Note=conserved+oligomeric+Golgi+complex+component+4%2C+related%2C+putative%2C+expressed;Alias=13102.t02293
+Chr2	MSU_osa1r6_db	processed_transcript	15135610	15137741	.	-	.	ID=mRNA:LOC_Os02g25840.1;Note=13102.m02795;Gene=LOC_Os02g25840
+Chr2	MSU_osa1r6_db	CDS	15135927	15137612	.	-	0	Parent=mRNA:LOC_Os02g25840.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	15137613	15137741	.	-	.	Parent=mRNA:LOC_Os02g25840.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	15135610	15135926	.	-	.	Parent=mRNA:LOC_Os02g25840.1
+Chr2	Protein-DB	peptide_p	15136106	15136135	.	?	.	Parent=mRNA:LOC_Os02g25840.1:P999_8870

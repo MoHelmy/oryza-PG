@@ -1,0 +1,11 @@
+Chr3	MSU_osa1r6_db	gene	32010521	32012425	.	+	.	ID=Gene:LOC_Os03g56190;Note=cytochrome+c+oxidase-related%2C+putative%2C+expressed;Alias=13103.t04884
+Chr3	MSU_osa1r6_db	processed_transcript	32010521	32012425	.	+	.	ID=mRNA:LOC_Os03g56190.1;Note=13103.m06125;Gene=LOC_Os03g56190
+Chr3	MSU_osa1r6_db	CDS	32010585	32010696	.	+	0	Parent=mRNA:LOC_Os03g56190.1
+Chr3	MSU_osa1r6_db	CDS	32010809	32010915	.	+	1	Parent=mRNA:LOC_Os03g56190.1
+Chr3	MSU_osa1r6_db	CDS	32010998	32011040	.	+	0	Parent=mRNA:LOC_Os03g56190.1
+Chr3	MSU_osa1r6_db	CDS	32011889	32011992	.	+	1	Parent=mRNA:LOC_Os03g56190.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	32010521	32010584	.	+	.	Parent=mRNA:LOC_Os03g56190.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	32011993	32012014	.	+	.	Parent=mRNA:LOC_Os03g56190.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	32012101	32012425	.	+	.	Parent=mRNA:LOC_Os03g56190.1
+Chr3	Protein-DB	peptide_p	32010833	32010889	.	?	.	Parent=mRNA:LOC_Os03g56190.1:P999_18524
+Chr3	Protein-DB	peptide_p	32010890	32010916	.	?	.	Parent=mRNA:LOC_Os03g56190.1:P999_18525

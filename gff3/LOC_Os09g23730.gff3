@@ -1,0 +1,9 @@
+Chr9	MSU_osa1r6_db	gene	14105176	14106336	.	-	.	ID=Gene:LOC_Os09g23730;Note=HMG-Y-related+protein+A%2C+putative%2C+expressed;Alias=13109.t02064
+Chr9	MSU_osa1r6_db	processed_transcript	14105176	14106336	.	-	.	ID=mRNA:LOC_Os09g23730.1;Note=13109.m02246;Gene=LOC_Os09g23730
+Chr9	MSU_osa1r6_db	CDS	14106159	14106239	.	-	0	Parent=mRNA:LOC_Os09g23730.1
+Chr9	MSU_osa1r6_db	CDS	14105520	14106080	.	-	0	Parent=mRNA:LOC_Os09g23730.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	14106240	14106336	.	-	.	Parent=mRNA:LOC_Os09g23730.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	14105176	14105519	.	-	.	Parent=mRNA:LOC_Os09g23730.1
+Chr9	Protein-DB	peptide_p	14105769	14105795	.	?	.	Parent=mRNA:LOC_Os09g23730.1:P999_35525
+Chr9	Protein-DB	peptide_p	14105952	14105990	.	?	.	Parent=mRNA:LOC_Os09g23730.1:P999_35526
+Chr9	Protein-DB	peptide_p	14105619	14105645	.	?	.	Parent=mRNA:LOC_Os09g23730.1:P999_35527

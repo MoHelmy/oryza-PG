@@ -1,0 +1,6 @@
+Chr7	MSU_osa1r6_db	gene	23649532	23653080	.	+	.	ID=Gene:LOC_Os07g39470;Note=gibberellin+response+modulator+protein%2C+putative%2C+expressed;Alias=13107.t03597
+Chr7	MSU_osa1r6_db	processed_transcript	23649532	23653080	.	+	.	ID=mRNA:LOC_Os07g39470.1;Note=13107.m04088;Gene=LOC_Os07g39470
+Chr7	MSU_osa1r6_db	CDS	23651133	23652767	.	+	0	Parent=mRNA:LOC_Os07g39470.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	23649532	23649715	.	+	.	Parent=mRNA:LOC_Os07g39470.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	23650959	23651132	.	+	.	Parent=mRNA:LOC_Os07g39470.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	23652768	23653080	.	+	.	Parent=mRNA:LOC_Os07g39470.1

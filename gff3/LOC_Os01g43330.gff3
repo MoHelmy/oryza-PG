@@ -1,0 +1,12 @@
+Chr1	MSU_osa1r6_db	gene	24761586	24767213	.	-	.	ID=Gene:LOC_Os01g43330;Note=extra-large+G-protein-related%2C+putative%2C+expressed;Alias=13101.t03769
+Chr1	MSU_osa1r6_db	processed_transcript	24761586	24767213	.	-	.	ID=mRNA:LOC_Os01g43330.1;Note=13101.m04475;Gene=LOC_Os01g43330
+Chr1	MSU_osa1r6_db	CDS	24764754	24766837	.	-	0	Parent=mRNA:LOC_Os01g43330.1
+Chr1	MSU_osa1r6_db	CDS	24764033	24764093	.	-	2	Parent=mRNA:LOC_Os01g43330.1
+Chr1	MSU_osa1r6_db	CDS	24763730	24763953	.	-	0	Parent=mRNA:LOC_Os01g43330.1
+Chr1	MSU_osa1r6_db	CDS	24762489	24762543	.	-	2	Parent=mRNA:LOC_Os01g43330.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	24767045	24767213	.	-	.	Parent=mRNA:LOC_Os01g43330.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	24766838	24766910	.	-	.	Parent=mRNA:LOC_Os01g43330.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	24761906	24762488	.	-	.	Parent=mRNA:LOC_Os01g43330.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	24761586	24761739	.	-	.	Parent=mRNA:LOC_Os01g43330.1
+Chr1	cDNA-DB	peptide_c	24763193	24763246	.	?	.	Parent=mRNA:LOC_Os01g43330.1:PC15
+

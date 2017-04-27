@@ -1,0 +1,17 @@
+Chr4	MSU_osa1r6_db	gene	32153958	32157315	.	-	.	ID=Gene:LOC_Os04g54330;Note=acetyltransferase%2C+GNAT+family%2C+putative%2C+expressed;Alias=13104.t04913
+Chr4	MSU_osa1r6_db	processed_transcript	32153958	32157315	.	-	.	ID=mRNA:LOC_Os04g54330.1;Note=13104.m05617;Gene=LOC_Os04g54330
+Chr4	MSU_osa1r6_db	CDS	32156614	32157210	.	-	0	Parent=mRNA:LOC_Os04g54330.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	32157211	32157315	.	-	.	Parent=mRNA:LOC_Os04g54330.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	32156611	32156613	.	-	.	Parent=mRNA:LOC_Os04g54330.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	32153958	32154941	.	-	.	Parent=mRNA:LOC_Os04g54330.1
+Chr4	MSU_osa1r6_db	processed_transcript	32155557	32157315	.	-	.	ID=mRNA:LOC_Os04g54330.2;Note=13104.m05618;Gene=LOC_Os04g54330
+Chr4	MSU_osa1r6_db	CDS	32156614	32157210	.	-	0	Parent=mRNA:LOC_Os04g54330.2
+Chr4	MSU_osa1r6_db	five_prime_UTR	32157211	32157315	.	-	.	Parent=mRNA:LOC_Os04g54330.2
+Chr4	MSU_osa1r6_db	three_prime_UTR	32155557	32156613	.	-	.	Parent=mRNA:LOC_Os04g54330.2
+Chr4	MSU_osa1r6_db	processed_transcript	32153958	32157315	.	-	.	ID=mRNA:LOC_Os04g54330.3;Note=13104.m05616;Gene=LOC_Os04g54330
+Chr4	MSU_osa1r6_db	CDS	32156614	32157210	.	-	0	Parent=mRNA:LOC_Os04g54330.3
+Chr4	MSU_osa1r6_db	five_prime_UTR	32157211	32157315	.	-	.	Parent=mRNA:LOC_Os04g54330.3
+Chr4	MSU_osa1r6_db	three_prime_UTR	32156611	32156613	.	-	.	Parent=mRNA:LOC_Os04g54330.3
+Chr4	MSU_osa1r6_db	three_prime_UTR	32153958	32154938	.	-	.	Parent=mRNA:LOC_Os04g54330.3
+Chr4	Protein-DB	peptide_p	32154475	32154510	.	?	.	Parent=mRNA:LOC_Os04g54330.1:P999_21853
+Chr4	Protein-DB	peptide_p	32154415	32154474	.	?	.	Parent=mRNA:LOC_Os04g54330.1:P999_21854

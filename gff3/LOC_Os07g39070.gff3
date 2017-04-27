@@ -1,0 +1,13 @@
+Chr7	MSU_osa1r6_db	gene	23418025	23421461	.	+	.	ID=Gene:LOC_Os07g39070;Note=5-formyltetrahydrofolate+cyclo-ligase%2C+putative%2C+expressed;Alias=13107.t03557
+Chr7	MSU_osa1r6_db	processed_transcript	23418025	23421461	.	+	.	ID=mRNA:LOC_Os07g39070.1;Note=13107.m04045;Gene=LOC_Os07g39070
+Chr7	MSU_osa1r6_db	CDS	23418026	23418284	.	+	0	Parent=mRNA:LOC_Os07g39070.1
+Chr7	MSU_osa1r6_db	CDS	23418874	23419011	.	+	1	Parent=mRNA:LOC_Os07g39070.1
+Chr7	MSU_osa1r6_db	CDS	23419077	23419235	.	+	1	Parent=mRNA:LOC_Os07g39070.1
+Chr7	MSU_osa1r6_db	CDS	23419354	23419395	.	+	1	Parent=mRNA:LOC_Os07g39070.1
+Chr7	MSU_osa1r6_db	CDS	23419471	23419516	.	+	1	Parent=mRNA:LOC_Os07g39070.1
+Chr7	MSU_osa1r6_db	CDS	23420400	23420470	.	+	2	Parent=mRNA:LOC_Os07g39070.1
+Chr7	MSU_osa1r6_db	CDS	23421097	23421230	.	+	1	Parent=mRNA:LOC_Os07g39070.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	23418025	23418025	.	+	.	Parent=mRNA:LOC_Os07g39070.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	23421231	23421461	.	+	.	Parent=mRNA:LOC_Os07g39070.1
+Chr7	Protein-DB	peptide_p	23418874	23418918	.	?	.	Parent=mRNA:LOC_Os07g39070.1:P999_31339
+Chr7	Protein-DB	peptide_p	23419354	23419410	.	?	.	Parent=mRNA:LOC_Os07g39070.1:P999_31340

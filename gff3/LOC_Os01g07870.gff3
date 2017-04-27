@@ -1,0 +1,16 @@
+Chr1	MSU_osa1r6_db	gene	3803528	3810069	.	+	.	ID=Gene:LOC_Os01g07870;Note=ABC+transporter+family+protein%2C+putative%2C+expressed;Alias=13101.t00665
+Chr1	MSU_osa1r6_db	processed_transcript	3803528	3810069	.	+	.	ID=mRNA:LOC_Os01g07870.1;Note=13101.m00811;Gene=LOC_Os01g07870
+Chr1	MSU_osa1r6_db	CDS	3803704	3806106	.	+	0	Parent=mRNA:LOC_Os01g07870.1
+Chr1	MSU_osa1r6_db	CDS	3806226	3806312	.	+	0	Parent=mRNA:LOC_Os01g07870.1
+Chr1	MSU_osa1r6_db	CDS	3806397	3807035	.	+	0	Parent=mRNA:LOC_Os01g07870.1
+Chr1	MSU_osa1r6_db	CDS	3807118	3807282	.	+	0	Parent=mRNA:LOC_Os01g07870.1
+Chr1	MSU_osa1r6_db	CDS	3807363	3807657	.	+	0	Parent=mRNA:LOC_Os01g07870.1
+Chr1	MSU_osa1r6_db	CDS	3807739	3807953	.	+	1	Parent=mRNA:LOC_Os01g07870.1
+Chr1	MSU_osa1r6_db	CDS	3808125	3808430	.	+	0	Parent=mRNA:LOC_Os01g07870.1
+Chr1	MSU_osa1r6_db	CDS	3808539	3808602	.	+	0	Parent=mRNA:LOC_Os01g07870.1
+Chr1	MSU_osa1r6_db	CDS	3808735	3808974	.	+	1	Parent=mRNA:LOC_Os01g07870.1
+Chr1	MSU_osa1r6_db	CDS	3809150	3809253	.	+	1	Parent=mRNA:LOC_Os01g07870.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	3803528	3803703	.	+	.	Parent=mRNA:LOC_Os01g07870.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	3809254	3810014	.	+	.	Parent=mRNA:LOC_Os01g07870.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	3810037	3810069	.	+	.	Parent=mRNA:LOC_Os01g07870.1
+Chr1	Protein-DB	peptide_p	3805736	3805774	.	?	.	Parent=mRNA:LOC_Os01g07870.1:P999_610

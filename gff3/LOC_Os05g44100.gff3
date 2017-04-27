@@ -1,0 +1,9 @@
+Chr5	MSU_osa1r6_db	gene	25579016	25583830	.	+	.	ID=Gene:LOC_Os05g44100;Note=trehalose+synthase%2C+putative%2C+expressed;Alias=13105.t03936
+Chr5	MSU_osa1r6_db	processed_transcript	25579016	25583830	.	+	.	ID=mRNA:LOC_Os05g44100.1;Note=13105.m04653;Gene=LOC_Os05g44100
+Chr5	MSU_osa1r6_db	CDS	25579190	25581237	.	+	0	Parent=mRNA:LOC_Os05g44100.1
+Chr5	MSU_osa1r6_db	CDS	25581996	25582269	.	+	2	Parent=mRNA:LOC_Os05g44100.1
+Chr5	MSU_osa1r6_db	CDS	25582824	25583201	.	+	0	Parent=mRNA:LOC_Os05g44100.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	25579016	25579189	.	+	.	Parent=mRNA:LOC_Os05g44100.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	25583202	25583830	.	+	.	Parent=mRNA:LOC_Os05g44100.1
+Chr5	Protein-DB	peptide_p	25580979	25581014	.	?	.	Parent=mRNA:LOC_Os05g44100.1:P999_25745
+Chr5	Protein-DB	peptide_p	25579413	25579451	.	?	.	Parent=mRNA:LOC_Os05g44100.1:P999_25746

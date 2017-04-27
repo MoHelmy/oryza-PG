@@ -1,0 +1,9 @@
+Chr10	MSU_osa1r6_db	gene	1529536	1531275	.	+	.	ID=Gene:LOC_Os10g03540;Note=ribosomal+protein+L7Ae%2C+putative%2C+expressed;Alias=13110.t00243
+Chr10	MSU_osa1r6_db	processed_transcript	1529536	1531275	.	+	.	ID=mRNA:LOC_Os10g03540.1;Note=13110.m00264;Gene=LOC_Os10g03540
+Chr10	MSU_osa1r6_db	CDS	1529610	1529727	.	+	0	Parent=mRNA:LOC_Os10g03540.1
+Chr10	MSU_osa1r6_db	CDS	1529815	1529918	.	+	1	Parent=mRNA:LOC_Os10g03540.1
+Chr10	MSU_osa1r6_db	CDS	1530661	1530792	.	+	0	Parent=mRNA:LOC_Os10g03540.1
+Chr10	MSU_osa1r6_db	CDS	1530904	1530930	.	+	0	Parent=mRNA:LOC_Os10g03540.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	1529536	1529609	.	+	.	Parent=mRNA:LOC_Os10g03540.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	1530931	1531275	.	+	.	Parent=mRNA:LOC_Os10g03540.1
+Chr10	Protein-DB	peptide_p	1529632	1529703	.	?	.	Parent=mRNA:LOC_Os10g03540.1:P999_36989

@@ -1,0 +1,16 @@
+Chr2	MSU_osa1r6_db	gene	27114693	27118593	.	-	.	ID=Gene:LOC_Os02g44780;Note=polyprenyl+synthetase%2C+putative%2C+expressed;Alias=13102.t04101
+Chr2	MSU_osa1r6_db	processed_transcript	27114693	27118590	.	-	.	ID=mRNA:LOC_Os02g44780.1;Note=13102.m05013;Gene=LOC_Os02g44780
+Chr2	MSU_osa1r6_db	CDS	27117497	27118525	.	-	0	Parent=mRNA:LOC_Os02g44780.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	27118526	27118590	.	-	.	Parent=mRNA:LOC_Os02g44780.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	27117406	27117496	.	-	.	Parent=mRNA:LOC_Os02g44780.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	27114693	27115310	.	-	.	Parent=mRNA:LOC_Os02g44780.1
+Chr2	MSU_osa1r6_db	processed_transcript	27115981	27118593	.	-	.	ID=mRNA:LOC_Os02g44780.2;Note=13102.m05014;Gene=LOC_Os02g44780
+Chr2	MSU_osa1r6_db	CDS	27117497	27118525	.	-	0	Parent=mRNA:LOC_Os02g44780.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	27118526	27118593	.	-	.	Parent=mRNA:LOC_Os02g44780.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	27117406	27117496	.	-	.	Parent=mRNA:LOC_Os02g44780.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	27115981	27116947	.	-	.	Parent=mRNA:LOC_Os02g44780.2
+Chr2	MSU_osa1r6_db	processed_transcript	27117102	27118590	.	-	.	ID=mRNA:LOC_Os02g44780.3;Note=13102.m05015;Gene=LOC_Os02g44780
+Chr2	MSU_osa1r6_db	CDS	27117497	27118525	.	-	0	Parent=mRNA:LOC_Os02g44780.3
+Chr2	MSU_osa1r6_db	five_prime_UTR	27118526	27118590	.	-	.	Parent=mRNA:LOC_Os02g44780.3
+Chr2	MSU_osa1r6_db	three_prime_UTR	27117102	27117496	.	-	.	Parent=mRNA:LOC_Os02g44780.3
+Chr2	Protein-DB	peptide_p	27115713	27115754	.	?	.	Parent=mRNA:LOC_Os02g44780.1:P999_10593

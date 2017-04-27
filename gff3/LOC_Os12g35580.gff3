@@ -1,0 +1,12 @@
+Chr12	MSU_osa1r6_db	gene	21603682	21605812	.	+	.	ID=Gene:LOC_Os12g35580;Note=riboflavin+synthase+alpha+chain%2C+putative%2C+expressed;Alias=13112.t03259
+Chr12	MSU_osa1r6_db	processed_transcript	21603682	21605632	.	+	.	ID=mRNA:LOC_Os12g35580.1;Note=13112.m03644;Gene=LOC_Os12g35580
+Chr12	MSU_osa1r6_db	CDS	21603739	21604632	.	+	0	Parent=mRNA:LOC_Os12g35580.1
+Chr12	MSU_osa1r6_db	CDS	21605361	21605381	.	+	0	Parent=mRNA:LOC_Os12g35580.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	21603682	21603738	.	+	.	Parent=mRNA:LOC_Os12g35580.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	21605382	21605632	.	+	.	Parent=mRNA:LOC_Os12g35580.1
+Chr12	MSU_osa1r6_db	processed_transcript	21603682	21605812	.	+	.	ID=mRNA:LOC_Os12g35580.2;Note=13112.m03645;Gene=LOC_Os12g35580
+Chr12	MSU_osa1r6_db	CDS	21603739	21604638	.	+	0	Parent=mRNA:LOC_Os12g35580.2
+Chr12	MSU_osa1r6_db	five_prime_UTR	21603682	21603738	.	+	.	Parent=mRNA:LOC_Os12g35580.2
+Chr12	MSU_osa1r6_db	three_prime_UTR	21604639	21604687	.	+	.	Parent=mRNA:LOC_Os12g35580.2
+Chr12	MSU_osa1r6_db	three_prime_UTR	21605361	21605812	.	+	.	Parent=mRNA:LOC_Os12g35580.2
+Chr12	Protein-DB	peptide_p	21604559	21604588	.	?	.	Parent=mRNA:LOC_Os12g35580.1:P999_42206

@@ -1,0 +1,7 @@
+Chr8	MSU_osa1r6_db	gene	13025880	13032040	.	-	.	ID=Gene:LOC_Os08g21760;Note=Rer1+protein%2C+putative%2C+expressed;Alias=13108.t01968
+Chr8	MSU_osa1r6_db	processed_transcript	13025880	13032040	.	-	.	ID=mRNA:LOC_Os08g21760.1;Note=13108.m02241;Gene=LOC_Os08g21760
+Chr8	MSU_osa1r6_db	CDS	13031543	13031955	.	-	0	Parent=mRNA:LOC_Os08g21760.1
+Chr8	MSU_osa1r6_db	CDS	13026545	13026725	.	-	2	Parent=mRNA:LOC_Os08g21760.1
+Chr8	MSU_osa1r6_db	CDS	13026361	13026417	.	-	0	Parent=mRNA:LOC_Os08g21760.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	13031956	13032040	.	-	.	Parent=mRNA:LOC_Os08g21760.1
+Chr8	MSU_osa1r6_db	three_prime_UTR	13025880	13026360	.	-	.	Parent=mRNA:LOC_Os08g21760.1

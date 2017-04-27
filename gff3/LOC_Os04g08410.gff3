@@ -1,0 +1,6 @@
+Chr4	MSU_osa1r6_db	gene	4504408	4509487	.	-	.	ID=Gene:LOC_Os04g08410;Note=ELM2+domain+containing+protein%2C+putative%2C+expressed;Alias=13104.t00704
+Chr4	MSU_osa1r6_db	processed_transcript	4504408	4509487	.	-	.	ID=mRNA:LOC_Os04g08410.1;Note=13104.m00760;Gene=LOC_Os04g08410
+Chr4	MSU_osa1r6_db	CDS	4508663	4509376	.	-	0	Parent=mRNA:LOC_Os04g08410.1
+Chr4	MSU_osa1r6_db	CDS	4505170	4506072	.	-	0	Parent=mRNA:LOC_Os04g08410.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	4509377	4509487	.	-	.	Parent=mRNA:LOC_Os04g08410.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	4504408	4505169	.	-	.	Parent=mRNA:LOC_Os04g08410.1

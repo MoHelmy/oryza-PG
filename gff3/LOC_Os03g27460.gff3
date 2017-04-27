@@ -1,0 +1,16 @@
+Chr3	MSU_osa1r6_db	gene	15749984	15754753	.	-	.	ID=Gene:LOC_Os03g27460;Note=heat+shock+protein+DnaJ%2C+putative%2C+expressed;Alias=13103.t02449
+Chr3	MSU_osa1r6_db	processed_transcript	15752951	15754753	.	-	.	ID=mRNA:LOC_Os03g27460.1;Note=13103.m03214;Gene=LOC_Os03g27460
+Chr3	MSU_osa1r6_db	CDS	15753486	15754703	.	-	0	Parent=mRNA:LOC_Os03g27460.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	15754704	15754753	.	-	.	Parent=mRNA:LOC_Os03g27460.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	15752951	15753485	.	-	.	Parent=mRNA:LOC_Os03g27460.1
+Chr3	MSU_osa1r6_db	processed_transcript	15749984	15754753	.	-	.	ID=mRNA:LOC_Os03g27460.2;Note=13103.m03215;Gene=LOC_Os03g27460
+Chr3	MSU_osa1r6_db	CDS	15753486	15754703	.	-	0	Parent=mRNA:LOC_Os03g27460.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	15754704	15754753	.	-	.	Parent=mRNA:LOC_Os03g27460.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	15753141	15753485	.	-	.	Parent=mRNA:LOC_Os03g27460.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	15749984	15751340	.	-	.	Parent=mRNA:LOC_Os03g27460.2
+Chr3	MSU_osa1r6_db	processed_transcript	15751427	15754753	.	-	.	ID=mRNA:LOC_Os03g27460.3;Note=13103.m03216;Gene=LOC_Os03g27460
+Chr3	MSU_osa1r6_db	CDS	15753486	15754703	.	-	0	Parent=mRNA:LOC_Os03g27460.3
+Chr3	MSU_osa1r6_db	five_prime_UTR	15754704	15754753	.	-	.	Parent=mRNA:LOC_Os03g27460.3
+Chr3	MSU_osa1r6_db	three_prime_UTR	15753141	15753485	.	-	.	Parent=mRNA:LOC_Os03g27460.3
+Chr3	MSU_osa1r6_db	three_prime_UTR	15751427	15751641	.	-	.	Parent=mRNA:LOC_Os03g27460.3
+Chr3	Protein-DB	peptide_p	15751058	15751105	.	?	.	Parent=mRNA:LOC_Os03g27460.1:P999_15934

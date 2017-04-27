@@ -1,0 +1,8 @@
+Chr3	MSU_osa1r6_db	gene	4544308	4547187	.	+	.	ID=Gene:LOC_Os03g08810;Note=expressed+protein;Alias=13103.t00753
+Chr3	MSU_osa1r6_db	processed_transcript	4544308	4547187	.	+	.	ID=mRNA:LOC_Os03g08810.1;Note=13103.m01019;Gene=LOC_Os03g08810
+Chr3	MSU_osa1r6_db	CDS	4544363	4544722	.	+	0	Parent=mRNA:LOC_Os03g08810.1
+Chr3	MSU_osa1r6_db	CDS	4546375	4546713	.	+	0	Parent=mRNA:LOC_Os03g08810.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	4544308	4544362	.	+	.	Parent=mRNA:LOC_Os03g08810.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	4546714	4547187	.	+	.	Parent=mRNA:LOC_Os03g08810.1
+Chr3	Protein-DB	peptide_p	4546436	4546468	.	?	.	Parent=mRNA:LOC_Os03g08810.1:P999_13767
+Chr3	Protein-DB	peptide_p	4546511	4546543	.	?	.	Parent=mRNA:LOC_Os03g08810.1:P999_13771

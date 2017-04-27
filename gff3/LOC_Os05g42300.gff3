@@ -1,0 +1,8 @@
+Chr5	MSU_osa1r6_db	gene	24675996	24679972	.	-	.	ID=Gene:LOC_Os05g42300;Note=NAF1+domain+containing+protein%2C+expressed;Alias=13105.t03801
+Chr5	MSU_osa1r6_db	processed_transcript	24675996	24679972	.	-	.	ID=mRNA:LOC_Os05g42300.1;Note=13105.m04498;Gene=LOC_Os05g42300
+Chr5	MSU_osa1r6_db	CDS	24678844	24679590	.	-	0	Parent=mRNA:LOC_Os05g42300.1
+Chr5	MSU_osa1r6_db	CDS	24678400	24678477	.	-	0	Parent=mRNA:LOC_Os05g42300.1
+Chr5	MSU_osa1r6_db	CDS	24676595	24677815	.	-	0	Parent=mRNA:LOC_Os05g42300.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	24679591	24679972	.	-	.	Parent=mRNA:LOC_Os05g42300.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	24675996	24676594	.	-	.	Parent=mRNA:LOC_Os05g42300.1
+Chr5	Protein-DB	peptide_p	24678241	24678282	.	?	.	Parent=mRNA:LOC_Os05g42300.1:P999_25674

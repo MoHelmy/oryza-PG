@@ -1,0 +1,16 @@
+Chr5	MSU_osa1r6_db	gene	13478884	13483624	.	+	.	ID=Gene:LOC_Os05g23610;Note=protein+phosphatase+inhibitor+2+containing+protein%2C+expressed;Alias=13105.t02045
+Chr5	MSU_osa1r6_db	processed_transcript	13478884	13483624	.	+	.	ID=mRNA:LOC_Os05g23610.1;Note=13105.m02403;Gene=LOC_Os05g23610
+Chr5	MSU_osa1r6_db	CDS	13480887	13480891	.	+	0	Parent=mRNA:LOC_Os05g23610.1
+Chr5	MSU_osa1r6_db	CDS	13481869	13481984	.	+	2	Parent=mRNA:LOC_Os05g23610.1
+Chr5	MSU_osa1r6_db	CDS	13482082	13482249	.	+	1	Parent=mRNA:LOC_Os05g23610.1
+Chr5	MSU_osa1r6_db	CDS	13483049	13483257	.	+	1	Parent=mRNA:LOC_Os05g23610.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	13478884	13479054	.	+	.	Parent=mRNA:LOC_Os05g23610.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	13480820	13480886	.	+	.	Parent=mRNA:LOC_Os05g23610.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	13483258	13483624	.	+	.	Parent=mRNA:LOC_Os05g23610.1
+Chr5	MSU_osa1r6_db	processed_transcript	13481844	13483624	.	+	.	ID=mRNA:LOC_Os05g23610.2;Note=13105.m02404;Gene=LOC_Os05g23610
+Chr5	MSU_osa1r6_db	CDS	13481969	13481984	.	+	0	Parent=mRNA:LOC_Os05g23610.2
+Chr5	MSU_osa1r6_db	CDS	13482082	13482249	.	+	1	Parent=mRNA:LOC_Os05g23610.2
+Chr5	MSU_osa1r6_db	CDS	13483049	13483257	.	+	1	Parent=mRNA:LOC_Os05g23610.2
+Chr5	MSU_osa1r6_db	five_prime_UTR	13481844	13481968	.	+	.	Parent=mRNA:LOC_Os05g23610.2
+Chr5	MSU_osa1r6_db	three_prime_UTR	13483258	13483624	.	+	.	Parent=mRNA:LOC_Os05g23610.2
+Chr5	Protein-DB	peptide_p	13483139	13483189	.	?	.	Parent=mRNA:LOC_Os05g23610.1:P999_24151

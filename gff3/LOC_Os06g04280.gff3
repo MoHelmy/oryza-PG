@@ -1,0 +1,14 @@
+Chr6	MSU_osa1r6_db	gene	1815176	1818805	.	+	.	ID=Gene:LOC_Os06g04280;Note=3-phosphoshikimate+1-carboxyvinyltransferase%2C+chloroplast+precursor%2C+putative%2C+expressed;Alias=13106.t00313
+Chr6	MSU_osa1r6_db	processed_transcript	1815176	1818805	.	+	.	ID=mRNA:LOC_Os06g04280.1;Note=13106.m00380;Gene=LOC_Os06g04280
+Chr6	MSU_osa1r6_db	CDS	1815267	1815590	.	+	0	Parent=mRNA:LOC_Os06g04280.1
+Chr6	MSU_osa1r6_db	CDS	1816295	1816539	.	+	0	Parent=mRNA:LOC_Os06g04280.1
+Chr6	MSU_osa1r6_db	CDS	1816621	1816774	.	+	2	Parent=mRNA:LOC_Os06g04280.1
+Chr6	MSU_osa1r6_db	CDS	1817052	1817266	.	+	0	Parent=mRNA:LOC_Os06g04280.1
+Chr6	MSU_osa1r6_db	CDS	1817360	1817477	.	+	2	Parent=mRNA:LOC_Os06g04280.1
+Chr6	MSU_osa1r6_db	CDS	1817694	1817904	.	+	0	Parent=mRNA:LOC_Os06g04280.1
+Chr6	MSU_osa1r6_db	CDS	1818142	1818203	.	+	1	Parent=mRNA:LOC_Os06g04280.1
+Chr6	MSU_osa1r6_db	CDS	1818315	1818533	.	+	0	Parent=mRNA:LOC_Os06g04280.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	1815176	1815266	.	+	.	Parent=mRNA:LOC_Os06g04280.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	1818534	1818805	.	+	.	Parent=mRNA:LOC_Os06g04280.1
+Chr6	Protein-DB	peptide_p	1818484	1818528	.	?	.	Parent=mRNA:LOC_Os06g04280.1:P999_27135
+Chr6	Protein-DB	peptide_p	1818487	1818528	.	?	.	Parent=mRNA:LOC_Os06g04280.1:P999_27138

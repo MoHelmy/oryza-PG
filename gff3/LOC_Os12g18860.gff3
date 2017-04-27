@@ -1,0 +1,9 @@
+Chr12	MSU_osa1r6_db	gene	10932940	10939812	.	-	.	ID=Gene:LOC_Os12g18860;Note=OsPOP23+-+Putative+Prolyl+Oligopeptidase+homologue%2C+expressed;Alias=13112.t01735
+Chr12	MSU_osa1r6_db	processed_transcript	10932940	10939812	.	-	.	ID=mRNA:LOC_Os12g18860.1;Note=13112.m02010;Gene=LOC_Os12g18860
+Chr12	MSU_osa1r6_db	CDS	10939363	10939664	.	-	0	Parent=mRNA:LOC_Os12g18860.1
+Chr12	MSU_osa1r6_db	CDS	10937056	10937092	.	-	2	Parent=mRNA:LOC_Os12g18860.1
+Chr12	MSU_osa1r6_db	CDS	10936728	10936964	.	-	0	Parent=mRNA:LOC_Os12g18860.1
+Chr12	MSU_osa1r6_db	CDS	10936569	10936616	.	-	0	Parent=mRNA:LOC_Os12g18860.1
+Chr12	MSU_osa1r6_db	CDS	10933282	10933791	.	-	0	Parent=mRNA:LOC_Os12g18860.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	10939665	10939812	.	-	.	Parent=mRNA:LOC_Os12g18860.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	10932940	10933281	.	-	.	Parent=mRNA:LOC_Os12g18860.1

@@ -1,0 +1,13 @@
+Chr3	MSU_osa1r6_db	gene	10461368	10465165	.	+	.	ID=Gene:LOC_Os03g18690;Note=26S+protease+regulatory+subunit+4%2C+putative%2C+expressed;Alias=13103.t01659
+Chr3	MSU_osa1r6_db	processed_transcript	10461368	10465165	.	+	.	ID=mRNA:LOC_Os03g18690.1;Note=13103.m02238;Gene=LOC_Os03g18690
+Chr3	MSU_osa1r6_db	CDS	10461445	10461939	.	+	0	Parent=mRNA:LOC_Os03g18690.1
+Chr3	MSU_osa1r6_db	CDS	10463392	10463637	.	+	0	Parent=mRNA:LOC_Os03g18690.1
+Chr3	MSU_osa1r6_db	CDS	10463850	10464019	.	+	0	Parent=mRNA:LOC_Os03g18690.1
+Chr3	MSU_osa1r6_db	CDS	10464153	10464369	.	+	2	Parent=mRNA:LOC_Os03g18690.1
+Chr3	MSU_osa1r6_db	CDS	10464445	10464585	.	+	0	Parent=mRNA:LOC_Os03g18690.1
+Chr3	MSU_osa1r6_db	CDS	10464773	10464856	.	+	0	Parent=mRNA:LOC_Os03g18690.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	10461368	10461444	.	+	.	Parent=mRNA:LOC_Os03g18690.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	10464857	10465165	.	+	.	Parent=mRNA:LOC_Os03g18690.1
+Chr3	Protein-DB	peptide_p	10463956	10464018	.	?	.	Parent=mRNA:LOC_Os03g18690.1:P999_15018
+Chr3	Protein-DB	peptide_p	10464194	10464238	.	?	.	Parent=mRNA:LOC_Os03g18690.1:P999_15020
+Chr3	Protein-DB	peptide_p	10463887	10463913	.	?	.	Parent=mRNA:LOC_Os03g18690.1:P999_15021

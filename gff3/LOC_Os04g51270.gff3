@@ -1,0 +1,17 @@
+Chr4	MSU_osa1r6_db	gene	30189558	30191962	.	-	.	ID=Gene:LOC_Os04g51270;Note=vacuolar+ATPase+G+subunit%2C+putative%2C+expressed;Alias=13104.t04603
+Chr4	MSU_osa1r6_db	processed_transcript	30189558	30191962	.	-	.	ID=mRNA:LOC_Os04g51270.1;Note=13104.m05221;Gene=LOC_Os04g51270
+Chr4	MSU_osa1r6_db	CDS	30190604	30190691	.	-	0	Parent=mRNA:LOC_Os04g51270.1
+Chr4	MSU_osa1r6_db	CDS	30190075	30190175	.	-	1	Parent=mRNA:LOC_Os04g51270.1
+Chr4	MSU_osa1r6_db	CDS	30189833	30189976	.	-	0	Parent=mRNA:LOC_Os04g51270.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	30191864	30191962	.	-	.	Parent=mRNA:LOC_Os04g51270.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	30190692	30190698	.	-	.	Parent=mRNA:LOC_Os04g51270.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	30189558	30189832	.	-	.	Parent=mRNA:LOC_Os04g51270.1
+Chr4	MSU_osa1r6_db	processed_transcript	30189558	30191958	.	-	.	ID=mRNA:LOC_Os04g51270.2;Note=13104.m05222;Gene=LOC_Os04g51270
+Chr4	MSU_osa1r6_db	CDS	30190604	30190691	.	-	0	Parent=mRNA:LOC_Os04g51270.2
+Chr4	MSU_osa1r6_db	CDS	30190075	30190175	.	-	1	Parent=mRNA:LOC_Os04g51270.2
+Chr4	MSU_osa1r6_db	CDS	30189833	30189976	.	-	0	Parent=mRNA:LOC_Os04g51270.2
+Chr4	MSU_osa1r6_db	five_prime_UTR	30191864	30191958	.	-	.	Parent=mRNA:LOC_Os04g51270.2
+Chr4	MSU_osa1r6_db	five_prime_UTR	30190692	30190701	.	-	.	Parent=mRNA:LOC_Os04g51270.2
+Chr4	MSU_osa1r6_db	three_prime_UTR	30189558	30189832	.	-	.	Parent=mRNA:LOC_Os04g51270.2
+Chr4	Protein-DB	peptide_p	30191408	30191434	.	?	.	Parent=mRNA:LOC_Os04g51270.1:P999_21505
+Chr4	Protein-DB	peptide_p	30190848	30190913	.	?	.	Parent=mRNA:LOC_Os04g51270.1:P999_21506

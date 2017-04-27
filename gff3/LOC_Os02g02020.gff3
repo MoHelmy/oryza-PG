@@ -1,0 +1,15 @@
+Chr2	MSU_osa1r6_db	gene	561823	564487	.	-	.	ID=Gene:LOC_Os02g02020;Note=pentatricopeptide%2C+putative%2C+expressed;Alias=13102.t00106
+Chr2	MSU_osa1r6_db	processed_transcript	561823	564487	.	-	.	ID=mRNA:LOC_Os02g02020.1;Note=13102.m00131;Gene=LOC_Os02g02020
+Chr2	MSU_osa1r6_db	CDS	562163	564406	.	-	0	Parent=mRNA:LOC_Os02g02020.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	564407	564487	.	-	.	Parent=mRNA:LOC_Os02g02020.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	561823	562162	.	-	.	Parent=mRNA:LOC_Os02g02020.1
+Chr2	Protein-DB	peptide_p	563924	563953	.	?	.	Parent=mRNA:LOC_Os02g02020.1:P999_6595
+Chr2	Protein-DB	peptide_p	563273	563344	.	?	.	Parent=mRNA:LOC_Os02g02020.1:P999_6596
+Chr2	Protein-DB	peptide_p	562292	562354	.	?	.	Parent=mRNA:LOC_Os02g02020.1:P999_6597
+Chr2	Protein-DB	peptide_p	562250	562276	.	?	.	Parent=mRNA:LOC_Os02g02020.1:P999_6598
+Chr2	Protein-DB	peptide_p	563867	563890	.	?	.	Parent=mRNA:LOC_Os02g02020.1:P999_6599
+Chr2	Protein-DB	peptide_p	564017	564046	.	?	.	Parent=mRNA:LOC_Os02g02020.1:P999_6600
+Chr2	Protein-DB	peptide_p	563429	563476	.	?	.	Parent=mRNA:LOC_Os02g02020.1:P999_6601
+Chr2	Protein-DB	peptide_p	563489	563533	.	?	.	Parent=mRNA:LOC_Os02g02020.1:P999_6602
+Chr2	Protein-DB	peptide_p	562949	562993	.	?	.	Parent=mRNA:LOC_Os02g02020.1:P999_6603
+Chr2	Protein-DB	peptide_p	563747	563773	.	?	.	Parent=mRNA:LOC_Os02g02020.1:P999_6604

@@ -1,0 +1,10 @@
+Chr11	MSU_osa1r6_db	gene	18706576	18708656	.	+	.	ID=Gene:LOC_Os11g32480;Note=TPR+repeat+region+family+protein%2C+expressed;Alias=13111.t02840
+Chr11	MSU_osa1r6_db	processed_transcript	18706576	18708656	.	+	.	ID=mRNA:LOC_Os11g32480.1;Note=13111.m03166;Gene=LOC_Os11g32480
+Chr11	MSU_osa1r6_db	CDS	18706634	18706854	.	+	0	Parent=mRNA:LOC_Os11g32480.1
+Chr11	MSU_osa1r6_db	CDS	18706958	18707084	.	+	2	Parent=mRNA:LOC_Os11g32480.1
+Chr11	MSU_osa1r6_db	CDS	18708074	18708142	.	+	0	Parent=mRNA:LOC_Os11g32480.1
+Chr11	MSU_osa1r6_db	CDS	18708231	18708374	.	+	0	Parent=mRNA:LOC_Os11g32480.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	18706576	18706633	.	+	.	Parent=mRNA:LOC_Os11g32480.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	18708375	18708656	.	+	.	Parent=mRNA:LOC_Os11g32480.1
+Chr11	Protein-DB	peptide_p	18708096	18708146	.	?	.	Parent=mRNA:LOC_Os11g32480.1:P999_40625
+Chr11	Protein-DB	peptide_p	18708075	18708095	.	?	.	Parent=mRNA:LOC_Os11g32480.1:P999_40626

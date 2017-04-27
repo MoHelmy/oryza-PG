@@ -1,0 +1,11 @@
+Chr2	MSU_osa1r6_db	gene	5924720	5930096	.	+	.	ID=Gene:LOC_Os02g11060;Note=WD+domain%2C+G-beta+repeat+domain+containing+protein%2C+expressed;Alias=13102.t00962
+Chr2	MSU_osa1r6_db	processed_transcript	5924720	5930096	.	+	.	ID=mRNA:LOC_Os02g11060.1;Note=13102.m01246;Gene=LOC_Os02g11060
+Chr2	MSU_osa1r6_db	CDS	5925048	5925165	.	+	0	Parent=mRNA:LOC_Os02g11060.1
+Chr2	MSU_osa1r6_db	CDS	5926133	5926268	.	+	1	Parent=mRNA:LOC_Os02g11060.1
+Chr2	MSU_osa1r6_db	CDS	5926832	5926913	.	+	2	Parent=mRNA:LOC_Os02g11060.1
+Chr2	MSU_osa1r6_db	CDS	5927772	5927947	.	+	0	Parent=mRNA:LOC_Os02g11060.1
+Chr2	MSU_osa1r6_db	CDS	5928594	5928731	.	+	2	Parent=mRNA:LOC_Os02g11060.1
+Chr2	MSU_osa1r6_db	CDS	5928817	5928956	.	+	2	Parent=mRNA:LOC_Os02g11060.1
+Chr2	MSU_osa1r6_db	CDS	5929546	5929784	.	+	1	Parent=mRNA:LOC_Os02g11060.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	5924720	5925047	.	+	.	Parent=mRNA:LOC_Os02g11060.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	5929785	5930096	.	+	.	Parent=mRNA:LOC_Os02g11060.1

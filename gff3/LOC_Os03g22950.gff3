@@ -1,0 +1,7 @@
+Chr3	MSU_osa1r6_db	gene	13256950	13259356	.	-	.	ID=Gene:LOC_Os03g22950;Note=acyl+carrier+protein%2C+putative%2C+expressed;Alias=13103.t02073
+Chr3	MSU_osa1r6_db	processed_transcript	13256950	13259356	.	-	.	ID=mRNA:LOC_Os03g22950.1;Note=13103.m02774;Gene=LOC_Os03g22950
+Chr3	MSU_osa1r6_db	CDS	13259012	13259242	.	-	0	Parent=mRNA:LOC_Os03g22950.1
+Chr3	MSU_osa1r6_db	CDS	13257211	13257387	.	-	0	Parent=mRNA:LOC_Os03g22950.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	13259243	13259356	.	-	.	Parent=mRNA:LOC_Os03g22950.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	13256950	13257210	.	-	.	Parent=mRNA:LOC_Os03g22950.1
+Chr3	Protein-DB	peptide_p	13259055	13259093	.	?	.	Parent=mRNA:LOC_Os03g22950.1:P999_15704

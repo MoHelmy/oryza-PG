@@ -1,0 +1,7 @@
+Chr6	MSU_osa1r6_db	gene	6170586	6175330	.	-	.	ID=Gene:LOC_Os06g11640;Note=serine%2Fthreonine-protein+phosphatase+2A+activator+2%2C+putative%2C+expressed;Alias=13106.t01039
+Chr6	MSU_osa1r6_db	processed_transcript	6170586	6175330	.	-	.	ID=mRNA:LOC_Os06g11640.1;Note=13106.m01263;Gene=LOC_Os06g11640
+Chr6	MSU_osa1r6_db	CDS	6174078	6175258	.	-	0	Parent=mRNA:LOC_Os06g11640.1
+Chr6	MSU_osa1r6_db	CDS	6171062	6171071	.	-	2	Parent=mRNA:LOC_Os06g11640.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	6175259	6175330	.	-	.	Parent=mRNA:LOC_Os06g11640.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	6170586	6171061	.	-	.	Parent=mRNA:LOC_Os06g11640.1
+Chr6	Protein-DB	peptide_p	6171439	6171468	.	?	.	Parent=mRNA:LOC_Os06g11640.1:P999_27739

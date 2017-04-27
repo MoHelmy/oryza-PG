@@ -1,0 +1,13 @@
+Chr7	MSU_osa1r6_db	gene	8315330	8320435	.	+	.	ID=Gene:LOC_Os07g14580;Note=mRNA-decapping+enzyme%2C+putative%2C+expressed;Alias=13107.t01324
+Chr7	MSU_osa1r6_db	processed_transcript	8315330	8320435	.	+	.	ID=mRNA:LOC_Os07g14580.1;Note=13107.m01530;Gene=LOC_Os07g14580
+Chr7	MSU_osa1r6_db	CDS	8315555	8315731	.	+	0	Parent=mRNA:LOC_Os07g14580.1
+Chr7	MSU_osa1r6_db	CDS	8315837	8315877	.	+	0	Parent=mRNA:LOC_Os07g14580.1
+Chr7	MSU_osa1r6_db	CDS	8316920	8316969	.	+	2	Parent=mRNA:LOC_Os07g14580.1
+Chr7	MSU_osa1r6_db	CDS	8317351	8317495	.	+	1	Parent=mRNA:LOC_Os07g14580.1
+Chr7	MSU_osa1r6_db	CDS	8318419	8318475	.	+	2	Parent=mRNA:LOC_Os07g14580.1
+Chr7	MSU_osa1r6_db	CDS	8318990	8319110	.	+	2	Parent=mRNA:LOC_Os07g14580.1
+Chr7	MSU_osa1r6_db	CDS	8319285	8319794	.	+	0	Parent=mRNA:LOC_Os07g14580.1
+Chr7	MSU_osa1r6_db	CDS	8320091	8320138	.	+	0	Parent=mRNA:LOC_Os07g14580.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	8315330	8315554	.	+	.	Parent=mRNA:LOC_Os07g14580.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	8320139	8320435	.	+	.	Parent=mRNA:LOC_Os07g14580.1
+Chr7	Protein-DB	peptide_p	8320083	8320121	.	?	.	Parent=mRNA:LOC_Os07g14580.1:P999_30707

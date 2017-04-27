@@ -1,0 +1,8 @@
+Chr6	MSU_osa1r6_db	gene	4228185	4232158	.	-	.	ID=Gene:LOC_Os06g08550;Note=BTBN14+-+Bric-a-Brac%2C+Tramtrack%2C+Broad+Complex+BTB+domain+with+non-phototropic+hypocotyl+3+NPH3+domain%2C+expressed;Alias=13106.t00734
+Chr6	MSU_osa1r6_db	processed_transcript	4228185	4232158	.	-	.	ID=mRNA:LOC_Os06g08550.1;Note=13106.m00897;Gene=LOC_Os06g08550
+Chr6	MSU_osa1r6_db	CDS	4231923	4231987	.	-	0	Parent=mRNA:LOC_Os06g08550.1
+Chr6	MSU_osa1r6_db	CDS	4230875	4230944	.	-	2	Parent=mRNA:LOC_Os06g08550.1
+Chr6	MSU_osa1r6_db	CDS	4229247	4230422	.	-	0	Parent=mRNA:LOC_Os06g08550.1
+Chr6	MSU_osa1r6_db	CDS	4228444	4229067	.	-	0	Parent=mRNA:LOC_Os06g08550.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	4231988	4232158	.	-	.	Parent=mRNA:LOC_Os06g08550.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	4228185	4228443	.	-	.	Parent=mRNA:LOC_Os06g08550.1

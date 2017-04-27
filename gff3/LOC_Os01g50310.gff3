@@ -1,0 +1,8 @@
+Chr1	MSU_osa1r6_db	gene	28880348	28881909	.	-	.	ID=Gene:LOC_Os01g50310;Note=VIP1+protein%2C+putative%2C+expressed;Alias=13101.t04384
+Chr1	MSU_osa1r6_db	processed_transcript	28880348	28881909	.	-	.	ID=mRNA:LOC_Os01g50310.1;Note=13101.m05233;Gene=LOC_Os01g50310
+Chr1	MSU_osa1r6_db	CDS	28880771	28881814	.	-	0	Parent=mRNA:LOC_Os01g50310.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	28881815	28881909	.	-	.	Parent=mRNA:LOC_Os01g50310.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	28880348	28880770	.	-	.	Parent=mRNA:LOC_Os01g50310.1
+Chr1	Protein-DB	peptide_p	28880453	28880500	.	?	.	Parent=mRNA:LOC_Os01g50310.1:P999_3856
+Chr1	Protein-DB	peptide_p	28880660	28880686	.	?	.	Parent=mRNA:LOC_Os01g50310.1:P999_3859
+Chr1	Protein-DB	peptide_p	28881137	28881175	.	?	.	Parent=mRNA:LOC_Os01g50310.1:P999_3861

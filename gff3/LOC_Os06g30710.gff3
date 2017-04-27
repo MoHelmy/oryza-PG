@@ -1,0 +1,17 @@
+Chr6	MSU_osa1r6_db	gene	17811061	17815175	.	+	.	ID=Gene:LOC_Os06g30710;Note=DGCR14%2C+putative%2C+expressed;Alias=13106.t02754
+Chr6	MSU_osa1r6_db	processed_transcript	17811088	17815175	.	+	.	ID=mRNA:LOC_Os06g30710.1;Note=13106.m03174;Gene=LOC_Os06g30710
+Chr6	MSU_osa1r6_db	CDS	17811209	17812723	.	+	0	Parent=mRNA:LOC_Os06g30710.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	17811088	17811208	.	+	.	Parent=mRNA:LOC_Os06g30710.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	17812724	17812740	.	+	.	Parent=mRNA:LOC_Os06g30710.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	17814413	17814478	.	+	.	Parent=mRNA:LOC_Os06g30710.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	17814731	17815175	.	+	.	Parent=mRNA:LOC_Os06g30710.1
+Chr6	MSU_osa1r6_db	processed_transcript	17811061	17814617	.	+	.	ID=mRNA:LOC_Os06g30710.2;Note=13106.m03176;Gene=LOC_Os06g30710
+Chr6	MSU_osa1r6_db	CDS	17811209	17812723	.	+	0	Parent=mRNA:LOC_Os06g30710.2
+Chr6	MSU_osa1r6_db	five_prime_UTR	17811061	17811208	.	+	.	Parent=mRNA:LOC_Os06g30710.2
+Chr6	MSU_osa1r6_db	three_prime_UTR	17812724	17812740	.	+	.	Parent=mRNA:LOC_Os06g30710.2
+Chr6	MSU_osa1r6_db	three_prime_UTR	17814413	17814617	.	+	.	Parent=mRNA:LOC_Os06g30710.2
+Chr6	MSU_osa1r6_db	processed_transcript	17811061	17815175	.	+	.	ID=mRNA:LOC_Os06g30710.3;Note=13106.m03175;Gene=LOC_Os06g30710
+Chr6	MSU_osa1r6_db	CDS	17811209	17812723	.	+	0	Parent=mRNA:LOC_Os06g30710.3
+Chr6	MSU_osa1r6_db	five_prime_UTR	17811061	17811208	.	+	.	Parent=mRNA:LOC_Os06g30710.3
+Chr6	MSU_osa1r6_db	three_prime_UTR	17812724	17812740	.	+	.	Parent=mRNA:LOC_Os06g30710.3
+Chr6	MSU_osa1r6_db	three_prime_UTR	17814731	17815175	.	+	.	Parent=mRNA:LOC_Os06g30710.3

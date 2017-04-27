@@ -1,0 +1,5 @@
+Chr4	MSU_osa1r6_db	gene	27275691	27278353	.	-	.	ID=Gene:LOC_Os04g46320;Note=inactive+receptor+kinase+At2g26730+precursor%2C+putative%2C+expressed;Alias=13104.t04148
+Chr4	MSU_osa1r6_db	processed_transcript	27275691	27278353	.	-	.	ID=mRNA:LOC_Os04g46320.1;Note=13104.m04658;Gene=LOC_Os04g46320
+Chr4	MSU_osa1r6_db	CDS	27277819	27278353	.	-	0	Parent=mRNA:LOC_Os04g46320.1
+Chr4	MSU_osa1r6_db	CDS	27276006	27276586	.	-	1	Parent=mRNA:LOC_Os04g46320.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	27275691	27276005	.	-	.	Parent=mRNA:LOC_Os04g46320.1

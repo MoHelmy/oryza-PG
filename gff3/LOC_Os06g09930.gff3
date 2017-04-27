@@ -1,0 +1,13 @@
+Chr6	MSU_osa1r6_db	gene	5059661	5064028	.	+	.	ID=Gene:LOC_Os06g09930;Note=G+protein+coupled+receptor%2C+putative%2C+expressed;Alias=13106.t00869
+Chr6	MSU_osa1r6_db	processed_transcript	5059661	5064028	.	+	.	ID=mRNA:LOC_Os06g09930.1;Note=13106.m01074;Gene=LOC_Os06g09930
+Chr6	MSU_osa1r6_db	CDS	5059739	5059927	.	+	0	Parent=mRNA:LOC_Os06g09930.1
+Chr6	MSU_osa1r6_db	CDS	5060551	5060582	.	+	0	Parent=mRNA:LOC_Os06g09930.1
+Chr6	MSU_osa1r6_db	CDS	5060813	5060982	.	+	2	Parent=mRNA:LOC_Os06g09930.1
+Chr6	MSU_osa1r6_db	CDS	5061477	5061571	.	+	1	Parent=mRNA:LOC_Os06g09930.1
+Chr6	MSU_osa1r6_db	CDS	5062153	5062254	.	+	0	Parent=mRNA:LOC_Os06g09930.1
+Chr6	MSU_osa1r6_db	CDS	5062375	5062431	.	+	0	Parent=mRNA:LOC_Os06g09930.1
+Chr6	MSU_osa1r6_db	CDS	5062760	5062903	.	+	0	Parent=mRNA:LOC_Os06g09930.1
+Chr6	MSU_osa1r6_db	CDS	5063359	5063429	.	+	0	Parent=mRNA:LOC_Os06g09930.1
+Chr6	MSU_osa1r6_db	CDS	5063547	5063652	.	+	2	Parent=mRNA:LOC_Os06g09930.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	5059661	5059738	.	+	.	Parent=mRNA:LOC_Os06g09930.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	5063653	5064028	.	+	.	Parent=mRNA:LOC_Os06g09930.1

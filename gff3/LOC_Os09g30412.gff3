@@ -1,0 +1,19 @@
+Chr9	MSU_osa1r6_db	gene	18513571	18517315	.	-	.	ID=Gene:LOC_Os09g30412;Note=heat+shock+protein%2C+putative%2C+expressed;Alias=13109.t02721
+Chr9	MSU_osa1r6_db	processed_transcript	18513571	18517315	.	-	.	ID=mRNA:LOC_Os09g30412.1;Note=13109.m03041;Gene=LOC_Os09g30412
+Chr9	MSU_osa1r6_db	CDS	18517065	18517190	.	-	0	Parent=mRNA:LOC_Os09g30412.1
+Chr9	MSU_osa1r6_db	CDS	18516243	18516665	.	-	0	Parent=mRNA:LOC_Os09g30412.1
+Chr9	MSU_osa1r6_db	CDS	18513959	18515509	.	-	0	Parent=mRNA:LOC_Os09g30412.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	18517191	18517315	.	-	.	Parent=mRNA:LOC_Os09g30412.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	18513571	18513958	.	-	.	Parent=mRNA:LOC_Os09g30412.1
+Chr9	Protein-DB	peptide_p	3070	3117	.	?	.	Parent=mRNA:LOC_Os09g30412.1:P35799
+Chr9	Protein-DB	peptide_p	3070	3120	.	?	.	Parent=mRNA:LOC_Os09g30412.1:P35801
+Chr9	Protein-DB	peptide_p	3073	3120	.	?	.	Parent=mRNA:LOC_Os09g30412.1:P35802
+Chr9	Protein-DB	peptide_p	3073	3117	.	?	.	Parent=mRNA:LOC_Os09g30412.1:P35806
+Chr9	Protein-DB	peptide_p	1804	1827	.	?	.	Parent=mRNA:LOC_Os09g30412.1:P35811
+Chr9	Protein-DB	peptide_p	228	251	.	?	.	Parent=mRNA:LOC_Os09g30412.1:P35813
+Chr9	Protein-DB	peptide_p	2215	2241	.	?	.	Parent=mRNA:LOC_Os09g30412.1:P35833
+Chr9	Protein-DB	peptide_p	2584	2610	.	?	.	Parent=mRNA:LOC_Os09g30412.1:P35839
+Chr9	Protein-DB	peptide_p	2815	2850	.	?	.	Parent=mRNA:LOC_Os09g30412.1:P35844
+Chr9	Protein-DB	peptide_p	696	740	.	?	.	Parent=mRNA:LOC_Os09g30412.1:P35849
+Chr9	cDNA-DB	peptide_c	18516290	18516349	.	?	.	Parent=mRNA:LOC_Os09g30412.1:PC_25
+

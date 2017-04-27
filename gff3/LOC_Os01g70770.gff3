@@ -1,0 +1,13 @@
+Chr1	MSU_osa1r6_db	gene	40961358	40963205	.	-	.	ID=Gene:LOC_Os01g70770;Note=glutathione+S-transferase%2C+putative%2C+expressed;Alias=13101.t06301
+Chr1	MSU_osa1r6_db	processed_transcript	40961358	40963205	.	-	.	ID=mRNA:LOC_Os01g70770.1;Note=13101.m07698;Gene=LOC_Os01g70770
+Chr1	MSU_osa1r6_db	CDS	40962880	40963041	.	-	0	Parent=mRNA:LOC_Os01g70770.1
+Chr1	MSU_osa1r6_db	CDS	40962721	40962769	.	-	0	Parent=mRNA:LOC_Os01g70770.1
+Chr1	MSU_osa1r6_db	CDS	40961820	40962274	.	-	1	Parent=mRNA:LOC_Os01g70770.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	40963042	40963205	.	-	.	Parent=mRNA:LOC_Os01g70770.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	40961358	40961819	.	-	.	Parent=mRNA:LOC_Os01g70770.1
+Chr1	Protein-DB	peptide_p	40962325	40962375	.	?	.	Parent=mRNA:LOC_Os01g70770.1:P999_5814
+Chr1	Protein-DB	peptide_p	40961550	40961585	.	?	.	Parent=mRNA:LOC_Os01g70770.1:P999_5816
+Chr1	Protein-DB	peptide_p	40962625	40962666	.	?	.	Parent=mRNA:LOC_Os01g70770.1:P999_5819
+Chr1	Protein-DB	peptide_p	40962667	40962705	.	?	.	Parent=mRNA:LOC_Os01g70770.1:P999_5820
+Chr1	Protein-DB	peptide_p	40961610	40961645	.	?	.	Parent=mRNA:LOC_Os01g70770.1:P999_5821
+Chr1	Protein-DB	peptide_p	40962574	40962624	.	?	.	Parent=mRNA:LOC_Os01g70770.1:P999_5822

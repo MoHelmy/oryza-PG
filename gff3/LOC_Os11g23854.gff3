@@ -1,0 +1,8 @@
+Chr11	MSU_osa1r6_db	gene	13042658	13043497	.	-	.	ID=Gene:LOC_Os11g23854;Note=4F5+protein+family+protein%2C+expressed;Alias=13111.t02005
+Chr11	MSU_osa1r6_db	processed_transcript	13042658	13043497	.	-	.	ID=mRNA:LOC_Os11g23854.1;Note=13111.m02268;Gene=LOC_Os11g23854
+Chr11	MSU_osa1r6_db	CDS	13043349	13043355	.	-	0	Parent=mRNA:LOC_Os11g23854.1
+Chr11	MSU_osa1r6_db	CDS	13043116	13043215	.	-	1	Parent=mRNA:LOC_Os11g23854.1
+Chr11	MSU_osa1r6_db	CDS	13042901	13043006	.	-	2	Parent=mRNA:LOC_Os11g23854.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	13043356	13043497	.	-	.	Parent=mRNA:LOC_Os11g23854.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	13042658	13042900	.	-	.	Parent=mRNA:LOC_Os11g23854.1
+Chr11	Protein-DB	peptide_p	13043000	13043032	.	?	.	Parent=mRNA:LOC_Os11g23854.1:P999_40219

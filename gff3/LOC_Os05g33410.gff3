@@ -1,0 +1,6 @@
+Chr5	MSU_osa1r6_db	gene	19571947	19573550	.	+	.	ID=Gene:LOC_Os05g33410;Note=xylanase+inhibitor%2C+putative%2C+expressed;Alias=13105.t02962
+Chr5	MSU_osa1r6_db	processed_transcript	19571947	19573550	.	+	.	ID=mRNA:LOC_Os05g33410.1;Note=13105.m03453;Gene=LOC_Os05g33410
+Chr5	MSU_osa1r6_db	CDS	19571985	19573298	.	+	0	Parent=mRNA:LOC_Os05g33410.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	19571947	19571984	.	+	.	Parent=mRNA:LOC_Os05g33410.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	19573299	19573550	.	+	.	Parent=mRNA:LOC_Os05g33410.1
+Chr5	Protein-DB	peptide_p	19573237	19573266	.	?	.	Parent=mRNA:LOC_Os05g33410.1:P999_24802

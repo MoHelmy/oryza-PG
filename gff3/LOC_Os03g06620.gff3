@@ -1,0 +1,17 @@
+Chr3	MSU_osa1r6_db	gene	3337265	3340256	.	+	.	ID=Gene:LOC_Os03g06620;Note=1%2C2-dihydroxy-3-keto-5-methylthiopentene+dioxygenase+protein%2C+putative%2C+expressed;Alias=13103.t00538
+Chr3	MSU_osa1r6_db	processed_transcript	3337265	3340256	.	+	.	ID=mRNA:LOC_Os03g06620.1;Note=13103.m00726;Gene=LOC_Os03g06620
+Chr3	MSU_osa1r6_db	CDS	3337407	3337424	.	+	0	Parent=mRNA:LOC_Os03g06620.1
+Chr3	MSU_osa1r6_db	CDS	3338366	3338477	.	+	0	Parent=mRNA:LOC_Os03g06620.1
+Chr3	MSU_osa1r6_db	CDS	3338598	3338692	.	+	1	Parent=mRNA:LOC_Os03g06620.1
+Chr3	MSU_osa1r6_db	CDS	3338766	3338880	.	+	0	Parent=mRNA:LOC_Os03g06620.1
+Chr3	MSU_osa1r6_db	CDS	3339000	3339124	.	+	1	Parent=mRNA:LOC_Os03g06620.1
+Chr3	MSU_osa1r6_db	CDS	3339354	3339424	.	+	0	Parent=mRNA:LOC_Os03g06620.1
+Chr3	MSU_osa1r6_db	CDS	3339517	3339577	.	+	2	Parent=mRNA:LOC_Os03g06620.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	3337265	3337406	.	+	.	Parent=mRNA:LOC_Os03g06620.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	3339578	3340256	.	+	.	Parent=mRNA:LOC_Os03g06620.1
+Chr3	Protein-DB	peptide_p	3338622	3338663	.	?	.	Parent=mRNA:LOC_Os03g06620.1:P999_13328
+Chr3	Protein-DB	peptide_p	3339096	3339125	.	?	.	Parent=mRNA:LOC_Os03g06620.1:P999_13329
+Chr3	Protein-DB	peptide_p	3338815	3338862	.	?	.	Parent=mRNA:LOC_Os03g06620.1:P999_13330
+Chr3	Protein-DB	peptide_p	3338598	3338621	.	?	.	Parent=mRNA:LOC_Os03g06620.1:P999_13331
+Chr3	Protein-DB	peptide_p	3338863	3338883	.	?	.	Parent=mRNA:LOC_Os03g06620.1:P999_13337
+Chr3	Protein-DB	peptide_p	3339018	3339041	.	?	.	Parent=mRNA:LOC_Os03g06620.1:P999_13339

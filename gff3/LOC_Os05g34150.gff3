@@ -1,0 +1,11 @@
+Chr5	MSU_osa1r6_db	gene	20129834	20131259	.	-	.	ID=Gene:LOC_Os05g34150;Note=glutathione+S-transferase%2C+putative%2C+expressed;Alias=13105.t03037
+Chr5	MSU_osa1r6_db	processed_transcript	20129834	20131259	.	-	.	ID=mRNA:LOC_Os05g34150.1;Note=13105.m03546;Gene=LOC_Os05g34150
+Chr5	MSU_osa1r6_db	CDS	20130793	20131131	.	-	0	Parent=mRNA:LOC_Os05g34150.1
+Chr5	MSU_osa1r6_db	CDS	20130237	20130722	.	-	0	Parent=mRNA:LOC_Os05g34150.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	20131132	20131259	.	-	.	Parent=mRNA:LOC_Os05g34150.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	20129834	20130236	.	-	.	Parent=mRNA:LOC_Os05g34150.1
+Chr5	Protein-DB	peptide_p	20130372	20130413	.	?	.	Parent=mRNA:LOC_Os05g34150.1:P999_24854
+Chr5	Protein-DB	peptide_p	20130414	20130476	.	?	.	Parent=mRNA:LOC_Os05g34150.1:P999_24855
+Chr5	Protein-DB	peptide_p	20130005	20130040	.	?	.	Parent=mRNA:LOC_Os05g34150.1:P999_24856
+Chr5	Protein-DB	peptide_p	20130143	20130166	.	?	.	Parent=mRNA:LOC_Os05g34150.1:P999_24857
+Chr5	Protein-DB	peptide_p	20130146	20130166	.	?	.	Parent=mRNA:LOC_Os05g34150.1:P999_24861

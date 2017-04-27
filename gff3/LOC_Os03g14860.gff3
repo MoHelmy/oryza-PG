@@ -1,0 +1,3 @@
+Chr3	MSU_osa1r6_db	gene	8100510	8101796	.	-	.	ID=Gene:LOC_Os03g14860;Note=G-patch+domain+containing+protein%2C+expressed;Alias=13103.t01292
+Chr3	MSU_osa1r6_db	processed_transcript	8100510	8101796	.	-	.	ID=mRNA:LOC_Os03g14860.1;Note=13103.m01737;Gene=LOC_Os03g14860
+Chr3	MSU_osa1r6_db	CDS	8100510	8101796	.	-	0	Parent=mRNA:LOC_Os03g14860.1

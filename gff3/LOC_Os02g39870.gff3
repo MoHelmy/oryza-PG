@@ -1,0 +1,7 @@
+Chr2	MSU_osa1r6_db	gene	24085071	24088402	.	+	.	ID=Gene:LOC_Os02g39870;Note=co-chaperone+GrpE+protein%2C+putative%2C+expressed;Alias=13102.t03648
+Chr2	MSU_osa1r6_db	processed_transcript	24085071	24088402	.	+	.	ID=mRNA:LOC_Os02g39870.1;Note=13102.m04427;Gene=LOC_Os02g39870
+Chr2	MSU_osa1r6_db	CDS	24085071	24085322	.	+	0	Parent=mRNA:LOC_Os02g39870.1
+Chr2	MSU_osa1r6_db	CDS	24087085	24087588	.	+	0	Parent=mRNA:LOC_Os02g39870.1
+Chr2	MSU_osa1r6_db	CDS	24087832	24088074	.	+	0	Parent=mRNA:LOC_Os02g39870.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	24088075	24088402	.	+	.	Parent=mRNA:LOC_Os02g39870.1
+Chr2	Protein-DB	peptide_p	24087275	24087310	.	?	.	Parent=mRNA:LOC_Os02g39870.1:P999_10109

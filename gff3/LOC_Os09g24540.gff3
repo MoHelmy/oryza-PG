@@ -1,0 +1,11 @@
+Chr9	MSU_osa1r6_db	gene	14609698	14612280	.	-	.	ID=Gene:LOC_Os09g24540;Note=peptidyl-prolyl+cis-trans+isomerase%2C+putative%2C+expressed;Alias=13109.t02144
+Chr9	MSU_osa1r6_db	processed_transcript	14609698	14612280	.	-	.	ID=mRNA:LOC_Os09g24540.1;Note=13109.m02329;Gene=LOC_Os09g24540
+Chr9	MSU_osa1r6_db	CDS	14612019	14612169	.	-	0	Parent=mRNA:LOC_Os09g24540.1
+Chr9	MSU_osa1r6_db	CDS	14611590	14611699	.	-	1	Parent=mRNA:LOC_Os09g24540.1
+Chr9	MSU_osa1r6_db	CDS	14610474	14610616	.	-	0	Parent=mRNA:LOC_Os09g24540.1
+Chr9	MSU_osa1r6_db	CDS	14610158	14610200	.	-	2	Parent=mRNA:LOC_Os09g24540.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	14612170	14612280	.	-	.	Parent=mRNA:LOC_Os09g24540.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	14609698	14610157	.	-	.	Parent=mRNA:LOC_Os09g24540.1
+Chr9	Protein-DB	peptide_p	14611435	14611500	.	?	.	Parent=mRNA:LOC_Os09g24540.1:P999_35550
+Chr9	Protein-DB	peptide_p	14609924	14609959	.	?	.	Parent=mRNA:LOC_Os09g24540.1:P999_35553
+Chr9	Protein-DB	peptide_p	14611363	14611398	.	?	.	Parent=mRNA:LOC_Os09g24540.1:P999_35554

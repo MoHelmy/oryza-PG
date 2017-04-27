@@ -1,0 +1,13 @@
+Chr6	MSU_osa1r6_db	gene	2090206	2093692	.	-	.	ID=Gene:LOC_Os06g04800;Note=peptidase%2C+T1+family%2C+putative%2C+expressed;Alias=13106.t00364
+Chr6	MSU_osa1r6_db	processed_transcript	2090206	2093692	.	-	.	ID=mRNA:LOC_Os06g04800.1;Note=13106.m00444;Gene=LOC_Os06g04800
+Chr6	MSU_osa1r6_db	CDS	2093393	2093534	.	-	0	Parent=mRNA:LOC_Os06g04800.1
+Chr6	MSU_osa1r6_db	CDS	2092688	2092764	.	-	1	Parent=mRNA:LOC_Os06g04800.1
+Chr6	MSU_osa1r6_db	CDS	2092300	2092355	.	-	0	Parent=mRNA:LOC_Os06g04800.1
+Chr6	MSU_osa1r6_db	CDS	2092045	2092117	.	-	2	Parent=mRNA:LOC_Os06g04800.1
+Chr6	MSU_osa1r6_db	CDS	2091801	2091912	.	-	0	Parent=mRNA:LOC_Os06g04800.1
+Chr6	MSU_osa1r6_db	CDS	2091343	2091416	.	-	1	Parent=mRNA:LOC_Os06g04800.1
+Chr6	MSU_osa1r6_db	CDS	2091054	2091128	.	-	0	Parent=mRNA:LOC_Os06g04800.1
+Chr6	MSU_osa1r6_db	CDS	2090436	2090567	.	-	0	Parent=mRNA:LOC_Os06g04800.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	2093535	2093692	.	-	.	Parent=mRNA:LOC_Os06g04800.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	2090206	2090435	.	-	.	Parent=mRNA:LOC_Os06g04800.1
+Chr6	Protein-DB	peptide_p	2091544	2091579	.	?	.	Parent=mRNA:LOC_Os06g04800.1:P999_27187

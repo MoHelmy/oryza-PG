@@ -1,0 +1,14 @@
+Chr2	MSU_osa1r6_db	gene	33950422	33953880	.	-	.	ID=Gene:LOC_Os02g55440;Note=transmembrane+9+superfamily+member%2C+putative%2C+expressed;Alias=13102.t05170
+Chr2	MSU_osa1r6_db	processed_transcript	33951268	33953880	.	-	.	ID=mRNA:LOC_Os02g55440.1;Note=13102.m06357;Gene=LOC_Os02g55440
+Chr2	MSU_osa1r6_db	CDS	33951676	33953673	.	-	0	Parent=mRNA:LOC_Os02g55440.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	33953674	33953880	.	-	.	Parent=mRNA:LOC_Os02g55440.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	33951268	33951675	.	-	.	Parent=mRNA:LOC_Os02g55440.1
+Chr2	MSU_osa1r6_db	processed_transcript	33950422	33953880	.	-	.	ID=mRNA:LOC_Os02g55440.2;Note=13102.m06356;Gene=LOC_Os02g55440
+Chr2	MSU_osa1r6_db	CDS	33951676	33953673	.	-	0	Parent=mRNA:LOC_Os02g55440.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	33953674	33953880	.	-	.	Parent=mRNA:LOC_Os02g55440.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	33951639	33951675	.	-	.	Parent=mRNA:LOC_Os02g55440.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	33950422	33950687	.	-	.	Parent=mRNA:LOC_Os02g55440.2
+Chr2	Protein-DB	peptide_p	33950855	33950896	.	?	.	Parent=mRNA:LOC_Os02g55440.1:P999_12084
+Chr2	Protein-DB	peptide_p	33950960	33950998	.	?	.	Parent=mRNA:LOC_Os02g55440.1:P999_12085
+Chr2	Protein-DB	peptide_p	33951197	33951244	.	?	.	Parent=mRNA:LOC_Os02g55440.1:P999_12086
+Chr2	Protein-DB	peptide_p	33951677	33951700	.	?	.	Parent=mRNA:LOC_Os02g55440.1:P999_12087

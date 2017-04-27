@@ -1,0 +1,16 @@
+Chr2	MSU_osa1r6_db	gene	295302	299174	.	+	.	ID=Gene:LOC_Os02g01510;Note=lactate%2Fmalate+dehydrogenase%2C+putative%2C+expressed;Alias=13102.t00054
+Chr2	MSU_osa1r6_db	processed_transcript	295302	299174	.	+	.	ID=mRNA:LOC_Os02g01510.1;Note=13102.m00071;Gene=LOC_Os02g01510
+Chr2	MSU_osa1r6_db	CDS	295491	296222	.	+	0	Parent=mRNA:LOC_Os02g01510.1
+Chr2	MSU_osa1r6_db	CDS	298479	298925	.	+	0	Parent=mRNA:LOC_Os02g01510.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	295302	295490	.	+	.	Parent=mRNA:LOC_Os02g01510.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	298926	299174	.	+	.	Parent=mRNA:LOC_Os02g01510.1
+Chr2	Protein-DB	peptide_p	295732	295791	.	?	.	Parent=mRNA:LOC_Os02g01510.1:P999_6394
+Chr2	Protein-DB	peptide_p	298570	298614	.	?	.	Parent=mRNA:LOC_Os02g01510.1:P999_6397
+Chr2	Protein-DB	peptide_p	298618	298656	.	?	.	Parent=mRNA:LOC_Os02g01510.1:P999_6398
+Chr2	Protein-DB	peptide_p	296137	296172	.	?	.	Parent=mRNA:LOC_Os02g01510.1:P999_6399
+Chr2	Protein-DB	peptide_p	298819	298869	.	?	.	Parent=mRNA:LOC_Os02g01510.1:P999_6404
+Chr2	Protein-DB	peptide_p	295843	295887	.	?	.	Parent=mRNA:LOC_Os02g01510.1:P999_6405
+Chr2	Protein-DB	peptide_p	295894	295926	.	?	.	Parent=mRNA:LOC_Os02g01510.1:P999_6414
+Chr2	Protein-DB	peptide_p	295792	295836	.	?	.	Parent=mRNA:LOC_Os02g01510.1:P999_6415
+Chr2	Protein-DB	peptide_p	295927	295962	.	?	.	Parent=mRNA:LOC_Os02g01510.1:P999_6417
+Chr2	Protein-DB	peptide_p	298891	298923	.	?	.	Parent=mRNA:LOC_Os02g01510.1:P999_6420

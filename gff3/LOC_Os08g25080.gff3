@@ -1,0 +1,13 @@
+Chr8	MSU_osa1r6_db	gene	15224595	15228081	.	+	.	ID=Gene:LOC_Os08g25080;Note=expressed+protein;Alias=13108.t02283
+Chr8	MSU_osa1r6_db	processed_transcript	15224595	15228081	.	+	.	ID=mRNA:LOC_Os08g25080.1;Note=13108.m02574;Gene=LOC_Os08g25080
+Chr8	MSU_osa1r6_db	CDS	15224679	15224993	.	+	0	Parent=mRNA:LOC_Os08g25080.1
+Chr8	MSU_osa1r6_db	CDS	15227115	15227258	.	+	0	Parent=mRNA:LOC_Os08g25080.1
+Chr8	MSU_osa1r6_db	CDS	15227707	15227895	.	+	0	Parent=mRNA:LOC_Os08g25080.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	15224595	15224678	.	+	.	Parent=mRNA:LOC_Os08g25080.1
+Chr8	MSU_osa1r6_db	three_prime_UTR	15227896	15228081	.	+	.	Parent=mRNA:LOC_Os08g25080.1
+Chr8	MSU_osa1r6_db	processed_transcript	15224595	15228077	.	+	.	ID=mRNA:LOC_Os08g25080.2;Note=13108.m02573;Gene=LOC_Os08g25080
+Chr8	MSU_osa1r6_db	CDS	15224679	15224983	.	+	0	Parent=mRNA:LOC_Os08g25080.2
+Chr8	MSU_osa1r6_db	CDS	15227115	15227124	.	+	2	Parent=mRNA:LOC_Os08g25080.2
+Chr8	MSU_osa1r6_db	five_prime_UTR	15224595	15224678	.	+	.	Parent=mRNA:LOC_Os08g25080.2
+Chr8	MSU_osa1r6_db	three_prime_UTR	15227125	15227258	.	+	.	Parent=mRNA:LOC_Os08g25080.2
+Chr8	MSU_osa1r6_db	three_prime_UTR	15227707	15228077	.	+	.	Parent=mRNA:LOC_Os08g25080.2

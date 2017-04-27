@@ -1,0 +1,6 @@
+Chr5	MSU_osa1r6_db	gene	24013013	24015304	.	-	.	ID=Gene:LOC_Os05g41100;Note=protein+kri1%2C+putative%2C+expressed;Alias=13105.t03681
+Chr5	MSU_osa1r6_db	processed_transcript	24013013	24015304	.	-	.	ID=mRNA:LOC_Os05g41100.1;Note=13105.m04356;Gene=LOC_Os05g41100
+Chr5	MSU_osa1r6_db	CDS	24013268	24015238	.	-	0	Parent=mRNA:LOC_Os05g41100.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	24015239	24015304	.	-	.	Parent=mRNA:LOC_Os05g41100.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	24013013	24013267	.	-	.	Parent=mRNA:LOC_Os05g41100.1
+Chr5	Protein-DB	peptide_p	24013641	24013670	.	?	.	Parent=mRNA:LOC_Os05g41100.1:P999_25542

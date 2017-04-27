@@ -1,0 +1,7 @@
+Chr4	MSU_osa1r6_db	gene	18563504	18566100	.	+	.	ID=Gene:LOC_Os04g31320;Note=SWIB%2FMDM2+domain+containing+protein%2C+expressed;Alias=13104.t02796
+Chr4	MSU_osa1r6_db	processed_transcript	18563504	18566100	.	+	.	ID=mRNA:LOC_Os04g31320.1;Note=13104.m02993;Gene=LOC_Os04g31320
+Chr4	MSU_osa1r6_db	CDS	18563504	18563623	.	+	0	Parent=mRNA:LOC_Os04g31320.1
+Chr4	MSU_osa1r6_db	CDS	18564285	18565471	.	+	0	Parent=mRNA:LOC_Os04g31320.1
+Chr4	MSU_osa1r6_db	CDS	18565576	18565660	.	+	2	Parent=mRNA:LOC_Os04g31320.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	18565661	18566100	.	+	.	Parent=mRNA:LOC_Os04g31320.1
+Chr4	Protein-DB	peptide_p	18564403	18564462	.	?	.	Parent=mRNA:LOC_Os04g31320.1:P999_20381

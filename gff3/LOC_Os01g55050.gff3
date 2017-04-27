@@ -1,0 +1,14 @@
+Chr1	MSU_osa1r6_db	gene	31650572	31655487	.	-	.	ID=Gene:LOC_Os01g55050;Note=protein+of+unknown+function+DUF1421+domain+containing+protein%2C+expressed;Alias=13101.t04840
+Chr1	MSU_osa1r6_db	processed_transcript	31650572	31655487	.	-	.	ID=mRNA:LOC_Os01g55050.1;Note=13101.m05790;Gene=LOC_Os01g55050
+Chr1	MSU_osa1r6_db	CDS	31655184	31655312	.	-	0	Parent=mRNA:LOC_Os01g55050.1
+Chr1	MSU_osa1r6_db	CDS	31653568	31653840	.	-	0	Parent=mRNA:LOC_Os01g55050.1
+Chr1	MSU_osa1r6_db	CDS	31650834	31652219	.	-	0	Parent=mRNA:LOC_Os01g55050.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	31655313	31655487	.	-	.	Parent=mRNA:LOC_Os01g55050.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	31650572	31650833	.	-	.	Parent=mRNA:LOC_Os01g55050.1
+Chr1	MSU_osa1r6_db	processed_transcript	31650572	31655392	.	-	.	ID=mRNA:LOC_Os01g55050.2;Note=13101.m05791;Gene=LOC_Os01g55050
+Chr1	MSU_osa1r6_db	CDS	31655184	31655312	.	-	0	Parent=mRNA:LOC_Os01g55050.2
+Chr1	MSU_osa1r6_db	CDS	31653568	31653837	.	-	0	Parent=mRNA:LOC_Os01g55050.2
+Chr1	MSU_osa1r6_db	CDS	31650834	31652219	.	-	0	Parent=mRNA:LOC_Os01g55050.2
+Chr1	MSU_osa1r6_db	five_prime_UTR	31655313	31655392	.	-	.	Parent=mRNA:LOC_Os01g55050.2
+Chr1	MSU_osa1r6_db	three_prime_UTR	31650572	31650833	.	-	.	Parent=mRNA:LOC_Os01g55050.2
+Chr1	Protein-DB	peptide_p	31652328	31652348	.	?	.	Parent=mRNA:LOC_Os01g55050.1:P999_4274

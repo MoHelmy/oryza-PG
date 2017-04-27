@@ -1,0 +1,6 @@
+Chr2	MSU_osa1r6_db	gene	26488630	26491841	.	-	.	ID=Gene:LOC_Os02g43870;Note=inactive+receptor+kinase+At2g26730+precursor%2C+putative%2C+expressed;Alias=13102.t04000
+Chr2	MSU_osa1r6_db	processed_transcript	26488630	26491841	.	-	.	ID=mRNA:LOC_Os02g43870.1;Note=13102.m04878;Gene=LOC_Os02g43870
+Chr2	MSU_osa1r6_db	CDS	26490933	26491587	.	-	0	Parent=mRNA:LOC_Os02g43870.1
+Chr2	MSU_osa1r6_db	CDS	26489041	26489621	.	-	1	Parent=mRNA:LOC_Os02g43870.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	26491588	26491841	.	-	.	Parent=mRNA:LOC_Os02g43870.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	26488630	26489040	.	-	.	Parent=mRNA:LOC_Os02g43870.1

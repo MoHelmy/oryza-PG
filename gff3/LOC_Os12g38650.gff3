@@ -1,0 +1,5 @@
+Chr12	MSU_osa1r6_db	gene	23703775	23705868	.	+	.	ID=Gene:LOC_Os12g38650;Note=conserved+hypothetical+protein;Alias=13112.t03554
+Chr12	MSU_osa1r6_db	processed_transcript	23703775	23705868	.	+	.	ID=mRNA:LOC_Os12g38650.1;Note=13112.m03988;Gene=LOC_Os12g38650
+Chr12	MSU_osa1r6_db	CDS	23703775	23703861	.	+	0	Parent=mRNA:LOC_Os12g38650.1
+Chr12	MSU_osa1r6_db	CDS	23705791	23705868	.	+	0	Parent=mRNA:LOC_Os12g38650.1
+Chr12	Protein-DB	peptide_p	23703812	23703862	.	?	.	Parent=mRNA:LOC_Os12g38650.1:P999_42495

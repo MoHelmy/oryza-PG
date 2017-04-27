@@ -1,0 +1,12 @@
+Chr1	MSU_osa1r6_db	gene	17559710	17563902	.	+	.	ID=Gene:LOC_Os01g32080;Note=thiamine+pyrophosphate+enzyme%2C+C-terminal+TPP+binding+domain+containing+protein%2C+expressed;Alias=13101.t02712
+Chr1	MSU_osa1r6_db	processed_transcript	17559710	17563902	.	+	.	ID=mRNA:LOC_Os01g32080.1;Note=13101.m03233;Gene=LOC_Os01g32080
+Chr1	MSU_osa1r6_db	CDS	17559902	17561320	.	+	0	Parent=mRNA:LOC_Os01g32080.1
+Chr1	MSU_osa1r6_db	CDS	17563250	17563564	.	+	0	Parent=mRNA:LOC_Os01g32080.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	17559710	17559901	.	+	.	Parent=mRNA:LOC_Os01g32080.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	17563565	17563902	.	+	.	Parent=mRNA:LOC_Os01g32080.1
+Chr1	MSU_osa1r6_db	processed_transcript	17559710	17563902	.	+	.	ID=mRNA:LOC_Os01g32080.2;Note=13101.m03234;Gene=LOC_Os01g32080
+Chr1	MSU_osa1r6_db	CDS	17559902	17561326	.	+	0	Parent=mRNA:LOC_Os01g32080.2
+Chr1	MSU_osa1r6_db	five_prime_UTR	17559710	17559901	.	+	.	Parent=mRNA:LOC_Os01g32080.2
+Chr1	MSU_osa1r6_db	three_prime_UTR	17561327	17563902	.	+	.	Parent=mRNA:LOC_Os01g32080.2
+Chr1	Protein-DB	peptide_p	17560869	17560901	.	?	.	Parent=mRNA:LOC_Os01g32080.1:P999_2363
+Chr1	Protein-DB	peptide_p	17561034	17561069	.	?	.	Parent=mRNA:LOC_Os01g32080.1:P999_2366

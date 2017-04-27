@@ -1,0 +1,15 @@
+Chr4	MSU_osa1r6_db	gene	30810218	30814480	.	+	.	ID=Gene:LOC_Os04g52164;Note=transferase+family+protein%2C+putative%2C+expressed;Alias=13104.t04694
+Chr4	MSU_osa1r6_db	processed_transcript	30810218	30814480	.	+	.	ID=mRNA:LOC_Os04g52164.1;Note=13104.m05340;Gene=LOC_Os04g52164
+Chr4	MSU_osa1r6_db	CDS	30810277	30810741	.	+	0	Parent=mRNA:LOC_Os04g52164.1
+Chr4	MSU_osa1r6_db	CDS	30813204	30814052	.	+	0	Parent=mRNA:LOC_Os04g52164.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	30810218	30810276	.	+	.	Parent=mRNA:LOC_Os04g52164.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	30814053	30814480	.	+	.	Parent=mRNA:LOC_Os04g52164.1
+Chr4	MSU_osa1r6_db	processed_transcript	30810218	30814480	.	+	.	ID=mRNA:LOC_Os04g52164.2;Note=13104.m11949;Gene=LOC_Os04g52164
+Chr4	MSU_osa1r6_db	CDS	30810277	30810741	.	+	0	Parent=mRNA:LOC_Os04g52164.2
+Chr4	MSU_osa1r6_db	CDS	30813204	30813266	.	+	0	Parent=mRNA:LOC_Os04g52164.2
+Chr4	MSU_osa1r6_db	CDS	30813603	30813605	.	+	0	Parent=mRNA:LOC_Os04g52164.2
+Chr4	MSU_osa1r6_db	CDS	30813768	30814052	.	+	0	Parent=mRNA:LOC_Os04g52164.2
+Chr4	MSU_osa1r6_db	five_prime_UTR	30810218	30810276	.	+	.	Parent=mRNA:LOC_Os04g52164.2
+Chr4	MSU_osa1r6_db	three_prime_UTR	30814053	30814480	.	+	.	Parent=mRNA:LOC_Os04g52164.2
+Chr4	Protein-DB	peptide_p	30813715	30813756	.	?	.	Parent=mRNA:LOC_Os04g52164.1:P999_21605
+Chr4	Protein-DB	peptide_p	30813403	30813456	.	?	.	Parent=mRNA:LOC_Os04g52164.1:P999_21606

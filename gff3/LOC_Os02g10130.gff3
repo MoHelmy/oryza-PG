@@ -1,0 +1,15 @@
+Chr2	MSU_osa1r6_db	gene	5297643	5306435	.	-	.	ID=Gene:LOC_Os02g10130;Note=tubulin+binding+cofactor+C%2C+putative%2C+expressed;Alias=13102.t00870
+Chr2	MSU_osa1r6_db	processed_transcript	5297643	5306435	.	-	.	ID=mRNA:LOC_Os02g10130.1;Note=13102.m01121;Gene=LOC_Os02g10130
+Chr2	MSU_osa1r6_db	CDS	5305779	5306288	.	-	0	Parent=mRNA:LOC_Os02g10130.1
+Chr2	MSU_osa1r6_db	CDS	5304573	5304713	.	-	0	Parent=mRNA:LOC_Os02g10130.1
+Chr2	MSU_osa1r6_db	CDS	5303485	5303874	.	-	0	Parent=mRNA:LOC_Os02g10130.1
+Chr2	MSU_osa1r6_db	CDS	5302723	5302827	.	-	0	Parent=mRNA:LOC_Os02g10130.1
+Chr2	MSU_osa1r6_db	CDS	5302034	5302174	.	-	0	Parent=mRNA:LOC_Os02g10130.1
+Chr2	MSU_osa1r6_db	CDS	5300644	5300847	.	-	0	Parent=mRNA:LOC_Os02g10130.1
+Chr2	MSU_osa1r6_db	CDS	5300209	5300301	.	-	0	Parent=mRNA:LOC_Os02g10130.1
+Chr2	MSU_osa1r6_db	CDS	5299615	5299726	.	-	0	Parent=mRNA:LOC_Os02g10130.1
+Chr2	MSU_osa1r6_db	CDS	5298004	5298047	.	-	1	Parent=mRNA:LOC_Os02g10130.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	5306289	5306435	.	-	.	Parent=mRNA:LOC_Os02g10130.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	5297643	5298003	.	-	.	Parent=mRNA:LOC_Os02g10130.1
+Chr2	Protein-DB	peptide_p	5297941	5297988	.	?	.	Parent=mRNA:LOC_Os02g10130.1:P999_7916
+Chr2	Protein-DB	peptide_p	5297989	5298024	.	?	.	Parent=mRNA:LOC_Os02g10130.1:P999_7917

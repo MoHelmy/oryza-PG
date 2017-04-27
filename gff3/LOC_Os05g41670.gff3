@@ -1,0 +1,10 @@
+Chr5	MSU_osa1r6_db	gene	24322322	24324889	.	-	.	ID=Gene:LOC_Os05g41670;Note=ICE-like+protease+p20+domain+containing+protein%2C+putative%2C+expressed;Alias=13105.t03739
+Chr5	MSU_osa1r6_db	processed_transcript	24322322	24324889	.	-	.	ID=mRNA:LOC_Os05g41670.1;Note=13105.m04427;Gene=LOC_Os05g41670
+Chr5	MSU_osa1r6_db	CDS	24324404	24324755	.	-	0	Parent=mRNA:LOC_Os05g41670.1
+Chr5	MSU_osa1r6_db	CDS	24322544	24323454	.	-	1	Parent=mRNA:LOC_Os05g41670.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	24324756	24324889	.	-	.	Parent=mRNA:LOC_Os05g41670.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	24322322	24322543	.	-	.	Parent=mRNA:LOC_Os05g41670.1
+Chr5	Protein-DB	peptide_p	24324489	24324542	.	?	.	Parent=mRNA:LOC_Os05g41670.1:P999_25620
+Chr5	Protein-DB	peptide_p	24324180	24324221	.	?	.	Parent=mRNA:LOC_Os05g41670.1:P999_25622
+Chr5	Protein-DB	peptide_p	24322475	24322510	.	?	.	Parent=mRNA:LOC_Os05g41670.1:P999_25624
+Chr5	Protein-DB	peptide_p	24322571	24322597	.	?	.	Parent=mRNA:LOC_Os05g41670.1:P999_25625

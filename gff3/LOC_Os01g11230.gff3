@@ -1,0 +1,16 @@
+Chr1	MSU_osa1r6_db	gene	6006818	6008027	.	-	.	ID=Gene:LOC_Os01g11230;Note=SOUL+heme-binding+protein%2C+putative%2C+expressed;Alias=13101.t00989
+Chr1	MSU_osa1r6_db	processed_transcript	6006818	6008027	.	-	.	ID=mRNA:LOC_Os01g11230.1;Note=13101.m01210;Gene=LOC_Os01g11230
+Chr1	MSU_osa1r6_db	CDS	6007730	6007950	.	-	0	Parent=mRNA:LOC_Os01g11230.1
+Chr1	MSU_osa1r6_db	CDS	6007139	6007574	.	-	2	Parent=mRNA:LOC_Os01g11230.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	6007951	6008027	.	-	.	Parent=mRNA:LOC_Os01g11230.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	6006818	6007138	.	-	.	Parent=mRNA:LOC_Os01g11230.1
+Chr1	MSU_osa1r6_db	processed_transcript	6006818	6008027	.	-	.	ID=mRNA:LOC_Os01g11230.2;Note=13101.m01211;Gene=LOC_Os01g11230
+Chr1	MSU_osa1r6_db	CDS	6007730	6007950	.	-	0	Parent=mRNA:LOC_Os01g11230.2
+Chr1	MSU_osa1r6_db	CDS	6007319	6007574	.	-	2	Parent=mRNA:LOC_Os01g11230.2
+Chr1	MSU_osa1r6_db	CDS	6007131	6007253	.	-	0	Parent=mRNA:LOC_Os01g11230.2
+Chr1	MSU_osa1r6_db	five_prime_UTR	6007951	6008027	.	-	.	Parent=mRNA:LOC_Os01g11230.2
+Chr1	MSU_osa1r6_db	three_prime_UTR	6006818	6007130	.	-	.	Parent=mRNA:LOC_Os01g11230.2
+Chr1	Protein-DB	peptide_p	6007270	6007296	.	?	.	Parent=mRNA:LOC_Os01g11230.1:P999_1033
+Chr1	Protein-DB	peptide_p	6007489	6007563	.	?	.	Parent=mRNA:LOC_Os01g11230.1:P999_1034
+Chr1	Protein-DB	peptide_p	6007037	6007102	.	?	.	Parent=mRNA:LOC_Os01g11230.1:P999_1035
+Chr1	Protein-DB	peptide_p	6006980	6007033	.	?	.	Parent=mRNA:LOC_Os01g11230.1:P999_1040

@@ -1,0 +1,8 @@
+Chr1	MSU_osa1r6_db	gene	41138131	41139628	.	-	.	ID=Gene:LOC_Os01g71080;Note=xylanase+inhibitor%2C+putative%2C+expressed;Alias=13101.t06331
+Chr1	MSU_osa1r6_db	processed_transcript	41138131	41139628	.	-	.	ID=mRNA:LOC_Os01g71080.1;Note=13101.m07739;Gene=LOC_Os01g71080
+Chr1	MSU_osa1r6_db	CDS	41138312	41139586	.	-	0	Parent=mRNA:LOC_Os01g71080.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	41139587	41139628	.	-	.	Parent=mRNA:LOC_Os01g71080.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	41138131	41138311	.	-	.	Parent=mRNA:LOC_Os01g71080.1
+Chr1	Protein-DB	peptide_p	41139377	41139406	.	?	.	Parent=mRNA:LOC_Os01g71080.1:P999_5838
+Chr1	Protein-DB	peptide_p	41138903	41138935	.	?	.	Parent=mRNA:LOC_Os01g71080.1:P999_5850
+Chr1	Protein-DB	peptide_p	41139041	41139064	.	?	.	Parent=mRNA:LOC_Os01g71080.1:P999_5855

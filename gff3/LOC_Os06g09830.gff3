@@ -1,0 +1,8 @@
+Chr6	MSU_osa1r6_db	gene	5004410	5007059	.	-	.	ID=Gene:LOC_Os06g09830;Note=cupin+superfamily+protein%2C+putative%2C+expressed;Alias=13106.t00859
+Chr6	MSU_osa1r6_db	processed_transcript	5004410	5007059	.	-	.	ID=mRNA:LOC_Os06g09830.1;Note=13106.m01058;Gene=LOC_Os06g09830
+Chr6	MSU_osa1r6_db	CDS	5006884	5007028	.	-	0	Parent=mRNA:LOC_Os06g09830.1
+Chr6	MSU_osa1r6_db	CDS	5005105	5005226	.	-	1	Parent=mRNA:LOC_Os06g09830.1
+Chr6	MSU_osa1r6_db	CDS	5004716	5005039	.	-	0	Parent=mRNA:LOC_Os06g09830.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	5007029	5007059	.	-	.	Parent=mRNA:LOC_Os06g09830.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	5004410	5004715	.	-	.	Parent=mRNA:LOC_Os06g09830.1
+Chr6	Protein-DB	peptide_p	5006258	5006308	.	?	.	Parent=mRNA:LOC_Os06g09830.1:P999_27625

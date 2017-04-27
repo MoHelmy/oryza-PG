@@ -1,0 +1,6 @@
+Chr4	MSU_osa1r6_db	gene	18285598	18287301	.	-	.	ID=Gene:LOC_Os04g30890;Note=MYB+family+transcription+factor%2C+putative%2C+expressed;Alias=13104.t02756
+Chr4	MSU_osa1r6_db	processed_transcript	18285598	18287301	.	-	.	ID=mRNA:LOC_Os04g30890.1;Note=13104.m02938;Gene=LOC_Os04g30890
+Chr4	MSU_osa1r6_db	CDS	18286120	18286920	.	-	0	Parent=mRNA:LOC_Os04g30890.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	18286921	18287301	.	-	.	Parent=mRNA:LOC_Os04g30890.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	18285598	18286119	.	-	.	Parent=mRNA:LOC_Os04g30890.1
+Chr4	Protein-DB	peptide_p	18286403	18286444	.	?	.	Parent=mRNA:LOC_Os04g30890.1:P999_20368

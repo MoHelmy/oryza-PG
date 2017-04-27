@@ -1,0 +1,10 @@
+Chr12	MSU_osa1r6_db	gene	20854734	20855670	.	-	.	ID=Gene:LOC_Os12g34510;Note=Core+histone+H2A%2FH2B%2FH3%2FH4+domain+containing+protein%2C+putative%2C+expressed;Alias=13112.t03150
+Chr12	MSU_osa1r6_db	processed_transcript	20854734	20855670	.	-	.	ID=mRNA:LOC_Os12g34510.1;Note=13112.m03522;Gene=LOC_Os12g34510
+Chr12	MSU_osa1r6_db	CDS	20855367	20855561	.	-	0	Parent=mRNA:LOC_Os12g34510.1
+Chr12	MSU_osa1r6_db	CDS	20855047	20855268	.	-	0	Parent=mRNA:LOC_Os12g34510.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	20855562	20855670	.	-	.	Parent=mRNA:LOC_Os12g34510.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	20854734	20855046	.	-	.	Parent=mRNA:LOC_Os12g34510.1
+Chr12	Protein-DB	peptide_p	20854982	20854999	.	?	.	Parent=mRNA:LOC_Os12g34510.1:P999_42141
+Chr12	Protein-DB	peptide_p	20855239	20855307	.	?	.	Parent=mRNA:LOC_Os12g34510.1:P999_42142
+Chr12	Protein-DB	peptide_p	20855320	20855355	.	?	.	Parent=mRNA:LOC_Os12g34510.1:P999_42144
+Chr12	Protein-DB	peptide_p	20855197	20855217	.	?	.	Parent=mRNA:LOC_Os12g34510.1:P999_42145

@@ -1,0 +1,9 @@
+Chr6	MSU_osa1r6_db	gene	6031411	6034430	.	+	.	ID=Gene:LOC_Os06g11430;Note=GRAM+domain+containing+protein%2C+expressed;Alias=13106.t01018
+Chr6	MSU_osa1r6_db	processed_transcript	6031411	6034430	.	+	.	ID=mRNA:LOC_Os06g11430.1;Note=13106.m01238;Gene=LOC_Os06g11430
+Chr6	MSU_osa1r6_db	CDS	6031432	6031735	.	+	0	Parent=mRNA:LOC_Os06g11430.1
+Chr6	MSU_osa1r6_db	CDS	6031838	6031939	.	+	1	Parent=mRNA:LOC_Os06g11430.1
+Chr6	MSU_osa1r6_db	CDS	6033042	6033313	.	+	1	Parent=mRNA:LOC_Os06g11430.1
+Chr6	MSU_osa1r6_db	CDS	6033871	6034059	.	+	0	Parent=mRNA:LOC_Os06g11430.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	6031411	6031431	.	+	.	Parent=mRNA:LOC_Os06g11430.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	6034060	6034430	.	+	.	Parent=mRNA:LOC_Os06g11430.1
+Chr6	Protein-DB	peptide_p	6033048	6033083	.	?	.	Parent=mRNA:LOC_Os06g11430.1:P999_27714

@@ -1,0 +1,14 @@
+Chr2	MSU_osa1r6_db	gene	31058195	31065396	.	+	.	ID=Gene:LOC_Os02g50840;Note=BAH+domain+containing+protein%2C+putative%2C+expressed;Alias=13102.t04711
+Chr2	MSU_osa1r6_db	processed_transcript	31058195	31065396	.	+	.	ID=mRNA:LOC_Os02g50840.1;Note=13102.m05771;Gene=LOC_Os02g50840
+Chr2	MSU_osa1r6_db	CDS	31058624	31058881	.	+	0	Parent=mRNA:LOC_Os02g50840.1
+Chr2	MSU_osa1r6_db	CDS	31059846	31060214	.	+	0	Parent=mRNA:LOC_Os02g50840.1
+Chr2	MSU_osa1r6_db	CDS	31060283	31064671	.	+	0	Parent=mRNA:LOC_Os02g50840.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	31058195	31058623	.	+	.	Parent=mRNA:LOC_Os02g50840.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	31064672	31065396	.	+	.	Parent=mRNA:LOC_Os02g50840.1
+Chr2	MSU_osa1r6_db	processed_transcript	31058195	31065396	.	+	.	ID=mRNA:LOC_Os02g50840.2;Note=13102.m05772;Gene=LOC_Os02g50840
+Chr2	MSU_osa1r6_db	CDS	31058624	31058881	.	+	0	Parent=mRNA:LOC_Os02g50840.2
+Chr2	MSU_osa1r6_db	CDS	31059846	31060214	.	+	0	Parent=mRNA:LOC_Os02g50840.2
+Chr2	MSU_osa1r6_db	CDS	31060283	31064671	.	+	0	Parent=mRNA:LOC_Os02g50840.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	31058195	31058623	.	+	.	Parent=mRNA:LOC_Os02g50840.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	31064672	31064718	.	+	.	Parent=mRNA:LOC_Os02g50840.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	31064813	31065396	.	+	.	Parent=mRNA:LOC_Os02g50840.2

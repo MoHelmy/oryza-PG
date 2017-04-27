@@ -1,0 +1,10 @@
+Chr10	MSU_osa1r6_db	gene	18962442	18964878	.	-	.	ID=Gene:LOC_Os10g35580;Note=ATEB1A-like+microtubule+associated+protein%2C+putative%2C+expressed;Alias=13110.t02849
+Chr10	MSU_osa1r6_db	processed_transcript	18962442	18964878	.	-	.	ID=mRNA:LOC_Os10g35580.1;Note=13110.m03200;Gene=LOC_Os10g35580
+Chr10	MSU_osa1r6_db	CDS	18964638	18964748	.	-	0	Parent=mRNA:LOC_Os10g35580.1
+Chr10	MSU_osa1r6_db	CDS	18964347	18964502	.	-	0	Parent=mRNA:LOC_Os10g35580.1
+Chr10	MSU_osa1r6_db	CDS	18963902	18964008	.	-	0	Parent=mRNA:LOC_Os10g35580.1
+Chr10	MSU_osa1r6_db	CDS	18963532	18963757	.	-	2	Parent=mRNA:LOC_Os10g35580.1
+Chr10	MSU_osa1r6_db	CDS	18963324	18963437	.	-	0	Parent=mRNA:LOC_Os10g35580.1
+Chr10	MSU_osa1r6_db	CDS	18962696	18962980	.	-	0	Parent=mRNA:LOC_Os10g35580.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	18964749	18964878	.	-	.	Parent=mRNA:LOC_Os10g35580.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	18962442	18962695	.	-	.	Parent=mRNA:LOC_Os10g35580.1

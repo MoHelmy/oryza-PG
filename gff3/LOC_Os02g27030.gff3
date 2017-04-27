@@ -1,0 +1,9 @@
+Chr2	MSU_osa1r6_db	gene	15885658	15889427	.	+	.	ID=Gene:LOC_Os02g27030;Note=cysteine+proteinase+1+precursor%2C+putative%2C+expressed;Alias=13102.t02409
+Chr2	MSU_osa1r6_db	processed_transcript	15885658	15889427	.	+	.	ID=mRNA:LOC_Os02g27030.1;Note=13102.m02936;Gene=LOC_Os02g27030
+Chr2	MSU_osa1r6_db	CDS	15885766	15886236	.	+	0	Parent=mRNA:LOC_Os02g27030.1
+Chr2	MSU_osa1r6_db	CDS	15886355	15886474	.	+	0	Parent=mRNA:LOC_Os02g27030.1
+Chr2	MSU_osa1r6_db	CDS	15888380	15888623	.	+	0	Parent=mRNA:LOC_Os02g27030.1
+Chr2	MSU_osa1r6_db	CDS	15888736	15889022	.	+	1	Parent=mRNA:LOC_Os02g27030.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	15885658	15885765	.	+	.	Parent=mRNA:LOC_Os02g27030.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	15889023	15889427	.	+	.	Parent=mRNA:LOC_Os02g27030.1
+Chr2	Protein-DB	peptide_p	15888805	15888864	.	?	.	Parent=mRNA:LOC_Os02g27030.1:P999_8892

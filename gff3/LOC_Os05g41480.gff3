@@ -1,0 +1,12 @@
+Chr5	MSU_osa1r6_db	gene	24224988	24227039	.	+	.	ID=Gene:LOC_Os05g41480;Note=domain+of+unknown+function%2C+DUF250+domain+containing+protein%2C+expressed;Alias=13105.t03720
+Chr5	MSU_osa1r6_db	processed_transcript	24224988	24227039	.	+	.	ID=mRNA:LOC_Os05g41480.1;Note=13105.m04402;Gene=LOC_Os05g41480
+Chr5	MSU_osa1r6_db	CDS	24225095	24226159	.	+	0	Parent=mRNA:LOC_Os05g41480.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	24224988	24225094	.	+	.	Parent=mRNA:LOC_Os05g41480.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	24226160	24226196	.	+	.	Parent=mRNA:LOC_Os05g41480.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	24226610	24227039	.	+	.	Parent=mRNA:LOC_Os05g41480.1
+Chr5	MSU_osa1r6_db	processed_transcript	24224988	24226560	.	+	.	ID=mRNA:LOC_Os05g41480.2;Note=13105.m04403;Gene=LOC_Os05g41480
+Chr5	MSU_osa1r6_db	CDS	24225095	24226159	.	+	0	Parent=mRNA:LOC_Os05g41480.2
+Chr5	MSU_osa1r6_db	five_prime_UTR	24224988	24225094	.	+	.	Parent=mRNA:LOC_Os05g41480.2
+Chr5	MSU_osa1r6_db	three_prime_UTR	24226160	24226560	.	+	.	Parent=mRNA:LOC_Os05g41480.2
+Chr5	Protein-DB	peptide_p	24226077	24226121	.	?	.	Parent=mRNA:LOC_Os05g41480.1:P999_25569
+Chr5	Protein-DB	peptide_p	24225123	24225143	.	?	.	Parent=mRNA:LOC_Os05g41480.1:P999_25570

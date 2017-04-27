@@ -1,0 +1,17 @@
+Chr5	MSU_osa1r6_db	gene	16502227	16505012	.	+	.	ID=Gene:LOC_Os05g28290;Note=ranBP1+domain+containing+protein%2C+expressed;Alias=13105.t02505
+Chr5	MSU_osa1r6_db	processed_transcript	16502227	16505012	.	+	.	ID=mRNA:LOC_Os05g28290.1;Note=13105.m02912;Gene=LOC_Os05g28290
+Chr5	MSU_osa1r6_db	CDS	16502368	16502543	.	+	0	Parent=mRNA:LOC_Os05g28290.1
+Chr5	MSU_osa1r6_db	CDS	16502658	16502809	.	+	2	Parent=mRNA:LOC_Os05g28290.1
+Chr5	MSU_osa1r6_db	CDS	16502997	16503122	.	+	1	Parent=mRNA:LOC_Os05g28290.1
+Chr5	MSU_osa1r6_db	CDS	16504368	16504576	.	+	1	Parent=mRNA:LOC_Os05g28290.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	16502227	16502367	.	+	.	Parent=mRNA:LOC_Os05g28290.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	16504577	16505012	.	+	.	Parent=mRNA:LOC_Os05g28290.1
+Chr5	Protein-DB	peptide_p	16502792	16502809	.	?	.	Parent=mRNA:LOC_Os05g28290.1:P999_24414
+Chr5	Protein-DB	peptide_p	16504422	16504475	.	?	.	Parent=mRNA:LOC_Os05g28290.1:P999_24417
+Chr5	Protein-DB	peptide_p	16503042	16503107	.	?	.	Parent=mRNA:LOC_Os05g28290.1:P999_24420
+Chr5	Protein-DB	peptide_p	16502489	16502545	.	?	.	Parent=mRNA:LOC_Os05g28290.1:P999_24421
+Chr5	Protein-DB	peptide_p	16503042	16503086	.	?	.	Parent=mRNA:LOC_Os05g28290.1:P999_24424
+Chr5	Protein-DB	peptide_p	16504386	16504421	.	?	.	Parent=mRNA:LOC_Os05g28290.1:P999_24431
+Chr5	Protein-DB	peptide_p	16504434	16504475	.	?	.	Parent=mRNA:LOC_Os05g28290.1:P999_24434
+Chr5	Protein-DB	peptide_p	16504494	16504541	.	?	.	Parent=mRNA:LOC_Os05g28290.1:P999_24440
+Chr5	Protein-DB	peptide_p	16504380	16504421	.	?	.	Parent=mRNA:LOC_Os05g28290.1:P999_24442

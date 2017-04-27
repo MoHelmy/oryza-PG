@@ -1,0 +1,8 @@
+Chr4	MSU_osa1r6_db	gene	27609998	27613623	.	-	.	ID=Gene:LOC_Os04g46892;Note=WD+domain%2C+G-beta+repeat+domain+containing+protein%2C+expressed;Alias=13104.t04207
+Chr4	MSU_osa1r6_db	processed_transcript	27609998	27613623	.	-	.	ID=mRNA:LOC_Os04g46892.1;Note=13104.m04737;Gene=LOC_Os04g46892
+Chr4	MSU_osa1r6_db	CDS	27612987	27613275	.	-	0	Parent=mRNA:LOC_Os04g46892.1
+Chr4	MSU_osa1r6_db	CDS	27611578	27612350	.	-	1	Parent=mRNA:LOC_Os04g46892.1
+Chr4	MSU_osa1r6_db	CDS	27611375	27611497	.	-	0	Parent=mRNA:LOC_Os04g46892.1
+Chr4	MSU_osa1r6_db	CDS	27611196	27611264	.	-	0	Parent=mRNA:LOC_Os04g46892.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	27613276	27613623	.	-	.	Parent=mRNA:LOC_Os04g46892.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	27609998	27611195	.	-	.	Parent=mRNA:LOC_Os04g46892.1

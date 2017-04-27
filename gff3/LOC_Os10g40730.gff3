@@ -1,0 +1,9 @@
+Chr10	MSU_osa1r6_db	gene	21787226	21789783	.	+	.	ID=Gene:LOC_Os10g40730;Note=expansin+precursor%2C+putative%2C+expressed;Alias=13110.t03310
+Chr10	MSU_osa1r6_db	processed_transcript	21787226	21789783	.	+	.	ID=mRNA:LOC_Os10g40730.1;Note=13110.m03776;Gene=LOC_Os10g40730
+Chr10	MSU_osa1r6_db	CDS	21787629	21787851	.	+	0	Parent=mRNA:LOC_Os10g40730.1
+Chr10	MSU_osa1r6_db	CDS	21787946	21788055	.	+	1	Parent=mRNA:LOC_Os10g40730.1
+Chr10	MSU_osa1r6_db	CDS	21788305	21788489	.	+	0	Parent=mRNA:LOC_Os10g40730.1
+Chr10	MSU_osa1r6_db	CDS	21789068	21789410	.	+	2	Parent=mRNA:LOC_Os10g40730.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	21787226	21787628	.	+	.	Parent=mRNA:LOC_Os10g40730.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	21789411	21789783	.	+	.	Parent=mRNA:LOC_Os10g40730.1
+Chr10	Protein-DB	peptide_p	21788036	21788059	.	?	.	Parent=mRNA:LOC_Os10g40730.1:P999_38623

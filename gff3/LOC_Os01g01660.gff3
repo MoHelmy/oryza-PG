@@ -1,0 +1,8 @@
+Chr1	MSU_osa1r6_db	gene	326128	327451	.	-	.	ID=Gene:LOC_Os01g01660;Note=isoflavone+reductase%2C+putative%2C+expressed;Alias=13101.t00066
+Chr1	MSU_osa1r6_db	processed_transcript	326128	327451	.	-	.	ID=mRNA:LOC_Os01g01660.1;Note=13101.m00090;Gene=LOC_Os01g01660
+Chr1	MSU_osa1r6_db	CDS	326618	327398	.	-	0	Parent=mRNA:LOC_Os01g01660.1
+Chr1	MSU_osa1r6_db	CDS	326337	326500	.	-	1	Parent=mRNA:LOC_Os01g01660.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	327399	327451	.	-	.	Parent=mRNA:LOC_Os01g01660.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	326128	326336	.	-	.	Parent=mRNA:LOC_Os01g01660.1
+Chr1	Protein-DB	peptide_p	326857	326898	.	?	.	Parent=mRNA:LOC_Os01g01660.1:P999_55
+Chr1	Protein-DB	peptide_p	326215	326250	.	?	.	Parent=mRNA:LOC_Os01g01660.1:P999_56

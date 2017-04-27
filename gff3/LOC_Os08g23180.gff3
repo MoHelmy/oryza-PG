@@ -1,0 +1,8 @@
+Chr8	MSU_osa1r6_db	gene	13982326	13985506	.	-	.	ID=Gene:LOC_Os08g23180;Note=fasciclin-like+arabinogalactan+protein+8+precursor%2C+putative%2C+expressed;Alias=13108.t02093
+Chr8	MSU_osa1r6_db	processed_transcript	13982326	13985506	.	-	.	ID=mRNA:LOC_Os08g23180.1;Note=13108.m02373;Gene=LOC_Os08g23180
+Chr8	MSU_osa1r6_db	CDS	13984860	13985207	.	-	0	Parent=mRNA:LOC_Os08g23180.1
+Chr8	MSU_osa1r6_db	CDS	13982722	13983621	.	-	0	Parent=mRNA:LOC_Os08g23180.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	13985208	13985506	.	-	.	Parent=mRNA:LOC_Os08g23180.1
+Chr8	MSU_osa1r6_db	three_prime_UTR	13982326	13982721	.	-	.	Parent=mRNA:LOC_Os08g23180.1
+Chr8	Protein-DB	peptide_p	13984275	13984331	.	?	.	Parent=mRNA:LOC_Os08g23180.1:P999_33390
+Chr8	Protein-DB	peptide_p	13982923	13982943	.	?	.	Parent=mRNA:LOC_Os08g23180.1:P999_33391

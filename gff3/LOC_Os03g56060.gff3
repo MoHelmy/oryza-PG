@@ -1,0 +1,10 @@
+Chr3	MSU_osa1r6_db	gene	31923418	31927501	.	-	.	ID=Gene:LOC_Os03g56060;Note=CSLC9+-+cellulose+synthase-like+family+C%2C+expressed;Alias=13103.t04871
+Chr3	MSU_osa1r6_db	processed_transcript	31923418	31927501	.	-	.	ID=mRNA:LOC_Os03g56060.1;Note=13103.m06110;Gene=LOC_Os03g56060
+Chr3	MSU_osa1r6_db	CDS	31926382	31926420	.	-	0	Parent=mRNA:LOC_Os03g56060.1
+Chr3	MSU_osa1r6_db	CDS	31925982	31926290	.	-	0	Parent=mRNA:LOC_Os03g56060.1
+Chr3	MSU_osa1r6_db	CDS	31925600	31925890	.	-	0	Parent=mRNA:LOC_Os03g56060.1
+Chr3	MSU_osa1r6_db	CDS	31925394	31925507	.	-	0	Parent=mRNA:LOC_Os03g56060.1
+Chr3	MSU_osa1r6_db	CDS	31923975	31924595	.	-	0	Parent=mRNA:LOC_Os03g56060.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	31927104	31927501	.	-	.	Parent=mRNA:LOC_Os03g56060.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	31926421	31926786	.	-	.	Parent=mRNA:LOC_Os03g56060.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	31923418	31923974	.	-	.	Parent=mRNA:LOC_Os03g56060.1

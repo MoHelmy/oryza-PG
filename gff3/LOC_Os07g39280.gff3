@@ -1,0 +1,9 @@
+Chr7	MSU_osa1r6_db	gene	23510906	23514639	.	-	.	ID=Gene:LOC_Os07g39280;Note=transporter-related%2C+putative%2C+expressed;Alias=13107.t03578
+Chr7	MSU_osa1r6_db	processed_transcript	23510906	23514639	.	-	.	ID=mRNA:LOC_Os07g39280.1;Note=13107.m04067;Gene=LOC_Os07g39280
+Chr7	MSU_osa1r6_db	CDS	23514049	23514178	.	-	0	Parent=mRNA:LOC_Os07g39280.1
+Chr7	MSU_osa1r6_db	CDS	23513716	23513900	.	-	1	Parent=mRNA:LOC_Os07g39280.1
+Chr7	MSU_osa1r6_db	CDS	23513414	23513614	.	-	0	Parent=mRNA:LOC_Os07g39280.1
+Chr7	MSU_osa1r6_db	CDS	23512038	23512199	.	-	0	Parent=mRNA:LOC_Os07g39280.1
+Chr7	MSU_osa1r6_db	CDS	23511210	23511569	.	-	0	Parent=mRNA:LOC_Os07g39280.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	23514179	23514639	.	-	.	Parent=mRNA:LOC_Os07g39280.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	23510906	23511209	.	-	.	Parent=mRNA:LOC_Os07g39280.1

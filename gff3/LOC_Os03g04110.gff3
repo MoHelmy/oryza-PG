@@ -1,0 +1,17 @@
+Chr3	MSU_osa1r6_db	gene	1877902	1880750	.	+	.	ID=Gene:LOC_Os03g04110;Note=lysM+domain-containing+GPI-anchored+protein+precursor%2C+putative%2C+expressed;Alias=13103.t00298
+Chr3	MSU_osa1r6_db	processed_transcript	1877902	1880750	.	+	.	ID=mRNA:LOC_Os03g04110.1;Note=13103.m00419;Gene=LOC_Os03g04110
+Chr3	MSU_osa1r6_db	CDS	1877993	1878659	.	+	0	Parent=mRNA:LOC_Os03g04110.1
+Chr3	MSU_osa1r6_db	CDS	1879765	1879885	.	+	1	Parent=mRNA:LOC_Os03g04110.1
+Chr3	MSU_osa1r6_db	CDS	1879978	1880165	.	+	2	Parent=mRNA:LOC_Os03g04110.1
+Chr3	MSU_osa1r6_db	CDS	1880257	1880351	.	+	1	Parent=mRNA:LOC_Os03g04110.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	1877902	1877992	.	+	.	Parent=mRNA:LOC_Os03g04110.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	1880352	1880750	.	+	.	Parent=mRNA:LOC_Os03g04110.1
+Chr3	MSU_osa1r6_db	processed_transcript	1877902	1880750	.	+	.	ID=mRNA:LOC_Os03g04110.2;Note=13103.m00420;Gene=LOC_Os03g04110
+Chr3	MSU_osa1r6_db	CDS	1877993	1878659	.	+	0	Parent=mRNA:LOC_Os03g04110.2
+Chr3	MSU_osa1r6_db	CDS	1879765	1879885	.	+	1	Parent=mRNA:LOC_Os03g04110.2
+Chr3	MSU_osa1r6_db	CDS	1879978	1880248	.	+	2	Parent=mRNA:LOC_Os03g04110.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	1877902	1877992	.	+	.	Parent=mRNA:LOC_Os03g04110.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	1880249	1880750	.	+	.	Parent=mRNA:LOC_Os03g04110.2
+Chr3	Protein-DB	peptide_p	1878624	1878659	.	?	.	Parent=mRNA:LOC_Os03g04110.1:P999_12777
+Chr3	Protein-DB	peptide_p	1878321	1878371	.	?	.	Parent=mRNA:LOC_Os03g04110.1:P999_12778
+Chr3	Protein-DB	peptide_p	1878567	1878599	.	?	.	Parent=mRNA:LOC_Os03g04110.1:P999_12779

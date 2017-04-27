@@ -1,0 +1,8 @@
+Chr8	MSU_osa1r6_db	gene	23231684	23238133	.	+	.	ID=Gene:LOC_Os08g36790;Note=bZIP+transcription+factor%2C+putative%2C+expressed;Alias=13108.t03427
+Chr8	MSU_osa1r6_db	processed_transcript	23231684	23238133	.	+	.	ID=mRNA:LOC_Os08g36790.1;Note=13108.m03865;Gene=LOC_Os08g36790
+Chr8	MSU_osa1r6_db	CDS	23231744	23232532	.	+	0	Parent=mRNA:LOC_Os08g36790.1
+Chr8	MSU_osa1r6_db	CDS	23232772	23232843	.	+	0	Parent=mRNA:LOC_Os08g36790.1
+Chr8	MSU_osa1r6_db	CDS	23234316	23234369	.	+	0	Parent=mRNA:LOC_Os08g36790.1
+Chr8	MSU_osa1r6_db	CDS	23237638	23237712	.	+	0	Parent=mRNA:LOC_Os08g36790.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	23231684	23231743	.	+	.	Parent=mRNA:LOC_Os08g36790.1
+Chr8	MSU_osa1r6_db	three_prime_UTR	23237713	23238133	.	+	.	Parent=mRNA:LOC_Os08g36790.1

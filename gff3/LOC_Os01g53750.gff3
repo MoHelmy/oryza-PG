@@ -1,0 +1,9 @@
+Chr1	MSU_osa1r6_db	gene	30896929	30899576	.	+	.	ID=Gene:LOC_Os01g53750;Note=glucan+endo-1%2C3-beta-glucosidase+precursor%2C+putative%2C+expressed;Alias=13101.t04715
+Chr1	MSU_osa1r6_db	processed_transcript	30896929	30899576	.	+	.	ID=mRNA:LOC_Os01g53750.1;Note=13101.m05633;Gene=LOC_Os01g53750
+Chr1	MSU_osa1r6_db	CDS	30896929	30896974	.	+	0	Parent=mRNA:LOC_Os01g53750.1
+Chr1	MSU_osa1r6_db	CDS	30897322	30898596	.	+	1	Parent=mRNA:LOC_Os01g53750.1
+Chr1	MSU_osa1r6_db	CDS	30899473	30899576	.	+	1	Parent=mRNA:LOC_Os01g53750.1
+Chr1	Protein-DB	peptide_p	30898045	30898077	.	?	.	Parent=mRNA:LOC_Os01g53750.1:P999_4158
+Chr1	Protein-DB	peptide_p	30898252	30898311	.	?	.	Parent=mRNA:LOC_Os01g53750.1:P999_4162
+Chr1	Protein-DB	peptide_p	30897436	30897465	.	?	.	Parent=mRNA:LOC_Os01g53750.1:P999_4163
+Chr1	Protein-DB	peptide_p	30898090	30898143	.	?	.	Parent=mRNA:LOC_Os01g53750.1:P999_4164

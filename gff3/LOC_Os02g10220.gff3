@@ -1,0 +1,12 @@
+Chr2	MSU_osa1r6_db	gene	5351467	5355147	.	+	.	ID=Gene:LOC_Os02g10220;Note=heat+shock+protein+DnaJ%2C+putative%2C+expressed;Alias=13102.t00879
+Chr2	MSU_osa1r6_db	processed_transcript	5351467	5355147	.	+	.	ID=mRNA:LOC_Os02g10220.1;Note=13102.m01132;Gene=LOC_Os02g10220
+Chr2	MSU_osa1r6_db	CDS	5351504	5351602	.	+	0	Parent=mRNA:LOC_Os02g10220.1
+Chr2	MSU_osa1r6_db	CDS	5353401	5353499	.	+	0	Parent=mRNA:LOC_Os02g10220.1
+Chr2	MSU_osa1r6_db	CDS	5353574	5353675	.	+	0	Parent=mRNA:LOC_Os02g10220.1
+Chr2	MSU_osa1r6_db	CDS	5353756	5353815	.	+	0	Parent=mRNA:LOC_Os02g10220.1
+Chr2	MSU_osa1r6_db	CDS	5353900	5354006	.	+	0	Parent=mRNA:LOC_Os02g10220.1
+Chr2	MSU_osa1r6_db	CDS	5354114	5354196	.	+	2	Parent=mRNA:LOC_Os02g10220.1
+Chr2	MSU_osa1r6_db	CDS	5354372	5354462	.	+	1	Parent=mRNA:LOC_Os02g10220.1
+Chr2	MSU_osa1r6_db	CDS	5354561	5354768	.	+	2	Parent=mRNA:LOC_Os02g10220.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	5351467	5351503	.	+	.	Parent=mRNA:LOC_Os02g10220.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	5354769	5355147	.	+	.	Parent=mRNA:LOC_Os02g10220.1

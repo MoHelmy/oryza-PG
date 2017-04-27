@@ -1,0 +1,10 @@
+Chr1	MSU_osa1r6_db	gene	17989782	17992718	.	-	.	ID=Gene:LOC_Os01g32780;Note=universal+stress+protein+domain+containing+protein%2C+putative%2C+expressed;Alias=13101.t02775
+Chr1	MSU_osa1r6_db	processed_transcript	17989782	17992718	.	-	.	ID=mRNA:LOC_Os01g32780.1;Note=13101.m03305;Gene=LOC_Os01g32780
+Chr1	MSU_osa1r6_db	CDS	17992267	17992462	.	-	0	Parent=mRNA:LOC_Os01g32780.1
+Chr1	MSU_osa1r6_db	CDS	17992040	17992149	.	-	1	Parent=mRNA:LOC_Os01g32780.1
+Chr1	MSU_osa1r6_db	CDS	17991257	17991375	.	-	0	Parent=mRNA:LOC_Os01g32780.1
+Chr1	MSU_osa1r6_db	CDS	17990084	17990162	.	-	2	Parent=mRNA:LOC_Os01g32780.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	17992463	17992718	.	-	.	Parent=mRNA:LOC_Os01g32780.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	17989782	17990083	.	-	.	Parent=mRNA:LOC_Os01g32780.1
+Chr1	Protein-DB	peptide_p	17991165	17991197	.	?	.	Parent=mRNA:LOC_Os01g32780.1:P999_2374
+Chr1	Protein-DB	peptide_p	17991198	17991230	.	?	.	Parent=mRNA:LOC_Os01g32780.1:P999_2375

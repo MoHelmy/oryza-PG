@@ -1,0 +1,15 @@
+Chr10	MSU_osa1r6_db	gene	7511694	7514609	.	+	.	ID=Gene:LOC_Os10g13800;Note=ufm1-conjugating+enzyme+1%2C+putative%2C+expressed;Alias=13110.t01102
+Chr10	MSU_osa1r6_db	processed_transcript	7511710	7514609	.	+	.	ID=mRNA:LOC_Os10g13800.1;Note=13110.m01215;Gene=LOC_Os10g13800
+Chr10	MSU_osa1r6_db	CDS	7511778	7512110	.	+	0	Parent=mRNA:LOC_Os10g13800.1
+Chr10	MSU_osa1r6_db	CDS	7512217	7512441	.	+	0	Parent=mRNA:LOC_Os10g13800.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	7511710	7511777	.	+	.	Parent=mRNA:LOC_Os10g13800.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	7512442	7512443	.	+	.	Parent=mRNA:LOC_Os10g13800.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	7513682	7514609	.	+	.	Parent=mRNA:LOC_Os10g13800.1
+Chr10	MSU_osa1r6_db	processed_transcript	7511694	7512566	.	+	.	ID=mRNA:LOC_Os10g13800.2;Note=13110.m01216;Gene=LOC_Os10g13800
+Chr10	MSU_osa1r6_db	CDS	7511778	7512110	.	+	0	Parent=mRNA:LOC_Os10g13800.2
+Chr10	MSU_osa1r6_db	CDS	7512217	7512441	.	+	0	Parent=mRNA:LOC_Os10g13800.2
+Chr10	MSU_osa1r6_db	five_prime_UTR	7511694	7511777	.	+	.	Parent=mRNA:LOC_Os10g13800.2
+Chr10	MSU_osa1r6_db	three_prime_UTR	7512442	7512566	.	+	.	Parent=mRNA:LOC_Os10g13800.2
+Chr10	Protein-DB	peptide_p	7512016	7512102	.	?	.	Parent=mRNA:LOC_Os10g13800.1:P999_37328
+Chr10	Protein-DB	peptide_p	7511980	7512015	.	?	.	Parent=mRNA:LOC_Os10g13800.1:P999_37329
+Chr10	Protein-DB	peptide_p	7511806	7511841	.	?	.	Parent=mRNA:LOC_Os10g13800.1:P999_37333

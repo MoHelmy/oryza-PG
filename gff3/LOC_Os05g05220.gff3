@@ -1,0 +1,16 @@
+Chr5	MSU_osa1r6_db	gene	2541317	2545952	.	-	.	ID=Gene:LOC_Os05g05220;Note=glioma+tumor+suppressor+candidate+region+gene+2+protein%2C+putative%2C+expressed;Alias=13105.t00416
+Chr5	MSU_osa1r6_db	processed_transcript	2541317	2545952	.	-	.	ID=mRNA:LOC_Os05g05220.1;Note=13105.m00539;Gene=LOC_Os05g05220
+Chr5	MSU_osa1r6_db	CDS	2545630	2545858	.	-	0	Parent=mRNA:LOC_Os05g05220.1
+Chr5	MSU_osa1r6_db	CDS	2545004	2545182	.	-	1	Parent=mRNA:LOC_Os05g05220.1
+Chr5	MSU_osa1r6_db	CDS	2544848	2544919	.	-	0	Parent=mRNA:LOC_Os05g05220.1
+Chr5	MSU_osa1r6_db	CDS	2544567	2544647	.	-	0	Parent=mRNA:LOC_Os05g05220.1
+Chr5	MSU_osa1r6_db	CDS	2544333	2544443	.	-	0	Parent=mRNA:LOC_Os05g05220.1
+Chr5	MSU_osa1r6_db	CDS	2543930	2544015	.	-	0	Parent=mRNA:LOC_Os05g05220.1
+Chr5	MSU_osa1r6_db	CDS	2543341	2543460	.	-	2	Parent=mRNA:LOC_Os05g05220.1
+Chr5	MSU_osa1r6_db	CDS	2543129	2543251	.	-	2	Parent=mRNA:LOC_Os05g05220.1
+Chr5	MSU_osa1r6_db	CDS	2542138	2542204	.	-	2	Parent=mRNA:LOC_Os05g05220.1
+Chr5	MSU_osa1r6_db	CDS	2541984	2542060	.	-	0	Parent=mRNA:LOC_Os05g05220.1
+Chr5	MSU_osa1r6_db	CDS	2541748	2541760	.	-	2	Parent=mRNA:LOC_Os05g05220.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	2545859	2545952	.	-	.	Parent=mRNA:LOC_Os05g05220.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	2541317	2541747	.	-	.	Parent=mRNA:LOC_Os05g05220.1
+Chr5	Protein-DB	peptide_p	2541460	2541501	.	?	.	Parent=mRNA:LOC_Os05g05220.1:P999_22900

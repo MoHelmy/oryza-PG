@@ -1,0 +1,12 @@
+Chr4	MSU_osa1r6_db	gene	11280545	11284891	.	-	.	ID=Gene:LOC_Os04g20230;Note=neighbor+of+COX4%2C+putative%2C+expressed;Alias=13104.t01746
+Chr4	MSU_osa1r6_db	processed_transcript	11280545	11284891	.	-	.	ID=mRNA:LOC_Os04g20230.1;Note=13104.m01861;Gene=LOC_Os04g20230
+Chr4	MSU_osa1r6_db	CDS	11284322	11284693	.	-	0	Parent=mRNA:LOC_Os04g20230.1
+Chr4	MSU_osa1r6_db	CDS	11284154	11284213	.	-	0	Parent=mRNA:LOC_Os04g20230.1
+Chr4	MSU_osa1r6_db	CDS	11281990	11282156	.	-	0	Parent=mRNA:LOC_Os04g20230.1
+Chr4	MSU_osa1r6_db	CDS	11280827	11280857	.	-	2	Parent=mRNA:LOC_Os04g20230.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	11284694	11284891	.	-	.	Parent=mRNA:LOC_Os04g20230.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	11280545	11280826	.	-	.	Parent=mRNA:LOC_Os04g20230.1
+Chr4	Protein-DB	peptide_p	11281032	11281064	.	?	.	Parent=mRNA:LOC_Os04g20230.1:P999_20101
+Chr4	Protein-DB	peptide_p	11283353	11283397	.	?	.	Parent=mRNA:LOC_Os04g20230.1:P999_20103
+Chr4	Protein-DB	peptide_p	11280828	11280851	.	?	.	Parent=mRNA:LOC_Os04g20230.1:P999_20104
+Chr4	Protein-DB	peptide_p	11280762	11280791	.	?	.	Parent=mRNA:LOC_Os04g20230.1:P999_20105

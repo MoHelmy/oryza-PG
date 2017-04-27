@@ -1,0 +1,17 @@
+Chr2	MSU_osa1r6_db	gene	32313495	32317463	.	-	.	ID=Gene:LOC_Os02g52860;Note=phosphate+carrier+protein%2C+mitochondrial+precursor%2C+putative%2C+expressed;Alias=13102.t04912
+Chr2	MSU_osa1r6_db	processed_transcript	32313495	32317463	.	-	.	ID=mRNA:LOC_Os02g52860.1;Note=13102.m06025;Gene=LOC_Os02g52860
+Chr2	MSU_osa1r6_db	CDS	32316995	32317288	.	-	0	Parent=mRNA:LOC_Os02g52860.1
+Chr2	MSU_osa1r6_db	CDS	32315825	32316186	.	-	0	Parent=mRNA:LOC_Os02g52860.1
+Chr2	MSU_osa1r6_db	CDS	32315681	32315724	.	-	2	Parent=mRNA:LOC_Os02g52860.1
+Chr2	MSU_osa1r6_db	CDS	32314610	32314824	.	-	1	Parent=mRNA:LOC_Os02g52860.1
+Chr2	MSU_osa1r6_db	CDS	32314010	32314134	.	-	0	Parent=mRNA:LOC_Os02g52860.1
+Chr2	MSU_osa1r6_db	CDS	32313847	32313913	.	-	2	Parent=mRNA:LOC_Os02g52860.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	32317289	32317463	.	-	.	Parent=mRNA:LOC_Os02g52860.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	32313495	32313846	.	-	.	Parent=mRNA:LOC_Os02g52860.1
+Chr2	Protein-DB	peptide_p	32314794	32314826	.	?	.	Parent=mRNA:LOC_Os02g52860.1:P999_11560
+Chr2	Protein-DB	peptide_p	32316149	32316187	.	?	.	Parent=mRNA:LOC_Os02g52860.1:P999_11561
+Chr2	Protein-DB	peptide_p	32314902	32314928	.	?	.	Parent=mRNA:LOC_Os02g52860.1:P999_11564
+Chr2	Protein-DB	peptide_p	32314902	32314925	.	?	.	Parent=mRNA:LOC_Os02g52860.1:P999_11565
+Chr2	Protein-DB	peptide_p	32314854	32314901	.	?	.	Parent=mRNA:LOC_Os02g52860.1:P999_11569
+Chr2	Protein-DB	peptide_p	32317047	32317091	.	?	.	Parent=mRNA:LOC_Os02g52860.1:P999_11575
+Chr2	Protein-DB	peptide_p	32316837	32316863	.	?	.	Parent=mRNA:LOC_Os02g52860.1:P999_11582

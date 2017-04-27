@@ -1,0 +1,12 @@
+Chr4	MSU_osa1r6_db	gene	21060590	21063518	.	-	.	ID=Gene:LOC_Os04g34940;Note=protein+of+unknown+function+domain+containing+protein%2C+expressed;Alias=13104.t03148
+Chr4	MSU_osa1r6_db	processed_transcript	21060590	21063518	.	-	.	ID=mRNA:LOC_Os04g34940.1;Note=13104.m03396;Gene=LOC_Os04g34940
+Chr4	MSU_osa1r6_db	CDS	21063250	21063372	.	-	0	Parent=mRNA:LOC_Os04g34940.1
+Chr4	MSU_osa1r6_db	CDS	21062506	21062586	.	-	0	Parent=mRNA:LOC_Os04g34940.1
+Chr4	MSU_osa1r6_db	CDS	21062324	21062412	.	-	0	Parent=mRNA:LOC_Os04g34940.1
+Chr4	MSU_osa1r6_db	CDS	21062160	21062234	.	-	2	Parent=mRNA:LOC_Os04g34940.1
+Chr4	MSU_osa1r6_db	CDS	21061687	21061808	.	-	2	Parent=mRNA:LOC_Os04g34940.1
+Chr4	MSU_osa1r6_db	CDS	21061391	21061591	.	-	1	Parent=mRNA:LOC_Os04g34940.1
+Chr4	MSU_osa1r6_db	CDS	21060928	21061025	.	-	1	Parent=mRNA:LOC_Os04g34940.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	21063373	21063518	.	-	.	Parent=mRNA:LOC_Os04g34940.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	21060590	21060927	.	-	.	Parent=mRNA:LOC_Os04g34940.1
+Chr4	Protein-DB	peptide_p	21060770	21060802	.	?	.	Parent=mRNA:LOC_Os04g34940.1:P999_20617

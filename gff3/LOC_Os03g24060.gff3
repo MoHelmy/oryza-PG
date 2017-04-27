@@ -1,0 +1,12 @@
+Chr3	MSU_osa1r6_db	gene	13658102	13661489	.	-	.	ID=Gene:LOC_Os03g24060;Note=tetratricopeptide+repeat+containing+protein%2C+putative%2C+expressed;Alias=13103.t02132
+Chr3	MSU_osa1r6_db	processed_transcript	13658102	13661489	.	-	.	ID=mRNA:LOC_Os03g24060.1;Note=13103.m02844;Gene=LOC_Os03g24060
+Chr3	MSU_osa1r6_db	CDS	13661276	13661368	.	-	0	Parent=mRNA:LOC_Os03g24060.1
+Chr3	MSU_osa1r6_db	CDS	13660657	13660786	.	-	0	Parent=mRNA:LOC_Os03g24060.1
+Chr3	MSU_osa1r6_db	CDS	13659640	13659761	.	-	1	Parent=mRNA:LOC_Os03g24060.1
+Chr3	MSU_osa1r6_db	CDS	13659111	13659174	.	-	0	Parent=mRNA:LOC_Os03g24060.1
+Chr3	MSU_osa1r6_db	CDS	13658601	13658713	.	-	1	Parent=mRNA:LOC_Os03g24060.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	13661369	13661489	.	-	.	Parent=mRNA:LOC_Os03g24060.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	13658102	13658600	.	-	.	Parent=mRNA:LOC_Os03g24060.1
+Chr3	Protein-DB	peptide_p	13658245	13658274	.	?	.	Parent=mRNA:LOC_Os03g24060.1:P999_15746
+Chr3	Protein-DB	peptide_p	13658869	13658895	.	?	.	Parent=mRNA:LOC_Os03g24060.1:P999_15747
+Chr3	Protein-DB	peptide_p	13660412	13660435	.	?	.	Parent=mRNA:LOC_Os03g24060.1:P999_15748

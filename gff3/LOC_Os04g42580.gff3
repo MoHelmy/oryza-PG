@@ -1,0 +1,17 @@
+Chr4	MSU_osa1r6_db	gene	25002712	25007606	.	+	.	ID=Gene:LOC_Os04g42580;Note=carboxyvinyl-carboxyphosphonate+phosphorylmutase%2C+putative%2C+expressed;Alias=13104.t03792
+Chr4	MSU_osa1r6_db	processed_transcript	25002712	25007606	.	+	.	ID=mRNA:LOC_Os04g42580.1;Note=13104.m04207;Gene=LOC_Os04g42580
+Chr4	MSU_osa1r6_db	CDS	25002742	25003102	.	+	0	Parent=mRNA:LOC_Os04g42580.1
+Chr4	MSU_osa1r6_db	CDS	25003574	25003785	.	+	1	Parent=mRNA:LOC_Os04g42580.1
+Chr4	MSU_osa1r6_db	CDS	25004051	25004332	.	+	0	Parent=mRNA:LOC_Os04g42580.1
+Chr4	MSU_osa1r6_db	CDS	25004425	25004547	.	+	0	Parent=mRNA:LOC_Os04g42580.1
+Chr4	MSU_osa1r6_db	CDS	25005142	25005295	.	+	0	Parent=mRNA:LOC_Os04g42580.1
+Chr4	MSU_osa1r6_db	CDS	25005385	25005596	.	+	1	Parent=mRNA:LOC_Os04g42580.1
+Chr4	MSU_osa1r6_db	CDS	25005807	25005843	.	+	0	Parent=mRNA:LOC_Os04g42580.1
+Chr4	MSU_osa1r6_db	CDS	25005925	25006055	.	+	1	Parent=mRNA:LOC_Os04g42580.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	25002712	25002741	.	+	.	Parent=mRNA:LOC_Os04g42580.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	25006056	25007606	.	+	.	Parent=mRNA:LOC_Os04g42580.1
+Chr4	Protein-DB	peptide_p	25005439	25005510	.	?	.	Parent=mRNA:LOC_Os04g42580.1:P999_21147
+Chr4	Protein-DB	peptide_p	25004453	25004497	.	?	.	Parent=mRNA:LOC_Os04g42580.1:P999_21148
+Chr4	Protein-DB	peptide_p	25005385	25005432	.	?	.	Parent=mRNA:LOC_Os04g42580.1:P999_21151
+Chr4	Protein-DB	peptide_p	25005808	25005834	.	?	.	Parent=mRNA:LOC_Os04g42580.1:P999_21152
+Chr4	Protein-DB	peptide_p	25004498	25004539	.	?	.	Parent=mRNA:LOC_Os04g42580.1:P999_21153

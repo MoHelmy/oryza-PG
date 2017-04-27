@@ -1,0 +1,10 @@
+Chr11	MSU_osa1r6_db	gene	1701179	1704478	.	-	.	ID=Gene:LOC_Os11g04190;Note=auxin+efflux+carrier+component%2C+putative%2C+expressed;Alias=13111.t00312
+Chr11	MSU_osa1r6_db	processed_transcript	1701179	1704478	.	-	.	ID=mRNA:LOC_Os11g04190.1;Note=13111.m00367;Gene=LOC_Os11g04190
+Chr11	MSU_osa1r6_db	CDS	1703233	1704259	.	-	0	Parent=mRNA:LOC_Os11g04190.1
+Chr11	MSU_osa1r6_db	CDS	1702587	1702836	.	-	1	Parent=mRNA:LOC_Os11g04190.1
+Chr11	MSU_osa1r6_db	CDS	1702391	1702476	.	-	2	Parent=mRNA:LOC_Os11g04190.1
+Chr11	MSU_osa1r6_db	CDS	1702133	1702290	.	-	1	Parent=mRNA:LOC_Os11g04190.1
+Chr11	MSU_osa1r6_db	CDS	1701966	1702042	.	-	0	Parent=mRNA:LOC_Os11g04190.1
+Chr11	MSU_osa1r6_db	CDS	1701576	1701642	.	-	2	Parent=mRNA:LOC_Os11g04190.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	1704260	1704478	.	-	.	Parent=mRNA:LOC_Os11g04190.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	1701179	1701575	.	-	.	Parent=mRNA:LOC_Os11g04190.1

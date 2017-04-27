@@ -1,0 +1,6 @@
+Chr1	MSU_osa1r6_db	gene	30996941	30998410	.	-	.	ID=Gene:LOC_Os01g53910;Note=dehydrogenase%2C+putative%2C+expressed;Alias=13101.t04731
+Chr1	MSU_osa1r6_db	processed_transcript	30996941	30998410	.	-	.	ID=mRNA:LOC_Os01g53910.1;Note=13101.m05656;Gene=LOC_Os01g53910
+Chr1	MSU_osa1r6_db	CDS	30997088	30998122	.	-	0	Parent=mRNA:LOC_Os01g53910.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	30998123	30998410	.	-	.	Parent=mRNA:LOC_Os01g53910.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	30996941	30997087	.	-	.	Parent=mRNA:LOC_Os01g53910.1
+Chr1	Protein-DB	peptide_p	30997707	30997748	.	?	.	Parent=mRNA:LOC_Os01g53910.1:P999_4167

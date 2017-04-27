@@ -1,0 +1,12 @@
+Chr1	MSU_osa1r6_db	gene	26698145	26705114	.	-	.	ID=Gene:LOC_Os01g46810;Note=viral+A-type+inclusion+protein+repeat+containing+protein%2C+expressed;Alias=13101.t04048
+Chr1	MSU_osa1r6_db	processed_transcript	26698145	26705114	.	-	.	ID=mRNA:LOC_Os01g46810.1;Note=13101.m04815;Gene=LOC_Os01g46810
+Chr1	MSU_osa1r6_db	CDS	26705019	26705114	.	-	0	Parent=mRNA:LOC_Os01g46810.1
+Chr1	MSU_osa1r6_db	CDS	26704597	26704653	.	-	0	Parent=mRNA:LOC_Os01g46810.1
+Chr1	MSU_osa1r6_db	CDS	26704447	26704525	.	-	0	Parent=mRNA:LOC_Os01g46810.1
+Chr1	MSU_osa1r6_db	CDS	26698429	26702744	.	-	1	Parent=mRNA:LOC_Os01g46810.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	26698145	26698428	.	-	.	Parent=mRNA:LOC_Os01g46810.1
+Chr1	Protein-DB	peptide_p	26703731	26703784	.	?	.	Parent=mRNA:LOC_Os01g46810.1:P999_3338
+Chr1	Protein-DB	peptide_p	26701076	26701105	.	?	.	Parent=mRNA:LOC_Os01g46810.1:P999_3339
+Chr1	Protein-DB	peptide_p	26703812	26703850	.	?	.	Parent=mRNA:LOC_Os01g46810.1:P999_3340
+Chr1	Protein-DB	peptide_p	26702462	26702512	.	?	.	Parent=mRNA:LOC_Os01g46810.1:P999_3345
+Chr1	Protein-DB	peptide_p	26701472	26701510	.	?	.	Parent=mRNA:LOC_Os01g46810.1:P999_3346

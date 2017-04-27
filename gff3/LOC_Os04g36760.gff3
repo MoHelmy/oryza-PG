@@ -1,0 +1,7 @@
+Chr4	MSU_osa1r6_db	gene	22017994	22018846	.	-	.	ID=Gene:LOC_Os04g36760;Note=enzyme+of+the+cupin+superfamily+protein%2C+putative%2C+expressed;Alias=13104.t03282
+Chr4	MSU_osa1r6_db	processed_transcript	22017994	22018846	.	-	.	ID=mRNA:LOC_Os04g36760.1;Note=13104.m03555;Gene=LOC_Os04g36760
+Chr4	MSU_osa1r6_db	CDS	22018494	22018750	.	-	0	Parent=mRNA:LOC_Os04g36760.1
+Chr4	MSU_osa1r6_db	CDS	22018202	22018409	.	-	2	Parent=mRNA:LOC_Os04g36760.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	22018751	22018846	.	-	.	Parent=mRNA:LOC_Os04g36760.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	22017994	22018201	.	-	.	Parent=mRNA:LOC_Os04g36760.1
+Chr4	Protein-DB	peptide_p	22018316	22018336	.	?	.	Parent=mRNA:LOC_Os04g36760.1:P999_20696

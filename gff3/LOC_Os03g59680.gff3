@@ -1,0 +1,11 @@
+Chr3	MSU_osa1r6_db	gene	33981086	33984964	.	-	.	ID=Gene:LOC_Os03g59680;Note=PAPA-1-like+conserved+region+family+protein%2C+expressed;Alias=13103.t05222
+Chr3	MSU_osa1r6_db	processed_transcript	33981086	33984964	.	-	.	ID=mRNA:LOC_Os03g59680.1;Note=13103.m06550;Gene=LOC_Os03g59680
+Chr3	MSU_osa1r6_db	CDS	33983574	33984131	.	-	0	Parent=mRNA:LOC_Os03g59680.1
+Chr3	MSU_osa1r6_db	CDS	33982549	33983089	.	-	0	Parent=mRNA:LOC_Os03g59680.1
+Chr3	MSU_osa1r6_db	CDS	33982093	33982193	.	-	1	Parent=mRNA:LOC_Os03g59680.1
+Chr3	MSU_osa1r6_db	CDS	33981938	33982018	.	-	0	Parent=mRNA:LOC_Os03g59680.1
+Chr3	MSU_osa1r6_db	CDS	33981722	33981849	.	-	0	Parent=mRNA:LOC_Os03g59680.1
+Chr3	MSU_osa1r6_db	CDS	33981427	33981589	.	-	2	Parent=mRNA:LOC_Os03g59680.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	33984669	33984964	.	-	.	Parent=mRNA:LOC_Os03g59680.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	33984132	33984188	.	-	.	Parent=mRNA:LOC_Os03g59680.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	33981086	33981426	.	-	.	Parent=mRNA:LOC_Os03g59680.1

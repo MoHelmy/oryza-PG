@@ -1,0 +1,15 @@
+Chr8	MSU_osa1r6_db	gene	20856011	20859546	.	-	.	ID=Gene:LOC_Os08g33440;Note=2-oxo+acid+dehydrogenases+acyltransferase+domain+containing+protein%2C+expressed;Alias=13108.t03094
+Chr8	MSU_osa1r6_db	processed_transcript	20856011	20859546	.	-	.	ID=mRNA:LOC_Os08g33440.1;Note=13108.m03484;Gene=LOC_Os08g33440
+Chr8	MSU_osa1r6_db	CDS	20858572	20859459	.	-	0	Parent=mRNA:LOC_Os08g33440.1
+Chr8	MSU_osa1r6_db	CDS	20858273	20858464	.	-	0	Parent=mRNA:LOC_Os08g33440.1
+Chr8	MSU_osa1r6_db	CDS	20858096	20858183	.	-	0	Parent=mRNA:LOC_Os08g33440.1
+Chr8	MSU_osa1r6_db	CDS	20857939	20858009	.	-	1	Parent=mRNA:LOC_Os08g33440.1
+Chr8	MSU_osa1r6_db	CDS	20857759	20857842	.	-	0	Parent=mRNA:LOC_Os08g33440.1
+Chr8	MSU_osa1r6_db	CDS	20856356	20856460	.	-	0	Parent=mRNA:LOC_Os08g33440.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	20859460	20859546	.	-	.	Parent=mRNA:LOC_Os08g33440.1
+Chr8	MSU_osa1r6_db	three_prime_UTR	20856011	20856355	.	-	.	Parent=mRNA:LOC_Os08g33440.1
+Chr8	Protein-DB	peptide_p	20859098	20859121	.	?	.	Parent=mRNA:LOC_Os08g33440.1:P999_33927
+Chr8	Protein-DB	peptide_p	20859122	20859169	.	?	.	Parent=mRNA:LOC_Os08g33440.1:P999_33928
+Chr8	Protein-DB	peptide_p	20857375	20857401	.	?	.	Parent=mRNA:LOC_Os08g33440.1:P999_33929
+Chr8	Protein-DB	peptide_p	20856285	20856317	.	?	.	Parent=mRNA:LOC_Os08g33440.1:P999_33930
+Chr8	Protein-DB	peptide_p	20856966	20856986	.	?	.	Parent=mRNA:LOC_Os08g33440.1:P999_33932

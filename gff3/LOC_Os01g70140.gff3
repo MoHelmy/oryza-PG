@@ -1,0 +1,11 @@
+Chr1	MSU_osa1r6_db	gene	40594809	40598068	.	-	.	ID=Gene:LOC_Os01g70140;Note=ubiquitin-conjugating+enzyme+E2-22+kDa%2C+putative%2C+expressed;Alias=13101.t06238
+Chr1	MSU_osa1r6_db	processed_transcript	40594809	40598068	.	-	.	ID=mRNA:LOC_Os01g70140.1;Note=13101.m07613;Gene=LOC_Os01g70140
+Chr1	MSU_osa1r6_db	CDS	40597756	40597936	.	-	0	Parent=mRNA:LOC_Os01g70140.1
+Chr1	MSU_osa1r6_db	CDS	40597145	40597193	.	-	1	Parent=mRNA:LOC_Os01g70140.1
+Chr1	MSU_osa1r6_db	CDS	40596564	40596723	.	-	2	Parent=mRNA:LOC_Os01g70140.1
+Chr1	MSU_osa1r6_db	CDS	40595410	40595499	.	-	0	Parent=mRNA:LOC_Os01g70140.1
+Chr1	MSU_osa1r6_db	CDS	40595209	40595316	.	-	0	Parent=mRNA:LOC_Os01g70140.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	40597937	40598068	.	-	.	Parent=mRNA:LOC_Os01g70140.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	40594809	40595208	.	-	.	Parent=mRNA:LOC_Os01g70140.1
+Chr1	Protein-DB	peptide_p	40596207	40596236	.	?	.	Parent=mRNA:LOC_Os01g70140.1:P999_5742
+Chr1	Protein-DB	peptide_p	40597388	40597417	.	?	.	Parent=mRNA:LOC_Os01g70140.1:P999_5746

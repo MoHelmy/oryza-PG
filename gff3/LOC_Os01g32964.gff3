@@ -1,0 +1,12 @@
+Chr1	MSU_osa1r6_db	gene	18086555	18094140	.	-	.	ID=Gene:LOC_Os01g32964;Note=protein+phosphotase+protein%2C+putative%2C+expressed;Alias=13101.t02793
+Chr1	MSU_osa1r6_db	processed_transcript	18086555	18094140	.	-	.	ID=mRNA:LOC_Os01g32964.1;Note=13101.m03327;Gene=LOC_Os01g32964
+Chr1	MSU_osa1r6_db	CDS	18093345	18093441	.	-	0	Parent=mRNA:LOC_Os01g32964.1
+Chr1	MSU_osa1r6_db	CDS	18093101	18093254	.	-	1	Parent=mRNA:LOC_Os01g32964.1
+Chr1	MSU_osa1r6_db	CDS	18092491	18092554	.	-	2	Parent=mRNA:LOC_Os01g32964.1
+Chr1	MSU_osa1r6_db	CDS	18092232	18092339	.	-	0	Parent=mRNA:LOC_Os01g32964.1
+Chr1	MSU_osa1r6_db	CDS	18091923	18092048	.	-	0	Parent=mRNA:LOC_Os01g32964.1
+Chr1	MSU_osa1r6_db	CDS	18091548	18091780	.	-	0	Parent=mRNA:LOC_Os01g32964.1
+Chr1	MSU_osa1r6_db	CDS	18086903	18087125	.	-	2	Parent=mRNA:LOC_Os01g32964.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	18093940	18094140	.	-	.	Parent=mRNA:LOC_Os01g32964.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	18093442	18093516	.	-	.	Parent=mRNA:LOC_Os01g32964.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	18086555	18086902	.	-	.	Parent=mRNA:LOC_Os01g32964.1

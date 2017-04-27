@@ -1,0 +1,15 @@
+Chr1	MSU_osa1r6_db	gene	26076984	26081154	.	-	.	ID=Gene:LOC_Os01g45910;Note=plastidic+ATP%2FADP-transporter%2C+putative%2C+expressed;Alias=13101.t03964
+Chr1	MSU_osa1r6_db	processed_transcript	26076984	26081154	.	-	.	ID=mRNA:LOC_Os01g45910.1;Note=13101.m04713;Gene=LOC_Os01g45910
+Chr1	MSU_osa1r6_db	CDS	26080267	26081073	.	-	0	Parent=mRNA:LOC_Os01g45910.1
+Chr1	MSU_osa1r6_db	CDS	26078702	26078971	.	-	0	Parent=mRNA:LOC_Os01g45910.1
+Chr1	MSU_osa1r6_db	CDS	26078476	26078619	.	-	0	Parent=mRNA:LOC_Os01g45910.1
+Chr1	MSU_osa1r6_db	CDS	26078040	26078387	.	-	0	Parent=mRNA:LOC_Os01g45910.1
+Chr1	MSU_osa1r6_db	CDS	26077232	26077591	.	-	0	Parent=mRNA:LOC_Os01g45910.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	26081074	26081154	.	-	.	Parent=mRNA:LOC_Os01g45910.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	26076984	26077231	.	-	.	Parent=mRNA:LOC_Os01g45910.1
+Chr1	Protein-DB	peptide_p	26079387	26079416	.	?	.	Parent=mRNA:LOC_Os01g45910.1:P999_3138
+Chr1	Protein-DB	peptide_p	26077735	26077785	.	?	.	Parent=mRNA:LOC_Os01g45910.1:P999_3139
+Chr1	Protein-DB	peptide_p	26080560	26080595	.	?	.	Parent=mRNA:LOC_Os01g45910.1:P999_3140
+Chr1	Protein-DB	peptide_p	26077702	26077734	.	?	.	Parent=mRNA:LOC_Os01g45910.1:P999_3141
+Chr1	Protein-DB	peptide_p	26077519	26077551	.	?	.	Parent=mRNA:LOC_Os01g45910.1:P999_3142
+Chr1	Protein-DB	peptide_p	26080040	26080063	.	?	.	Parent=mRNA:LOC_Os01g45910.1:P999_3143

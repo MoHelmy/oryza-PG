@@ -1,0 +1,7 @@
+Chr2	MSU_osa1r6_db	gene	16459810	16462612	.	-	.	ID=Gene:LOC_Os02g27810;Note=MazG+nucleotide+pyrophosphohydrolase+domain+containing+protein%2C+expressed;Alias=13102.t02489
+Chr2	MSU_osa1r6_db	processed_transcript	16459810	16462612	.	-	.	ID=mRNA:LOC_Os02g27810.1;Note=13102.m03034;Gene=LOC_Os02g27810
+Chr2	MSU_osa1r6_db	CDS	16462417	16462575	.	-	0	Parent=mRNA:LOC_Os02g27810.1
+Chr2	MSU_osa1r6_db	CDS	16460233	16460592	.	-	0	Parent=mRNA:LOC_Os02g27810.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	16462576	16462612	.	-	.	Parent=mRNA:LOC_Os02g27810.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	16459810	16460232	.	-	.	Parent=mRNA:LOC_Os02g27810.1
+Chr2	Protein-DB	peptide_p	16461966	16462010	.	?	.	Parent=mRNA:LOC_Os02g27810.1:P999_8955

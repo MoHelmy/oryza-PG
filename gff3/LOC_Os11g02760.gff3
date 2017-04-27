@@ -1,0 +1,9 @@
+Chr11	MSU_osa1r6_db	gene	904663	906832	.	+	.	ID=Gene:LOC_Os11g02760;Note=histidine+triad+family+protein%2C+putative;Alias=13111.t00171
+Chr11	MSU_osa1r6_db	processed_transcript	904663	906832	.	+	.	ID=mRNA:LOC_Os11g02760.1;Note=13111.m00210;Gene=LOC_Os11g02760
+Chr11	MSU_osa1r6_db	CDS	904675	904948	.	+	0	Parent=mRNA:LOC_Os11g02760.1
+Chr11	MSU_osa1r6_db	CDS	905955	906091	.	+	1	Parent=mRNA:LOC_Os11g02760.1
+Chr11	MSU_osa1r6_db	CDS	906372	906479	.	+	0	Parent=mRNA:LOC_Os11g02760.1
+Chr11	MSU_osa1r6_db	CDS	906571	906687	.	+	0	Parent=mRNA:LOC_Os11g02760.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	904663	904674	.	+	.	Parent=mRNA:LOC_Os11g02760.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	906688	906832	.	+	.	Parent=mRNA:LOC_Os11g02760.1
+Chr11	Protein-DB	peptide_p	905982	906032	.	?	.	Parent=mRNA:LOC_Os11g02760.1:P999_39261

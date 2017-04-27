@@ -1,0 +1,13 @@
+Chr5	MSU_osa1r6_db	gene	516916	522945	.	-	.	ID=Gene:LOC_Os05g01910;Note=pumilio-family+RNA+binding+protein%2C+putative%2C+expressed;Alias=13105.t00091
+Chr5	MSU_osa1r6_db	processed_transcript	516916	522945	.	-	.	ID=mRNA:LOC_Os05g01910.1;Note=13105.m00136;Gene=LOC_Os05g01910
+Chr5	MSU_osa1r6_db	CDS	522187	522585	.	-	0	Parent=mRNA:LOC_Os05g01910.1
+Chr5	MSU_osa1r6_db	CDS	520502	521763	.	-	0	Parent=mRNA:LOC_Os05g01910.1
+Chr5	MSU_osa1r6_db	CDS	519966	520107	.	-	2	Parent=mRNA:LOC_Os05g01910.1
+Chr5	MSU_osa1r6_db	CDS	519777	519884	.	-	0	Parent=mRNA:LOC_Os05g01910.1
+Chr5	MSU_osa1r6_db	CDS	519038	519250	.	-	0	Parent=mRNA:LOC_Os05g01910.1
+Chr5	MSU_osa1r6_db	CDS	518834	518944	.	-	0	Parent=mRNA:LOC_Os05g01910.1
+Chr5	MSU_osa1r6_db	CDS	518003	518197	.	-	0	Parent=mRNA:LOC_Os05g01910.1
+Chr5	MSU_osa1r6_db	CDS	517695	517869	.	-	0	Parent=mRNA:LOC_Os05g01910.1
+Chr5	MSU_osa1r6_db	CDS	517556	517599	.	-	1	Parent=mRNA:LOC_Os05g01910.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	522586	522945	.	-	.	Parent=mRNA:LOC_Os05g01910.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	516916	517555	.	-	.	Parent=mRNA:LOC_Os05g01910.1

@@ -1,0 +1,8 @@
+Chr1	MSU_osa1r6_db	gene	8083372	8086044	.	+	.	ID=Gene:LOC_Os01g14440;Note=OsWRKY1v2+-+Superfamily+of+TFs+having+WRKY+and+zinc+finger+domains%2C+expressed;Alias=13101.t01295
+Chr1	MSU_osa1r6_db	processed_transcript	8083372	8086044	.	+	.	ID=mRNA:LOC_Os01g14440.1;Note=13101.m01589;Gene=LOC_Os01g14440
+Chr1	MSU_osa1r6_db	CDS	8083372	8083758	.	+	0	Parent=mRNA:LOC_Os01g14440.1
+Chr1	MSU_osa1r6_db	CDS	8083970	8084149	.	+	0	Parent=mRNA:LOC_Os01g14440.1
+Chr1	MSU_osa1r6_db	CDS	8084261	8084590	.	+	0	Parent=mRNA:LOC_Os01g14440.1
+Chr1	MSU_osa1r6_db	CDS	8084679	8084792	.	+	0	Parent=mRNA:LOC_Os01g14440.1
+Chr1	MSU_osa1r6_db	CDS	8084942	8085682	.	+	0	Parent=mRNA:LOC_Os01g14440.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	8085683	8086044	.	+	.	Parent=mRNA:LOC_Os01g14440.1

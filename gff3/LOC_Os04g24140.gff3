@@ -1,0 +1,10 @@
+Chr4	MSU_osa1r6_db	gene	13792992	13794259	.	+	.	ID=Gene:LOC_Os04g24140;Note=ribose-5-phosphate+isomerase+A%2C+putative%2C+expressed;Alias=13104.t02114
+Chr4	MSU_osa1r6_db	processed_transcript	13792992	13794259	.	+	.	ID=mRNA:LOC_Os04g24140.1;Note=13104.m02246;Gene=LOC_Os04g24140
+Chr4	MSU_osa1r6_db	CDS	13793102	13793929	.	+	0	Parent=mRNA:LOC_Os04g24140.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	13792992	13793101	.	+	.	Parent=mRNA:LOC_Os04g24140.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	13793930	13794259	.	+	.	Parent=mRNA:LOC_Os04g24140.1
+Chr4	Protein-DB	peptide_p	13793583	13793654	.	?	.	Parent=mRNA:LOC_Os04g24140.1:P999_20115
+Chr4	Protein-DB	peptide_p	13793328	13793372	.	?	.	Parent=mRNA:LOC_Os04g24140.1:P999_20118
+Chr4	Protein-DB	peptide_p	13793793	13793819	.	?	.	Parent=mRNA:LOC_Os04g24140.1:P999_20122
+Chr4	Protein-DB	peptide_p	13793658	13793690	.	?	.	Parent=mRNA:LOC_Os04g24140.1:P999_20124
+Chr4	Protein-DB	peptide_p	13793544	13793570	.	?	.	Parent=mRNA:LOC_Os04g24140.1:P999_20126

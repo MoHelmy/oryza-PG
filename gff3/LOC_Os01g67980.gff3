@@ -1,0 +1,9 @@
+Chr1	MSU_osa1r6_db	gene	39500287	39501935	.	+	.	ID=Gene:LOC_Os01g67980;Note=cysteine+proteinase+EP-B+1+precursor%2C+putative%2C+expressed;Alias=13101.t06079
+Chr1	MSU_osa1r6_db	processed_transcript	39500287	39501935	.	+	.	ID=mRNA:LOC_Os01g67980.1;Note=13101.m07393;Gene=LOC_Os01g67980
+Chr1	MSU_osa1r6_db	CDS	39500436	39501551	.	+	0	Parent=mRNA:LOC_Os01g67980.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	39500287	39500435	.	+	.	Parent=mRNA:LOC_Os01g67980.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	39501552	39501935	.	+	.	Parent=mRNA:LOC_Os01g67980.1
+Chr1	Protein-DB	peptide_p	39501070	39501111	.	?	.	Parent=mRNA:LOC_Os01g67980.1:P999_5532
+Chr1	Protein-DB	peptide_p	39501436	39501495	.	?	.	Parent=mRNA:LOC_Os01g67980.1:P999_5533
+Chr1	Protein-DB	peptide_p	39501385	39501426	.	?	.	Parent=mRNA:LOC_Os01g67980.1:P999_5534
+Chr1	Protein-DB	peptide_p	39501148	39501216	.	?	.	Parent=mRNA:LOC_Os01g67980.1:P999_5535

@@ -1,0 +1,9 @@
+Chr1	MSU_osa1r6_db	gene	4122420	4125379	.	+	.	ID=Gene:LOC_Os01g08410;Note=early+fruit+mRNA%2C+putative%2C+expressed;Alias=13101.t00718
+Chr1	MSU_osa1r6_db	processed_transcript	4122420	4125379	.	+	.	ID=mRNA:LOC_Os01g08410.1;Note=13101.m00878;Gene=LOC_Os01g08410
+Chr1	MSU_osa1r6_db	CDS	4122751	4123140	.	+	0	Parent=mRNA:LOC_Os01g08410.1
+Chr1	MSU_osa1r6_db	CDS	4124226	4124484	.	+	0	Parent=mRNA:LOC_Os01g08410.1
+Chr1	MSU_osa1r6_db	CDS	4124639	4124985	.	+	1	Parent=mRNA:LOC_Os01g08410.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	4122420	4122750	.	+	.	Parent=mRNA:LOC_Os01g08410.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	4124986	4125379	.	+	.	Parent=mRNA:LOC_Os01g08410.1
+Chr1	Protein-DB	peptide_p	4122797	4122838	.	?	.	Parent=mRNA:LOC_Os01g08410.1:P999_713
+Chr1	Protein-DB	peptide_p	4122953	4122988	.	?	.	Parent=mRNA:LOC_Os01g08410.1:P999_716

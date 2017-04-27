@@ -1,0 +1,9 @@
+Chr3	MSU_osa1r6_db	gene	28743097	28755351	.	-	.	ID=Gene:LOC_Os03g50390;Note=AGC_AGC_other_GWLd.2+-+ACG+kinases+include+homologs+to+PKA%2C+PKG+and+PKC%2C+expressed;Alias=13103.t04391
+Chr3	MSU_osa1r6_db	three_prime_UTR	28741441	28742009	.	+	.	Parent=mRNA:LOC_Os03g50380.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	28739704	28739764	.	+	.	Parent=mRNA:LOC_Os03g50380.1
+Chr3	MSU_osa1r6_db	CDS	28741363	28741440	.	+	0	Parent=mRNA:LOC_Os03g50380.1
+Chr3	MSU_osa1r6_db	CDS	28741207	28741263	.	+	0	Parent=mRNA:LOC_Os03g50380.1
+Chr3	MSU_osa1r6_db	CDS	28741038	28741124	.	+	0	Parent=mRNA:LOC_Os03g50380.1
+Chr3	MSU_osa1r6_db	CDS	28739973	28740013	.	+	1	Parent=mRNA:LOC_Os03g50380.1
+Chr3	MSU_osa1r6_db	CDS	28739765	28739882	.	+	0	Parent=mRNA:LOC_Os03g50380.1
+Chr3	MSU_osa1r6_db	processed_transcript	28739704	28742009	.	+	.	ID=mRNA:LOC_Os03g50380.1;Note=13103.m05478;Gene=LOC_Os03g50380

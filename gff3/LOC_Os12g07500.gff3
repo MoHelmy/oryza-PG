@@ -1,0 +1,8 @@
+Chr12	MSU_osa1r6_db	gene	3722610	3725841	.	-	.	ID=Gene:LOC_Os12g07500;Note=csAtPR5%2C+putative%2C+expressed;Alias=13112.t00633
+Chr12	MSU_osa1r6_db	processed_transcript	3722610	3725841	.	-	.	ID=mRNA:LOC_Os12g07500.1;Note=13112.m00785;Gene=LOC_Os12g07500
+Chr12	MSU_osa1r6_db	CDS	3725503	3725752	.	-	0	Parent=mRNA:LOC_Os12g07500.1
+Chr12	MSU_osa1r6_db	CDS	3724027	3724253	.	-	1	Parent=mRNA:LOC_Os12g07500.1
+Chr12	MSU_osa1r6_db	CDS	3722884	3723507	.	-	0	Parent=mRNA:LOC_Os12g07500.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	3725753	3725841	.	-	.	Parent=mRNA:LOC_Os12g07500.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	3722610	3722883	.	-	.	Parent=mRNA:LOC_Os12g07500.1
+Chr12	Protein-DB	peptide_p	3725278	3725328	.	?	.	Parent=mRNA:LOC_Os12g07500.1:P999_41413

@@ -1,0 +1,13 @@
+Chr1	MSU_osa1r6_db	gene	35062626	35067164	.	-	.	ID=Gene:LOC_Os01g60650;Note=non-green+plastid+inner+envelope+membrane+protein%2C+putative%2C+expressed;Alias=13101.t05371
+Chr1	MSU_osa1r6_db	processed_transcript	35062626	35067164	.	-	.	ID=mRNA:LOC_Os01g60650.1;Note=13101.m06454;Gene=LOC_Os01g60650
+Chr1	MSU_osa1r6_db	CDS	35066746	35067003	.	-	0	Parent=mRNA:LOC_Os01g60650.1
+Chr1	MSU_osa1r6_db	CDS	35065901	35066288	.	-	0	Parent=mRNA:LOC_Os01g60650.1
+Chr1	MSU_osa1r6_db	CDS	35065547	35065717	.	-	1	Parent=mRNA:LOC_Os01g60650.1
+Chr1	MSU_osa1r6_db	CDS	35065149	35065195	.	-	1	Parent=mRNA:LOC_Os01g60650.1
+Chr1	MSU_osa1r6_db	CDS	35065002	35065039	.	-	0	Parent=mRNA:LOC_Os01g60650.1
+Chr1	MSU_osa1r6_db	CDS	35063958	35064042	.	-	2	Parent=mRNA:LOC_Os01g60650.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	35067004	35067164	.	-	.	Parent=mRNA:LOC_Os01g60650.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	35063956	35063957	.	-	.	Parent=mRNA:LOC_Os01g60650.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	35062626	35063781	.	-	.	Parent=mRNA:LOC_Os01g60650.1
+Chr1	Protein-DB	peptide_p	35063725	35063778	.	?	.	Parent=mRNA:LOC_Os01g60650.1:P999_4744
+Chr1	Protein-DB	peptide_p	35063779	35063844	.	?	.	Parent=mRNA:LOC_Os01g60650.1:P999_4746

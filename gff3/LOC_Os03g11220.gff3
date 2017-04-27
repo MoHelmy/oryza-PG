@@ -1,0 +1,5 @@
+Chr3	MSU_osa1r6_db	gene	5773735	5775275	.	-	.	ID=Gene:LOC_Os03g11220;Note=keratin%2C+type+I+cytoskeletal+9%2C+putative%2C+expressed;Alias=13103.t00940
+Chr3	MSU_osa1r6_db	processed_transcript	5773735	5775275	.	-	.	ID=mRNA:LOC_Os03g11220.1;Note=13103.m01264;Gene=LOC_Os03g11220
+Chr3	MSU_osa1r6_db	CDS	5774036	5775211	.	-	0	Parent=mRNA:LOC_Os03g11220.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	5775212	5775275	.	-	.	Parent=mRNA:LOC_Os03g11220.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	5773735	5774035	.	-	.	Parent=mRNA:LOC_Os03g11220.1

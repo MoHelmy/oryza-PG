@@ -1,0 +1,7 @@
+Chr11	MSU_osa1r6_db	gene	161283	162474	.	-	.	ID=Gene:LOC_Os11g01300;Note=protein+transport+protein+Sec61+subunit+beta%2C+putative%2C+expressed;Alias=13111.t00028
+Chr11	MSU_osa1r6_db	processed_transcript	161283	162474	.	-	.	ID=mRNA:LOC_Os11g01300.1;Note=13111.m00038;Gene=LOC_Os11g01300
+Chr11	MSU_osa1r6_db	CDS	162079	162402	.	-	0	Parent=mRNA:LOC_Os11g01300.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	162403	162474	.	-	.	Parent=mRNA:LOC_Os11g01300.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	161283	162078	.	-	.	Parent=mRNA:LOC_Os11g01300.1
+Chr11	Protein-DB	peptide_p	161476	161535	.	?	.	Parent=mRNA:LOC_Os11g01300.1:P999_38989
+Chr11	Protein-DB	peptide_p	161536	161565	.	?	.	Parent=mRNA:LOC_Os11g01300.1:P999_38990

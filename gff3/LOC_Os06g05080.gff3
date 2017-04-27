@@ -1,0 +1,14 @@
+Chr6	MSU_osa1r6_db	gene	2242717	2245729	.	-	.	ID=Gene:LOC_Os06g05080;Note=cytochrome+c+oxidase+subunit+5B%2C+mitochondrial+precursor%2C+putative%2C+expressed;Alias=13106.t00392
+Chr6	MSU_osa1r6_db	processed_transcript	2242717	2245729	.	-	.	ID=mRNA:LOC_Os06g05080.1;Note=13106.m00478;Gene=LOC_Os06g05080
+Chr6	MSU_osa1r6_db	CDS	2245510	2245621	.	-	0	Parent=mRNA:LOC_Os06g05080.1
+Chr6	MSU_osa1r6_db	CDS	2245326	2245411	.	-	1	Parent=mRNA:LOC_Os06g05080.1
+Chr6	MSU_osa1r6_db	CDS	2245185	2245235	.	-	0	Parent=mRNA:LOC_Os06g05080.1
+Chr6	MSU_osa1r6_db	CDS	2243563	2243629	.	-	0	Parent=mRNA:LOC_Os06g05080.1
+Chr6	MSU_osa1r6_db	CDS	2243330	2243409	.	-	1	Parent=mRNA:LOC_Os06g05080.1
+Chr6	MSU_osa1r6_db	CDS	2243126	2243194	.	-	0	Parent=mRNA:LOC_Os06g05080.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	2245622	2245729	.	-	.	Parent=mRNA:LOC_Os06g05080.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	2242717	2243125	.	-	.	Parent=mRNA:LOC_Os06g05080.1
+Chr6	Protein-DB	peptide_p	2244818	2244853	.	?	.	Parent=mRNA:LOC_Os06g05080.1:P999_27193
+Chr6	Protein-DB	peptide_p	2243053	2243097	.	?	.	Parent=mRNA:LOC_Os06g05080.1:P999_27195
+Chr6	Protein-DB	peptide_p	2243098	2243121	.	?	.	Parent=mRNA:LOC_Os06g05080.1:P999_27197
+Chr6	Protein-DB	peptide_p	2245037	2245075	.	?	.	Parent=mRNA:LOC_Os06g05080.1:P999_27198

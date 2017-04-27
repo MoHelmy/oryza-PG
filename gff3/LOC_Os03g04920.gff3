@@ -1,0 +1,15 @@
+Chr3	MSU_osa1r6_db	gene	2366845	2373512	.	+	.	ID=Gene:LOC_Os03g04920;Note=multidrug+resistance-associated+protein%2C+putative%2C+expressed;Alias=13103.t00373
+Chr3	MSU_osa1r6_db	processed_transcript	2366845	2373512	.	+	.	ID=mRNA:LOC_Os03g04920.1;Note=13103.m00511;Gene=LOC_Os03g04920
+Chr3	MSU_osa1r6_db	CDS	2367441	2369483	.	+	0	Parent=mRNA:LOC_Os03g04920.1
+Chr3	MSU_osa1r6_db	CDS	2369558	2369878	.	+	0	Parent=mRNA:LOC_Os03g04920.1
+Chr3	MSU_osa1r6_db	CDS	2369961	2370047	.	+	0	Parent=mRNA:LOC_Os03g04920.1
+Chr3	MSU_osa1r6_db	CDS	2370240	2370917	.	+	0	Parent=mRNA:LOC_Os03g04920.1
+Chr3	MSU_osa1r6_db	CDS	2371009	2371173	.	+	0	Parent=mRNA:LOC_Os03g04920.1
+Chr3	MSU_osa1r6_db	CDS	2371348	2371642	.	+	0	Parent=mRNA:LOC_Os03g04920.1
+Chr3	MSU_osa1r6_db	CDS	2371790	2372004	.	+	1	Parent=mRNA:LOC_Os03g04920.1
+Chr3	MSU_osa1r6_db	CDS	2372094	2372399	.	+	0	Parent=mRNA:LOC_Os03g04920.1
+Chr3	MSU_osa1r6_db	CDS	2372478	2372541	.	+	0	Parent=mRNA:LOC_Os03g04920.1
+Chr3	MSU_osa1r6_db	CDS	2372635	2372874	.	+	1	Parent=mRNA:LOC_Os03g04920.1
+Chr3	MSU_osa1r6_db	CDS	2372992	2373095	.	+	1	Parent=mRNA:LOC_Os03g04920.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	2366845	2367440	.	+	.	Parent=mRNA:LOC_Os03g04920.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	2373096	2373512	.	+	.	Parent=mRNA:LOC_Os03g04920.1

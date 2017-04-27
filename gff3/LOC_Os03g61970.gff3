@@ -1,0 +1,10 @@
+Chr3	MSU_osa1r6_db	gene	35118388	35122232	.	-	.	ID=Gene:LOC_Os03g61970;Note=actin%2C+putative%2C+expressed;Alias=13103.t05436
+Chr3	MSU_osa1r6_db	processed_transcript	35118388	35122232	.	-	.	ID=mRNA:LOC_Os03g61970.1;Note=13103.m06832;Gene=LOC_Os03g61970
+Chr3	MSU_osa1r6_db	CDS	35120508	35120567	.	-	0	Parent=mRNA:LOC_Os03g61970.1
+Chr3	MSU_osa1r6_db	CDS	35120025	35120418	.	-	0	Parent=mRNA:LOC_Os03g61970.1
+Chr3	MSU_osa1r6_db	CDS	35119318	35119931	.	-	1	Parent=mRNA:LOC_Os03g61970.1
+Chr3	MSU_osa1r6_db	CDS	35118843	35118908	.	-	0	Parent=mRNA:LOC_Os03g61970.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	35122060	35122232	.	-	.	Parent=mRNA:LOC_Os03g61970.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	35120568	35120571	.	-	.	Parent=mRNA:LOC_Os03g61970.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	35118388	35118842	.	-	.	Parent=mRNA:LOC_Os03g61970.1
+Chr3	Protein-DB	peptide_p	35120689	35120772	.	?	.	Parent=mRNA:LOC_Os03g61970.1:P999_19383

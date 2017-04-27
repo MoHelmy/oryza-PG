@@ -1,0 +1,8 @@
+Chr4	MSU_osa1r6_db	gene	4144378	4146262	.	-	.	ID=Gene:LOC_Os04g07790;Note=retrotransposon+protein%2C+putative%2C+Ty3-gypsy+subclass;Alias=13104.t00649
+Chr4	MSU_osa1r6_db	processed_transcript	4144378	4146262	.	-	.	ID=mRNA:LOC_Os04g07790.1;Note=13104.m00697;Gene=LOC_Os04g07790
+Chr4	MSU_osa1r6_db	CDS	4146009	4146262	.	-	0	Parent=mRNA:LOC_Os04g07790.1
+Chr4	MSU_osa1r6_db	CDS	4145753	4145933	.	-	2	Parent=mRNA:LOC_Os04g07790.1
+Chr4	MSU_osa1r6_db	CDS	4145208	4145723	.	-	0	Parent=mRNA:LOC_Os04g07790.1
+Chr4	MSU_osa1r6_db	CDS	4144939	4145067	.	-	0	Parent=mRNA:LOC_Os04g07790.1
+Chr4	MSU_osa1r6_db	CDS	4144378	4144677	.	-	0	Parent=mRNA:LOC_Os04g07790.1
+Chr4	Protein-DB	peptide_p	4145658	4145687	.	?	.	Parent=mRNA:LOC_Os04g07790.1:P999_19980

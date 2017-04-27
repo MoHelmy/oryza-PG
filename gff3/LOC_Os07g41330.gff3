@@ -1,0 +1,7 @@
+Chr7	MSU_osa1r6_db	gene	24758388	24762554	.	-	.	ID=Gene:LOC_Os07g41330;Note=mitochondrial+import+inner+membrane+translocase+subunit+Tim17%2C+putative%2C+expressed;Alias=13107.t03775
+Chr7	MSU_osa1r6_db	processed_transcript	24758388	24762554	.	-	.	ID=mRNA:LOC_Os07g41330.1;Note=13107.m04300;Gene=LOC_Os07g41330
+Chr7	MSU_osa1r6_db	CDS	24761781	24762452	.	-	0	Parent=mRNA:LOC_Os07g41330.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	24762453	24762554	.	-	.	Parent=mRNA:LOC_Os07g41330.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	24761773	24761780	.	-	.	Parent=mRNA:LOC_Os07g41330.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	24758388	24759029	.	-	.	Parent=mRNA:LOC_Os07g41330.1
+Chr7	Protein-DB	peptide_p	24759100	24759159	.	?	.	Parent=mRNA:LOC_Os07g41330.1:P999_31470

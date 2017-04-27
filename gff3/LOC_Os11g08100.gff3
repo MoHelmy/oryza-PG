@@ -1,0 +1,15 @@
+Chr11	MSU_osa1r6_db	gene	4243201	4247908	.	+	.	ID=Gene:LOC_Os11g08100;Note=eukaryotic+aspartyl+protease+domain+containing+protein%2C+expressed;Alias=13111.t00715
+Chr11	MSU_osa1r6_db	processed_transcript	4243201	4247908	.	+	.	ID=mRNA:LOC_Os11g08100.1;Note=13111.m00852;Gene=LOC_Os11g08100
+Chr11	MSU_osa1r6_db	CDS	4243207	4243505	.	+	0	Parent=mRNA:LOC_Os11g08100.1
+Chr11	MSU_osa1r6_db	CDS	4244538	4244655	.	+	2	Parent=mRNA:LOC_Os11g08100.1
+Chr11	MSU_osa1r6_db	CDS	4245097	4245329	.	+	0	Parent=mRNA:LOC_Os11g08100.1
+Chr11	MSU_osa1r6_db	CDS	4245405	4245641	.	+	2	Parent=mRNA:LOC_Os11g08100.1
+Chr11	MSU_osa1r6_db	CDS	4246403	4246541	.	+	2	Parent=mRNA:LOC_Os11g08100.1
+Chr11	MSU_osa1r6_db	CDS	4246623	4246805	.	+	0	Parent=mRNA:LOC_Os11g08100.1
+Chr11	MSU_osa1r6_db	CDS	4246899	4246968	.	+	0	Parent=mRNA:LOC_Os11g08100.1
+Chr11	MSU_osa1r6_db	CDS	4247054	4247166	.	+	1	Parent=mRNA:LOC_Os11g08100.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	4243201	4243206	.	+	.	Parent=mRNA:LOC_Os11g08100.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	4247167	4247908	.	+	.	Parent=mRNA:LOC_Os11g08100.1
+Chr11	Protein-DB	peptide_p	4245197	4245232	.	?	.	Parent=mRNA:LOC_Os11g08100.1:P999_39698
+Chr11	Protein-DB	peptide_p	4246738	4246761	.	?	.	Parent=mRNA:LOC_Os11g08100.1:P999_39699
+Chr11	Protein-DB	peptide_p	4246654	4246689	.	?	.	Parent=mRNA:LOC_Os11g08100.1:P999_39703

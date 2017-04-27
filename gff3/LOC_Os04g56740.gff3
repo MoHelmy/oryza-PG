@@ -1,0 +1,13 @@
+Chr4	MSU_osa1r6_db	gene	33654902	33660829	.	+	.	ID=Gene:LOC_Os04g56740;Note=IQ+calmodulin-binding+motif+family+protein%2C+putative%2C+expressed;Alias=13104.t05150
+Chr4	MSU_osa1r6_db	processed_transcript	33654902	33660829	.	+	.	ID=mRNA:LOC_Os04g56740.1;Note=13104.m05916;Gene=LOC_Os04g56740
+Chr4	MSU_osa1r6_db	CDS	33655066	33655170	.	+	0	Parent=mRNA:LOC_Os04g56740.1
+Chr4	MSU_osa1r6_db	CDS	33656638	33657351	.	+	0	Parent=mRNA:LOC_Os04g56740.1
+Chr4	MSU_osa1r6_db	CDS	33657438	33657608	.	+	0	Parent=mRNA:LOC_Os04g56740.1
+Chr4	MSU_osa1r6_db	CDS	33658045	33658101	.	+	0	Parent=mRNA:LOC_Os04g56740.1
+Chr4	MSU_osa1r6_db	CDS	33658186	33659800	.	+	0	Parent=mRNA:LOC_Os04g56740.1
+Chr4	MSU_osa1r6_db	CDS	33660452	33660471	.	+	1	Parent=mRNA:LOC_Os04g56740.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	33654902	33655065	.	+	.	Parent=mRNA:LOC_Os04g56740.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	33660472	33660829	.	+	.	Parent=mRNA:LOC_Os04g56740.1
+Chr4	Protein-DB	peptide_p	33656708	33656749	.	?	.	Parent=mRNA:LOC_Os04g56740.1:P999_22179
+Chr4	Protein-DB	peptide_p	33656873	33656902	.	?	.	Parent=mRNA:LOC_Os04g56740.1:P999_22180
+Chr4	Protein-DB	peptide_p	33658043	33658075	.	?	.	Parent=mRNA:LOC_Os04g56740.1:P999_22182

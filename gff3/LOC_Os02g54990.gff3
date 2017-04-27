@@ -1,0 +1,10 @@
+Chr2	MSU_osa1r6_db	gene	33684870	33688279	.	-	.	ID=Gene:LOC_Os02g54990;Note=TMS+membrane+protein%2Ftumour+differentially+expressed+protein%2C+putative%2C+expressed;Alias=13102.t05124
+Chr2	MSU_osa1r6_db	processed_transcript	33684870	33688279	.	-	.	ID=mRNA:LOC_Os02g54990.2;Note=13102.m06298;Gene=LOC_Os02g54990
+Chr2	MSU_osa1r6_db	CDS	33687891	33688074	.	-	0	Parent=mRNA:LOC_Os02g54990.2
+Chr2	MSU_osa1r6_db	CDS	33687544	33687783	.	-	1	Parent=mRNA:LOC_Os02g54990.2
+Chr2	MSU_osa1r6_db	CDS	33686419	33686530	.	-	1	Parent=mRNA:LOC_Os02g54990.2
+Chr2	MSU_osa1r6_db	CDS	33686136	33686310	.	-	2	Parent=mRNA:LOC_Os02g54990.2
+Chr2	MSU_osa1r6_db	CDS	33685598	33685838	.	-	0	Parent=mRNA:LOC_Os02g54990.2
+Chr2	MSU_osa1r6_db	CDS	33685226	33685518	.	-	1	Parent=mRNA:LOC_Os02g54990.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	33688075	33688279	.	-	.	Parent=mRNA:LOC_Os02g54990.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	33684870	33685225	.	-	.	Parent=mRNA:LOC_Os02g54990.2

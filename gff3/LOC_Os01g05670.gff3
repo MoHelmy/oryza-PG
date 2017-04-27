@@ -1,0 +1,11 @@
+Chr1	MSU_osa1r6_db	gene	2706498	2710428	.	-	.	ID=Gene:LOC_Os01g05670;Note=3-oxo-5-alpha-steroid+4-dehydrogenase%2C+putative%2C+expressed;Alias=13101.t00449
+Chr1	MSU_osa1r6_db	processed_transcript	2706498	2710428	.	-	.	ID=mRNA:LOC_Os01g05670.1;Note=13101.m00549;Gene=LOC_Os01g05670
+Chr1	MSU_osa1r6_db	CDS	2710268	2710336	.	-	0	Parent=mRNA:LOC_Os01g05670.1
+Chr1	MSU_osa1r6_db	CDS	2710014	2710053	.	-	0	Parent=mRNA:LOC_Os01g05670.1
+Chr1	MSU_osa1r6_db	CDS	2707071	2707825	.	-	1	Parent=mRNA:LOC_Os01g05670.1
+Chr1	MSU_osa1r6_db	CDS	2706916	2706984	.	-	0	Parent=mRNA:LOC_Os01g05670.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	2710337	2710428	.	-	.	Parent=mRNA:LOC_Os01g05670.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	2706498	2706915	.	-	.	Parent=mRNA:LOC_Os01g05670.1
+Chr1	Protein-DB	peptide_p	2706880	2706912	.	?	.	Parent=mRNA:LOC_Os01g05670.1:P999_467
+Chr1	Protein-DB	peptide_p	2709158	2709187	.	?	.	Parent=mRNA:LOC_Os01g05670.1:P999_468
+Chr1	Protein-DB	peptide_p	2709344	2709367	.	?	.	Parent=mRNA:LOC_Os01g05670.1:P999_469

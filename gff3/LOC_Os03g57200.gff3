@@ -1,0 +1,10 @@
+Chr3	MSU_osa1r6_db	gene	32612053	32613160	.	-	.	ID=Gene:LOC_Os03g57200;Note=glutathione+S-transferase%2C+putative%2C+expressed;Alias=13103.t04995
+Chr3	MSU_osa1r6_db	processed_transcript	32612053	32613160	.	-	.	ID=mRNA:LOC_Os03g57200.1;Note=13103.m06270;Gene=LOC_Os03g57200
+Chr3	MSU_osa1r6_db	CDS	32612331	32613026	.	-	0	Parent=mRNA:LOC_Os03g57200.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	32613027	32613160	.	-	.	Parent=mRNA:LOC_Os03g57200.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	32612053	32612330	.	-	.	Parent=mRNA:LOC_Os03g57200.1
+Chr3	Protein-DB	peptide_p	32612614	32612649	.	?	.	Parent=mRNA:LOC_Os03g57200.1:P999_18647
+Chr3	Protein-DB	peptide_p	32612272	32612313	.	?	.	Parent=mRNA:LOC_Os03g57200.1:P999_18648
+Chr3	Protein-DB	peptide_p	32612560	32612592	.	?	.	Parent=mRNA:LOC_Os03g57200.1:P999_18649
+Chr3	Protein-DB	peptide_p	32612836	32612862	.	?	.	Parent=mRNA:LOC_Os03g57200.1:P999_18650
+Chr3	Protein-DB	peptide_p	32612503	32612526	.	?	.	Parent=mRNA:LOC_Os03g57200.1:P999_18654

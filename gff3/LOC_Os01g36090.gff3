@@ -1,0 +1,8 @@
+Chr1	MSU_osa1r6_db	gene	19971038	19971985	.	+	.	ID=Gene:LOC_Os01g36090;Note=DNA-damage-repair%2Ftoleration+protein+DRT102%2C+putative%2C+expressed;Alias=13101.t03081
+Chr1	MSU_osa1r6_db	processed_transcript	19971038	19971985	.	+	.	ID=mRNA:LOC_Os01g36090.1;Note=13101.m03655;Gene=LOC_Os01g36090
+Chr1	MSU_osa1r6_db	CDS	19971038	19971985	.	+	0	Parent=mRNA:LOC_Os01g36090.1
+Chr1	Protein-DB	peptide_p	19971948	19971983	.	?	.	Parent=mRNA:LOC_Os01g36090.1:P999_2464
+Chr1	Protein-DB	peptide_p	19971864	19971893	.	?	.	Parent=mRNA:LOC_Os01g36090.1:P999_2465
+Chr1	Protein-DB	peptide_p	19971180	19971209	.	?	.	Parent=mRNA:LOC_Os01g36090.1:P999_2466
+Chr1	Protein-DB	peptide_p	19971072	19971110	.	?	.	Parent=mRNA:LOC_Os01g36090.1:P999_2467
+Chr1	Protein-DB	peptide_p	19971210	19971260	.	?	.	Parent=mRNA:LOC_Os01g36090.1:P999_2468

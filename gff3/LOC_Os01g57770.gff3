@@ -1,0 +1,9 @@
+Chr1	MSU_osa1r6_db	gene	33408609	33414533	.	+	.	ID=Gene:LOC_Os01g57770;Note=OsPOP4+-+Putative+Prolyl+Oligopeptidase+homologue%2C+expressed;Alias=13101.t05101
+Chr1	MSU_osa1r6_db	processed_transcript	33408609	33414533	.	+	.	ID=mRNA:LOC_Os01g57770.1;Note=13101.m06134;Gene=LOC_Os01g57770
+Chr1	MSU_osa1r6_db	CDS	33408669	33409043	.	+	0	Parent=mRNA:LOC_Os01g57770.1
+Chr1	MSU_osa1r6_db	CDS	33409331	33409465	.	+	0	Parent=mRNA:LOC_Os01g57770.1
+Chr1	MSU_osa1r6_db	CDS	33414014	33414295	.	+	0	Parent=mRNA:LOC_Os01g57770.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	33408609	33408668	.	+	.	Parent=mRNA:LOC_Os01g57770.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	33414296	33414533	.	+	.	Parent=mRNA:LOC_Os01g57770.1
+Chr1	Protein-DB	peptide_p	33414012	33414044	.	?	.	Parent=mRNA:LOC_Os01g57770.1:P999_4523
+Chr1	Protein-DB	peptide_p	33409398	33409442	.	?	.	Parent=mRNA:LOC_Os01g57770.1:P999_4524

@@ -1,0 +1,8 @@
+Chr3	MSU_osa1r6_db	gene	11506280	11511064	.	+	.	ID=Gene:LOC_Os03g20340;Note=SNF1-related+protein+kinase+regulatory+subunit+beta-1%2C+putative%2C+expressed;Alias=13103.t01819
+Chr3	MSU_osa1r6_db	processed_transcript	11506280	11511064	.	+	.	ID=mRNA:LOC_Os03g20340.1;Note=13103.m02436;Gene=LOC_Os03g20340
+Chr3	MSU_osa1r6_db	CDS	11506448	11506675	.	+	0	Parent=mRNA:LOC_Os03g20340.1
+Chr3	MSU_osa1r6_db	CDS	11509057	11509238	.	+	0	Parent=mRNA:LOC_Os03g20340.1
+Chr3	MSU_osa1r6_db	CDS	11509330	11509492	.	+	2	Parent=mRNA:LOC_Os03g20340.1
+Chr3	MSU_osa1r6_db	CDS	11510310	11510624	.	+	0	Parent=mRNA:LOC_Os03g20340.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	11506280	11506447	.	+	.	Parent=mRNA:LOC_Os03g20340.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	11510625	11511064	.	+	.	Parent=mRNA:LOC_Os03g20340.1

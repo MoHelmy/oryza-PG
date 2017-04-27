@@ -1,0 +1,12 @@
+Chr1	MSU_osa1r6_db	gene	2073753	2076903	.	-	.	ID=Gene:LOC_Os01g04630;Note=muconate+cycloisomerase%2C+putative%2C+expressed;Alias=13101.t00348
+Chr1	MSU_osa1r6_db	processed_transcript	2073753	2076903	.	-	.	ID=mRNA:LOC_Os01g04630.1;Note=13101.m00423;Gene=LOC_Os01g04630
+Chr1	MSU_osa1r6_db	CDS	2076304	2076840	.	-	0	Parent=mRNA:LOC_Os01g04630.1
+Chr1	MSU_osa1r6_db	CDS	2075575	2075685	.	-	0	Parent=mRNA:LOC_Os01g04630.1
+Chr1	MSU_osa1r6_db	CDS	2075271	2075487	.	-	0	Parent=mRNA:LOC_Os01g04630.1
+Chr1	MSU_osa1r6_db	CDS	2074790	2075123	.	-	1	Parent=mRNA:LOC_Os01g04630.1
+Chr1	MSU_osa1r6_db	CDS	2074572	2074633	.	-	2	Parent=mRNA:LOC_Os01g04630.1
+Chr1	MSU_osa1r6_db	CDS	2074389	2074462	.	-	1	Parent=mRNA:LOC_Os01g04630.1
+Chr1	MSU_osa1r6_db	CDS	2074095	2074100	.	-	0	Parent=mRNA:LOC_Os01g04630.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	2076841	2076903	.	-	.	Parent=mRNA:LOC_Os01g04630.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	2073753	2074094	.	-	.	Parent=mRNA:LOC_Os01g04630.1
+Chr1	Protein-DB	peptide_p	2075731	2075772	.	?	.	Parent=mRNA:LOC_Os01g04630.1:P999_271

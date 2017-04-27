@@ -1,0 +1,15 @@
+Chr3	MSU_osa1r6_db	gene	4338452	4341738	.	-	.	ID=Gene:LOC_Os03g08450;Note=eukaryotic+translation+initiation+factor+3+subunit+K%2C+putative%2C+expressed;Alias=13103.t00719
+Chr3	MSU_osa1r6_db	processed_transcript	4338452	4341738	.	-	.	ID=mRNA:LOC_Os03g08450.1;Note=13103.m00972;Gene=LOC_Os03g08450
+Chr3	MSU_osa1r6_db	CDS	4341476	4341583	.	-	0	Parent=mRNA:LOC_Os03g08450.1
+Chr3	MSU_osa1r6_db	CDS	4340715	4340771	.	-	0	Parent=mRNA:LOC_Os03g08450.1
+Chr3	MSU_osa1r6_db	CDS	4340578	4340628	.	-	0	Parent=mRNA:LOC_Os03g08450.1
+Chr3	MSU_osa1r6_db	CDS	4340418	4340480	.	-	0	Parent=mRNA:LOC_Os03g08450.1
+Chr3	MSU_osa1r6_db	CDS	4339945	4339995	.	-	0	Parent=mRNA:LOC_Os03g08450.1
+Chr3	MSU_osa1r6_db	CDS	4339796	4339862	.	-	0	Parent=mRNA:LOC_Os03g08450.1
+Chr3	MSU_osa1r6_db	CDS	4339175	4339257	.	-	1	Parent=mRNA:LOC_Os03g08450.1
+Chr3	MSU_osa1r6_db	CDS	4338717	4338917	.	-	0	Parent=mRNA:LOC_Os03g08450.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	4341584	4341738	.	-	.	Parent=mRNA:LOC_Os03g08450.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	4338452	4338716	.	-	.	Parent=mRNA:LOC_Os03g08450.1
+Chr3	Protein-DB	peptide_p	4341415	4341453	.	?	.	Parent=mRNA:LOC_Os03g08450.1:P999_13748
+Chr3	Protein-DB	peptide_p	4340217	4340246	.	?	.	Parent=mRNA:LOC_Os03g08450.1:P999_13749
+Chr3	Protein-DB	peptide_p	4341385	4341414	.	?	.	Parent=mRNA:LOC_Os03g08450.1:P999_13750

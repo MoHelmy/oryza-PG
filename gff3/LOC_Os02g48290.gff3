@@ -1,0 +1,11 @@
+Chr2	MSU_osa1r6_db	gene	29545079	29548380	.	+	.	ID=Gene:LOC_Os02g48290;Note=thioredoxin+reductase+2%2C+putative%2C+expressed;Alias=13102.t04454
+Chr2	MSU_osa1r6_db	processed_transcript	29545079	29548380	.	+	.	ID=mRNA:LOC_Os02g48290.1;Note=13102.m05454;Gene=LOC_Os02g48290
+Chr2	MSU_osa1r6_db	CDS	29545201	29546125	.	+	0	Parent=mRNA:LOC_Os02g48290.1
+Chr2	MSU_osa1r6_db	CDS	29547925	29547995	.	+	1	Parent=mRNA:LOC_Os02g48290.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	29545079	29545200	.	+	.	Parent=mRNA:LOC_Os02g48290.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	29547996	29548380	.	+	.	Parent=mRNA:LOC_Os02g48290.1
+Chr2	Protein-DB	peptide_p	29546060	29546092	.	?	.	Parent=mRNA:LOC_Os02g48290.1:P999_11006
+Chr2	Protein-DB	peptide_p	29545454	29545516	.	?	.	Parent=mRNA:LOC_Os02g48290.1:P999_11007
+Chr2	Protein-DB	peptide_p	29545583	29545621	.	?	.	Parent=mRNA:LOC_Os02g48290.1:P999_11010
+Chr2	Protein-DB	peptide_p	29546060	29546095	.	?	.	Parent=mRNA:LOC_Os02g48290.1:P999_11013
+Chr2	Protein-DB	peptide_p	29545622	29545669	.	?	.	Parent=mRNA:LOC_Os02g48290.1:P999_11016

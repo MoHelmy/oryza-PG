@@ -1,0 +1,7 @@
+Chr3	MSU_osa1r6_db	gene	35823228	35825439	.	+	.	ID=Gene:LOC_Os03g63420;Note=OsGrx_S14+-+glutaredoxin+subgroup+II%2C+expressed;Alias=13103.t05571
+Chr3	MSU_osa1r6_db	processed_transcript	35823228	35825439	.	+	.	ID=mRNA:LOC_Os03g63420.1;Note=13103.m07030;Gene=LOC_Os03g63420
+Chr3	MSU_osa1r6_db	CDS	35823303	35823753	.	+	0	Parent=mRNA:LOC_Os03g63420.1
+Chr3	MSU_osa1r6_db	CDS	35825024	35825079	.	+	1	Parent=mRNA:LOC_Os03g63420.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	35823228	35823302	.	+	.	Parent=mRNA:LOC_Os03g63420.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	35825080	35825439	.	+	.	Parent=mRNA:LOC_Os03g63420.1
+Chr3	Protein-DB	peptide_p	35823613	35823666	.	?	.	Parent=mRNA:LOC_Os03g63420.1:P999_19548

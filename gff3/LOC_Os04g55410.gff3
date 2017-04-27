@@ -1,0 +1,11 @@
+Chr4	MSU_osa1r6_db	gene	32770597	32774831	.	-	.	ID=Gene:LOC_Os04g55410;Note=FGGY+family+of+carbohydrate+kinases%2C+putative%2C+expressed;Alias=13104.t05019
+Chr4	MSU_osa1r6_db	processed_transcript	32770597	32774831	.	-	.	ID=mRNA:LOC_Os04g55410.1;Note=13104.m05744;Gene=LOC_Os04g55410
+Chr4	MSU_osa1r6_db	CDS	32774404	32774534	.	-	0	Parent=mRNA:LOC_Os04g55410.1
+Chr4	MSU_osa1r6_db	CDS	32773010	32773231	.	-	2	Parent=mRNA:LOC_Os04g55410.1
+Chr4	MSU_osa1r6_db	CDS	32771941	32772934	.	-	2	Parent=mRNA:LOC_Os04g55410.1
+Chr4	MSU_osa1r6_db	CDS	32770993	32771235	.	-	0	Parent=mRNA:LOC_Os04g55410.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	32774535	32774831	.	-	.	Parent=mRNA:LOC_Os04g55410.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	32770597	32770992	.	-	.	Parent=mRNA:LOC_Os04g55410.1
+Chr4	Protein-DB	peptide_p	32772784	32772846	.	?	.	Parent=mRNA:LOC_Os04g55410.1:P999_21921
+Chr4	Protein-DB	peptide_p	32772583	32772618	.	?	.	Parent=mRNA:LOC_Os04g55410.1:P999_21923
+Chr4	Protein-DB	peptide_p	32773417	32773443	.	?	.	Parent=mRNA:LOC_Os04g55410.1:P999_21924

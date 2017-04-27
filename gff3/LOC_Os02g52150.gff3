@@ -1,0 +1,16 @@
+Chr2	MSU_osa1r6_db	gene	31914985	31916843	.	+	.	ID=Gene:LOC_Os02g52150;Note=heat+shock+22+kDa+protein%2C+mitochondrial+precursor%2C+putative%2C+expressed;Alias=13102.t04844
+Chr2	MSU_osa1r6_db	processed_transcript	31914985	31916843	.	+	.	ID=mRNA:LOC_Os02g52150.1;Note=13102.m05944;Gene=LOC_Os02g52150
+Chr2	MSU_osa1r6_db	CDS	31915052	31915301	.	+	0	Parent=mRNA:LOC_Os02g52150.1
+Chr2	MSU_osa1r6_db	CDS	31915404	31915819	.	+	1	Parent=mRNA:LOC_Os02g52150.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	31914985	31915051	.	+	.	Parent=mRNA:LOC_Os02g52150.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	31915820	31916843	.	+	.	Parent=mRNA:LOC_Os02g52150.1
+Chr2	MSU_osa1r6_db	processed_transcript	31914985	31916843	.	+	.	ID=mRNA:LOC_Os02g52150.2;Note=13102.m05943;Gene=LOC_Os02g52150
+Chr2	MSU_osa1r6_db	CDS	31915052	31915298	.	+	0	Parent=mRNA:LOC_Os02g52150.2
+Chr2	MSU_osa1r6_db	CDS	31915404	31915819	.	+	1	Parent=mRNA:LOC_Os02g52150.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	31914985	31915051	.	+	.	Parent=mRNA:LOC_Os02g52150.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	31915820	31916843	.	+	.	Parent=mRNA:LOC_Os02g52150.2
+Chr2	Protein-DB	peptide_p	31915689	31915715	.	?	.	Parent=mRNA:LOC_Os02g52150.1:P999_11453
+Chr2	Protein-DB	peptide_p	31915557	31915580	.	?	.	Parent=mRNA:LOC_Os02g52150.1:P999_11455
+Chr2	Protein-DB	peptide_p	31915416	31915448	.	?	.	Parent=mRNA:LOC_Os02g52150.1:P999_11457
+Chr2	Protein-DB	peptide_p	31915530	31915556	.	?	.	Parent=mRNA:LOC_Os02g52150.1:P999_11460
+Chr2	Protein-DB	peptide_p	31915449	31915490	.	?	.	Parent=mRNA:LOC_Os02g52150.1:P999_11463

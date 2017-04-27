@@ -1,0 +1,6 @@
+Chr6	MSU_osa1r6_db	gene	1469866	1471142	.	+	.	ID=Gene:LOC_Os06g03720;Note=ribonucleoside-diphosphate+reductase+small+chain%2C+putative%2C+expressed;Alias=13106.t00262
+Chr6	MSU_osa1r6_db	processed_transcript	1469866	1471142	.	+	.	ID=mRNA:LOC_Os06g03720.1;Note=13106.m00313;Gene=LOC_Os06g03720
+Chr6	MSU_osa1r6_db	CDS	1469952	1470989	.	+	0	Parent=mRNA:LOC_Os06g03720.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	1469866	1469951	.	+	.	Parent=mRNA:LOC_Os06g03720.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	1470990	1471142	.	+	.	Parent=mRNA:LOC_Os06g03720.1
+Chr6	Protein-DB	peptide_p	1470253	1470285	.	?	.	Parent=mRNA:LOC_Os06g03720.1:P999_27043

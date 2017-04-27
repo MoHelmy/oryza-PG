@@ -1,0 +1,12 @@
+Chr9	MSU_osa1r6_db	gene	16632304	16635533	.	+	.	ID=Gene:LOC_Os09g27370;Note=Spc97+%2F+Spc98+family+protein%2C+putative%2C+expressed;Alias=13109.t02423
+Chr9	MSU_osa1r6_db	processed_transcript	16632304	16635533	.	+	.	ID=mRNA:LOC_Os09g27370.1;Note=13109.m02661;Gene=LOC_Os09g27370
+Chr9	MSU_osa1r6_db	CDS	16632329	16634586	.	+	0	Parent=mRNA:LOC_Os09g27370.1
+Chr9	MSU_osa1r6_db	CDS	16634677	16634944	.	+	2	Parent=mRNA:LOC_Os09g27370.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	16632304	16632328	.	+	.	Parent=mRNA:LOC_Os09g27370.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	16634945	16635115	.	+	.	Parent=mRNA:LOC_Os09g27370.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	16635206	16635533	.	+	.	Parent=mRNA:LOC_Os09g27370.1
+Chr9	MSU_osa1r6_db	processed_transcript	16632329	16635148	.	+	.	ID=mRNA:LOC_Os09g27370.2;Note=13109.m02662;Gene=LOC_Os09g27370
+Chr9	MSU_osa1r6_db	CDS	16632329	16634586	.	+	0	Parent=mRNA:LOC_Os09g27370.2
+Chr9	MSU_osa1r6_db	CDS	16634677	16634944	.	+	2	Parent=mRNA:LOC_Os09g27370.2
+Chr9	MSU_osa1r6_db	three_prime_UTR	16634945	16635148	.	+	.	Parent=mRNA:LOC_Os09g27370.2
+Chr9	Protein-DB	peptide_p	16633716	16633775	.	?	.	Parent=mRNA:LOC_Os09g27370.1:P999_35638

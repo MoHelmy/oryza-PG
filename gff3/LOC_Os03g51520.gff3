@@ -1,0 +1,17 @@
+Chr3	MSU_osa1r6_db	gene	29460597	29471080	.	+	.	ID=Gene:LOC_Os03g51520;Note=fip1+motif+family+protein%2C+expressed;Alias=13103.t04489
+Chr3	MSU_osa1r6_db	three_prime_UTR	29458335	29458858	.	+	.	Parent=mRNA:LOC_Os03g51510.3
+Chr3	MSU_osa1r6_db	five_prime_UTR	29457971	29458022	.	+	.	Parent=mRNA:LOC_Os03g51510.3
+Chr3	MSU_osa1r6_db	five_prime_UTR	29457674	29457744	.	+	.	Parent=mRNA:LOC_Os03g51510.3
+Chr3	MSU_osa1r6_db	five_prime_UTR	29455962	29456147	.	+	.	Parent=mRNA:LOC_Os03g51510.3
+Chr3	MSU_osa1r6_db	CDS	29458023	29458334	.	+	0	Parent=mRNA:LOC_Os03g51510.3
+Chr3	MSU_osa1r6_db	processed_transcript	29455962	29458858	.	+	.	ID=mRNA:LOC_Os03g51510.3;Note=13103.m05604;Gene=LOC_Os03g51510
+Chr3	MSU_osa1r6_db	three_prime_UTR	29458335	29458858	.	+	.	Parent=mRNA:LOC_Os03g51510.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	29457979	29458022	.	+	.	Parent=mRNA:LOC_Os03g51510.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	29455962	29456147	.	+	.	Parent=mRNA:LOC_Os03g51510.2
+Chr3	MSU_osa1r6_db	CDS	29458023	29458334	.	+	0	Parent=mRNA:LOC_Os03g51510.2
+Chr3	MSU_osa1r6_db	processed_transcript	29455962	29458858	.	+	.	ID=mRNA:LOC_Os03g51510.2;Note=13103.m05605;Gene=LOC_Os03g51510
+Chr3	MSU_osa1r6_db	three_prime_UTR	29458335	29458858	.	+	.	Parent=mRNA:LOC_Os03g51510.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	29457971	29458022	.	+	.	Parent=mRNA:LOC_Os03g51510.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	29455962	29456147	.	+	.	Parent=mRNA:LOC_Os03g51510.1
+Chr3	MSU_osa1r6_db	CDS	29458023	29458334	.	+	0	Parent=mRNA:LOC_Os03g51510.1
+Chr3	MSU_osa1r6_db	processed_transcript	29455962	29458858	.	+	.	ID=mRNA:LOC_Os03g51510.1;Note=13103.m05603;Gene=LOC_Os03g51510

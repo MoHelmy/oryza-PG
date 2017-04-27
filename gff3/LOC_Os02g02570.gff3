@@ -1,0 +1,12 @@
+Chr2	MSU_osa1r6_db	gene	930252	934291	.	-	.	ID=Gene:LOC_Os02g02570;Note=autophagy+protein+5%2C+putative%2C+expressed;Alias=13102.t00160
+Chr2	MSU_osa1r6_db	processed_transcript	930252	934291	.	-	.	ID=mRNA:LOC_Os02g02570.1;Note=13102.m00201;Gene=LOC_Os02g02570
+Chr2	MSU_osa1r6_db	CDS	934079	934213	.	-	0	Parent=mRNA:LOC_Os02g02570.1
+Chr2	MSU_osa1r6_db	CDS	933411	933535	.	-	0	Parent=mRNA:LOC_Os02g02570.1
+Chr2	MSU_osa1r6_db	CDS	932249	932315	.	-	2	Parent=mRNA:LOC_Os02g02570.1
+Chr2	MSU_osa1r6_db	CDS	932068	932157	.	-	0	Parent=mRNA:LOC_Os02g02570.1
+Chr2	MSU_osa1r6_db	CDS	931888	931975	.	-	0	Parent=mRNA:LOC_Os02g02570.1
+Chr2	MSU_osa1r6_db	CDS	931567	931704	.	-	1	Parent=mRNA:LOC_Os02g02570.1
+Chr2	MSU_osa1r6_db	CDS	931223	931354	.	-	1	Parent=mRNA:LOC_Os02g02570.1
+Chr2	MSU_osa1r6_db	CDS	930461	930828	.	-	1	Parent=mRNA:LOC_Os02g02570.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	934214	934291	.	-	.	Parent=mRNA:LOC_Os02g02570.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	930252	930460	.	-	.	Parent=mRNA:LOC_Os02g02570.1

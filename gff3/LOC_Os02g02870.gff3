@@ -1,0 +1,12 @@
+Chr2	MSU_osa1r6_db	gene	1102965	1104306	.	-	.	ID=Gene:LOC_Os02g02870;Note=glycine-rich+protein+2%2C+putative%2C+expressed;Alias=13102.t00189
+Chr2	MSU_osa1r6_db	processed_transcript	1102965	1104306	.	-	.	ID=mRNA:LOC_Os02g02870.1;Note=13102.m00243;Gene=LOC_Os02g02870
+Chr2	MSU_osa1r6_db	CDS	1103461	1104186	.	-	0	Parent=mRNA:LOC_Os02g02870.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	1104187	1104306	.	-	.	Parent=mRNA:LOC_Os02g02870.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	1102965	1103460	.	-	.	Parent=mRNA:LOC_Os02g02870.1
+Chr2	Protein-DB	peptide_p	1103497	1103574	.	?	.	Parent=mRNA:LOC_Os02g02870.1:P999_6716
+Chr2	Protein-DB	peptide_p	1103140	1103205	.	?	.	Parent=mRNA:LOC_Os02g02870.1:P999_6717
+Chr2	Protein-DB	peptide_p	1103602	1103697	.	?	.	Parent=mRNA:LOC_Os02g02870.1:P999_6723
+Chr2	Protein-DB	peptide_p	1103401	1103430	.	?	.	Parent=mRNA:LOC_Os02g02870.1:P999_6730
+Chr2	Protein-DB	peptide_p	1103758	1103796	.	?	.	Parent=mRNA:LOC_Os02g02870.1:P999_6734
+Chr2	Protein-DB	peptide_p	1103221	1103277	.	?	.	Parent=mRNA:LOC_Os02g02870.1:P999_6739
+Chr2	Protein-DB	peptide_p	1103284	1103322	.	?	.	Parent=mRNA:LOC_Os02g02870.1:P999_6746

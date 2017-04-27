@@ -1,0 +1,7 @@
+Chr4	MSU_osa1r6_db	gene	5375536	5377006	.	-	.	ID=Gene:LOC_Os04g10000;Note=sex+determination+protein+tasselseed-2%2C+putative%2C+expressed;Alias=13104.t00824
+Chr4	MSU_osa1r6_db	processed_transcript	5375536	5377006	.	-	.	ID=mRNA:LOC_Os04g10000.1;Note=13104.m00893;Gene=LOC_Os04g10000
+Chr4	MSU_osa1r6_db	CDS	5376902	5376939	.	-	0	Parent=mRNA:LOC_Os04g10000.1
+Chr4	MSU_osa1r6_db	CDS	5375749	5376535	.	-	2	Parent=mRNA:LOC_Os04g10000.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	5376940	5377006	.	-	.	Parent=mRNA:LOC_Os04g10000.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	5375536	5375748	.	-	.	Parent=mRNA:LOC_Os04g10000.1
+Chr4	Protein-DB	peptide_p	5376666	5376716	.	?	.	Parent=mRNA:LOC_Os04g10000.1:P999_20001

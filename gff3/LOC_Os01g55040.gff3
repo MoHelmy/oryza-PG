@@ -1,0 +1,8 @@
+Chr1	MSU_osa1r6_db	gene	31640187	31647712	.	-	.	ID=Gene:LOC_Os01g55040;Note=1%2C3-beta-glucan+synthase+component%2C+putative%2C+expressed;Alias=13101.t04839
+Chr1	MSU_osa1r6_db	processed_transcript	31640187	31647712	.	-	.	ID=mRNA:LOC_Os01g55040.1;Note=13101.m05789;Gene=LOC_Os01g55040
+Chr1	MSU_osa1r6_db	CDS	31641722	31647094	.	-	0	Parent=mRNA:LOC_Os01g55040.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	31647095	31647712	.	-	.	Parent=mRNA:LOC_Os01g55040.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	31641721	31641721	.	-	.	Parent=mRNA:LOC_Os01g55040.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	31640187	31640722	.	-	.	Parent=mRNA:LOC_Os01g55040.1
+Chr1	Protein-DB	peptide_p	31642840	31642878	.	?	.	Parent=mRNA:LOC_Os01g55040.1:P999_4272
+Chr1	Protein-DB	peptide_p	31644283	31644333	.	?	.	Parent=mRNA:LOC_Os01g55040.1:P999_4273

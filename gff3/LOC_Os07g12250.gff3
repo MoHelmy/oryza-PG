@@ -1,0 +1,17 @@
+Chr7	MSU_osa1r6_db	gene	6863684	6865881	.	+	.	ID=Gene:LOC_Os07g12250;Note=ribosomal+protein+L24%2C+putative%2C+expressed;Alias=13107.t01098
+Chr7	MSU_osa1r6_db	processed_transcript	6863684	6865881	.	+	.	ID=mRNA:LOC_Os07g12250.1;Note=13107.m01262;Gene=LOC_Os07g12250
+Chr7	MSU_osa1r6_db	CDS	6864338	6864348	.	+	0	Parent=mRNA:LOC_Os07g12250.1
+Chr7	MSU_osa1r6_db	CDS	6864464	6864539	.	+	2	Parent=mRNA:LOC_Os07g12250.1
+Chr7	MSU_osa1r6_db	CDS	6864624	6864725	.	+	0	Parent=mRNA:LOC_Os07g12250.1
+Chr7	MSU_osa1r6_db	CDS	6865005	6865153	.	+	0	Parent=mRNA:LOC_Os07g12250.1
+Chr7	MSU_osa1r6_db	CDS	6865486	6865633	.	+	2	Parent=mRNA:LOC_Os07g12250.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	6863684	6863728	.	+	.	Parent=mRNA:LOC_Os07g12250.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	6864302	6864337	.	+	.	Parent=mRNA:LOC_Os07g12250.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	6865634	6865881	.	+	.	Parent=mRNA:LOC_Os07g12250.1
+Chr7	Protein-DB	peptide_p	6865066	6865101	.	?	.	Parent=mRNA:LOC_Os07g12250.1:P999_30600
+Chr7	Protein-DB	peptide_p	6864622	6864648	.	?	.	Parent=mRNA:LOC_Os07g12250.1:P999_30601
+Chr7	Protein-DB	peptide_p	6865066	6865104	.	?	.	Parent=mRNA:LOC_Os07g12250.1:P999_30602
+Chr7	Protein-DB	peptide_p	6865105	6865128	.	?	.	Parent=mRNA:LOC_Os07g12250.1:P999_30603
+Chr7	Protein-DB	peptide_p	6865608	6865631	.	?	.	Parent=mRNA:LOC_Os07g12250.1:P999_30604
+Chr7	Protein-DB	peptide_p	6865003	6865029	.	?	.	Parent=mRNA:LOC_Os07g12250.1:P999_30606
+Chr7	Protein-DB	peptide_p	6864688	6864711	.	?	.	Parent=mRNA:LOC_Os07g12250.1:P999_30607

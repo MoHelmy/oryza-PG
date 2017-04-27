@@ -1,0 +1,12 @@
+Chr1	MSU_osa1r6_db	gene	35839472	35840279	.	+	.	ID=Gene:LOC_Os01g61920;Note=Core+histone+H2A%2FH2B%2FH3%2FH4+domain+containing+protein%2C+putative%2C+expressed;Alias=13101.t05493
+Chr1	MSU_osa1r6_db	processed_transcript	35839472	35840279	.	+	.	ID=mRNA:LOC_Os01g61920.1;Note=13101.m06615;Gene=LOC_Os01g61920
+Chr1	MSU_osa1r6_db	CDS	35839580	35839891	.	+	0	Parent=mRNA:LOC_Os01g61920.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	35839472	35839579	.	+	.	Parent=mRNA:LOC_Os01g61920.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	35839892	35840279	.	+	.	Parent=mRNA:LOC_Os01g61920.1
+Chr1	Protein-DB	peptide_p	35839821	35839856	.	?	.	Parent=mRNA:LOC_Os01g61920.1:P999_4845
+Chr1	Protein-DB	peptide_p	35839821	35839859	.	?	.	Parent=mRNA:LOC_Os01g61920.1:P999_4846
+Chr1	Protein-DB	peptide_p	35839785	35839814	.	?	.	Parent=mRNA:LOC_Os01g61920.1:P999_4848
+Chr1	Protein-DB	peptide_p	35839653	35839688	.	?	.	Parent=mRNA:LOC_Os01g61920.1:P999_4849
+Chr1	Protein-DB	peptide_p	35839644	35839688	.	?	.	Parent=mRNA:LOC_Os01g61920.1:P999_4850
+Chr1	Protein-DB	peptide_p	35839761	35839784	.	?	.	Parent=mRNA:LOC_Os01g61920.1:P999_4854
+Chr1	Protein-DB	peptide_p	35839719	35839748	.	?	.	Parent=mRNA:LOC_Os01g61920.1:P999_4855

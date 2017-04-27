@@ -1,0 +1,12 @@
+Chr6	MSU_osa1r6_db	gene	2328884	2333475	.	+	.	ID=Gene:LOC_Os06g05190;Note=BRCA1+C+Terminus+domain+containing+protein%2C+expressed;Alias=13106.t00403
+Chr6	MSU_osa1r6_db	processed_transcript	2328884	2333475	.	+	.	ID=mRNA:LOC_Os06g05190.1;Note=13106.m00500;Gene=LOC_Os06g05190
+Chr6	MSU_osa1r6_db	CDS	2329121	2329285	.	+	0	Parent=mRNA:LOC_Os06g05190.1
+Chr6	MSU_osa1r6_db	CDS	2329397	2329585	.	+	0	Parent=mRNA:LOC_Os06g05190.1
+Chr6	MSU_osa1r6_db	CDS	2330415	2330526	.	+	0	Parent=mRNA:LOC_Os06g05190.1
+Chr6	MSU_osa1r6_db	CDS	2331404	2331483	.	+	1	Parent=mRNA:LOC_Os06g05190.1
+Chr6	MSU_osa1r6_db	CDS	2332031	2332141	.	+	0	Parent=mRNA:LOC_Os06g05190.1
+Chr6	MSU_osa1r6_db	CDS	2332589	2332675	.	+	0	Parent=mRNA:LOC_Os06g05190.1
+Chr6	MSU_osa1r6_db	CDS	2332988	2333287	.	+	0	Parent=mRNA:LOC_Os06g05190.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	2328884	2329002	.	+	.	Parent=mRNA:LOC_Os06g05190.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	2329093	2329120	.	+	.	Parent=mRNA:LOC_Os06g05190.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	2333288	2333475	.	+	.	Parent=mRNA:LOC_Os06g05190.1

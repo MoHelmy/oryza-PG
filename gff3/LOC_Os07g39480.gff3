@@ -1,0 +1,10 @@
+Chr7	MSU_osa1r6_db	gene	23653083	23658632	.	-	.	ID=Gene:LOC_Os07g39480;Note=OsWRKY78+-+Superfamily+of+TFs+having+WRKY+and+zinc+finger+domains%2C+expressed;Alias=13107.t03598
+Chr7	MSU_osa1r6_db	processed_transcript	23653083	23658632	.	-	.	ID=mRNA:LOC_Os07g39480.1;Note=13107.m04089;Gene=LOC_Os07g39480
+Chr7	MSU_osa1r6_db	CDS	23658326	23658571	.	-	0	Parent=mRNA:LOC_Os07g39480.1
+Chr7	MSU_osa1r6_db	CDS	23657092	23657265	.	-	0	Parent=mRNA:LOC_Os07g39480.1
+Chr7	MSU_osa1r6_db	CDS	23655545	23656088	.	-	0	Parent=mRNA:LOC_Os07g39480.1
+Chr7	MSU_osa1r6_db	CDS	23654778	23654943	.	-	1	Parent=mRNA:LOC_Os07g39480.1
+Chr7	MSU_osa1r6_db	CDS	23654533	23654691	.	-	2	Parent=mRNA:LOC_Os07g39480.1
+Chr7	MSU_osa1r6_db	CDS	23653569	23654136	.	-	2	Parent=mRNA:LOC_Os07g39480.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	23658572	23658632	.	-	.	Parent=mRNA:LOC_Os07g39480.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	23653083	23653568	.	-	.	Parent=mRNA:LOC_Os07g39480.1

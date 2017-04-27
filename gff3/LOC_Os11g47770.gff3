@@ -1,0 +1,9 @@
+Chr11	MSU_osa1r6_db	gene	28286189	28288329	.	+	.	ID=Gene:LOC_Os11g47770;Note=selT%2FselW%2FselH+selenoprotein+domain+containing+protein%2C+expressed;Alias=13111.t04263
+Chr11	MSU_osa1r6_db	processed_transcript	28286189	28288329	.	+	.	ID=mRNA:LOC_Os11g47770.1;Note=13111.m04766;Gene=LOC_Os11g47770
+Chr11	MSU_osa1r6_db	CDS	28286248	28286504	.	+	0	Parent=mRNA:LOC_Os11g47770.1
+Chr11	MSU_osa1r6_db	CDS	28287398	28287494	.	+	2	Parent=mRNA:LOC_Os11g47770.1
+Chr11	MSU_osa1r6_db	CDS	28287614	28287673	.	+	0	Parent=mRNA:LOC_Os11g47770.1
+Chr11	MSU_osa1r6_db	CDS	28287965	28288045	.	+	0	Parent=mRNA:LOC_Os11g47770.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	28286189	28286247	.	+	.	Parent=mRNA:LOC_Os11g47770.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	28288046	28288329	.	+	.	Parent=mRNA:LOC_Os11g47770.1
+Chr11	Protein-DB	peptide_p	28287436	28287495	.	?	.	Parent=mRNA:LOC_Os11g47770.1:P999_41089

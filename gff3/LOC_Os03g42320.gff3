@@ -1,0 +1,8 @@
+Chr3	MSU_osa1r6_db	gene	23543491	23545842	.	-	.	ID=Gene:LOC_Os03g42320;Note=Sec1+family+transport+protein%2C+putative%2C+expressed;Alias=13103.t03644
+Chr3	MSU_osa1r6_db	processed_transcript	23543491	23545842	.	-	.	ID=mRNA:LOC_Os03g42320.1;Note=13103.m04556;Gene=LOC_Os03g42320
+Chr3	MSU_osa1r6_db	CDS	23545725	23545755	.	-	0	Parent=mRNA:LOC_Os03g42320.1
+Chr3	MSU_osa1r6_db	CDS	23543789	23545629	.	-	1	Parent=mRNA:LOC_Os03g42320.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	23545756	23545842	.	-	.	Parent=mRNA:LOC_Os03g42320.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	23543491	23543788	.	-	.	Parent=mRNA:LOC_Os03g42320.1
+Chr3	Protein-DB	peptide_p	23543806	23543856	.	?	.	Parent=mRNA:LOC_Os03g42320.1:P999_16908
+Chr3	Protein-DB	peptide_p	23544688	23544732	.	?	.	Parent=mRNA:LOC_Os03g42320.1:P999_16910

@@ -1,0 +1,7 @@
+Chr3	MSU_osa1r6_db	gene	31457725	31458510	.	-	.	ID=Gene:LOC_Os03g55290;Note=GASR3+-+Gibberellin-regulated+GASA%2FGAST%2FSnakin+family+protein+precursor%2C+expressed;Alias=13103.t04798
+Chr3	MSU_osa1r6_db	processed_transcript	31457725	31458510	.	-	.	ID=mRNA:LOC_Os03g55290.1;Note=13103.m06014;Gene=LOC_Os03g55290
+Chr3	MSU_osa1r6_db	CDS	31458355	31458442	.	-	0	Parent=mRNA:LOC_Os03g55290.1
+Chr3	MSU_osa1r6_db	CDS	31458056	31458249	.	-	1	Parent=mRNA:LOC_Os03g55290.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	31458443	31458510	.	-	.	Parent=mRNA:LOC_Os03g55290.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	31457725	31458055	.	-	.	Parent=mRNA:LOC_Os03g55290.1
+Chr3	Protein-DB	peptide_p	31458133	31458159	.	?	.	Parent=mRNA:LOC_Os03g55290.1:P999_18487

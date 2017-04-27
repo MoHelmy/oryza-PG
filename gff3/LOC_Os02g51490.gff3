@@ -1,0 +1,7 @@
+Chr2	MSU_osa1r6_db	gene	31526241	31529049	.	-	.	ID=Gene:LOC_Os02g51490;Note=methyltransferase%2C+putative%2C+expressed;Alias=13102.t04779
+Chr2	MSU_osa1r6_db	processed_transcript	31526241	31529049	.	-	.	ID=mRNA:LOC_Os02g51490.1;Note=13102.m05858;Gene=LOC_Os02g51490
+Chr2	MSU_osa1r6_db	CDS	31527279	31528297	.	-	0	Parent=mRNA:LOC_Os02g51490.1
+Chr2	MSU_osa1r6_db	CDS	31526574	31526658	.	-	2	Parent=mRNA:LOC_Os02g51490.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	31528581	31529049	.	-	.	Parent=mRNA:LOC_Os02g51490.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	31528298	31528304	.	-	.	Parent=mRNA:LOC_Os02g51490.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	31526241	31526573	.	-	.	Parent=mRNA:LOC_Os02g51490.1

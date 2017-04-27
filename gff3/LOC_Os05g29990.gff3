@@ -1,0 +1,11 @@
+Chr5	MSU_osa1r6_db	gene	17282799	17287265	.	-	.	ID=Gene:LOC_Os05g29990;Note=NAD+dependent+epimerase%2Fdehydratase+family+domain+containing+protein%2C+expressed;Alias=13105.t02623
+Chr5	MSU_osa1r6_db	processed_transcript	17282799	17287265	.	-	.	ID=mRNA:LOC_Os05g29990.1;Note=13105.m03058;Gene=LOC_Os05g29990
+Chr5	MSU_osa1r6_db	CDS	17286474	17287109	.	-	0	Parent=mRNA:LOC_Os05g29990.1
+Chr5	MSU_osa1r6_db	CDS	17285248	17285395	.	-	0	Parent=mRNA:LOC_Os05g29990.1
+Chr5	MSU_osa1r6_db	CDS	17284377	17284456	.	-	1	Parent=mRNA:LOC_Os05g29990.1
+Chr5	MSU_osa1r6_db	CDS	17284195	17284278	.	-	0	Parent=mRNA:LOC_Os05g29990.1
+Chr5	MSU_osa1r6_db	CDS	17284023	17284097	.	-	0	Parent=mRNA:LOC_Os05g29990.1
+Chr5	MSU_osa1r6_db	CDS	17283521	17283841	.	-	0	Parent=mRNA:LOC_Os05g29990.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	17287110	17287265	.	-	.	Parent=mRNA:LOC_Os05g29990.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	17282799	17283520	.	-	.	Parent=mRNA:LOC_Os05g29990.1
+Chr5	Protein-DB	peptide_p	17286317	17286349	.	?	.	Parent=mRNA:LOC_Os05g29990.1:P999_24521

@@ -1,0 +1,13 @@
+Chr7	MSU_osa1r6_db	gene	29575595	29578597	.	+	.	ID=Gene:LOC_Os07g49380;Note=PWWP+domain+containing+protein%2C+expressed;Alias=13107.t04566
+Chr7	MSU_osa1r6_db	processed_transcript	29575595	29578597	.	+	.	ID=mRNA:LOC_Os07g49380.1;Note=13107.m05308;Gene=LOC_Os07g49380
+Chr7	MSU_osa1r6_db	CDS	29575802	29577496	.	+	0	Parent=mRNA:LOC_Os07g49380.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	29575595	29575801	.	+	.	Parent=mRNA:LOC_Os07g49380.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	29577497	29577533	.	+	.	Parent=mRNA:LOC_Os07g49380.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	29577634	29578215	.	+	.	Parent=mRNA:LOC_Os07g49380.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	29578325	29578597	.	+	.	Parent=mRNA:LOC_Os07g49380.1
+Chr7	MSU_osa1r6_db	processed_transcript	29575595	29578597	.	+	.	ID=mRNA:LOC_Os07g49380.2;Note=13107.m05307;Gene=LOC_Os07g49380
+Chr7	MSU_osa1r6_db	CDS	29575802	29577496	.	+	0	Parent=mRNA:LOC_Os07g49380.2
+Chr7	MSU_osa1r6_db	five_prime_UTR	29575595	29575801	.	+	.	Parent=mRNA:LOC_Os07g49380.2
+Chr7	MSU_osa1r6_db	three_prime_UTR	29577497	29578215	.	+	.	Parent=mRNA:LOC_Os07g49380.2
+Chr7	MSU_osa1r6_db	three_prime_UTR	29578325	29578597	.	+	.	Parent=mRNA:LOC_Os07g49380.2
+Chr7	Protein-DB	peptide_p	29576286	29576324	.	?	.	Parent=mRNA:LOC_Os07g49380.1:P999_32287

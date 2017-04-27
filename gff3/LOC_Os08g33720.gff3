@@ -1,0 +1,12 @@
+Chr8	MSU_osa1r6_db	gene	21051946	21054848	.	-	.	ID=Gene:LOC_Os08g33720;Note=lactate%2Fmalate+dehydrogenase%2C+putative%2C+expressed;Alias=13108.t03122
+Chr8	MSU_osa1r6_db	processed_transcript	21051946	21054848	.	-	.	ID=mRNA:LOC_Os08g33720.1;Note=13108.m03518;Gene=LOC_Os08g33720
+Chr8	MSU_osa1r6_db	CDS	21052224	21053417	.	-	0	Parent=mRNA:LOC_Os08g33720.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	21054631	21054848	.	-	.	Parent=mRNA:LOC_Os08g33720.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	21053418	21053423	.	-	.	Parent=mRNA:LOC_Os08g33720.1
+Chr8	MSU_osa1r6_db	three_prime_UTR	21051946	21052223	.	-	.	Parent=mRNA:LOC_Os08g33720.1
+Chr8	Protein-DB	peptide_p	21054419	21054478	.	?	.	Parent=mRNA:LOC_Os08g33720.1:P999_33937
+Chr8	Protein-DB	peptide_p	21053609	21053665	.	?	.	Parent=mRNA:LOC_Os08g33720.1:P999_33938
+Chr8	Protein-DB	peptide_p	21054095	21054163	.	?	.	Parent=mRNA:LOC_Os08g33720.1:P999_33940
+Chr8	Protein-DB	peptide_p	21053897	21053998	.	?	.	Parent=mRNA:LOC_Os08g33720.1:P999_33943
+Chr8	Protein-DB	peptide_p	21053573	21053608	.	?	.	Parent=mRNA:LOC_Os08g33720.1:P999_33948
+Chr8	Protein-DB	peptide_p	21054218	21054253	.	?	.	Parent=mRNA:LOC_Os08g33720.1:P999_33950

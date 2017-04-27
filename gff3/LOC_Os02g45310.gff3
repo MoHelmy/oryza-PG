@@ -1,0 +1,11 @@
+Chr2	MSU_osa1r6_db	gene	27524953	27528754	.	-	.	ID=Gene:LOC_Os02g45310;Note=dehydration+response+related+protein%2C+putative%2C+expressed;Alias=13102.t04152
+Chr2	MSU_osa1r6_db	processed_transcript	27524953	27528754	.	-	.	ID=mRNA:LOC_Os02g45310.1;Note=13102.m05081;Gene=LOC_Os02g45310
+Chr2	MSU_osa1r6_db	CDS	27527870	27528616	.	-	0	Parent=mRNA:LOC_Os02g45310.1
+Chr2	MSU_osa1r6_db	CDS	27526775	27526985	.	-	0	Parent=mRNA:LOC_Os02g45310.1
+Chr2	MSU_osa1r6_db	CDS	27526390	27526678	.	-	1	Parent=mRNA:LOC_Os02g45310.1
+Chr2	MSU_osa1r6_db	CDS	27525920	27526312	.	-	2	Parent=mRNA:LOC_Os02g45310.1
+Chr2	MSU_osa1r6_db	CDS	27525663	27525740	.	-	2	Parent=mRNA:LOC_Os02g45310.1
+Chr2	MSU_osa1r6_db	CDS	27525356	27525578	.	-	2	Parent=mRNA:LOC_Os02g45310.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	27528617	27528754	.	-	.	Parent=mRNA:LOC_Os02g45310.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	27524953	27525355	.	-	.	Parent=mRNA:LOC_Os02g45310.1
+Chr2	Protein-DB	peptide_p	27526723	27526755	.	?	.	Parent=mRNA:LOC_Os02g45310.1:P999_10646

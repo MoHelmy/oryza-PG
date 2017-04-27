@@ -1,0 +1,15 @@
+Chr3	MSU_osa1r6_db	gene	7772660	7778803	.	-	.	ID=Gene:LOC_Os03g14280;Note=ATP-dependent+Clp+protease+ATP-binding+subunit%2C+putative%2C+expressed;Alias=13103.t01239
+Chr3	MSU_osa1r6_db	processed_transcript	7772660	7778803	.	-	.	ID=mRNA:LOC_Os03g14280.1;Note=13103.m01672;Gene=LOC_Os03g14280
+Chr3	MSU_osa1r6_db	CDS	7778518	7778729	.	-	0	Parent=mRNA:LOC_Os03g14280.1
+Chr3	MSU_osa1r6_db	CDS	7778283	7778318	.	-	2	Parent=mRNA:LOC_Os03g14280.1
+Chr3	MSU_osa1r6_db	CDS	7778107	7778216	.	-	2	Parent=mRNA:LOC_Os03g14280.1
+Chr3	MSU_osa1r6_db	CDS	7776882	7777061	.	-	1	Parent=mRNA:LOC_Os03g14280.1
+Chr3	MSU_osa1r6_db	CDS	7773247	7773374	.	-	1	Parent=mRNA:LOC_Os03g14280.1
+Chr3	MSU_osa1r6_db	CDS	7773124	7773156	.	-	0	Parent=mRNA:LOC_Os03g14280.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	7778730	7778803	.	-	.	Parent=mRNA:LOC_Os03g14280.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	7772660	7773123	.	-	.	Parent=mRNA:LOC_Os03g14280.1
+Chr3	Protein-DB	peptide_p	7774456	7774488	.	?	.	Parent=mRNA:LOC_Os03g14280.1:P999_14269
+Chr3	Protein-DB	peptide_p	7774546	7774572	.	?	.	Parent=mRNA:LOC_Os03g14280.1:P999_14270
+Chr3	Protein-DB	peptide_p	7773270	7773299	.	?	.	Parent=mRNA:LOC_Os03g14280.1:P999_14271
+Chr3	Protein-DB	peptide_p	7774489	7774545	.	?	.	Parent=mRNA:LOC_Os03g14280.1:P999_14272
+Chr3	Protein-DB	peptide_p	7778308	7778337	.	?	.	Parent=mRNA:LOC_Os03g14280.1:P999_14274

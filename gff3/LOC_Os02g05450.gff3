@@ -1,0 +1,15 @@
+Chr2	MSU_osa1r6_db	gene	2620367	2626308	.	+	.	ID=Gene:LOC_Os02g05450;Note=Homeobox+domain+containing+protein%2C+expressed;Alias=13102.t00449
+Chr2	MSU_osa1r6_db	processed_transcript	2620367	2626308	.	+	.	ID=mRNA:LOC_Os02g05450.1;Note=13102.m00593;Gene=LOC_Os02g05450
+Chr2	MSU_osa1r6_db	CDS	2621302	2621711	.	+	0	Parent=mRNA:LOC_Os02g05450.1
+Chr2	MSU_osa1r6_db	CDS	2622442	2622616	.	+	2	Parent=mRNA:LOC_Os02g05450.1
+Chr2	MSU_osa1r6_db	CDS	2622694	2622811	.	+	0	Parent=mRNA:LOC_Os02g05450.1
+Chr2	MSU_osa1r6_db	CDS	2623381	2623496	.	+	1	Parent=mRNA:LOC_Os02g05450.1
+Chr2	MSU_osa1r6_db	CDS	2623626	2623964	.	+	0	Parent=mRNA:LOC_Os02g05450.1
+Chr2	MSU_osa1r6_db	CDS	2624113	2624307	.	+	0	Parent=mRNA:LOC_Os02g05450.1
+Chr2	MSU_osa1r6_db	CDS	2624505	2624594	.	+	0	Parent=mRNA:LOC_Os02g05450.1
+Chr2	MSU_osa1r6_db	CDS	2624887	2624937	.	+	0	Parent=mRNA:LOC_Os02g05450.1
+Chr2	MSU_osa1r6_db	CDS	2625288	2625518	.	+	0	Parent=mRNA:LOC_Os02g05450.1
+Chr2	MSU_osa1r6_db	CDS	2625632	2625952	.	+	0	Parent=mRNA:LOC_Os02g05450.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	2620367	2620679	.	+	.	Parent=mRNA:LOC_Os02g05450.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	2621267	2621301	.	+	.	Parent=mRNA:LOC_Os02g05450.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	2625953	2626308	.	+	.	Parent=mRNA:LOC_Os02g05450.1

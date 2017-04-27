@@ -1,0 +1,11 @@
+Chr3	MSU_osa1r6_db	gene	33838649	33842717	.	-	.	ID=Gene:LOC_Os03g59470;Note=stage+II+sporulation+protein+E%2C+putative%2C+expressed;Alias=13103.t05202
+Chr3	MSU_osa1r6_db	processed_transcript	33838649	33842717	.	-	.	ID=mRNA:LOC_Os03g59470.1;Note=13103.m06528;Gene=LOC_Os03g59470
+Chr3	MSU_osa1r6_db	CDS	33841599	33842266	.	-	0	Parent=mRNA:LOC_Os03g59470.1
+Chr3	MSU_osa1r6_db	CDS	33839989	33840313	.	-	2	Parent=mRNA:LOC_Os03g59470.1
+Chr3	MSU_osa1r6_db	CDS	33839520	33839669	.	-	0	Parent=mRNA:LOC_Os03g59470.1
+Chr3	MSU_osa1r6_db	CDS	33839095	33839391	.	-	0	Parent=mRNA:LOC_Os03g59470.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	33842464	33842717	.	-	.	Parent=mRNA:LOC_Os03g59470.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	33842267	33842319	.	-	.	Parent=mRNA:LOC_Os03g59470.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	33838649	33839094	.	-	.	Parent=mRNA:LOC_Os03g59470.1
+Chr3	Protein-DB	peptide_p	33842087	33842116	.	?	.	Parent=mRNA:LOC_Os03g59470.1:P999_19079
+Chr3	Protein-DB	peptide_p	33841695	33841745	.	?	.	Parent=mRNA:LOC_Os03g59470.1:P999_19081

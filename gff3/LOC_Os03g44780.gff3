@@ -1,0 +1,8 @@
+Chr3	MSU_osa1r6_db	gene	25249048	25252404	.	+	.	ID=Gene:LOC_Os03g44780;Note=elongation+factor+Tu+family+protein%2C+putative%2C+expressed;Alias=13103.t03867
+Chr3	MSU_osa1r6_db	processed_transcript	25249048	25252404	.	+	.	ID=mRNA:LOC_Os03g44780.1;Note=13103.m04825;Gene=LOC_Os03g44780
+Chr3	MSU_osa1r6_db	CDS	25249186	25252275	.	+	0	Parent=mRNA:LOC_Os03g44780.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	25249048	25249185	.	+	.	Parent=mRNA:LOC_Os03g44780.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	25252276	25252404	.	+	.	Parent=mRNA:LOC_Os03g44780.1
+Chr3	Protein-DB	peptide_p	25251026	25251070	.	?	.	Parent=mRNA:LOC_Os03g44780.1:P999_17018
+Chr3	Protein-DB	peptide_p	25250804	25250851	.	?	.	Parent=mRNA:LOC_Os03g44780.1:P999_17019
+Chr3	Protein-DB	peptide_p	25249379	25249414	.	?	.	Parent=mRNA:LOC_Os03g44780.1:P999_17020

@@ -1,0 +1,16 @@
+Chr2	MSU_osa1r6_db	gene	3827671	3830181	.	+	.	ID=Gene:LOC_Os02g07410;Note=glycine+cleavage+system+H+protein%2C+putative%2C+expressed;Alias=13102.t00648
+Chr2	MSU_osa1r6_db	processed_transcript	3827671	3830181	.	+	.	ID=mRNA:LOC_Os02g07410.1;Note=13102.m00841;Gene=LOC_Os02g07410
+Chr2	MSU_osa1r6_db	CDS	3828029	3828116	.	+	0	Parent=mRNA:LOC_Os02g07410.1
+Chr2	MSU_osa1r6_db	CDS	3829173	3829261	.	+	1	Parent=mRNA:LOC_Os02g07410.1
+Chr2	MSU_osa1r6_db	CDS	3829446	3829616	.	+	0	Parent=mRNA:LOC_Os02g07410.1
+Chr2	MSU_osa1r6_db	CDS	3829696	3829824	.	+	0	Parent=mRNA:LOC_Os02g07410.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	3827671	3828028	.	+	.	Parent=mRNA:LOC_Os02g07410.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	3829825	3830181	.	+	.	Parent=mRNA:LOC_Os02g07410.1
+Chr2	MSU_osa1r6_db	processed_transcript	3827671	3830181	.	+	.	ID=mRNA:LOC_Os02g07410.2;Note=13102.m00842;Gene=LOC_Os02g07410
+Chr2	MSU_osa1r6_db	CDS	3828029	3828116	.	+	0	Parent=mRNA:LOC_Os02g07410.2
+Chr2	MSU_osa1r6_db	CDS	3829173	3829318	.	+	1	Parent=mRNA:LOC_Os02g07410.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	3827671	3828028	.	+	.	Parent=mRNA:LOC_Os02g07410.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	3829319	3829616	.	+	.	Parent=mRNA:LOC_Os02g07410.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	3829696	3830181	.	+	.	Parent=mRNA:LOC_Os02g07410.2
+Chr2	cDNA-DB	peptide_c	3829742	3829786	.	?	.	Parent=mRNA:LOC_Os02g07410:C999_7726
+Chr2	Protein-DB	peptide_p	3829742	3829786	.	?	.	Parent=mRNA:LOC_Os02g07410.1:P999_7676

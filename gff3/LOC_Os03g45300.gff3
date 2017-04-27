@@ -1,0 +1,7 @@
+Chr3	MSU_osa1r6_db	gene	25574072	25580855	.	+	.	ID=Gene:LOC_Os03g45300;Note=transposon+protein%2C+putative%2C+unclassified%2C+expressed;Alias=13103.t03914
+Chr3	MSU_osa1r6_db	processed_transcript	25574072	25580855	.	+	.	ID=mRNA:LOC_Os03g45300.1;Note=13103.m04879;Gene=LOC_Os03g45300
+Chr3	MSU_osa1r6_db	CDS	25574493	25577072	.	+	0	Parent=mRNA:LOC_Os03g45300.1
+Chr3	MSU_osa1r6_db	CDS	25579435	25579570	.	+	0	Parent=mRNA:LOC_Os03g45300.1
+Chr3	MSU_osa1r6_db	CDS	25579810	25580294	.	+	1	Parent=mRNA:LOC_Os03g45300.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	25574072	25574492	.	+	.	Parent=mRNA:LOC_Os03g45300.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	25580295	25580855	.	+	.	Parent=mRNA:LOC_Os03g45300.1

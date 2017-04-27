@@ -1,0 +1,14 @@
+Chr1	MSU_osa1r6_db	gene	9683806	9688494	.	-	.	ID=Gene:LOC_Os01g16940;Note=MazG+nucleotide+pyrophosphohydrolase+domain+containing+protein%2C+expressed;Alias=13101.t01539
+Chr1	MSU_osa1r6_db	processed_transcript	9683806	9688494	.	-	.	ID=mRNA:LOC_Os01g16940.1;Note=13101.m01898;Gene=LOC_Os01g16940
+Chr1	MSU_osa1r6_db	CDS	9688207	9688431	.	-	0	Parent=mRNA:LOC_Os01g16940.1
+Chr1	MSU_osa1r6_db	CDS	9686829	9687074	.	-	0	Parent=mRNA:LOC_Os01g16940.1
+Chr1	MSU_osa1r6_db	CDS	9686645	9686740	.	-	0	Parent=mRNA:LOC_Os01g16940.1
+Chr1	MSU_osa1r6_db	CDS	9686421	9686572	.	-	0	Parent=mRNA:LOC_Os01g16940.1
+Chr1	MSU_osa1r6_db	CDS	9684054	9684255	.	-	2	Parent=mRNA:LOC_Os01g16940.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	9688432	9688494	.	-	.	Parent=mRNA:LOC_Os01g16940.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	9683806	9684053	.	-	.	Parent=mRNA:LOC_Os01g16940.1
+Chr1	Protein-DB	peptide_p	9685744	9685788	.	?	.	Parent=mRNA:LOC_Os01g16940.1:P999_1590
+Chr1	Protein-DB	peptide_p	9684053	9684094	.	?	.	Parent=mRNA:LOC_Os01g16940.1:P999_1591
+Chr1	Protein-DB	peptide_p	9688167	9688193	.	?	.	Parent=mRNA:LOC_Os01g16940.1:P999_1594
+Chr1	Protein-DB	peptide_p	9688197	9688226	.	?	.	Parent=mRNA:LOC_Os01g16940.1:P999_1595
+Chr1	Protein-DB	peptide_p	9685227	9685253	.	?	.	Parent=mRNA:LOC_Os01g16940.1:P999_1596

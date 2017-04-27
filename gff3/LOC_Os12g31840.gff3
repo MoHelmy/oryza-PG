@@ -1,0 +1,7 @@
+Chr12	MSU_osa1r6_db	gene	19129531	19133065	.	+	.	ID=Gene:LOC_Os12g31840;Note=ZOS12-05+-+C2H2+zinc+finger+protein%2C+expressed;Alias=13112.t02891
+Chr12	MSU_osa1r6_db	processed_transcript	19129531	19133065	.	+	.	ID=mRNA:LOC_Os12g31840.1;Note=13112.m03239;Gene=LOC_Os12g31840
+Chr12	MSU_osa1r6_db	CDS	19129633	19131327	.	+	0	Parent=mRNA:LOC_Os12g31840.1
+Chr12	MSU_osa1r6_db	CDS	19132582	19132640	.	+	0	Parent=mRNA:LOC_Os12g31840.1
+Chr12	MSU_osa1r6_db	CDS	19132771	19132840	.	+	2	Parent=mRNA:LOC_Os12g31840.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	19129531	19129632	.	+	.	Parent=mRNA:LOC_Os12g31840.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	19132841	19133065	.	+	.	Parent=mRNA:LOC_Os12g31840.1

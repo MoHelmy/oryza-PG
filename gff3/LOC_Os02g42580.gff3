@@ -1,0 +1,6 @@
+Chr2	MSU_osa1r6_db	gene	25586057	25589280	.	-	.	ID=Gene:LOC_Os02g42580;Note=vacuolar+protein-sorting+protein+bro1%2C+putative%2C+expressed;Alias=13102.t03872
+Chr2	MSU_osa1r6_db	processed_transcript	25586057	25589280	.	-	.	ID=mRNA:LOC_Os02g42580.1;Note=13102.m04723;Gene=LOC_Os02g42580
+Chr2	MSU_osa1r6_db	CDS	25588589	25589206	.	-	0	Parent=mRNA:LOC_Os02g42580.1
+Chr2	MSU_osa1r6_db	CDS	25586435	25586878	.	-	0	Parent=mRNA:LOC_Os02g42580.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	25589207	25589280	.	-	.	Parent=mRNA:LOC_Os02g42580.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	25586057	25586434	.	-	.	Parent=mRNA:LOC_Os02g42580.1

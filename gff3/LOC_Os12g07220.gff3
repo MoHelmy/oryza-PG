@@ -1,0 +1,12 @@
+Chr12	MSU_osa1r6_db	gene	3548123	3551635	.	+	.	ID=Gene:LOC_Os12g07220;Note=bacterial+transferase+hexapeptide+domain+containing+protein%2C+expressed;Alias=13112.t00605
+Chr12	MSU_osa1r6_db	processed_transcript	3548123	3551635	.	+	.	ID=mRNA:LOC_Os12g07220.1;Note=13112.m00753;Gene=LOC_Os12g07220
+Chr12	MSU_osa1r6_db	CDS	3548341	3548455	.	+	0	Parent=mRNA:LOC_Os12g07220.1
+Chr12	MSU_osa1r6_db	CDS	3549234	3549377	.	+	1	Parent=mRNA:LOC_Os12g07220.1
+Chr12	MSU_osa1r6_db	CDS	3550039	3550164	.	+	1	Parent=mRNA:LOC_Os12g07220.1
+Chr12	MSU_osa1r6_db	CDS	3550420	3550571	.	+	1	Parent=mRNA:LOC_Os12g07220.1
+Chr12	MSU_osa1r6_db	CDS	3551070	3551354	.	+	0	Parent=mRNA:LOC_Os12g07220.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	3548123	3548340	.	+	.	Parent=mRNA:LOC_Os12g07220.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	3551355	3551635	.	+	.	Parent=mRNA:LOC_Os12g07220.1
+Chr12	Protein-DB	peptide_p	3550039	3550110	.	?	.	Parent=mRNA:LOC_Os12g07220.1:P999_41373
+Chr12	Protein-DB	peptide_p	3551107	3551193	.	?	.	Parent=mRNA:LOC_Os12g07220.1:P999_41374
+Chr12	Protein-DB	peptide_p	3551194	3551220	.	?	.	Parent=mRNA:LOC_Os12g07220.1:P999_41375

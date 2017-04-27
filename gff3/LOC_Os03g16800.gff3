@@ -1,0 +1,11 @@
+Chr3	MSU_osa1r6_db	gene	9312612	9315648	.	-	.	ID=Gene:LOC_Os03g16800;Note=clathrin+assembly+protein%2C+putative%2C+expressed;Alias=13103.t01478
+Chr3	MSU_osa1r6_db	processed_transcript	9312612	9315648	.	-	.	ID=mRNA:LOC_Os03g16800.1;Note=13103.m01999;Gene=LOC_Os03g16800
+Chr3	MSU_osa1r6_db	CDS	9312909	9314864	.	-	0	Parent=mRNA:LOC_Os03g16800.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	9315405	9315648	.	-	.	Parent=mRNA:LOC_Os03g16800.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	9314865	9314979	.	-	.	Parent=mRNA:LOC_Os03g16800.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	9312612	9312908	.	-	.	Parent=mRNA:LOC_Os03g16800.1
+Chr3	MSU_osa1r6_db	processed_transcript	9312612	9315324	.	-	.	ID=mRNA:LOC_Os03g16800.2;Note=13103.m02000;Gene=LOC_Os03g16800
+Chr3	MSU_osa1r6_db	CDS	9312909	9314864	.	-	0	Parent=mRNA:LOC_Os03g16800.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	9315144	9315324	.	-	.	Parent=mRNA:LOC_Os03g16800.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	9314865	9314979	.	-	.	Parent=mRNA:LOC_Os03g16800.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	9312612	9312908	.	-	.	Parent=mRNA:LOC_Os03g16800.2

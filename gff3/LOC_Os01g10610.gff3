@@ -1,0 +1,6 @@
+Chr1	MSU_osa1r6_db	gene	5667988	5670470	.	-	.	ID=Gene:LOC_Os01g10610;Note=BES1%2FBZR1+homolog+protein%2C+putative%2C+expressed;Alias=13101.t00932
+Chr1	MSU_osa1r6_db	processed_transcript	5667988	5670470	.	-	.	ID=mRNA:LOC_Os01g10610.1;Note=13101.m01146;Gene=LOC_Os01g10610
+Chr1	MSU_osa1r6_db	CDS	5670039	5670329	.	-	0	Parent=mRNA:LOC_Os01g10610.1
+Chr1	MSU_osa1r6_db	CDS	5668288	5669094	.	-	0	Parent=mRNA:LOC_Os01g10610.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	5670330	5670470	.	-	.	Parent=mRNA:LOC_Os01g10610.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	5667988	5668287	.	-	.	Parent=mRNA:LOC_Os01g10610.1

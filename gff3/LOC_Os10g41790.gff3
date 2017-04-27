@@ -1,0 +1,10 @@
+Chr10	MSU_osa1r6_db	gene	22417727	22420701	.	+	.	ID=Gene:LOC_Os10g41790;Note=type+II+intron+maturase+protein%2C+putative%2C+expressed;Alias=13110.t03406
+Chr10	MSU_osa1r6_db	processed_transcript	22417727	22420701	.	+	.	ID=mRNA:LOC_Os10g41790.1;Note=13110.m03910;Gene=LOC_Os10g41790
+Chr10	MSU_osa1r6_db	CDS	22417766	22419967	.	+	0	Parent=mRNA:LOC_Os10g41790.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	22417727	22417765	.	+	.	Parent=mRNA:LOC_Os10g41790.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	22419968	22420701	.	+	.	Parent=mRNA:LOC_Os10g41790.1
+Chr10	MSU_osa1r6_db	processed_transcript	22417727	22420700	.	+	.	ID=mRNA:LOC_Os10g41790.2;Note=13110.m03909;Gene=LOC_Os10g41790
+Chr10	MSU_osa1r6_db	CDS	22417766	22419967	.	+	0	Parent=mRNA:LOC_Os10g41790.2
+Chr10	MSU_osa1r6_db	five_prime_UTR	22417727	22417765	.	+	.	Parent=mRNA:LOC_Os10g41790.2
+Chr10	MSU_osa1r6_db	three_prime_UTR	22419968	22420087	.	+	.	Parent=mRNA:LOC_Os10g41790.2
+Chr10	MSU_osa1r6_db	three_prime_UTR	22420176	22420700	.	+	.	Parent=mRNA:LOC_Os10g41790.2

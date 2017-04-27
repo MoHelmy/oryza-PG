@@ -1,0 +1,7 @@
+Chr8	MSU_osa1r6_db	gene	670260	673727	.	+	.	ID=Gene:LOC_Os08g02060;Note=expressed+protein;Alias=13108.t00107
+Chr8	MSU_osa1r6_db	processed_transcript	670260	673727	.	+	.	ID=mRNA:LOC_Os08g02060.1;Note=13108.m00139;Gene=LOC_Os08g02060
+Chr8	MSU_osa1r6_db	CDS	670260	670332	.	+	0	Parent=mRNA:LOC_Os08g02060.1
+Chr8	MSU_osa1r6_db	CDS	670628	670923	.	+	1	Parent=mRNA:LOC_Os08g02060.1
+Chr8	MSU_osa1r6_db	CDS	672544	672658	.	+	0	Parent=mRNA:LOC_Os08g02060.1
+Chr8	MSU_osa1r6_db	CDS	673248	673318	.	+	1	Parent=mRNA:LOC_Os08g02060.1
+Chr8	MSU_osa1r6_db	three_prime_UTR	673319	673727	.	+	.	Parent=mRNA:LOC_Os08g02060.1

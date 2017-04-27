@@ -1,0 +1,14 @@
+Chr12	MSU_osa1r6_db	gene	25525210	25527495	.	-	.	ID=Gene:LOC_Os12g41220;Note=ubiquitin-conjugating+enzyme%2C+putative%2C+expressed;Alias=13112.t03810
+Chr12	MSU_osa1r6_db	processed_transcript	25525210	25527495	.	-	.	ID=mRNA:LOC_Os12g41220.1;Note=13112.m04298;Gene=LOC_Os12g41220
+Chr12	MSU_osa1r6_db	CDS	25527258	25527291	.	-	0	Parent=mRNA:LOC_Os12g41220.1
+Chr12	MSU_osa1r6_db	CDS	25526027	25526166	.	-	1	Parent=mRNA:LOC_Os12g41220.1
+Chr12	MSU_osa1r6_db	CDS	25525778	25525903	.	-	0	Parent=mRNA:LOC_Os12g41220.1
+Chr12	MSU_osa1r6_db	CDS	25525546	25525686	.	-	0	Parent=mRNA:LOC_Os12g41220.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	25527292	25527495	.	-	.	Parent=mRNA:LOC_Os12g41220.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	25525210	25525545	.	-	.	Parent=mRNA:LOC_Os12g41220.1
+Chr12	Protein-DB	peptide_p	25526893	25526931	.	?	.	Parent=mRNA:LOC_Os12g41220.1:P999_42535
+Chr12	Protein-DB	peptide_p	25526587	25526646	.	?	.	Parent=mRNA:LOC_Os12g41220.1:P999_42540
+Chr12	Protein-DB	peptide_p	25527062	25527100	.	?	.	Parent=mRNA:LOC_Os12g41220.1:P999_42541
+Chr12	Protein-DB	peptide_p	25527062	25527097	.	?	.	Parent=mRNA:LOC_Os12g41220.1:P999_42545
+Chr12	Protein-DB	peptide_p	25526647	25526679	.	?	.	Parent=mRNA:LOC_Os12g41220.1:P999_42547
+Chr12	Protein-DB	peptide_p	25527035	25527058	.	?	.	Parent=mRNA:LOC_Os12g41220.1:P999_42548

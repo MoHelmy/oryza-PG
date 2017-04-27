@@ -1,0 +1,14 @@
+Chr12	MSU_osa1r6_db	gene	3217986	3221910	.	-	.	ID=Gene:LOC_Os12g06640;Note=homeodomain%2C+putative%2C+expressed;Alias=13112.t00549
+Chr12	MSU_osa1r6_db	processed_transcript	3217986	3221910	.	-	.	ID=mRNA:LOC_Os12g06640.1;Note=13112.m00682;Gene=LOC_Os12g06640
+Chr12	MSU_osa1r6_db	CDS	3219933	3221231	.	-	0	Parent=mRNA:LOC_Os12g06640.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	3221770	3221910	.	-	.	Parent=mRNA:LOC_Os12g06640.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	3221232	3221331	.	-	.	Parent=mRNA:LOC_Os12g06640.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	3219897	3219932	.	-	.	Parent=mRNA:LOC_Os12g06640.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	3217986	3218265	.	-	.	Parent=mRNA:LOC_Os12g06640.1
+Chr12	MSU_osa1r6_db	processed_transcript	3217986	3221910	.	-	.	ID=mRNA:LOC_Os12g06640.2;Note=13112.m00683;Gene=LOC_Os12g06640
+Chr12	MSU_osa1r6_db	CDS	3219933	3221231	.	-	0	Parent=mRNA:LOC_Os12g06640.2
+Chr12	MSU_osa1r6_db	five_prime_UTR	3221770	3221910	.	-	.	Parent=mRNA:LOC_Os12g06640.2
+Chr12	MSU_osa1r6_db	five_prime_UTR	3221232	3221331	.	-	.	Parent=mRNA:LOC_Os12g06640.2
+Chr12	MSU_osa1r6_db	three_prime_UTR	3219897	3219932	.	-	.	Parent=mRNA:LOC_Os12g06640.2
+Chr12	MSU_osa1r6_db	three_prime_UTR	3219141	3219221	.	-	.	Parent=mRNA:LOC_Os12g06640.2
+Chr12	MSU_osa1r6_db	three_prime_UTR	3217986	3218265	.	-	.	Parent=mRNA:LOC_Os12g06640.2

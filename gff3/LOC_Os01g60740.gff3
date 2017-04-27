@@ -1,0 +1,11 @@
+Chr1	MSU_osa1r6_db	gene	35128815	35129874	.	-	.	ID=Gene:LOC_Os01g60740;Note=LTPL16+-+Protease+inhibitor%2Fseed+storage%2FLTP+family+protein+precursor%2C+expressed;Alias=13101.t05380
+Chr1	MSU_osa1r6_db	processed_transcript	35128815	35129874	.	-	.	ID=mRNA:LOC_Os01g60740.1;Note=13101.m06466;Gene=LOC_Os01g60740
+Chr1	MSU_osa1r6_db	CDS	35129404	35129772	.	-	0	Parent=mRNA:LOC_Os01g60740.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	35129773	35129874	.	-	.	Parent=mRNA:LOC_Os01g60740.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	35128815	35129403	.	-	.	Parent=mRNA:LOC_Os01g60740.1
+Chr1	MSU_osa1r6_db	processed_transcript	35128815	35129874	.	-	.	ID=mRNA:LOC_Os01g60740.2;Note=13101.m06465;Gene=LOC_Os01g60740
+Chr1	MSU_osa1r6_db	CDS	35129420	35129772	.	-	0	Parent=mRNA:LOC_Os01g60740.2
+Chr1	MSU_osa1r6_db	CDS	35129324	35129333	.	-	2	Parent=mRNA:LOC_Os01g60740.2
+Chr1	MSU_osa1r6_db	five_prime_UTR	35129773	35129874	.	-	.	Parent=mRNA:LOC_Os01g60740.2
+Chr1	MSU_osa1r6_db	three_prime_UTR	35128815	35129323	.	-	.	Parent=mRNA:LOC_Os01g60740.2
+Chr1	Protein-DB	peptide_p	35129158	35129199	.	?	.	Parent=mRNA:LOC_Os01g60740.1:P999_4758

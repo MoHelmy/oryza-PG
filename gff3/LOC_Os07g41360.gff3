@@ -1,0 +1,10 @@
+Chr7	MSU_osa1r6_db	gene	24772282	24775532	.	+	.	ID=Gene:LOC_Os07g41360;Note=alpha-1%2C4-glucan-protein+synthase%2C+putative%2C+expressed;Alias=13107.t03778
+Chr7	MSU_osa1r6_db	processed_transcript	24772282	24775532	.	+	.	ID=mRNA:LOC_Os07g41360.1;Note=13107.m04303;Gene=LOC_Os07g41360
+Chr7	MSU_osa1r6_db	CDS	24772332	24772667	.	+	0	Parent=mRNA:LOC_Os07g41360.1
+Chr7	MSU_osa1r6_db	CDS	24774312	24774562	.	+	0	Parent=mRNA:LOC_Os07g41360.1
+Chr7	MSU_osa1r6_db	CDS	24774651	24774819	.	+	2	Parent=mRNA:LOC_Os07g41360.1
+Chr7	MSU_osa1r6_db	CDS	24774925	24775269	.	+	0	Parent=mRNA:LOC_Os07g41360.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	24772282	24772331	.	+	.	Parent=mRNA:LOC_Os07g41360.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	24775270	24775532	.	+	.	Parent=mRNA:LOC_Os07g41360.1
+Chr7	Protein-DB	peptide_p	24774367	24774423	.	?	.	Parent=mRNA:LOC_Os07g41360.1:P999_31472
+Chr7	Protein-DB	peptide_p	24774653	24774682	.	?	.	Parent=mRNA:LOC_Os07g41360.1:P999_31473

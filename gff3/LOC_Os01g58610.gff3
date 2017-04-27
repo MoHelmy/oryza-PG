@@ -1,0 +1,8 @@
+Chr1	MSU_osa1r6_db	gene	33883876	33886369	.	+	.	ID=Gene:LOC_Os01g58610;Note=phosphoglycerate+kinase+protein%2C+putative%2C+expressed;Alias=13101.t05179
+Chr1	MSU_osa1r6_db	processed_transcript	33883876	33886369	.	+	.	ID=mRNA:LOC_Os01g58610.1;Note=13101.m06223;Gene=LOC_Os01g58610
+Chr1	MSU_osa1r6_db	CDS	33883876	33884280	.	+	0	Parent=mRNA:LOC_Os01g58610.1
+Chr1	MSU_osa1r6_db	CDS	33884892	33884969	.	+	0	Parent=mRNA:LOC_Os01g58610.1
+Chr1	MSU_osa1r6_db	CDS	33885061	33885222	.	+	0	Parent=mRNA:LOC_Os01g58610.1
+Chr1	MSU_osa1r6_db	CDS	33885487	33885804	.	+	0	Parent=mRNA:LOC_Os01g58610.1
+Chr1	MSU_osa1r6_db	CDS	33886175	33886369	.	+	0	Parent=mRNA:LOC_Os01g58610.1
+Chr1	Protein-DB	peptide_p	33886239	33886262	.	?	.	Parent=mRNA:LOC_Os01g58610.1:P999_4540

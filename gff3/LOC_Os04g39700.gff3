@@ -1,0 +1,14 @@
+Chr4	MSU_osa1r6_db	gene	23475690	23477898	.	-	.	ID=Gene:LOC_Os04g39700;Note=60S+ribosomal+protein+L6%2C+putative%2C+expressed;Alias=13104.t03518
+Chr4	MSU_osa1r6_db	processed_transcript	23475690	23477898	.	-	.	ID=mRNA:LOC_Os04g39700.1;Note=13104.m03850;Gene=LOC_Os04g39700
+Chr4	MSU_osa1r6_db	CDS	23477582	23477805	.	-	0	Parent=mRNA:LOC_Os04g39700.1
+Chr4	MSU_osa1r6_db	CDS	23477378	23477484	.	-	2	Parent=mRNA:LOC_Os04g39700.1
+Chr4	MSU_osa1r6_db	CDS	23476149	23476330	.	-	1	Parent=mRNA:LOC_Os04g39700.1
+Chr4	MSU_osa1r6_db	CDS	23475902	23476057	.	-	0	Parent=mRNA:LOC_Os04g39700.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	23477806	23477898	.	-	.	Parent=mRNA:LOC_Os04g39700.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	23475690	23475901	.	-	.	Parent=mRNA:LOC_Os04g39700.1
+Chr4	Protein-DB	peptide_p	23477294	23477329	.	?	.	Parent=mRNA:LOC_Os04g39700.1:P999_20795
+Chr4	Protein-DB	peptide_p	23476106	23476150	.	?	.	Parent=mRNA:LOC_Os04g39700.1:P999_20804
+Chr4	Protein-DB	peptide_p	23476190	23476213	.	?	.	Parent=mRNA:LOC_Os04g39700.1:P999_20806
+Chr4	Protein-DB	peptide_p	23477360	23477383	.	?	.	Parent=mRNA:LOC_Os04g39700.1:P999_20809
+Chr4	Protein-DB	peptide_p	23477330	23477359	.	?	.	Parent=mRNA:LOC_Os04g39700.1:P999_20813
+Chr4	Protein-DB	peptide_p	23477408	23477437	.	?	.	Parent=mRNA:LOC_Os04g39700.1:P999_20814

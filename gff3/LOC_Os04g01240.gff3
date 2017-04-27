@@ -1,0 +1,10 @@
+Chr4	MSU_osa1r6_db	gene	181512	185397	.	-	.	ID=Gene:LOC_Os04g01240;Note=serine-type+peptidase%2C+putative%2C+expressed;Alias=13104.t00025
+Chr4	MSU_osa1r6_db	processed_transcript	181512	185397	.	-	.	ID=mRNA:LOC_Os04g01240.1;Note=13104.m00028;Gene=LOC_Os04g01240
+Chr4	MSU_osa1r6_db	CDS	185072	185143	.	-	0	Parent=mRNA:LOC_Os04g01240.1
+Chr4	MSU_osa1r6_db	CDS	184573	184748	.	-	0	Parent=mRNA:LOC_Os04g01240.1
+Chr4	MSU_osa1r6_db	CDS	182273	182456	.	-	2	Parent=mRNA:LOC_Os04g01240.1
+Chr4	MSU_osa1r6_db	CDS	181858	181964	.	-	0	Parent=mRNA:LOC_Os04g01240.1
+Chr4	MSU_osa1r6_db	CDS	181680	181761	.	-	2	Parent=mRNA:LOC_Os04g01240.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	185144	185397	.	-	.	Parent=mRNA:LOC_Os04g01240.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	181512	181679	.	-	.	Parent=mRNA:LOC_Os04g01240.1
+Chr4	Protein-DB	peptide_p	184964	185002	.	?	.	Parent=mRNA:LOC_Os04g01240.1:P999_19731

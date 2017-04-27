@@ -1,0 +1,12 @@
+Chr4	MSU_osa1r6_db	gene	33981386	33984377	.	+	.	ID=Gene:LOC_Os04g57420;Note=reticulon+domain+containing+protein%2C+putative%2C+expressed;Alias=13104.t05217
+Chr4	MSU_osa1r6_db	processed_transcript	33981386	33984377	.	+	.	ID=mRNA:LOC_Os04g57420.1;Note=13104.m06007;Gene=LOC_Os04g57420
+Chr4	MSU_osa1r6_db	CDS	33981626	33981677	.	+	0	Parent=mRNA:LOC_Os04g57420.1
+Chr4	MSU_osa1r6_db	CDS	33981765	33981945	.	+	1	Parent=mRNA:LOC_Os04g57420.1
+Chr4	MSU_osa1r6_db	CDS	33982789	33982930	.	+	2	Parent=mRNA:LOC_Os04g57420.1
+Chr4	MSU_osa1r6_db	CDS	33983051	33983120	.	+	0	Parent=mRNA:LOC_Os04g57420.1
+Chr4	MSU_osa1r6_db	CDS	33983236	33983390	.	+	1	Parent=mRNA:LOC_Os04g57420.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	33981386	33981625	.	+	.	Parent=mRNA:LOC_Os04g57420.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	33983391	33983411	.	+	.	Parent=mRNA:LOC_Os04g57420.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	33984009	33984377	.	+	.	Parent=mRNA:LOC_Os04g57420.1
+Chr4	Protein-DB	peptide_p	33983302	33983331	.	?	.	Parent=mRNA:LOC_Os04g57420.1:P999_22223
+Chr4	Protein-DB	peptide_p	33982875	33982907	.	?	.	Parent=mRNA:LOC_Os04g57420.1:P999_22224

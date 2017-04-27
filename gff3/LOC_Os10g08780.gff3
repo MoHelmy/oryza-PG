@@ -1,0 +1,6 @@
+Chr10	MSU_osa1r6_db	gene	4774050	4774705	.	+	.	ID=Gene:LOC_Os10g08780;Note=expressed+protein;Alias=13110.t00696
+Chr10	MSU_osa1r6_db	processed_transcript	4774050	4774705	.	+	.	ID=mRNA:LOC_Os10g08780.1;Note=13110.m00765;Gene=LOC_Os10g08780
+Chr10	MSU_osa1r6_db	CDS	4774171	4774491	.	+	0	Parent=mRNA:LOC_Os10g08780.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	4774050	4774170	.	+	.	Parent=mRNA:LOC_Os10g08780.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	4774492	4774705	.	+	.	Parent=mRNA:LOC_Os10g08780.1
+Chr10	Protein-DB	peptide_p	4774436	4774465	.	?	.	Parent=mRNA:LOC_Os10g08780.1:P999_37256

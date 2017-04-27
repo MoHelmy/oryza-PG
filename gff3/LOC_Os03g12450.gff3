@@ -1,0 +1,16 @@
+Chr3	MSU_osa1r6_db	gene	6572198	6579719	.	+	.	ID=Gene:LOC_Os03g12450;Note=nucleoporin%2C+putative%2C+expressed;Alias=13103.t01058
+Chr3	MSU_osa1r6_db	processed_transcript	6572198	6579719	.	+	.	ID=mRNA:LOC_Os03g12450.1;Note=13103.m01426;Gene=LOC_Os03g12450
+Chr3	MSU_osa1r6_db	CDS	6572341	6572516	.	+	0	Parent=mRNA:LOC_Os03g12450.1
+Chr3	MSU_osa1r6_db	CDS	6572721	6572845	.	+	2	Parent=mRNA:LOC_Os03g12450.1
+Chr3	MSU_osa1r6_db	CDS	6572946	6574721	.	+	1	Parent=mRNA:LOC_Os03g12450.1
+Chr3	MSU_osa1r6_db	CDS	6575306	6576021	.	+	1	Parent=mRNA:LOC_Os03g12450.1
+Chr3	MSU_osa1r6_db	CDS	6577055	6577213	.	+	0	Parent=mRNA:LOC_Os03g12450.1
+Chr3	MSU_osa1r6_db	CDS	6577383	6577692	.	+	0	Parent=mRNA:LOC_Os03g12450.1
+Chr3	MSU_osa1r6_db	CDS	6578300	6578367	.	+	1	Parent=mRNA:LOC_Os03g12450.1
+Chr3	MSU_osa1r6_db	CDS	6578860	6579402	.	+	0	Parent=mRNA:LOC_Os03g12450.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	6572198	6572340	.	+	.	Parent=mRNA:LOC_Os03g12450.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	6579403	6579719	.	+	.	Parent=mRNA:LOC_Os03g12450.1
+Chr3	Protein-DB	peptide_p	6573051	6573095	.	?	.	Parent=mRNA:LOC_Os03g12450.1:P999_14046
+Chr3	Protein-DB	peptide_p	6575963	6575998	.	?	.	Parent=mRNA:LOC_Os03g12450.1:P999_14047
+Chr3	Protein-DB	peptide_p	6574080	6574115	.	?	.	Parent=mRNA:LOC_Os03g12450.1:P999_14048
+Chr3	Protein-DB	peptide_p	6574215	6574250	.	?	.	Parent=mRNA:LOC_Os03g12450.1:P999_14049

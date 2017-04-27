@@ -1,0 +1,9 @@
+Chr6	MSU_osa1r6_db	gene	8193484	8197053	.	-	.	ID=Gene:LOC_Os06g14550;Note=signal+recognition+particle+9+kDa+protein%2C+putative%2C+expressed;Alias=13106.t01329
+Chr6	MSU_osa1r6_db	processed_transcript	8193484	8197053	.	-	.	ID=mRNA:LOC_Os06g14550.1;Note=13106.m01616;Gene=LOC_Os06g14550
+Chr6	MSU_osa1r6_db	CDS	8196824	8196895	.	-	0	Parent=mRNA:LOC_Os06g14550.1
+Chr6	MSU_osa1r6_db	CDS	8196652	8196720	.	-	0	Parent=mRNA:LOC_Os06g14550.1
+Chr6	MSU_osa1r6_db	CDS	8193917	8194010	.	-	0	Parent=mRNA:LOC_Os06g14550.1
+Chr6	MSU_osa1r6_db	CDS	8193747	8193823	.	-	1	Parent=mRNA:LOC_Os06g14550.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	8196896	8197053	.	-	.	Parent=mRNA:LOC_Os06g14550.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	8193484	8193746	.	-	.	Parent=mRNA:LOC_Os06g14550.1
+Chr6	Protein-DB	peptide_p	8193646	8193681	.	?	.	Parent=mRNA:LOC_Os06g14550.1:P999_27971

@@ -1,0 +1,8 @@
+Chr3	MSU_osa1r6_db	gene	33931793	33934243	.	+	.	ID=Gene:LOC_Os03g59610;Note=oxidoreductase%2C+short+chain+dehydrogenase%2Freductase+family+protein%2C+putative%2C+expressed;Alias=13103.t05215
+Chr3	MSU_osa1r6_db	processed_transcript	33931793	33934243	.	+	.	ID=mRNA:LOC_Os03g59610.1;Note=13103.m06541;Gene=LOC_Os03g59610
+Chr3	MSU_osa1r6_db	CDS	33931988	33932031	.	+	0	Parent=mRNA:LOC_Os03g59610.1
+Chr3	MSU_osa1r6_db	CDS	33933189	33933990	.	+	2	Parent=mRNA:LOC_Os03g59610.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	33931793	33931987	.	+	.	Parent=mRNA:LOC_Os03g59610.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	33933991	33934243	.	+	.	Parent=mRNA:LOC_Os03g59610.1
+Chr3	Protein-DB	peptide_p	33933278	33933316	.	?	.	Parent=mRNA:LOC_Os03g59610.1:P999_19106
+Chr3	Protein-DB	peptide_p	33933809	33933847	.	?	.	Parent=mRNA:LOC_Os03g59610.1:P999_19107

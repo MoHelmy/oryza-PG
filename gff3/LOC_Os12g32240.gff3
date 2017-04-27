@@ -1,0 +1,14 @@
+Chr12	MSU_osa1r6_db	gene	19434135	19437190	.	+	.	ID=Gene:LOC_Os12g32240;Note=eukaryotic+translation+initiation+factor+5A%2C+putative%2C+expressed;Alias=13112.t02930
+Chr12	MSU_osa1r6_db	processed_transcript	19434135	19437190	.	+	.	ID=mRNA:LOC_Os12g32240.1;Note=13112.m03290;Gene=LOC_Os12g32240
+Chr12	MSU_osa1r6_db	CDS	19434367	19434492	.	+	0	Parent=mRNA:LOC_Os12g32240.1
+Chr12	MSU_osa1r6_db	CDS	19435635	19435757	.	+	0	Parent=mRNA:LOC_Os12g32240.1
+Chr12	MSU_osa1r6_db	CDS	19435843	19435899	.	+	0	Parent=mRNA:LOC_Os12g32240.1
+Chr12	MSU_osa1r6_db	CDS	19435988	19436062	.	+	0	Parent=mRNA:LOC_Os12g32240.1
+Chr12	MSU_osa1r6_db	CDS	19436614	19436715	.	+	0	Parent=mRNA:LOC_Os12g32240.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	19434135	19434227	.	+	.	Parent=mRNA:LOC_Os12g32240.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	19434330	19434366	.	+	.	Parent=mRNA:LOC_Os12g32240.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	19436716	19437190	.	+	.	Parent=mRNA:LOC_Os12g32240.1
+Chr12	Protein-DB	peptide_p	19435862	19435912	.	?	.	Parent=mRNA:LOC_Os12g32240.1:P999_42007
+Chr12	Protein-DB	peptide_p	19436034	19436066	.	?	.	Parent=mRNA:LOC_Os12g32240.1:P999_42010
+Chr12	Protein-DB	peptide_p	19435684	19435719	.	?	.	Parent=mRNA:LOC_Os12g32240.1:P999_42014
+Chr12	Protein-DB	peptide_p	19436022	19436066	.	?	.	Parent=mRNA:LOC_Os12g32240.1:P999_42017

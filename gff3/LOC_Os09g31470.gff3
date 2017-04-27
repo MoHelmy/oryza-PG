@@ -1,0 +1,12 @@
+Chr9	MSU_osa1r6_db	gene	18963580	18967444	.	-	.	ID=Gene:LOC_Os09g31470;Note=AT+hook+motif+domain+containing+protein%2C+expressed;Alias=13109.t02796
+Chr9	MSU_osa1r6_db	processed_transcript	18963580	18967444	.	-	.	ID=mRNA:LOC_Os09g31470.1;Note=13109.m03144;Gene=LOC_Os09g31470
+Chr9	MSU_osa1r6_db	CDS	18966150	18966648	.	-	0	Parent=mRNA:LOC_Os09g31470.1
+Chr9	MSU_osa1r6_db	CDS	18965609	18965661	.	-	1	Parent=mRNA:LOC_Os09g31470.1
+Chr9	MSU_osa1r6_db	CDS	18964997	18965128	.	-	0	Parent=mRNA:LOC_Os09g31470.1
+Chr9	MSU_osa1r6_db	CDS	18964607	18964768	.	-	0	Parent=mRNA:LOC_Os09g31470.1
+Chr9	MSU_osa1r6_db	CDS	18964011	18964244	.	-	0	Parent=mRNA:LOC_Os09g31470.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	18966649	18967444	.	-	.	Parent=mRNA:LOC_Os09g31470.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	18963580	18964010	.	-	.	Parent=mRNA:LOC_Os09g31470.1
+Chr9	Protein-DB	peptide_p	18966326	18966367	.	?	.	Parent=mRNA:LOC_Os09g31470.1:P999_36216
+Chr9	Protein-DB	peptide_p	18964767	18964808	.	?	.	Parent=mRNA:LOC_Os09g31470.1:P999_36217
+Chr9	Protein-DB	peptide_p	18966778	18966816	.	?	.	Parent=mRNA:LOC_Os09g31470.1:P999_36218

@@ -1,0 +1,6 @@
+Chr3	MSU_osa1r6_db	gene	17773121	17775182	.	+	.	ID=Gene:LOC_Os03g31210;Note=UDP-glucose+6-dehydrogenase%2C+putative%2C+expressed;Alias=13103.t02745
+Chr3	MSU_osa1r6_db	processed_transcript	17773121	17775182	.	+	.	ID=mRNA:LOC_Os03g31210.1;Note=13103.m03567;Gene=LOC_Os03g31210
+Chr3	MSU_osa1r6_db	CDS	17773121	17774044	.	+	0	Parent=mRNA:LOC_Os03g31210.1
+Chr3	MSU_osa1r6_db	CDS	17774478	17775026	.	+	0	Parent=mRNA:LOC_Os03g31210.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	17775027	17775182	.	+	.	Parent=mRNA:LOC_Os03g31210.1
+Chr3	Protein-DB	peptide_p	17774953	17775006	.	?	.	Parent=mRNA:LOC_Os03g31210.1:P999_16361

@@ -1,0 +1,10 @@
+Chr1	MSU_osa1r6_db	gene	42810884	42814246	.	+	.	ID=Gene:LOC_Os01g73880;Note=eukaryotic+translation+initiation+factor%2C+putative%2C+expressed;Alias=13101.t06603
+Chr1	MSU_osa1r6_db	processed_transcript	42810884	42814246	.	+	.	ID=mRNA:LOC_Os01g73880.1;Note=13101.m08064;Gene=LOC_Os01g73880
+Chr1	MSU_osa1r6_db	CDS	42810983	42811257	.	+	0	Parent=mRNA:LOC_Os01g73880.1
+Chr1	MSU_osa1r6_db	CDS	42812773	42812938	.	+	2	Parent=mRNA:LOC_Os01g73880.1
+Chr1	MSU_osa1r6_db	CDS	42813022	42813147	.	+	0	Parent=mRNA:LOC_Os01g73880.1
+Chr1	MSU_osa1r6_db	CDS	42813740	42813805	.	+	0	Parent=mRNA:LOC_Os01g73880.1
+Chr1	MSU_osa1r6_db	CDS	42813883	42813933	.	+	0	Parent=mRNA:LOC_Os01g73880.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	42810884	42810982	.	+	.	Parent=mRNA:LOC_Os01g73880.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	42813934	42814246	.	+	.	Parent=mRNA:LOC_Os01g73880.1
+Chr1	Protein-DB	peptide_p	42813125	42813151	.	?	.	Parent=mRNA:LOC_Os01g73880.1:P999_6164

@@ -1,0 +1,11 @@
+Chr1	MSU_osa1r6_db	gene	42573783	42576774	.	-	.	ID=Gene:LOC_Os01g73470;Note=growth+inhibition+and+differentiation-related+protein+88%2C+putative%2C+expressed;Alias=13101.t06562
+Chr1	MSU_osa1r6_db	processed_transcript	42573783	42576774	.	-	.	ID=mRNA:LOC_Os01g73470.1;Note=13101.m08016;Gene=LOC_Os01g73470
+Chr1	MSU_osa1r6_db	CDS	42576271	42576337	.	-	0	Parent=mRNA:LOC_Os01g73470.1
+Chr1	MSU_osa1r6_db	CDS	42575882	42576160	.	-	1	Parent=mRNA:LOC_Os01g73470.1
+Chr1	MSU_osa1r6_db	CDS	42575626	42575793	.	-	1	Parent=mRNA:LOC_Os01g73470.1
+Chr1	MSU_osa1r6_db	CDS	42574503	42574592	.	-	1	Parent=mRNA:LOC_Os01g73470.1
+Chr1	MSU_osa1r6_db	CDS	42574162	42574349	.	-	1	Parent=mRNA:LOC_Os01g73470.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	42576552	42576774	.	-	.	Parent=mRNA:LOC_Os01g73470.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	42576338	42576367	.	-	.	Parent=mRNA:LOC_Os01g73470.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	42573783	42574161	.	-	.	Parent=mRNA:LOC_Os01g73470.1
+Chr1	Protein-DB	peptide_p	42574884	42574919	.	?	.	Parent=mRNA:LOC_Os01g73470.1:P999_6114

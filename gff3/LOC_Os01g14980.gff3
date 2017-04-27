@@ -1,0 +1,16 @@
+Chr1	MSU_osa1r6_db	gene	8395498	8397622	.	-	.	ID=Gene:LOC_Os01g14980;Note=RPA3+-+Putative+single-stranded+DNA+binding+complex+subunit+3%2C+expressed;Alias=13101.t01346
+Chr1	MSU_osa1r6_db	processed_transcript	8395498	8397622	.	-	.	ID=mRNA:LOC_Os01g14980.1;Note=13101.m01656;Gene=LOC_Os01g14980
+Chr1	MSU_osa1r6_db	CDS	8396773	8397028	.	-	0	Parent=mRNA:LOC_Os01g14980.1
+Chr1	MSU_osa1r6_db	CDS	8395848	8395912	.	-	1	Parent=mRNA:LOC_Os01g14980.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	8397479	8397622	.	-	.	Parent=mRNA:LOC_Os01g14980.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	8397029	8397030	.	-	.	Parent=mRNA:LOC_Os01g14980.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	8395498	8395847	.	-	.	Parent=mRNA:LOC_Os01g14980.1
+Chr1	MSU_osa1r6_db	processed_transcript	8395498	8397615	.	-	.	ID=mRNA:LOC_Os01g14980.2;Note=13101.m01657;Gene=LOC_Os01g14980
+Chr1	MSU_osa1r6_db	CDS	8396773	8397028	.	-	0	Parent=mRNA:LOC_Os01g14980.2
+Chr1	MSU_osa1r6_db	CDS	8395848	8395912	.	-	1	Parent=mRNA:LOC_Os01g14980.2
+Chr1	MSU_osa1r6_db	five_prime_UTR	8397479	8397615	.	-	.	Parent=mRNA:LOC_Os01g14980.2
+Chr1	MSU_osa1r6_db	five_prime_UTR	8397355	8397360	.	-	.	Parent=mRNA:LOC_Os01g14980.2
+Chr1	MSU_osa1r6_db	five_prime_UTR	8397029	8397030	.	-	.	Parent=mRNA:LOC_Os01g14980.2
+Chr1	MSU_osa1r6_db	three_prime_UTR	8395498	8395847	.	-	.	Parent=mRNA:LOC_Os01g14980.2
+Chr1	Protein-DB	peptide_p	8396315	8396347	.	?	.	Parent=mRNA:LOC_Os01g14980.1:P999_1266
+Chr1	Protein-DB	peptide_p	8396186	8396242	.	?	.	Parent=mRNA:LOC_Os01g14980.1:P999_1267

@@ -1,0 +1,8 @@
+Chr7	MSU_osa1r6_db	gene	18531546	18534087	.	-	.	ID=Gene:LOC_Os07g31300;Note=ATP+synthase+delta+chain%2C+mitochondrial+precursor%2C+putative%2C+expressed;Alias=13107.t02808
+Chr7	MSU_osa1r6_db	processed_transcript	18531546	18534087	.	-	.	ID=mRNA:LOC_Os07g31300.1;Note=13107.m03163;Gene=LOC_Os07g31300
+Chr7	MSU_osa1r6_db	CDS	18533731	18534003	.	-	0	Parent=mRNA:LOC_Os07g31300.1
+Chr7	MSU_osa1r6_db	CDS	18531785	18532129	.	-	0	Parent=mRNA:LOC_Os07g31300.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	18534004	18534087	.	-	.	Parent=mRNA:LOC_Os07g31300.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	18531546	18531784	.	-	.	Parent=mRNA:LOC_Os07g31300.1
+Chr7	Protein-DB	peptide_p	18533760	18533789	.	?	.	Parent=mRNA:LOC_Os07g31300.1:P999_30970
+Chr7	Protein-DB	peptide_p	18531853	18531882	.	?	.	Parent=mRNA:LOC_Os07g31300.1:P999_30974

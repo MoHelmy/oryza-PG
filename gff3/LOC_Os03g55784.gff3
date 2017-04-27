@@ -1,0 +1,13 @@
+Chr3	MSU_osa1r6_db	gene	31752071	31755851	.	+	.	ID=Gene:LOC_Os03g55784;Note=tumor+necrosis+factor+superfamily%2C+member+5-induced+protein+1%2C+putative%2C+expressed;Alias=13103.t04845
+Chr3	MSU_osa1r6_db	processed_transcript	31752071	31755851	.	+	.	ID=mRNA:LOC_Os03g55784.1;Note=13103.m06077;Gene=LOC_Os03g55784
+Chr3	MSU_osa1r6_db	CDS	31752160	31752219	.	+	0	Parent=mRNA:LOC_Os03g55784.1
+Chr3	MSU_osa1r6_db	CDS	31752320	31752485	.	+	0	Parent=mRNA:LOC_Os03g55784.1
+Chr3	MSU_osa1r6_db	CDS	31752852	31752910	.	+	1	Parent=mRNA:LOC_Os03g55784.1
+Chr3	MSU_osa1r6_db	CDS	31753486	31753604	.	+	0	Parent=mRNA:LOC_Os03g55784.1
+Chr3	MSU_osa1r6_db	CDS	31753694	31753931	.	+	2	Parent=mRNA:LOC_Os03g55784.1
+Chr3	MSU_osa1r6_db	CDS	31754002	31754125	.	+	0	Parent=mRNA:LOC_Os03g55784.1
+Chr3	MSU_osa1r6_db	CDS	31754273	31754352	.	+	1	Parent=mRNA:LOC_Os03g55784.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	31752071	31752159	.	+	.	Parent=mRNA:LOC_Os03g55784.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	31754353	31754369	.	+	.	Parent=mRNA:LOC_Os03g55784.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	31755592	31755851	.	+	.	Parent=mRNA:LOC_Os03g55784.1
+Chr3	Protein-DB	peptide_p	31753511	31753543	.	?	.	Parent=mRNA:LOC_Os03g55784.1:P999_18518

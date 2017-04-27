@@ -1,0 +1,12 @@
+Chr1	MSU_osa1r6_db	gene	28652918	28654903	.	-	.	ID=Gene:LOC_Os01g49890;Note=threonine+synthase%2C+chloroplast+precursor%2C+putative%2C+expressed;Alias=13101.t04346
+Chr1	MSU_osa1r6_db	processed_transcript	28652918	28654903	.	-	.	ID=mRNA:LOC_Os01g49890.1;Note=13101.m05193;Gene=LOC_Os01g49890
+Chr1	MSU_osa1r6_db	CDS	28653255	28654832	.	-	0	Parent=mRNA:LOC_Os01g49890.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	28654833	28654903	.	-	.	Parent=mRNA:LOC_Os01g49890.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	28652918	28653254	.	-	.	Parent=mRNA:LOC_Os01g49890.1
+Chr1	Protein-DB	peptide_p	28654235	28654303	.	?	.	Parent=mRNA:LOC_Os01g49890.1:P999_3829
+Chr1	Protein-DB	peptide_p	28654511	28654549	.	?	.	Parent=mRNA:LOC_Os01g49890.1:P999_3830
+Chr1	Protein-DB	peptide_p	28653149	28653193	.	?	.	Parent=mRNA:LOC_Os01g49890.1:P999_3831
+Chr1	Protein-DB	peptide_p	28653863	28653916	.	?	.	Parent=mRNA:LOC_Os01g49890.1:P999_3834
+Chr1	Protein-DB	peptide_p	28654157	28654216	.	?	.	Parent=mRNA:LOC_Os01g49890.1:P999_3836
+Chr1	Protein-DB	peptide_p	28653440	28653520	.	?	.	Parent=mRNA:LOC_Os01g49890.1:P999_3837
+Chr1	Protein-DB	peptide_p	28653272	28653298	.	?	.	Parent=mRNA:LOC_Os01g49890.1:P999_3838

@@ -1,0 +1,8 @@
+Chr9	MSU_osa1r6_db	gene	21630337	21636311	.	+	.	ID=Gene:LOC_Os09g37520;Note=DUF630%2FDUF632+domains+containing+protein%2C+putative%2C+expressed;Alias=13109.t03239
+Chr9	MSU_osa1r6_db	processed_transcript	21630337	21636311	.	+	.	ID=mRNA:LOC_Os09g37520.1;Note=13109.m03723;Gene=LOC_Os09g37520
+Chr9	MSU_osa1r6_db	CDS	21630795	21632424	.	+	0	Parent=mRNA:LOC_Os09g37520.1
+Chr9	MSU_osa1r6_db	CDS	21632507	21632652	.	+	1	Parent=mRNA:LOC_Os09g37520.1
+Chr9	MSU_osa1r6_db	CDS	21633245	21633468	.	+	0	Parent=mRNA:LOC_Os09g37520.1
+Chr9	MSU_osa1r6_db	CDS	21634601	21635360	.	+	2	Parent=mRNA:LOC_Os09g37520.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	21630337	21630794	.	+	.	Parent=mRNA:LOC_Os09g37520.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	21635361	21636311	.	+	.	Parent=mRNA:LOC_Os09g37520.1

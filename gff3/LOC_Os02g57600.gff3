@@ -1,0 +1,12 @@
+Chr2	MSU_osa1r6_db	gene	35269273	35272713	.	+	.	ID=Gene:LOC_Os02g57600;Note=expressed+protein;Alias=13102.t05385
+Chr2	MSU_osa1r6_db	processed_transcript	35269273	35272713	.	+	.	ID=mRNA:LOC_Os02g57600.1;Note=13102.m06655;Gene=LOC_Os02g57600
+Chr2	MSU_osa1r6_db	CDS	35270465	35271238	.	+	0	Parent=mRNA:LOC_Os02g57600.1
+Chr2	MSU_osa1r6_db	CDS	35272028	35272129	.	+	0	Parent=mRNA:LOC_Os02g57600.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	35269273	35269470	.	+	.	Parent=mRNA:LOC_Os02g57600.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	35270461	35270464	.	+	.	Parent=mRNA:LOC_Os02g57600.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	35272130	35272713	.	+	.	Parent=mRNA:LOC_Os02g57600.1
+Chr2	MSU_osa1r6_db	processed_transcript	35269403	35272713	.	+	.	ID=mRNA:LOC_Os02g57600.2;Note=13102.m12345;Gene=LOC_Os02g57600
+Chr2	MSU_osa1r6_db	CDS	35270435	35271238	.	+	0	Parent=mRNA:LOC_Os02g57600.2
+Chr2	MSU_osa1r6_db	CDS	35272028	35272129	.	+	0	Parent=mRNA:LOC_Os02g57600.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	35269403	35270434	.	+	.	Parent=mRNA:LOC_Os02g57600.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	35272130	35272713	.	+	.	Parent=mRNA:LOC_Os02g57600.2

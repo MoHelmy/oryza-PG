@@ -1,0 +1,13 @@
+Chr4	MSU_osa1r6_db	gene	11017354	11023384	.	+	.	ID=Gene:LOC_Os04g19740;Note=transketolase%2C+chloroplast+precursor%2C+putative%2C+expressed;Alias=13104.t01701
+Chr4	MSU_osa1r6_db	processed_transcript	11017354	11023384	.	+	.	ID=mRNA:LOC_Os04g19740.1;Note=13104.m01814;Gene=LOC_Os04g19740
+Chr4	MSU_osa1r6_db	CDS	11017414	11017818	.	+	0	Parent=mRNA:LOC_Os04g19740.1
+Chr4	MSU_osa1r6_db	CDS	11019548	11019638	.	+	0	Parent=mRNA:LOC_Os04g19740.1
+Chr4	MSU_osa1r6_db	CDS	11019736	11019841	.	+	1	Parent=mRNA:LOC_Os04g19740.1
+Chr4	MSU_osa1r6_db	CDS	11019923	11020205	.	+	2	Parent=mRNA:LOC_Os04g19740.1
+Chr4	MSU_osa1r6_db	CDS	11020291	11020439	.	+	0	Parent=mRNA:LOC_Os04g19740.1
+Chr4	MSU_osa1r6_db	CDS	11021811	11021964	.	+	2	Parent=mRNA:LOC_Os04g19740.1
+Chr4	MSU_osa1r6_db	CDS	11022066	11023022	.	+	0	Parent=mRNA:LOC_Os04g19740.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	11017354	11017413	.	+	.	Parent=mRNA:LOC_Os04g19740.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	11023023	11023384	.	+	.	Parent=mRNA:LOC_Os04g19740.1
+Chr4	Protein-DB	peptide_p	11022139	11022201	.	?	.	Parent=mRNA:LOC_Os04g19740.1:P999_20068
+Chr4	Protein-DB	peptide_p	11021918	11021965	.	?	.	Parent=mRNA:LOC_Os04g19740.1:P999_20069

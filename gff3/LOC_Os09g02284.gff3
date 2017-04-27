@@ -1,0 +1,11 @@
+Chr9	MSU_osa1r6_db	gene	926068	933087	.	+	.	ID=Gene:LOC_Os09g02284;Note=DNA-directed+RNA+polymerase+subunit%2C+putative%2C+expressed;Alias=13109.t00133
+Chr9	MSU_osa1r6_db	processed_transcript	926068	933087	.	+	.	ID=mRNA:LOC_Os09g02284.1;Note=13109.m00145;Gene=LOC_Os09g02284
+Chr9	MSU_osa1r6_db	CDS	926206	926699	.	+	0	Parent=mRNA:LOC_Os09g02284.1
+Chr9	MSU_osa1r6_db	CDS	927543	927780	.	+	2	Parent=mRNA:LOC_Os09g02284.1
+Chr9	MSU_osa1r6_db	CDS	932213	932473	.	+	0	Parent=mRNA:LOC_Os09g02284.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	926068	926205	.	+	.	Parent=mRNA:LOC_Os09g02284.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	932474	933087	.	+	.	Parent=mRNA:LOC_Os09g02284.1
+Chr9	Protein-DB	peptide_p	926552	926599	.	?	.	Parent=mRNA:LOC_Os09g02284.1:P999_34719
+Chr9	Protein-DB	peptide_p	932418	932471	.	?	.	Parent=mRNA:LOC_Os09g02284.1:P999_34720
+Chr9	Protein-DB	peptide_p	927632	927679	.	?	.	Parent=mRNA:LOC_Os09g02284.1:P999_34721
+Chr9	Protein-DB	peptide_p	926429	926473	.	?	.	Parent=mRNA:LOC_Os09g02284.1:P999_34722

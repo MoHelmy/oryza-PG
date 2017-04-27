@@ -1,0 +1,7 @@
+Chr4	MSU_osa1r6_db	gene	384999	386010	.	-	.	ID=Gene:LOC_Os04g01570;Note=invertase%2Fpectin+methylesterase+inhibitor+family+protein%2C+putative%2C+expressed;Alias=13104.t00055
+Chr4	MSU_osa1r6_db	processed_transcript	384999	386010	.	-	.	ID=mRNA:LOC_Os04g01570.1;Note=13104.m00069;Gene=LOC_Os04g01570
+Chr4	MSU_osa1r6_db	CDS	385342	385983	.	-	0	Parent=mRNA:LOC_Os04g01570.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	385984	386010	.	-	.	Parent=mRNA:LOC_Os04g01570.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	384999	385341	.	-	.	Parent=mRNA:LOC_Os04g01570.1
+Chr4	Protein-DB	peptide_p	385363	385398	.	?	.	Parent=mRNA:LOC_Os04g01570.1:P999_19778
+Chr4	Protein-DB	peptide_p	385249	385287	.	?	.	Parent=mRNA:LOC_Os04g01570.1:P999_19779

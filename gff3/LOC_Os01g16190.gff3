@@ -1,0 +1,12 @@
+Chr1	MSU_osa1r6_db	gene	9165353	9168971	.	+	.	ID=Gene:LOC_Os01g16190;Note=26S+proteasome+non-ATPase+regulatory+subunit+14%2C+putative%2C+expressed;Alias=13101.t01465
+Chr1	MSU_osa1r6_db	processed_transcript	9165353	9168971	.	+	.	ID=mRNA:LOC_Os01g16190.1;Note=13101.m01806;Gene=LOC_Os01g16190
+Chr1	MSU_osa1r6_db	CDS	9165454	9165580	.	+	0	Parent=mRNA:LOC_Os01g16190.1
+Chr1	MSU_osa1r6_db	CDS	9165658	9165835	.	+	1	Parent=mRNA:LOC_Os01g16190.1
+Chr1	MSU_osa1r6_db	CDS	9167256	9167337	.	+	2	Parent=mRNA:LOC_Os01g16190.1
+Chr1	MSU_osa1r6_db	CDS	9167907	9168083	.	+	0	Parent=mRNA:LOC_Os01g16190.1
+Chr1	MSU_osa1r6_db	CDS	9168174	9168341	.	+	0	Parent=mRNA:LOC_Os01g16190.1
+Chr1	MSU_osa1r6_db	CDS	9168466	9168657	.	+	0	Parent=mRNA:LOC_Os01g16190.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	9165353	9165453	.	+	.	Parent=mRNA:LOC_Os01g16190.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	9168658	9168971	.	+	.	Parent=mRNA:LOC_Os01g16190.1
+Chr1	Protein-DB	peptide_p	9168199	9168228	.	?	.	Parent=mRNA:LOC_Os01g16190.1:P999_1397
+Chr1	Protein-DB	peptide_p	9167998	9168039	.	?	.	Parent=mRNA:LOC_Os01g16190.1:P999_1401

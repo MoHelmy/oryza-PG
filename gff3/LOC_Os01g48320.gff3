@@ -1,0 +1,8 @@
+Chr1	MSU_osa1r6_db	gene	27689367	27691165	.	-	.	ID=Gene:LOC_Os01g48320;Note=transcription+factor+like+protein%2C+putative%2C+expressed;Alias=13101.t04198
+Chr1	MSU_osa1r6_db	processed_transcript	27689367	27691165	.	-	.	ID=mRNA:LOC_Os01g48320.1;Note=13101.m05009;Gene=LOC_Os01g48320
+Chr1	MSU_osa1r6_db	CDS	27689791	27690789	.	-	0	Parent=mRNA:LOC_Os01g48320.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	27690790	27691165	.	-	.	Parent=mRNA:LOC_Os01g48320.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	27689367	27689790	.	-	.	Parent=mRNA:LOC_Os01g48320.1
+Chr1	Protein-DB	peptide_p	27689891	27689935	.	?	.	Parent=mRNA:LOC_Os01g48320.1:P999_3450
+Chr1	Protein-DB	peptide_p	27690047	27690076	.	?	.	Parent=mRNA:LOC_Os01g48320.1:P999_3451
+Chr1	Protein-DB	peptide_p	27690017	27690046	.	?	.	Parent=mRNA:LOC_Os01g48320.1:P999_3452

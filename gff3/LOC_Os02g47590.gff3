@@ -1,0 +1,15 @@
+Chr2	MSU_osa1r6_db	gene	29072392	29075393	.	+	.	ID=Gene:LOC_Os02g47590;Note=ornithine+carbamoyltransferase%2C+putative%2C+expressed;Alias=13102.t04379
+Chr2	MSU_osa1r6_db	processed_transcript	29072392	29075393	.	+	.	ID=mRNA:LOC_Os02g47590.1;Note=13102.m05363;Gene=LOC_Os02g47590
+Chr2	MSU_osa1r6_db	CDS	29072491	29072671	.	+	0	Parent=mRNA:LOC_Os02g47590.1
+Chr2	MSU_osa1r6_db	CDS	29073450	29073784	.	+	1	Parent=mRNA:LOC_Os02g47590.1
+Chr2	MSU_osa1r6_db	CDS	29074289	29074420	.	+	0	Parent=mRNA:LOC_Os02g47590.1
+Chr2	MSU_osa1r6_db	CDS	29074508	29074780	.	+	0	Parent=mRNA:LOC_Os02g47590.1
+Chr2	MSU_osa1r6_db	CDS	29074933	29075115	.	+	0	Parent=mRNA:LOC_Os02g47590.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	29072392	29072490	.	+	.	Parent=mRNA:LOC_Os02g47590.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	29075116	29075393	.	+	.	Parent=mRNA:LOC_Os02g47590.1
+Chr2	Protein-DB	peptide_p	29073735	29073770	.	?	.	Parent=mRNA:LOC_Os02g47590.1:P999_10851
+Chr2	Protein-DB	peptide_p	29075003	29075071	.	?	.	Parent=mRNA:LOC_Os02g47590.1:P999_10852
+Chr2	Protein-DB	peptide_p	29074509	29074556	.	?	.	Parent=mRNA:LOC_Os02g47590.1:P999_10853
+Chr2	Protein-DB	peptide_p	29074287	29074310	.	?	.	Parent=mRNA:LOC_Os02g47590.1:P999_10859
+Chr2	Protein-DB	peptide_p	29073468	29073497	.	?	.	Parent=mRNA:LOC_Os02g47590.1:P999_10860
+Chr2	Protein-DB	peptide_p	29074656	29074691	.	?	.	Parent=mRNA:LOC_Os02g47590.1:P999_10864

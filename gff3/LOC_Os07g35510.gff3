@@ -1,0 +1,17 @@
+Chr7	MSU_osa1r6_db	gene	21237276	21240270	.	-	.	ID=Gene:LOC_Os07g35510;Note=glucan+endo-1%2C3-beta-glucosidase+precursor%2C+putative%2C+expressed;Alias=13107.t03215
+Chr7	MSU_osa1r6_db	processed_transcript	21237276	21240270	.	-	.	ID=mRNA:LOC_Os07g35510.1;Note=13107.m03634;Gene=LOC_Os07g35510
+Chr7	MSU_osa1r6_db	CDS	21239414	21239489	.	-	0	Parent=mRNA:LOC_Os07g35510.1
+Chr7	MSU_osa1r6_db	CDS	21238031	21239332	.	-	1	Parent=mRNA:LOC_Os07g35510.1
+Chr7	MSU_osa1r6_db	CDS	21237664	21237918	.	-	1	Parent=mRNA:LOC_Os07g35510.1
+Chr7	MSU_osa1r6_db	CDS	21237425	21237525	.	-	1	Parent=mRNA:LOC_Os07g35510.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	21239855	21240270	.	-	.	Parent=mRNA:LOC_Os07g35510.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	21239490	21239585	.	-	.	Parent=mRNA:LOC_Os07g35510.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	21237276	21237424	.	-	.	Parent=mRNA:LOC_Os07g35510.1
+Chr7	Protein-DB	peptide_p	21239829	21239882	.	?	.	Parent=mRNA:LOC_Os07g35510.1:P999_31081
+Chr7	Protein-DB	peptide_p	21238247	21238294	.	?	.	Parent=mRNA:LOC_Os07g35510.1:P999_31082
+Chr7	Protein-DB	peptide_p	21238319	21238372	.	?	.	Parent=mRNA:LOC_Os07g35510.1:P999_31083
+Chr7	Protein-DB	peptide_p	21238856	21238909	.	?	.	Parent=mRNA:LOC_Os07g35510.1:P999_31085
+Chr7	Protein-DB	peptide_p	21239778	21239828	.	?	.	Parent=mRNA:LOC_Os07g35510.1:P999_31087
+Chr7	Protein-DB	peptide_p	21239123	21239188	.	?	.	Parent=mRNA:LOC_Os07g35510.1:P999_31088
+Chr7	Protein-DB	peptide_p	21239222	21239242	.	?	.	Parent=mRNA:LOC_Os07g35510.1:P999_31089
+Chr7	Protein-DB	peptide_p	21238427	21238468	.	?	.	Parent=mRNA:LOC_Os07g35510.1:P999_31091

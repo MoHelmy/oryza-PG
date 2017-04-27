@@ -1,0 +1,8 @@
+Chr1	MSU_osa1r6_db	gene	1929994	1930904	.	-	.	ID=Gene:LOC_Os01g04330;Note=OsCML16+-+Calmodulin-related+calcium+sensor+protein%2C+expressed;Alias=13101.t00320
+Chr1	MSU_osa1r6_db	processed_transcript	1929994	1930904	.	-	.	ID=mRNA:LOC_Os01g04330.1;Note=13101.m00392;Gene=LOC_Os01g04330
+Chr1	MSU_osa1r6_db	CDS	1930276	1930821	.	-	0	Parent=mRNA:LOC_Os01g04330.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	1930822	1930904	.	-	.	Parent=mRNA:LOC_Os01g04330.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	1929994	1930275	.	-	.	Parent=mRNA:LOC_Os01g04330.1
+Chr1	Protein-DB	peptide_p	1930396	1930434	.	?	.	Parent=mRNA:LOC_Os01g04330.1:P999_262
+Chr1	Protein-DB	peptide_p	1930276	1930314	.	?	.	Parent=mRNA:LOC_Os01g04330.1:P999_264
+Chr1	Protein-DB	peptide_p	1930204	1930236	.	?	.	Parent=mRNA:LOC_Os01g04330.1:P999_268

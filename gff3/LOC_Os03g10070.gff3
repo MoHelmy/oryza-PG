@@ -1,0 +1,7 @@
+Chr3	MSU_osa1r6_db	gene	5081308	5084041	.	-	.	ID=Gene:LOC_Os03g10070;Note=transcription+initiation+factor+IIB%2C+putative%2C+expressed;Alias=13103.t00826
+Chr3	MSU_osa1r6_db	processed_transcript	5081308	5084041	.	-	.	ID=mRNA:LOC_Os03g10070.1;Note=13103.m01119;Gene=LOC_Os03g10070
+Chr3	MSU_osa1r6_db	CDS	5083282	5083923	.	-	0	Parent=mRNA:LOC_Os03g10070.1
+Chr3	MSU_osa1r6_db	CDS	5082392	5082550	.	-	0	Parent=mRNA:LOC_Os03g10070.1
+Chr3	MSU_osa1r6_db	CDS	5081519	5082310	.	-	0	Parent=mRNA:LOC_Os03g10070.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	5083924	5084041	.	-	.	Parent=mRNA:LOC_Os03g10070.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	5081308	5081518	.	-	.	Parent=mRNA:LOC_Os03g10070.1

@@ -1,0 +1,17 @@
+Chr11	MSU_osa1r6_db	gene	456107	460681	.	-	.	ID=Gene:LOC_Os11g01869;Note=double-stranded+RNA+binding+motif+containing+protein%2C+expressed;Alias=13111.t00083
+Chr11	MSU_osa1r6_db	processed_transcript	456107	460681	.	-	.	ID=mRNA:LOC_Os11g01869.1;Note=13111.m00104;Gene=LOC_Os11g01869
+Chr11	MSU_osa1r6_db	CDS	460520	460598	.	-	0	Parent=mRNA:LOC_Os11g01869.1
+Chr11	MSU_osa1r6_db	CDS	459925	460184	.	-	1	Parent=mRNA:LOC_Os11g01869.1
+Chr11	MSU_osa1r6_db	CDS	457535	457748	.	-	0	Parent=mRNA:LOC_Os11g01869.1
+Chr11	MSU_osa1r6_db	CDS	456522	457390	.	-	1	Parent=mRNA:LOC_Os11g01869.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	460599	460681	.	-	.	Parent=mRNA:LOC_Os11g01869.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	456107	456521	.	-	.	Parent=mRNA:LOC_Os11g01869.1
+Chr11	MSU_osa1r6_db	processed_transcript	456120	460681	.	-	.	ID=mRNA:LOC_Os11g01869.2;Note=13111.m00105;Gene=LOC_Os11g01869
+Chr11	MSU_osa1r6_db	CDS	459925	460037	.	-	0	Parent=mRNA:LOC_Os11g01869.2
+Chr11	MSU_osa1r6_db	CDS	457714	457748	.	-	2	Parent=mRNA:LOC_Os11g01869.2
+Chr11	MSU_osa1r6_db	CDS	457535	457627	.	-	1	Parent=mRNA:LOC_Os11g01869.2
+Chr11	MSU_osa1r6_db	CDS	456522	457390	.	-	1	Parent=mRNA:LOC_Os11g01869.2
+Chr11	MSU_osa1r6_db	five_prime_UTR	460520	460681	.	-	.	Parent=mRNA:LOC_Os11g01869.2
+Chr11	MSU_osa1r6_db	five_prime_UTR	460038	460184	.	-	.	Parent=mRNA:LOC_Os11g01869.2
+Chr11	MSU_osa1r6_db	three_prime_UTR	456120	456521	.	-	.	Parent=mRNA:LOC_Os11g01869.2
+Chr11	Protein-DB	peptide_p	460007	460042	.	?	.	Parent=mRNA:LOC_Os11g01869.1:P999_39231

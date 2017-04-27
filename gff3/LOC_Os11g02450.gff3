@@ -1,0 +1,12 @@
+Chr11	MSU_osa1r6_db	gene	733248	736190	.	+	.	ID=Gene:LOC_Os11g02450;Note=elongation+factor+P%2C+putative%2C+expressed;Alias=13111.t00140
+Chr11	MSU_osa1r6_db	processed_transcript	733248	736190	.	+	.	ID=mRNA:LOC_Os11g02450.1;Note=13111.m00173;Gene=LOC_Os11g02450
+Chr11	MSU_osa1r6_db	CDS	733300	733426	.	+	0	Parent=mRNA:LOC_Os11g02450.1
+Chr11	MSU_osa1r6_db	CDS	733534	733611	.	+	1	Parent=mRNA:LOC_Os11g02450.1
+Chr11	MSU_osa1r6_db	CDS	734399	734505	.	+	1	Parent=mRNA:LOC_Os11g02450.1
+Chr11	MSU_osa1r6_db	CDS	734935	735012	.	+	0	Parent=mRNA:LOC_Os11g02450.1
+Chr11	MSU_osa1r6_db	CDS	735408	735509	.	+	0	Parent=mRNA:LOC_Os11g02450.1
+Chr11	MSU_osa1r6_db	CDS	735684	735762	.	+	0	Parent=mRNA:LOC_Os11g02450.1
+Chr11	MSU_osa1r6_db	CDS	735861	735979	.	+	1	Parent=mRNA:LOC_Os11g02450.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	733248	733299	.	+	.	Parent=mRNA:LOC_Os11g02450.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	735980	736190	.	+	.	Parent=mRNA:LOC_Os11g02450.1
+Chr11	Protein-DB	peptide_p	735685	735717	.	?	.	Parent=mRNA:LOC_Os11g02450.1:P999_39256

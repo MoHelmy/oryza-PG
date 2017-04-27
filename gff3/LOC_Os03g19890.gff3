@@ -1,0 +1,10 @@
+Chr3	MSU_osa1r6_db	gene	11179673	11182680	.	+	.	ID=Gene:LOC_Os03g19890;Note=NADH+dehydrogenase+1+alpha+subcomplex+subunit+5%2C+putative%2C+expressed;Alias=13103.t01777
+Chr3	MSU_osa1r6_db	processed_transcript	11179673	11182680	.	+	.	ID=mRNA:LOC_Os03g19890.1;Note=13103.m02384;Gene=LOC_Os03g19890
+Chr3	MSU_osa1r6_db	CDS	11179837	11180173	.	+	0	Parent=mRNA:LOC_Os03g19890.1
+Chr3	MSU_osa1r6_db	CDS	11182205	11182389	.	+	1	Parent=mRNA:LOC_Os03g19890.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	11179673	11179836	.	+	.	Parent=mRNA:LOC_Os03g19890.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	11182390	11182680	.	+	.	Parent=mRNA:LOC_Os03g19890.1
+Chr3	Protein-DB	peptide_p	11180102	11180155	.	?	.	Parent=mRNA:LOC_Os03g19890.1:P999_15194
+Chr3	Protein-DB	peptide_p	11180054	11180086	.	?	.	Parent=mRNA:LOC_Os03g19890.1:P999_15195
+Chr3	Protein-DB	peptide_p	11179907	11179951	.	?	.	Parent=mRNA:LOC_Os03g19890.1:P999_15196
+Chr3	Protein-DB	peptide_p	11179952	11179978	.	?	.	Parent=mRNA:LOC_Os03g19890.1:P999_15200

@@ -1,0 +1,12 @@
+Chr2	MSU_osa1r6_db	gene	25127573	25130242	.	+	.	ID=Gene:LOC_Os02g41800;Note=auxin+response+factor%2C+putative%2C+expressed;Alias=13102.t03793
+Chr2	MSU_osa1r6_db	processed_transcript	25127573	25130242	.	+	.	ID=mRNA:LOC_Os02g41800.1;Note=13102.m04616;Gene=LOC_Os02g41800
+Chr2	MSU_osa1r6_db	CDS	25127728	25128789	.	+	0	Parent=mRNA:LOC_Os02g41800.1
+Chr2	MSU_osa1r6_db	CDS	25128870	25129783	.	+	0	Parent=mRNA:LOC_Os02g41800.1
+Chr2	MSU_osa1r6_db	CDS	25129933	25130002	.	+	2	Parent=mRNA:LOC_Os02g41800.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	25127573	25127727	.	+	.	Parent=mRNA:LOC_Os02g41800.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	25130003	25130242	.	+	.	Parent=mRNA:LOC_Os02g41800.1
+Chr2	MSU_osa1r6_db	processed_transcript	25127573	25130242	.	+	.	ID=mRNA:LOC_Os02g41800.2;Note=13102.m04617;Gene=LOC_Os02g41800
+Chr2	MSU_osa1r6_db	CDS	25127728	25128789	.	+	0	Parent=mRNA:LOC_Os02g41800.2
+Chr2	MSU_osa1r6_db	CDS	25128870	25129787	.	+	0	Parent=mRNA:LOC_Os02g41800.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	25127573	25127727	.	+	.	Parent=mRNA:LOC_Os02g41800.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	25129788	25130242	.	+	.	Parent=mRNA:LOC_Os02g41800.2

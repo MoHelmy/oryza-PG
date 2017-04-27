@@ -1,0 +1,13 @@
+Chr4	MSU_osa1r6_db	gene	29779844	29783038	.	+	.	ID=Gene:LOC_Os04g50204;Note=protein+transport+protein-related%2C+putative%2C+expressed;Alias=13104.t04536
+Chr4	MSU_osa1r6_db	processed_transcript	29779844	29783038	.	+	.	ID=mRNA:LOC_Os04g50204.1;Note=13104.m05141;Gene=LOC_Os04g50204
+Chr4	MSU_osa1r6_db	CDS	29780157	29780176	.	+	0	Parent=mRNA:LOC_Os04g50204.1
+Chr4	MSU_osa1r6_db	CDS	29780338	29780530	.	+	2	Parent=mRNA:LOC_Os04g50204.1
+Chr4	MSU_osa1r6_db	CDS	29780632	29782707	.	+	0	Parent=mRNA:LOC_Os04g50204.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	29779844	29780156	.	+	.	Parent=mRNA:LOC_Os04g50204.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	29782708	29783038	.	+	.	Parent=mRNA:LOC_Os04g50204.1
+Chr4	Protein-DB	peptide_p	29781671	29781706	.	?	.	Parent=mRNA:LOC_Os04g50204.1:P999_21455
+Chr4	Protein-DB	peptide_p	29781440	29781472	.	?	.	Parent=mRNA:LOC_Os04g50204.1:P999_21456
+Chr4	Protein-DB	peptide_p	29781035	29781064	.	?	.	Parent=mRNA:LOC_Os04g50204.1:P999_21458
+Chr4	Protein-DB	peptide_p	29781227	29781247	.	?	.	Parent=mRNA:LOC_Os04g50204.1:P999_21459
+Chr4	Protein-DB	peptide_p	29781191	29781226	.	?	.	Parent=mRNA:LOC_Os04g50204.1:P999_21463
+Chr4	Protein-DB	peptide_p	29781065	29781094	.	?	.	Parent=mRNA:LOC_Os04g50204.1:P999_21464

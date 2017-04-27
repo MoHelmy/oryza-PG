@@ -1,0 +1,7 @@
+Chr5	MSU_osa1r6_db	gene	4936604	4937446	.	-	.	ID=Gene:LOC_Os05g08920;Note=late+embryogenesis+abundant+protein%2C+putative%2C+expressed;Alias=13105.t00780
+Chr5	MSU_osa1r6_db	processed_transcript	4936604	4937446	.	-	.	ID=mRNA:LOC_Os05g08920.1;Note=13105.m00989;Gene=LOC_Os05g08920
+Chr5	MSU_osa1r6_db	CDS	4936940	4937362	.	-	0	Parent=mRNA:LOC_Os05g08920.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	4937363	4937446	.	-	.	Parent=mRNA:LOC_Os05g08920.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	4936604	4936939	.	-	.	Parent=mRNA:LOC_Os05g08920.1
+Chr5	Protein-DB	peptide_p	4936935	4936973	.	?	.	Parent=mRNA:LOC_Os05g08920.1:P999_23603
+Chr5	Protein-DB	peptide_p	4936905	4936934	.	?	.	Parent=mRNA:LOC_Os05g08920.1:P999_23605

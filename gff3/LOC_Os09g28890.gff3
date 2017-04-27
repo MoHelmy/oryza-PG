@@ -1,0 +1,11 @@
+Chr9	MSU_osa1r6_db	gene	17555928	17557590	.	+	.	ID=Gene:LOC_Os09g28890;Note=transposon+protein%2C+putative%2C+CACTA%2C+En%2FSpm+sub-class%2C+expressed;Alias=13109.t02574
+Chr9	MSU_osa1r6_db	processed_transcript	17555928	17557590	.	+	.	ID=mRNA:LOC_Os09g28890.1;Note=13109.m02853;Gene=LOC_Os09g28890
+Chr9	MSU_osa1r6_db	CDS	17556037	17557155	.	+	0	Parent=mRNA:LOC_Os09g28890.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	17555928	17556036	.	+	.	Parent=mRNA:LOC_Os09g28890.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	17557156	17557590	.	+	.	Parent=mRNA:LOC_Os09g28890.1
+Chr9	MSU_osa1r6_db	processed_transcript	17555973	17557590	.	+	.	ID=mRNA:LOC_Os09g28890.2;Note=13109.m02854;Gene=LOC_Os09g28890
+Chr9	MSU_osa1r6_db	CDS	17556037	17557155	.	+	0	Parent=mRNA:LOC_Os09g28890.2
+Chr9	MSU_osa1r6_db	five_prime_UTR	17555973	17556036	.	+	.	Parent=mRNA:LOC_Os09g28890.2
+Chr9	MSU_osa1r6_db	three_prime_UTR	17557156	17557170	.	+	.	Parent=mRNA:LOC_Os09g28890.2
+Chr9	MSU_osa1r6_db	three_prime_UTR	17557261	17557590	.	+	.	Parent=mRNA:LOC_Os09g28890.2
+Chr9	Protein-DB	peptide_p	17556398	17556442	.	?	.	Parent=mRNA:LOC_Os09g28890.1:P999_35697

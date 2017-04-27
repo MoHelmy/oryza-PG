@@ -1,0 +1,5 @@
+Chr3	MSU_osa1r6_db	gene	28001654	28005258	.	+	.	ID=Gene:LOC_Os03g49170;Note=zinc+finger+family+protein%2C+putative%2C+expressed;Alias=13103.t04280
+Chr3	MSU_osa1r6_db	CDS	27996490	27996959	.	-	1	Parent=mRNA:LOC_Os03g49160.1
+Chr3	MSU_osa1r6_db	CDS	27997160	27997229	.	-	0	Parent=mRNA:LOC_Os03g49160.1
+Chr3	MSU_osa1r6_db	CDS	27997306	27997386	.	-	0	Parent=mRNA:LOC_Os03g49160.1
+Chr3	MSU_osa1r6_db	processed_transcript	27996490	27997386	.	-	.	ID=mRNA:LOC_Os03g49160.1;Note=13103.m05319;Gene=LOC_Os03g49160

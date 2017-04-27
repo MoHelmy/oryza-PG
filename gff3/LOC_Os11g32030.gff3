@@ -1,0 +1,13 @@
+Chr11	MSU_osa1r6_db	gene	18407869	18410840	.	+	.	ID=Gene:LOC_Os11g32030;Note=sex+determination+protein+tasselseed-2%2C+putative%2C+expressed;Alias=13111.t02795
+Chr11	MSU_osa1r6_db	processed_transcript	18407869	18410840	.	+	.	ID=mRNA:LOC_Os11g32030.1;Note=13111.m03113;Gene=LOC_Os11g32030
+Chr11	MSU_osa1r6_db	CDS	18408035	18408069	.	+	0	Parent=mRNA:LOC_Os11g32030.1
+Chr11	MSU_osa1r6_db	CDS	18408363	18408437	.	+	2	Parent=mRNA:LOC_Os11g32030.1
+Chr11	MSU_osa1r6_db	CDS	18409789	18410593	.	+	2	Parent=mRNA:LOC_Os11g32030.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	18407869	18408034	.	+	.	Parent=mRNA:LOC_Os11g32030.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	18410594	18410840	.	+	.	Parent=mRNA:LOC_Os11g32030.1
+Chr11	Protein-DB	peptide_p	18410448	18410480	.	?	.	Parent=mRNA:LOC_Os11g32030.1:P999_40612
+Chr11	Protein-DB	peptide_p	18409803	18409841	.	?	.	Parent=mRNA:LOC_Os11g32030.1:P999_40613
+Chr11	Protein-DB	peptide_p	18410481	18410513	.	?	.	Parent=mRNA:LOC_Os11g32030.1:P999_40615
+Chr11	Protein-DB	peptide_p	18410514	18410564	.	?	.	Parent=mRNA:LOC_Os11g32030.1:P999_40616
+Chr11	Protein-DB	peptide_p	18410565	18410591	.	?	.	Parent=mRNA:LOC_Os11g32030.1:P999_40617
+Chr11	Protein-DB	peptide_p	18410265	18410288	.	?	.	Parent=mRNA:LOC_Os11g32030.1:P999_40618

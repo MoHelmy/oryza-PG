@@ -1,0 +1,9 @@
+Chr4	MSU_osa1r6_db	gene	23278212	23280588	.	+	.	ID=Gene:LOC_Os04g39420;Note=6-phosphofructokinase+2%2C+putative%2C+expressed;Alias=13104.t03495
+Chr4	MSU_osa1r6_db	processed_transcript	23278212	23280588	.	+	.	ID=mRNA:LOC_Os04g39420.1;Note=13104.m03817;Gene=LOC_Os04g39420
+Chr4	MSU_osa1r6_db	CDS	23279544	23280344	.	+	0	Parent=mRNA:LOC_Os04g39420.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	23278212	23278925	.	+	.	Parent=mRNA:LOC_Os04g39420.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	23279517	23279543	.	+	.	Parent=mRNA:LOC_Os04g39420.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	23280345	23280588	.	+	.	Parent=mRNA:LOC_Os04g39420.1
+Chr4	cDNA-DB	peptide_c	23278425	23278487	.	?	.	Parent=mRNA:LOC_Os04g39420:C999_5946
+Chr4	Protein-DB	peptide_p	23279971	23280024	.	?	.	Parent=mRNA:LOC_Os04g39420.1:P999_20786
+Chr4	Protein-DB	peptide_p	23279857	23279886	.	?	.	Parent=mRNA:LOC_Os04g39420.1:P999_20788

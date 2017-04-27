@@ -1,0 +1,16 @@
+Chr3	MSU_osa1r6_db	gene	34424531	34427186	.	+	.	ID=Gene:LOC_Os03g60590;Note=actin-depolymerizing+factor%2C+putative%2C+expressed;Alias=13103.t05307
+Chr3	MSU_osa1r6_db	processed_transcript	34424531	34427186	.	+	.	ID=mRNA:LOC_Os03g60590.2;Note=13103.m06650;Gene=LOC_Os03g60590
+Chr3	MSU_osa1r6_db	CDS	34424687	34424689	.	+	0	Parent=mRNA:LOC_Os03g60590.2
+Chr3	MSU_osa1r6_db	CDS	34426331	34426596	.	+	0	Parent=mRNA:LOC_Os03g60590.2
+Chr3	MSU_osa1r6_db	CDS	34426686	34426836	.	+	2	Parent=mRNA:LOC_Os03g60590.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	34424531	34424686	.	+	.	Parent=mRNA:LOC_Os03g60590.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	34426837	34427186	.	+	.	Parent=mRNA:LOC_Os03g60590.2
+Chr3	Protein-DB	peptide_p	34426718	34426744	.	?	.	Parent=mRNA:LOC_Os03g60590.1:P999_19224
+Chr3	Protein-DB	peptide_p	34426446	34426475	.	?	.	Parent=mRNA:LOC_Os03g60590.1:P999_19225
+Chr3	Protein-DB	peptide_p	34426374	34426400	.	?	.	Parent=mRNA:LOC_Os03g60590.1:P999_19228
+Chr3	Protein-DB	peptide_p	34426413	34426439	.	?	.	Parent=mRNA:LOC_Os03g60590.1:P999_19229
+Chr3	Protein-DB	peptide_p	34426332	34426373	.	?	.	Parent=mRNA:LOC_Os03g60590.1:P999_19232
+Chr3	Protein-DB	peptide_p	34426581	34426598	.	?	.	Parent=mRNA:LOC_Os03g60590.1:P999_19235
+Chr3	Protein-DB	peptide_p	34426476	34426526	.	?	.	Parent=mRNA:LOC_Os03g60590.1:P999_19239
+Chr3	Protein-DB	peptide_p	34426380	34426400	.	?	.	Parent=mRNA:LOC_Os03g60590.1:P999_19240
+Chr3	Protein-DB	peptide_p	34426527	34426574	.	?	.	Parent=mRNA:LOC_Os03g60590.1:P999_19242

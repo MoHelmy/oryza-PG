@@ -1,0 +1,7 @@
+Chr6	MSU_osa1r6_db	gene	24424495	24426135	.	+	.	ID=Gene:LOC_Os06g40950;Note=DNA-directed+RNA+polymerase+I+subunit+RPA1%2C+putative%2C+expressed;Alias=13106.t03767
+Chr6	MSU_osa1r6_db	processed_transcript	24424495	24426135	.	+	.	ID=mRNA:LOC_Os06g40950.1;Note=13106.m04269;Gene=LOC_Os06g40950
+Chr6	MSU_osa1r6_db	CDS	24424503	24424994	.	+	0	Parent=mRNA:LOC_Os06g40950.1
+Chr6	MSU_osa1r6_db	CDS	24425136	24425705	.	+	0	Parent=mRNA:LOC_Os06g40950.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	24424495	24424502	.	+	.	Parent=mRNA:LOC_Os06g40950.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	24425706	24426135	.	+	.	Parent=mRNA:LOC_Os06g40950.1
+Chr6	Protein-DB	peptide_p	24425497	24425535	.	?	.	Parent=mRNA:LOC_Os06g40950.1:P999_28905

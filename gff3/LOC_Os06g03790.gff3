@@ -1,0 +1,10 @@
+Chr6	MSU_osa1r6_db	gene	1511796	1515435	.	+	.	ID=Gene:LOC_Os06g03790;Note=39S+ribosomal+protein+L47%2C+mitochondrial+precursor%2C+putative%2C+expressed;Alias=13106.t00268
+Chr6	MSU_osa1r6_db	processed_transcript	1511796	1515435	.	+	.	ID=mRNA:LOC_Os06g03790.1;Note=13106.m00321;Gene=LOC_Os06g03790
+Chr6	MSU_osa1r6_db	CDS	1511956	1512127	.	+	0	Parent=mRNA:LOC_Os06g03790.1
+Chr6	MSU_osa1r6_db	CDS	1514040	1514197	.	+	1	Parent=mRNA:LOC_Os06g03790.1
+Chr6	MSU_osa1r6_db	CDS	1514990	1515097	.	+	0	Parent=mRNA:LOC_Os06g03790.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	1511796	1511955	.	+	.	Parent=mRNA:LOC_Os06g03790.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	1515098	1515435	.	+	.	Parent=mRNA:LOC_Os06g03790.1
+Chr6	Protein-DB	peptide_p	1512053	1512094	.	?	.	Parent=mRNA:LOC_Os06g03790.1:P999_27047
+Chr6	Protein-DB	peptide_p	1512056	1512094	.	?	.	Parent=mRNA:LOC_Os06g03790.1:P999_27048
+Chr6	Protein-DB	peptide_p	1515012	1515035	.	?	.	Parent=mRNA:LOC_Os06g03790.1:P999_27049

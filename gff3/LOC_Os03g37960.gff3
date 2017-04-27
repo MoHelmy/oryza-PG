@@ -1,0 +1,7 @@
+Chr3	MSU_osa1r6_db	gene	21081371	21083041	.	-	.	ID=Gene:LOC_Os03g37960;Note=acyl+CoA+binding+protein%2C+putative;Alias=13103.t03262
+Chr3	MSU_osa1r6_db	processed_transcript	21081371	21083041	.	-	.	ID=mRNA:LOC_Os03g37960.1;Note=13103.m04123;Gene=LOC_Os03g37960
+Chr3	MSU_osa1r6_db	CDS	21083030	21083041	.	-	0	Parent=mRNA:LOC_Os03g37960.1
+Chr3	MSU_osa1r6_db	CDS	21082626	21082743	.	-	0	Parent=mRNA:LOC_Os03g37960.1
+Chr3	MSU_osa1r6_db	CDS	21081757	21081819	.	-	1	Parent=mRNA:LOC_Os03g37960.1
+Chr3	MSU_osa1r6_db	CDS	21081371	21081645	.	-	1	Parent=mRNA:LOC_Os03g37960.1
+Chr3	Protein-DB	peptide_p	21081736	21081759	.	?	.	Parent=mRNA:LOC_Os03g37960.1:P999_16518

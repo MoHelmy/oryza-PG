@@ -1,0 +1,14 @@
+Chr1	MSU_osa1r6_db	gene	3841753	3844541	.	+	.	ID=Gene:LOC_Os01g07950;Note=OsGrx_S15.2+-+glutaredoxin+subgroup+II%2C+expressed;Alias=13101.t00673
+Chr1	MSU_osa1r6_db	processed_transcript	3841753	3844541	.	+	.	ID=mRNA:LOC_Os01g07950.1;Note=13101.m00820;Gene=LOC_Os01g07950
+Chr1	MSU_osa1r6_db	CDS	3842047	3842115	.	+	0	Parent=mRNA:LOC_Os01g07950.1
+Chr1	MSU_osa1r6_db	CDS	3842905	3843081	.	+	0	Parent=mRNA:LOC_Os01g07950.1
+Chr1	MSU_osa1r6_db	CDS	3843221	3843320	.	+	0	Parent=mRNA:LOC_Os01g07950.1
+Chr1	MSU_osa1r6_db	CDS	3843416	3843482	.	+	1	Parent=mRNA:LOC_Os01g07950.1
+Chr1	MSU_osa1r6_db	CDS	3843974	3844052	.	+	2	Parent=mRNA:LOC_Os01g07950.1
+Chr1	MSU_osa1r6_db	CDS	3844156	3844221	.	+	0	Parent=mRNA:LOC_Os01g07950.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	3841753	3841893	.	+	.	Parent=mRNA:LOC_Os01g07950.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	3842040	3842046	.	+	.	Parent=mRNA:LOC_Os01g07950.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	3844222	3844541	.	+	.	Parent=mRNA:LOC_Os01g07950.1
+Chr1	Protein-DB	peptide_p	3844009	3844053	.	?	.	Parent=mRNA:LOC_Os01g07950.1:P999_633
+Chr1	Protein-DB	peptide_p	3843258	3843305	.	?	.	Parent=mRNA:LOC_Os01g07950.1:P999_634
+Chr1	Protein-DB	peptide_p	3843973	3844008	.	?	.	Parent=mRNA:LOC_Os01g07950.1:P999_638

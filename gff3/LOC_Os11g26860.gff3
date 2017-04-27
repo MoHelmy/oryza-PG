@@ -1,0 +1,17 @@
+Chr11	MSU_osa1r6_db	gene	14973022	14976357	.	+	.	ID=Gene:LOC_Os11g26860;Note=serine+hydroxymethyltransferase%2C+mitochondrial+precursor%2C+putative%2C+expressed;Alias=13111.t02295
+Chr11	MSU_osa1r6_db	processed_transcript	14973022	14976357	.	+	.	ID=mRNA:LOC_Os11g26860.1;Note=13111.m02572;Gene=LOC_Os11g26860
+Chr11	MSU_osa1r6_db	CDS	14973773	14973805	.	+	0	Parent=mRNA:LOC_Os11g26860.1
+Chr11	MSU_osa1r6_db	CDS	14974856	14975246	.	+	0	Parent=mRNA:LOC_Os11g26860.1
+Chr11	MSU_osa1r6_db	CDS	14975340	14975441	.	+	1	Parent=mRNA:LOC_Os11g26860.1
+Chr11	MSU_osa1r6_db	CDS	14975709	14975953	.	+	1	Parent=mRNA:LOC_Os11g26860.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	14973022	14973772	.	+	.	Parent=mRNA:LOC_Os11g26860.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	14975954	14976357	.	+	.	Parent=mRNA:LOC_Os11g26860.1
+Chr11	cDNA-DB	peptide_c	14973610	14973657	.	?	.	Parent=mRNA:LOC_Os11g26860:C999_2213
+Chr11	cDNA-DB	peptide_c	14973331	14973378	.	?	.	Parent=mRNA:LOC_Os11g26860:C999_2214
+Chr11	cDNA-DB	peptide_c	14973403	14973498	.	?	.	Parent=mRNA:LOC_Os11g26860:C999_2216
+Chr11	cDNA-DB	peptide_c	14973610	14973645	.	?	.	Parent=mRNA:LOC_Os11g26860:C999_6315
+Chr11	Protein-DB	peptide_p	14975391	14975438	.	?	.	Parent=mRNA:LOC_Os11g26860.1:P999_40381
+Chr11	Protein-DB	peptide_p	14975358	14975390	.	?	.	Parent=mRNA:LOC_Os11g26860.1:P999_40382
+Chr11	Protein-DB	peptide_p	14975862	14975894	.	?	.	Parent=mRNA:LOC_Os11g26860.1:P999_40384
+Chr11	Protein-DB	peptide_p	14975895	14975942	.	?	.	Parent=mRNA:LOC_Os11g26860.1:P999_40387
+Chr11	Protein-DB	peptide_p	14975184	14975249	.	?	.	Parent=mRNA:LOC_Os11g26860.1:P999_40388

@@ -1,0 +1,13 @@
+Chr4	MSU_osa1r6_db	gene	28725108	28726790	.	-	.	ID=Gene:LOC_Os04g48490;Note=fasciclin-like+arabinogalactan+protein%2C+putative%2C+expressed;Alias=13104.t04360
+Chr4	MSU_osa1r6_db	processed_transcript	28725108	28726790	.	-	.	ID=mRNA:LOC_Os04g48490.1;Note=13104.m04938;Gene=LOC_Os04g48490
+Chr4	MSU_osa1r6_db	CDS	28725372	28726667	.	-	0	Parent=mRNA:LOC_Os04g48490.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	28726668	28726790	.	-	.	Parent=mRNA:LOC_Os04g48490.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	28725108	28725371	.	-	.	Parent=mRNA:LOC_Os04g48490.1
+Chr4	Protein-DB	peptide_p	28725883	28725927	.	?	.	Parent=mRNA:LOC_Os04g48490.1:P999_21416
+Chr4	Protein-DB	peptide_p	28725832	28725858	.	?	.	Parent=mRNA:LOC_Os04g48490.1:P999_21420
+Chr4	Protein-DB	peptide_p	28725634	28725666	.	?	.	Parent=mRNA:LOC_Os04g48490.1:P999_21422
+Chr4	Protein-DB	peptide_p	28726033	28726071	.	?	.	Parent=mRNA:LOC_Os04g48490.1:P999_21438
+Chr4	Protein-DB	peptide_p	28725487	28725519	.	?	.	Parent=mRNA:LOC_Os04g48490.1:P999_21440
+Chr4	Protein-DB	peptide_p	28725949	28726011	.	?	.	Parent=mRNA:LOC_Os04g48490.1:P999_21442
+Chr4	Protein-DB	peptide_p	28726096	28726131	.	?	.	Parent=mRNA:LOC_Os04g48490.1:P999_21444
+Chr4	Protein-DB	peptide_p	28726072	28726095	.	?	.	Parent=mRNA:LOC_Os04g48490.1:P999_21446

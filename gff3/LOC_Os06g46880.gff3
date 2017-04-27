@@ -1,0 +1,7 @@
+Chr6	MSU_osa1r6_db	gene	28451965	28455731	.	-	.	ID=Gene:LOC_Os06g46880;Note=surp+module+family+protein%2C+putative%2C+expressed;Alias=13106.t04354
+Chr6	MSU_osa1r6_db	processed_transcript	28451965	28455731	.	-	.	ID=mRNA:LOC_Os06g46880.1;Note=13106.m04958;Gene=LOC_Os06g46880
+Chr6	MSU_osa1r6_db	CDS	28454678	28455600	.	-	0	Parent=mRNA:LOC_Os06g46880.1
+Chr6	MSU_osa1r6_db	CDS	28453621	28453886	.	-	2	Parent=mRNA:LOC_Os06g46880.1
+Chr6	MSU_osa1r6_db	CDS	28452318	28453048	.	-	1	Parent=mRNA:LOC_Os06g46880.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	28455601	28455731	.	-	.	Parent=mRNA:LOC_Os06g46880.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	28451965	28452317	.	-	.	Parent=mRNA:LOC_Os06g46880.1

@@ -1,0 +1,12 @@
+Chr2	MSU_osa1r6_db	gene	23455595	23460059	.	+	.	ID=Gene:LOC_Os02g38810;Note=26S+proteasome+non-ATPase+regulatory+subunit+6%2C+putative%2C+expressed;Alias=13102.t03540
+Chr2	MSU_osa1r6_db	processed_transcript	23455595	23460059	.	+	.	ID=mRNA:LOC_Os02g38810.1;Note=13102.m04276;Gene=LOC_Os02g38810
+Chr2	MSU_osa1r6_db	CDS	23455668	23455924	.	+	0	Parent=mRNA:LOC_Os02g38810.1
+Chr2	MSU_osa1r6_db	CDS	23458353	23458443	.	+	2	Parent=mRNA:LOC_Os02g38810.1
+Chr2	MSU_osa1r6_db	CDS	23458528	23458673	.	+	0	Parent=mRNA:LOC_Os02g38810.1
+Chr2	MSU_osa1r6_db	CDS	23458767	23458986	.	+	2	Parent=mRNA:LOC_Os02g38810.1
+Chr2	MSU_osa1r6_db	CDS	23459052	23459160	.	+	0	Parent=mRNA:LOC_Os02g38810.1
+Chr2	MSU_osa1r6_db	CDS	23459256	23459424	.	+	1	Parent=mRNA:LOC_Os02g38810.1
+Chr2	MSU_osa1r6_db	CDS	23459539	23459713	.	+	2	Parent=mRNA:LOC_Os02g38810.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	23455595	23455667	.	+	.	Parent=mRNA:LOC_Os02g38810.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	23459714	23460059	.	+	.	Parent=mRNA:LOC_Os02g38810.1
+Chr2	Protein-DB	peptide_p	23459658	23459681	.	?	.	Parent=mRNA:LOC_Os02g38810.1:P999_9800

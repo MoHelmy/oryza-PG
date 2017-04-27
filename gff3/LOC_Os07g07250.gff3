@@ -1,0 +1,14 @@
+Chr7	MSU_osa1r6_db	gene	3594697	3598708	.	+	.	ID=Gene:LOC_Os07g07250;Note=eukaryotic+translation+initiation+factor+3+subunit+E%2C+putative%2C+expressed;Alias=13107.t00609
+Chr7	MSU_osa1r6_db	processed_transcript	3594697	3598708	.	+	.	ID=mRNA:LOC_Os07g07250.1;Note=13107.m00702;Gene=LOC_Os07g07250
+Chr7	MSU_osa1r6_db	CDS	3594829	3595119	.	+	0	Parent=mRNA:LOC_Os07g07250.1
+Chr7	MSU_osa1r6_db	CDS	3595634	3595861	.	+	0	Parent=mRNA:LOC_Os07g07250.1
+Chr7	MSU_osa1r6_db	CDS	3595965	3596086	.	+	0	Parent=mRNA:LOC_Os07g07250.1
+Chr7	MSU_osa1r6_db	CDS	3596596	3596815	.	+	2	Parent=mRNA:LOC_Os07g07250.1
+Chr7	MSU_osa1r6_db	CDS	3597283	3597425	.	+	0	Parent=mRNA:LOC_Os07g07250.1
+Chr7	MSU_osa1r6_db	CDS	3597853	3597990	.	+	2	Parent=mRNA:LOC_Os07g07250.1
+Chr7	MSU_osa1r6_db	CDS	3598124	3598229	.	+	2	Parent=mRNA:LOC_Os07g07250.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	3594697	3594828	.	+	.	Parent=mRNA:LOC_Os07g07250.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	3598230	3598708	.	+	.	Parent=mRNA:LOC_Os07g07250.1
+Chr7	Protein-DB	peptide_p	3597882	3597920	.	?	.	Parent=mRNA:LOC_Os07g07250.1:P999_30136
+Chr7	Protein-DB	peptide_p	3597377	3597403	.	?	.	Parent=mRNA:LOC_Os07g07250.1:P999_30137
+Chr7	Protein-DB	peptide_p	3596056	3596088	.	?	.	Parent=mRNA:LOC_Os07g07250.1:P999_30138

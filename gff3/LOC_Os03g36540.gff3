@@ -1,0 +1,16 @@
+Chr3	MSU_osa1r6_db	gene	20246185	20248657	.	-	.	ID=Gene:LOC_Os03g36540;Note=magnesium-chelatase+subunit+chlI%2C+chloroplast+precursor%2C+putative%2C+expressed;Alias=13103.t03141
+Chr3	MSU_osa1r6_db	processed_transcript	20246185	20248657	.	-	.	ID=mRNA:LOC_Os03g36540.1;Note=13103.m03991;Gene=LOC_Os03g36540
+Chr3	MSU_osa1r6_db	CDS	20248341	20248452	.	-	0	Parent=mRNA:LOC_Os03g36540.1
+Chr3	MSU_osa1r6_db	CDS	20248148	20248227	.	-	1	Parent=mRNA:LOC_Os03g36540.1
+Chr3	MSU_osa1r6_db	CDS	20247011	20248066	.	-	0	Parent=mRNA:LOC_Os03g36540.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	20248453	20248657	.	-	.	Parent=mRNA:LOC_Os03g36540.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	20246185	20247010	.	-	.	Parent=mRNA:LOC_Os03g36540.1
+Chr3	MSU_osa1r6_db	processed_transcript	20246185	20248657	.	-	.	ID=mRNA:LOC_Os03g36540.2;Note=13103.m12991;Gene=LOC_Os03g36540
+Chr3	MSU_osa1r6_db	CDS	20248341	20248452	.	-	0	Parent=mRNA:LOC_Os03g36540.2
+Chr3	MSU_osa1r6_db	CDS	20248148	20248227	.	-	1	Parent=mRNA:LOC_Os03g36540.2
+Chr3	MSU_osa1r6_db	CDS	20247529	20248066	.	-	0	Parent=mRNA:LOC_Os03g36540.2
+Chr3	MSU_osa1r6_db	CDS	20247399	20247421	.	-	1	Parent=mRNA:LOC_Os03g36540.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	20248453	20248657	.	-	.	Parent=mRNA:LOC_Os03g36540.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	20246185	20247398	.	-	.	Parent=mRNA:LOC_Os03g36540.2
+Chr3	Protein-DB	peptide_p	20246858	20246890	.	?	.	Parent=mRNA:LOC_Os03g36540.1:P999_16488
+Chr3	Protein-DB	peptide_p	20247341	20247403	.	?	.	Parent=mRNA:LOC_Os03g36540.1:P999_16491

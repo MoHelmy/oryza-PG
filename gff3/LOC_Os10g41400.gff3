@@ -1,0 +1,12 @@
+Chr10	MSU_osa1r6_db	gene	22183248	22185736	.	+	.	ID=Gene:LOC_Os10g41400;Note=peptide+methionine+sulfoxide+reductase%2C+putative%2C+expressed;Alias=13110.t03373
+Chr10	MSU_osa1r6_db	processed_transcript	22183248	22185736	.	+	.	ID=mRNA:LOC_Os10g41400.1;Note=13110.m03859;Gene=LOC_Os10g41400
+Chr10	MSU_osa1r6_db	CDS	22183362	22183901	.	+	0	Parent=mRNA:LOC_Os10g41400.1
+Chr10	MSU_osa1r6_db	CDS	22185078	22185329	.	+	0	Parent=mRNA:LOC_Os10g41400.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	22183248	22183361	.	+	.	Parent=mRNA:LOC_Os10g41400.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	22185330	22185736	.	+	.	Parent=mRNA:LOC_Os10g41400.1
+Chr10	MSU_osa1r6_db	processed_transcript	22183248	22184903	.	+	.	ID=mRNA:LOC_Os10g41400.2;Note=13110.m03860;Gene=LOC_Os10g41400
+Chr10	MSU_osa1r6_db	CDS	22183362	22183997	.	+	0	Parent=mRNA:LOC_Os10g41400.2
+Chr10	MSU_osa1r6_db	five_prime_UTR	22183248	22183361	.	+	.	Parent=mRNA:LOC_Os10g41400.2
+Chr10	MSU_osa1r6_db	three_prime_UTR	22183998	22184903	.	+	.	Parent=mRNA:LOC_Os10g41400.2
+Chr10	Protein-DB	peptide_p	22183843	22183875	.	?	.	Parent=mRNA:LOC_Os10g41400.1:P999_38651
+Chr10	Protein-DB	peptide_p	22185106	22185141	.	?	.	Parent=mRNA:LOC_Os10g41400.1:P999_38652

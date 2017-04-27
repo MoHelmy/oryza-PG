@@ -1,0 +1,13 @@
+Chr6	MSU_osa1r6_db	gene	9129958	9133121	.	-	.	ID=Gene:LOC_Os06g16050;Note=transposon+protein%2C+putative%2C+CACTA%2C+En%2FSpm+sub-class%2C+expressed;Alias=13106.t01476
+Chr6	MSU_osa1r6_db	processed_transcript	9129964	9133106	.	-	.	ID=mRNA:LOC_Os06g16050.1;Note=13106.m01770;Gene=LOC_Os06g16050
+Chr6	MSU_osa1r6_db	CDS	9131269	9132914	.	-	0	Parent=mRNA:LOC_Os06g16050.1
+Chr6	MSU_osa1r6_db	CDS	9131098	9131191	.	-	2	Parent=mRNA:LOC_Os06g16050.1
+Chr6	MSU_osa1r6_db	CDS	9130246	9131019	.	-	0	Parent=mRNA:LOC_Os06g16050.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	9132915	9133106	.	-	.	Parent=mRNA:LOC_Os06g16050.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	9129964	9130245	.	-	.	Parent=mRNA:LOC_Os06g16050.1
+Chr6	MSU_osa1r6_db	processed_transcript	9129958	9133121	.	-	.	ID=mRNA:LOC_Os06g16050.2;Note=13106.m01769;Gene=LOC_Os06g16050
+Chr6	MSU_osa1r6_db	CDS	9131098	9132914	.	-	0	Parent=mRNA:LOC_Os06g16050.2
+Chr6	MSU_osa1r6_db	CDS	9131007	9131019	.	-	2	Parent=mRNA:LOC_Os06g16050.2
+Chr6	MSU_osa1r6_db	five_prime_UTR	9132915	9133121	.	-	.	Parent=mRNA:LOC_Os06g16050.2
+Chr6	MSU_osa1r6_db	three_prime_UTR	9129958	9131006	.	-	.	Parent=mRNA:LOC_Os06g16050.2
+Chr6	Protein-DB	peptide_p	9130250	9130294	.	?	.	Parent=mRNA:LOC_Os06g16050.1:P999_28110

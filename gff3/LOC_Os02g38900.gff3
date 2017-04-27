@@ -1,0 +1,10 @@
+Chr2	MSU_osa1r6_db	gene	23508680	23511735	.	-	.	ID=Gene:LOC_Os02g38900;Note=cytosolic+Fe-S+cluster+assembling+factor+NBP35%2C+putative%2C+expressed;Alias=13102.t03549
+Chr2	MSU_osa1r6_db	processed_transcript	23508680	23511735	.	-	.	ID=mRNA:LOC_Os02g38900.1;Note=13102.m04287;Gene=LOC_Os02g38900
+Chr2	MSU_osa1r6_db	CDS	23511514	23511580	.	-	0	Parent=mRNA:LOC_Os02g38900.1
+Chr2	MSU_osa1r6_db	CDS	23511283	23511384	.	-	1	Parent=mRNA:LOC_Os02g38900.1
+Chr2	MSU_osa1r6_db	CDS	23509011	23509909	.	-	1	Parent=mRNA:LOC_Os02g38900.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	23511581	23511735	.	-	.	Parent=mRNA:LOC_Os02g38900.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	23508680	23509010	.	-	.	Parent=mRNA:LOC_Os02g38900.1
+Chr2	Protein-DB	peptide_p	23511034	23511081	.	?	.	Parent=mRNA:LOC_Os02g38900.1:P999_9811
+Chr2	Protein-DB	peptide_p	23509067	23509120	.	?	.	Parent=mRNA:LOC_Os02g38900.1:P999_9812
+Chr2	Protein-DB	peptide_p	23510506	23510529	.	?	.	Parent=mRNA:LOC_Os02g38900.1:P999_9814

@@ -1,0 +1,9 @@
+Chr7	MSU_osa1r6_db	gene	21822019	21824260	.	+	.	ID=Gene:LOC_Os07g36490;Note=RNA+recognition+motif+containing+protein%2C+putative%2C+expressed;Alias=13107.t03305
+Chr7	MSU_osa1r6_db	processed_transcript	21822019	21824260	.	+	.	ID=mRNA:LOC_Os07g36490.1;Note=13107.m03747;Gene=LOC_Os07g36490
+Chr7	MSU_osa1r6_db	CDS	21822155	21822275	.	+	0	Parent=mRNA:LOC_Os07g36490.1
+Chr7	MSU_osa1r6_db	CDS	21823477	21823545	.	+	1	Parent=mRNA:LOC_Os07g36490.1
+Chr7	MSU_osa1r6_db	CDS	21823633	21823739	.	+	1	Parent=mRNA:LOC_Os07g36490.1
+Chr7	MSU_osa1r6_db	CDS	21823896	21824000	.	+	0	Parent=mRNA:LOC_Os07g36490.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	21822019	21822154	.	+	.	Parent=mRNA:LOC_Os07g36490.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	21824001	21824260	.	+	.	Parent=mRNA:LOC_Os07g36490.1
+Chr7	Protein-DB	peptide_p	21823690	21823725	.	?	.	Parent=mRNA:LOC_Os07g36490.1:P999_31131

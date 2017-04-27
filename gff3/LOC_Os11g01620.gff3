@@ -1,0 +1,11 @@
+Chr11	MSU_osa1r6_db	gene	358127	361653	.	+	.	ID=Gene:LOC_Os11g01620;Note=inactive+receptor+kinase+At2g26730+precursor%2C+putative%2C+expressed;Alias=13111.t00059
+Chr11	MSU_osa1r6_db	processed_transcript	358314	361653	.	+	.	ID=mRNA:LOC_Os11g01620.1;Note=13111.m00078;Gene=LOC_Os11g01620
+Chr11	MSU_osa1r6_db	CDS	358316	360107	.	+	0	Parent=mRNA:LOC_Os11g01620.1
+Chr11	MSU_osa1r6_db	CDS	360713	361353	.	+	1	Parent=mRNA:LOC_Os11g01620.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	358314	358315	.	+	.	Parent=mRNA:LOC_Os11g01620.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	361354	361653	.	+	.	Parent=mRNA:LOC_Os11g01620.1
+Chr11	MSU_osa1r6_db	processed_transcript	358127	360255	.	+	.	ID=mRNA:LOC_Os11g01620.2;Note=13111.m00077;Gene=LOC_Os11g01620
+Chr11	MSU_osa1r6_db	CDS	358316	360151	.	+	0	Parent=mRNA:LOC_Os11g01620.2
+Chr11	MSU_osa1r6_db	five_prime_UTR	358127	358315	.	+	.	Parent=mRNA:LOC_Os11g01620.2
+Chr11	MSU_osa1r6_db	three_prime_UTR	360152	360255	.	+	.	Parent=mRNA:LOC_Os11g01620.2
+Chr11	Protein-DB	peptide_p	358650	358676	.	?	.	Parent=mRNA:LOC_Os11g01620.1:P999_39229

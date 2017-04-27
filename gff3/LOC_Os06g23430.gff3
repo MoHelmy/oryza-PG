@@ -1,0 +1,16 @@
+Chr6	MSU_osa1r6_db	gene	13676378	13680876	.	-	.	ID=Gene:LOC_Os06g23430;Note=signal+recognition+particle+19+kDa+protein%2C+putative%2C+expressed;Alias=13106.t02154
+Chr6	MSU_osa1r6_db	processed_transcript	13676378	13680850	.	-	.	ID=mRNA:LOC_Os06g23430.1;Note=13106.m02520;Gene=LOC_Os06g23430
+Chr6	MSU_osa1r6_db	CDS	13680451	13680633	.	-	0	Parent=mRNA:LOC_Os06g23430.1
+Chr6	MSU_osa1r6_db	CDS	13680231	13680330	.	-	0	Parent=mRNA:LOC_Os06g23430.1
+Chr6	MSU_osa1r6_db	CDS	13676908	13677035	.	-	1	Parent=mRNA:LOC_Os06g23430.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	13680634	13680850	.	-	.	Parent=mRNA:LOC_Os06g23430.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	13676378	13676907	.	-	.	Parent=mRNA:LOC_Os06g23430.1
+Chr6	MSU_osa1r6_db	processed_transcript	13676507	13680876	.	-	.	ID=mRNA:LOC_Os06g23430.2;Note=13106.m02521;Gene=LOC_Os06g23430
+Chr6	MSU_osa1r6_db	CDS	13680451	13680633	.	-	0	Parent=mRNA:LOC_Os06g23430.2
+Chr6	MSU_osa1r6_db	CDS	13680231	13680330	.	-	0	Parent=mRNA:LOC_Os06g23430.2
+Chr6	MSU_osa1r6_db	CDS	13676908	13677035	.	-	1	Parent=mRNA:LOC_Os06g23430.2
+Chr6	MSU_osa1r6_db	five_prime_UTR	13680812	13680876	.	-	.	Parent=mRNA:LOC_Os06g23430.2
+Chr6	MSU_osa1r6_db	five_prime_UTR	13680634	13680672	.	-	.	Parent=mRNA:LOC_Os06g23430.2
+Chr6	MSU_osa1r6_db	three_prime_UTR	13676507	13676907	.	-	.	Parent=mRNA:LOC_Os06g23430.2
+Chr6	Protein-DB	peptide_p	13676658	13676693	.	?	.	Parent=mRNA:LOC_Os06g23430.1:P999_28315
+Chr6	Protein-DB	peptide_p	13676946	13676966	.	?	.	Parent=mRNA:LOC_Os06g23430.1:P999_28317

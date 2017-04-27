@@ -1,0 +1,6 @@
+Chr1	MSU_osa1r6_db	gene	1943247	1944035	.	-	.	ID=Gene:LOC_Os01g04360;Note=hsp20%2Falpha+crystallin+family+protein%2C+putative%2C+expressed;Alias=13101.t00323
+Chr1	MSU_osa1r6_db	processed_transcript	1943247	1944035	.	-	.	ID=mRNA:LOC_Os01g04360.1;Note=13101.m00395;Gene=LOC_Os01g04360
+Chr1	MSU_osa1r6_db	CDS	1943473	1943922	.	-	0	Parent=mRNA:LOC_Os01g04360.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	1943923	1944035	.	-	.	Parent=mRNA:LOC_Os01g04360.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	1943247	1943472	.	-	.	Parent=mRNA:LOC_Os01g04360.1
+Chr1	Protein-DB	peptide_p	1943721	1943762	.	?	.	Parent=mRNA:LOC_Os01g04360.1:P999_270

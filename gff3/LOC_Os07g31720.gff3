@@ -1,0 +1,13 @@
+Chr7	MSU_osa1r6_db	gene	18839254	18841544	.	+	.	ID=Gene:LOC_Os07g31720;Note=GTPase+activating+protein%2C+putative%2C+expressed;Alias=13107.t02849
+Chr7	MSU_osa1r6_db	processed_transcript	18839254	18841544	.	+	.	ID=mRNA:LOC_Os07g31720.1;Note=13107.m03212;Gene=LOC_Os07g31720
+Chr7	MSU_osa1r6_db	CDS	18839318	18839455	.	+	0	Parent=mRNA:LOC_Os07g31720.1
+Chr7	MSU_osa1r6_db	CDS	18840634	18840729	.	+	0	Parent=mRNA:LOC_Os07g31720.1
+Chr7	MSU_osa1r6_db	CDS	18840887	18841174	.	+	0	Parent=mRNA:LOC_Os07g31720.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	18839254	18839317	.	+	.	Parent=mRNA:LOC_Os07g31720.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	18841175	18841544	.	+	.	Parent=mRNA:LOC_Os07g31720.1
+Chr7	Protein-DB	peptide_p	18841014	18841070	.	?	.	Parent=mRNA:LOC_Os07g31720.1:P999_31011
+Chr7	Protein-DB	peptide_p	18840662	18840727	.	?	.	Parent=mRNA:LOC_Os07g31720.1:P999_31012
+Chr7	Protein-DB	peptide_p	18839382	18839456	.	?	.	Parent=mRNA:LOC_Os07g31720.1:P999_31013
+Chr7	Protein-DB	peptide_p	18841080	18841103	.	?	.	Parent=mRNA:LOC_Os07g31720.1:P999_31014
+Chr7	Protein-DB	peptide_p	18841113	18841172	.	?	.	Parent=mRNA:LOC_Os07g31720.1:P999_31015
+Chr7	Protein-DB	peptide_p	18840888	18840908	.	?	.	Parent=mRNA:LOC_Os07g31720.1:P999_31016

@@ -1,0 +1,14 @@
+Chr1	MSU_osa1r6_db	gene	1420693	1427049	.	+	.	ID=Gene:LOC_Os01g03520;Note=ubiquitin+conjugating+enzyme+protein%2C+putative%2C+expressed;Alias=13101.t00244
+Chr1	MSU_osa1r6_db	processed_transcript	1420693	1427049	.	+	.	ID=mRNA:LOC_Os01g03520.1;Note=13101.m00302;Gene=LOC_Os01g03520
+Chr1	MSU_osa1r6_db	CDS	1422344	1424260	.	+	0	Parent=mRNA:LOC_Os01g03520.1
+Chr1	MSU_osa1r6_db	CDS	1424338	1424472	.	+	0	Parent=mRNA:LOC_Os01g03520.1
+Chr1	MSU_osa1r6_db	CDS	1424568	1424712	.	+	0	Parent=mRNA:LOC_Os01g03520.1
+Chr1	MSU_osa1r6_db	CDS	1424788	1424990	.	+	1	Parent=mRNA:LOC_Os01g03520.1
+Chr1	MSU_osa1r6_db	CDS	1425183	1425252	.	+	0	Parent=mRNA:LOC_Os01g03520.1
+Chr1	MSU_osa1r6_db	CDS	1425356	1425495	.	+	1	Parent=mRNA:LOC_Os01g03520.1
+Chr1	MSU_osa1r6_db	CDS	1425620	1425931	.	+	0	Parent=mRNA:LOC_Os01g03520.1
+Chr1	MSU_osa1r6_db	CDS	1426272	1426541	.	+	0	Parent=mRNA:LOC_Os01g03520.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	1420693	1420897	.	+	.	Parent=mRNA:LOC_Os01g03520.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	1422289	1422343	.	+	.	Parent=mRNA:LOC_Os01g03520.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	1426542	1427049	.	+	.	Parent=mRNA:LOC_Os01g03520.1
+Chr1	Protein-DB	peptide_p	1422942	1422998	.	?	.	Parent=mRNA:LOC_Os01g03520.1:P999_244

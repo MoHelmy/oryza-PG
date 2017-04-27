@@ -1,0 +1,15 @@
+Chr1	MSU_osa1r6_db	gene	41716973	41720531	.	-	.	ID=Gene:LOC_Os01g71990;Note=pyrroline-5-carboxylate+reductase%2C+putative%2C+expressed;Alias=13101.t06419
+Chr1	MSU_osa1r6_db	processed_transcript	41716973	41720531	.	-	.	ID=mRNA:LOC_Os01g71990.1;Note=13101.m07843;Gene=LOC_Os01g71990
+Chr1	MSU_osa1r6_db	CDS	41719787	41720011	.	-	0	Parent=mRNA:LOC_Os01g71990.1
+Chr1	MSU_osa1r6_db	CDS	41719498	41719546	.	-	0	Parent=mRNA:LOC_Os01g71990.1
+Chr1	MSU_osa1r6_db	CDS	41719092	41719183	.	-	1	Parent=mRNA:LOC_Os01g71990.1
+Chr1	MSU_osa1r6_db	CDS	41718792	41718864	.	-	0	Parent=mRNA:LOC_Os01g71990.1
+Chr1	MSU_osa1r6_db	CDS	41718288	41718408	.	-	1	Parent=mRNA:LOC_Os01g71990.1
+Chr1	MSU_osa1r6_db	CDS	41718081	41718186	.	-	2	Parent=mRNA:LOC_Os01g71990.1
+Chr1	MSU_osa1r6_db	CDS	41717818	41718006	.	-	0	Parent=mRNA:LOC_Os01g71990.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	41720373	41720531	.	-	.	Parent=mRNA:LOC_Os01g71990.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	41720012	41720097	.	-	.	Parent=mRNA:LOC_Os01g71990.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	41716973	41717817	.	-	.	Parent=mRNA:LOC_Os01g71990.1
+Chr1	Protein-DB	peptide_p	41719556	41719612	.	?	.	Parent=mRNA:LOC_Os01g71990.1:P999_5978
+Chr1	Protein-DB	peptide_p	41717599	41717640	.	?	.	Parent=mRNA:LOC_Os01g71990.1:P999_5979
+Chr1	Protein-DB	peptide_p	41717554	41717598	.	?	.	Parent=mRNA:LOC_Os01g71990.1:P999_5980

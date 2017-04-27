@@ -1,0 +1,6 @@
+Chr10	MSU_osa1r6_db	gene	20023987	20025017	.	-	.	ID=Gene:LOC_Os10g37530;Note=mitochondrial+import+inner+membrane+translocase+subunit+Tim17%2C+putative%2C+expressed;Alias=13110.t03013
+Chr10	MSU_osa1r6_db	processed_transcript	20023987	20025017	.	-	.	ID=mRNA:LOC_Os10g37530.1;Note=13110.m03406;Gene=LOC_Os10g37530
+Chr10	MSU_osa1r6_db	CDS	20024325	20024912	.	-	0	Parent=mRNA:LOC_Os10g37530.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	20024913	20025017	.	-	.	Parent=mRNA:LOC_Os10g37530.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	20023987	20024324	.	-	.	Parent=mRNA:LOC_Os10g37530.1
+Chr10	Protein-DB	peptide_p	20024510	20024569	.	?	.	Parent=mRNA:LOC_Os10g37530.1:P999_38550

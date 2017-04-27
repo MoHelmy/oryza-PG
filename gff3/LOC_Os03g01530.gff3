@@ -1,0 +1,14 @@
+Chr3	MSU_osa1r6_db	gene	338984	340794	.	+	.	ID=Gene:LOC_Os03g01530;Note=tubulin%2FFtsZ+domain+containing+protein%2C+putative%2C+expressed;Alias=13103.t00055
+Chr3	MSU_osa1r6_db	processed_transcript	338984	340794	.	+	.	ID=mRNA:LOC_Os03g01530.1;Note=13103.m00073;Gene=LOC_Os03g01530
+Chr3	MSU_osa1r6_db	CDS	339085	339478	.	+	0	Parent=mRNA:LOC_Os03g01530.1
+Chr3	MSU_osa1r6_db	CDS	339555	340504	.	+	1	Parent=mRNA:LOC_Os03g01530.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	338984	339084	.	+	.	Parent=mRNA:LOC_Os03g01530.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	340505	340794	.	+	.	Parent=mRNA:LOC_Os03g01530.1
+Chr3	Protein-DB	peptide_p	339395	339448	.	?	.	Parent=mRNA:LOC_Os03g01530.1:P999_12592
+Chr3	Protein-DB	peptide_p	339191	339223	.	?	.	Parent=mRNA:LOC_Os03g01530.1:P999_12597
+Chr3	Protein-DB	peptide_p	339143	339190	.	?	.	Parent=mRNA:LOC_Os03g01530.1:P999_12602
+Chr3	Protein-DB	peptide_p	339395	339451	.	?	.	Parent=mRNA:LOC_Os03g01530.1:P999_12603
+Chr3	Protein-DB	peptide_p	339317	339394	.	?	.	Parent=mRNA:LOC_Os03g01530.1:P999_12604
+Chr3	Protein-DB	peptide_p	339224	339259	.	?	.	Parent=mRNA:LOC_Os03g01530.1:P999_12606
+Chr3	Protein-DB	peptide_p	340134	340169	.	?	.	Parent=mRNA:LOC_Os03g01530.1:P999_12607
+Chr3	Protein-DB	peptide_p	340212	340247	.	?	.	Parent=mRNA:LOC_Os03g01530.1:P999_12609

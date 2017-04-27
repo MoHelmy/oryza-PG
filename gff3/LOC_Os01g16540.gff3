@@ -1,0 +1,15 @@
+Chr1	MSU_osa1r6_db	gene	9385170	9389611	.	+	.	ID=Gene:LOC_Os01g16540;Note=NEDD8-activating+enzyme+E1+catalytic+subunit%2C+putative%2C+expressed;Alias=13101.t01500
+Chr1	MSU_osa1r6_db	processed_transcript	9385170	9389611	.	+	.	ID=mRNA:LOC_Os01g16540.1;Note=13101.m01849;Gene=LOC_Os01g16540
+Chr1	MSU_osa1r6_db	CDS	9385261	9385374	.	+	0	Parent=mRNA:LOC_Os01g16540.1
+Chr1	MSU_osa1r6_db	CDS	9385457	9385620	.	+	0	Parent=mRNA:LOC_Os01g16540.1
+Chr1	MSU_osa1r6_db	CDS	9386251	9386453	.	+	2	Parent=mRNA:LOC_Os01g16540.1
+Chr1	MSU_osa1r6_db	CDS	9387130	9387362	.	+	1	Parent=mRNA:LOC_Os01g16540.1
+Chr1	MSU_osa1r6_db	CDS	9387446	9387508	.	+	0	Parent=mRNA:LOC_Os01g16540.1
+Chr1	MSU_osa1r6_db	CDS	9387584	9387640	.	+	0	Parent=mRNA:LOC_Os01g16540.1
+Chr1	MSU_osa1r6_db	CDS	9388120	9388241	.	+	0	Parent=mRNA:LOC_Os01g16540.1
+Chr1	MSU_osa1r6_db	CDS	9388426	9388543	.	+	2	Parent=mRNA:LOC_Os01g16540.1
+Chr1	MSU_osa1r6_db	CDS	9389005	9389286	.	+	0	Parent=mRNA:LOC_Os01g16540.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	9385170	9385260	.	+	.	Parent=mRNA:LOC_Os01g16540.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	9389287	9389611	.	+	.	Parent=mRNA:LOC_Os01g16540.1
+Chr1	Protein-DB	peptide_p	9388133	9388201	.	?	.	Parent=mRNA:LOC_Os01g16540.1:P999_1475
+Chr1	Protein-DB	peptide_p	9387283	9387315	.	?	.	Parent=mRNA:LOC_Os01g16540.1:P999_1476

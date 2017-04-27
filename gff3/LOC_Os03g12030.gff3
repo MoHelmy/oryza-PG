@@ -1,0 +1,7 @@
+Chr3	MSU_osa1r6_db	gene	6301790	6303928	.	-	.	ID=Gene:LOC_Os03g12030;Note=3-ketoacyl-CoA+synthase%2C+putative%2C+expressed;Alias=13103.t01017
+Chr3	MSU_osa1r6_db	processed_transcript	6301790	6303928	.	-	.	ID=mRNA:LOC_Os03g12030.1;Note=13103.m01366;Gene=LOC_Os03g12030
+Chr3	MSU_osa1r6_db	CDS	6302964	6303674	.	-	0	Parent=mRNA:LOC_Os03g12030.1
+Chr3	MSU_osa1r6_db	CDS	6302097	6302870	.	-	0	Parent=mRNA:LOC_Os03g12030.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	6303675	6303928	.	-	.	Parent=mRNA:LOC_Os03g12030.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	6301790	6302096	.	-	.	Parent=mRNA:LOC_Os03g12030.1
+Chr3	Protein-DB	peptide_p	6303395	6303451	.	?	.	Parent=mRNA:LOC_Os03g12030.1:P999_14018

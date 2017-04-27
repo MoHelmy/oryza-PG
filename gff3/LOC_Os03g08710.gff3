@@ -1,0 +1,11 @@
+Chr3	MSU_osa1r6_db	gene	4488671	4489554	.	+	.	ID=Gene:LOC_Os03g08710;Note=THION26+-+Plant+thionin+family+protein+precursor%2C+expressed;Alias=13103.t00745
+Chr3	MSU_osa1r6_db	processed_transcript	4488671	4489554	.	+	.	ID=mRNA:LOC_Os03g08710.1;Note=13103.m01008;Gene=LOC_Os03g08710
+Chr3	MSU_osa1r6_db	CDS	4488953	4489330	.	+	0	Parent=mRNA:LOC_Os03g08710.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	4488671	4488794	.	+	.	Parent=mRNA:LOC_Os03g08710.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	4488952	4488952	.	+	.	Parent=mRNA:LOC_Os03g08710.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	4489331	4489554	.	+	.	Parent=mRNA:LOC_Os03g08710.1
+Chr3	MSU_osa1r6_db	processed_transcript	4488697	4489554	.	+	.	ID=mRNA:LOC_Os03g08710.2;Note=13103.m12866;Gene=LOC_Os03g08710
+Chr3	MSU_osa1r6_db	CDS	4488953	4489330	.	+	0	Parent=mRNA:LOC_Os03g08710.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	4488697	4488952	.	+	.	Parent=mRNA:LOC_Os03g08710.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	4489331	4489554	.	+	.	Parent=mRNA:LOC_Os03g08710.2
+Chr3	Protein-DB	peptide_p	4489080	4489109	.	?	.	Parent=mRNA:LOC_Os03g08710.1:P999_13756

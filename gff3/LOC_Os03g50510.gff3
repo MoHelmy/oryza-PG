@@ -1,0 +1,15 @@
+Chr3	MSU_osa1r6_db	gene	28832331	28837981	.	+	.	ID=Gene:LOC_Os03g50510;Note=threonine+dehydratase+biosynthetic%2C+chloroplast+precursor%2C+putative%2C+expressed;Alias=13103.t04402
+Chr3	MSU_osa1r6_db	processed_transcript	28832331	28837981	.	+	.	ID=mRNA:LOC_Os03g50510.1;Note=13103.m05493;Gene=LOC_Os03g50510
+Chr3	MSU_osa1r6_db	CDS	28832331	28832753	.	+	0	Parent=mRNA:LOC_Os03g50510.1
+Chr3	MSU_osa1r6_db	CDS	28834282	28834461	.	+	0	Parent=mRNA:LOC_Os03g50510.1
+Chr3	MSU_osa1r6_db	CDS	28834562	28834831	.	+	0	Parent=mRNA:LOC_Os03g50510.1
+Chr3	MSU_osa1r6_db	CDS	28835210	28835416	.	+	0	Parent=mRNA:LOC_Os03g50510.1
+Chr3	MSU_osa1r6_db	CDS	28835864	28836112	.	+	0	Parent=mRNA:LOC_Os03g50510.1
+Chr3	MSU_osa1r6_db	CDS	28836192	28836265	.	+	0	Parent=mRNA:LOC_Os03g50510.1
+Chr3	MSU_osa1r6_db	CDS	28836457	28836574	.	+	2	Parent=mRNA:LOC_Os03g50510.1
+Chr3	MSU_osa1r6_db	CDS	28837080	28837214	.	+	0	Parent=mRNA:LOC_Os03g50510.1
+Chr3	MSU_osa1r6_db	CDS	28837472	28837624	.	+	0	Parent=mRNA:LOC_Os03g50510.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	28837625	28837981	.	+	.	Parent=mRNA:LOC_Os03g50510.1
+Chr3	Protein-DB	peptide_p	28836015	28836044	.	?	.	Parent=mRNA:LOC_Os03g50510.1:P999_17668
+Chr3	Protein-DB	peptide_p	28832713	28832736	.	?	.	Parent=mRNA:LOC_Os03g50510.1:P999_17669
+Chr3	Protein-DB	peptide_p	28837159	28837182	.	?	.	Parent=mRNA:LOC_Os03g50510.1:P999_17672

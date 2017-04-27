@@ -1,0 +1,13 @@
+Chr12	MSU_osa1r6_db	gene	3207473	3210801	.	-	.	ID=Gene:LOC_Os12g06620;Note=deoxyhypusine+hydroxylase%2C+putative%2C+expressed;Alias=13112.t00547
+Chr12	MSU_osa1r6_db	processed_transcript	3207473	3210801	.	-	.	ID=mRNA:LOC_Os12g06620.1;Note=13112.m00679;Gene=LOC_Os12g06620
+Chr12	MSU_osa1r6_db	CDS	3209612	3209783	.	-	0	Parent=mRNA:LOC_Os12g06620.1
+Chr12	MSU_osa1r6_db	CDS	3209342	3209475	.	-	1	Parent=mRNA:LOC_Os12g06620.1
+Chr12	MSU_osa1r6_db	CDS	3208954	3209180	.	-	0	Parent=mRNA:LOC_Os12g06620.1
+Chr12	MSU_osa1r6_db	CDS	3208729	3208867	.	-	2	Parent=mRNA:LOC_Os12g06620.1
+Chr12	MSU_osa1r6_db	CDS	3208256	3208382	.	-	0	Parent=mRNA:LOC_Os12g06620.1
+Chr12	MSU_osa1r6_db	CDS	3208050	3208168	.	-	1	Parent=mRNA:LOC_Os12g06620.1
+Chr12	MSU_osa1r6_db	CDS	3207930	3207971	.	-	0	Parent=mRNA:LOC_Os12g06620.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	3210617	3210801	.	-	.	Parent=mRNA:LOC_Os12g06620.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	3209784	3209816	.	-	.	Parent=mRNA:LOC_Os12g06620.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	3207473	3207929	.	-	.	Parent=mRNA:LOC_Os12g06620.1
+Chr12	Protein-DB	peptide_p	3209448	3209471	.	?	.	Parent=mRNA:LOC_Os12g06620.1:P999_41286

@@ -1,0 +1,16 @@
+Chr6	MSU_osa1r6_db	gene	23240297	23242269	.	-	.	ID=Gene:LOC_Os06g39140;Note=hemoglobin-like+protein+HbO%2C+putative%2C+expressed;Alias=13106.t03585
+Chr6	MSU_osa1r6_db	processed_transcript	23240297	23242269	.	-	.	ID=mRNA:LOC_Os06g39140.1;Note=13106.m04056;Gene=LOC_Os06g39140
+Chr6	MSU_osa1r6_db	CDS	23242015	23242157	.	-	0	Parent=mRNA:LOC_Os06g39140.1
+Chr6	MSU_osa1r6_db	CDS	23241794	23241924	.	-	2	Parent=mRNA:LOC_Os06g39140.1
+Chr6	MSU_osa1r6_db	CDS	23240759	23240903	.	-	1	Parent=mRNA:LOC_Os06g39140.1
+Chr6	MSU_osa1r6_db	CDS	23240585	23240684	.	-	2	Parent=mRNA:LOC_Os06g39140.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	23242158	23242269	.	-	.	Parent=mRNA:LOC_Os06g39140.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	23240297	23240584	.	-	.	Parent=mRNA:LOC_Os06g39140.1
+Chr6	MSU_osa1r6_db	processed_transcript	23240325	23242269	.	-	.	ID=mRNA:LOC_Os06g39140.2;Note=13106.m10485;Gene=LOC_Os06g39140
+Chr6	MSU_osa1r6_db	CDS	23242015	23242157	.	-	0	Parent=mRNA:LOC_Os06g39140.2
+Chr6	MSU_osa1r6_db	CDS	23241794	23241924	.	-	2	Parent=mRNA:LOC_Os06g39140.2
+Chr6	MSU_osa1r6_db	CDS	23240704	23240903	.	-	1	Parent=mRNA:LOC_Os06g39140.2
+Chr6	MSU_osa1r6_db	five_prime_UTR	23242158	23242269	.	-	.	Parent=mRNA:LOC_Os06g39140.2
+Chr6	MSU_osa1r6_db	three_prime_UTR	23240325	23240703	.	-	.	Parent=mRNA:LOC_Os06g39140.2
+Chr6	Protein-DB	peptide_p	23240644	23240673	.	?	.	Parent=mRNA:LOC_Os06g39140.1:P999_28795
+Chr6	Protein-DB	peptide_p	23240713	23240739	.	?	.	Parent=mRNA:LOC_Os06g39140.1:P999_28797

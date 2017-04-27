@@ -1,0 +1,7 @@
+Chr5	MSU_osa1r6_db	gene	10883292	10886698	.	-	.	ID=Gene:LOC_Os05g18770;Note=Sad1+%2F+UNC-like+C-terminal+domain+containing+protein%2C+putative%2C+expressed;Alias=13105.t01665
+Chr5	MSU_osa1r6_db	processed_transcript	10883292	10886698	.	-	.	ID=mRNA:LOC_Os05g18770.1;Note=13105.m01981;Gene=LOC_Os05g18770
+Chr5	MSU_osa1r6_db	CDS	10884980	10886056	.	-	0	Parent=mRNA:LOC_Os05g18770.1
+Chr5	MSU_osa1r6_db	CDS	10883745	10884029	.	-	0	Parent=mRNA:LOC_Os05g18770.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	10886469	10886698	.	-	.	Parent=mRNA:LOC_Os05g18770.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	10886057	10886118	.	-	.	Parent=mRNA:LOC_Os05g18770.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	10883292	10883744	.	-	.	Parent=mRNA:LOC_Os05g18770.1

@@ -1,0 +1,7 @@
+Chr7	MSU_osa1r6_db	gene	4067003	4069238	.	-	.	ID=Gene:LOC_Os07g08030;Note=ribose-5-phosphate+isomerase+A%2C+putative%2C+expressed;Alias=13107.t00685
+Chr7	MSU_osa1r6_db	processed_transcript	4067003	4069238	.	-	.	ID=mRNA:LOC_Os07g08030.1;Note=13107.m00792;Gene=LOC_Os07g08030
+Chr7	MSU_osa1r6_db	CDS	4068632	4069036	.	-	0	Parent=mRNA:LOC_Os07g08030.1
+Chr7	MSU_osa1r6_db	CDS	4067140	4067577	.	-	0	Parent=mRNA:LOC_Os07g08030.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	4069037	4069238	.	-	.	Parent=mRNA:LOC_Os07g08030.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	4067003	4067139	.	-	.	Parent=mRNA:LOC_Os07g08030.1
+Chr7	Protein-DB	peptide_p	4068854	4068892	.	?	.	Parent=mRNA:LOC_Os07g08030.1:P999_30176

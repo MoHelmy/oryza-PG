@@ -1,0 +1,11 @@
+Chr6	MSU_osa1r6_db	gene	921217	924283	.	+	.	ID=Gene:LOC_Os06g02600;Note=DAG+protein%2C+chloroplast+precursor%2C+putative%2C+expressed;Alias=13106.t00149
+Chr6	MSU_osa1r6_db	processed_transcript	921217	924283	.	+	.	ID=mRNA:LOC_Os06g02600.1;Note=13106.m00192;Gene=LOC_Os06g02600
+Chr6	MSU_osa1r6_db	CDS	921262	921638	.	+	0	Parent=mRNA:LOC_Os06g02600.1
+Chr6	MSU_osa1r6_db	CDS	921760	921857	.	+	2	Parent=mRNA:LOC_Os06g02600.1
+Chr6	MSU_osa1r6_db	CDS	921967	922032	.	+	1	Parent=mRNA:LOC_Os06g02600.1
+Chr6	MSU_osa1r6_db	CDS	923815	923957	.	+	1	Parent=mRNA:LOC_Os06g02600.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	921217	921261	.	+	.	Parent=mRNA:LOC_Os06g02600.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	923958	924283	.	+	.	Parent=mRNA:LOC_Os06g02600.1
+Chr6	Protein-DB	peptide_p	921497	921589	.	?	.	Parent=mRNA:LOC_Os06g02600.1:P999_27026
+Chr6	Protein-DB	peptide_p	921431	921463	.	?	.	Parent=mRNA:LOC_Os06g02600.1:P999_27027
+Chr6	Protein-DB	peptide_p	921961	922023	.	?	.	Parent=mRNA:LOC_Os06g02600.1:P999_27034

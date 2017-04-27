@@ -1,0 +1,10 @@
+Chr4	MSU_osa1r6_db	gene	18761835	18766210	.	+	.	ID=Gene:LOC_Os04g31620;Note=retrotransposon+protein%2C+putative%2C+unclassified%2C+expressed;Alias=13104.t02824
+Chr4	MSU_osa1r6_db	processed_transcript	18761835	18766210	.	+	.	ID=mRNA:LOC_Os04g31620.1;Note=13104.m03021;Gene=LOC_Os04g31620
+Chr4	MSU_osa1r6_db	CDS	18762985	18764238	.	+	0	Parent=mRNA:LOC_Os04g31620.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	18761835	18762984	.	+	.	Parent=mRNA:LOC_Os04g31620.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	18764239	18764284	.	+	.	Parent=mRNA:LOC_Os04g31620.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	18765139	18766210	.	+	.	Parent=mRNA:LOC_Os04g31620.1
+Chr4	cDNA-DB	peptide_c	665	709	.	?	.	Parent=mRNA:LOC_Os04g31620:C6677
+Chr4	cDNA-DB	peptide_c	563	589	.	?	.	Parent=mRNA:LOC_Os04g31620:C6678
+Chr4	cDNA-DB	peptide_c	308	358	.	?	.	Parent=mRNA:LOC_Os04g31620:C7253
+Chr4	cDNA-DB	peptide_c	18762260	18762349	.	?	.	Parent=mRNA:LOC_Os04g31620.1:PC38

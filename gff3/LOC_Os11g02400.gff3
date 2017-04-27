@@ -1,0 +1,13 @@
+Chr11	MSU_osa1r6_db	gene	714403	715545	.	+	.	ID=Gene:LOC_Os11g02400;Note=LTPL8+-+Protease+inhibitor%2Fseed+storage%2FLTP+family+protein+precursor%2C+expressed;Alias=13111.t00136
+Chr11	MSU_osa1r6_db	processed_transcript	714403	715545	.	+	.	ID=mRNA:LOC_Os11g02400.1;Note=13111.m00166;Gene=LOC_Os11g02400
+Chr11	MSU_osa1r6_db	CDS	714535	714881	.	+	0	Parent=mRNA:LOC_Os11g02400.1
+Chr11	MSU_osa1r6_db	CDS	714988	714997	.	+	2	Parent=mRNA:LOC_Os11g02400.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	714403	714534	.	+	.	Parent=mRNA:LOC_Os11g02400.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	714998	715545	.	+	.	Parent=mRNA:LOC_Os11g02400.1
+Chr11	MSU_osa1r6_db	processed_transcript	714411	715545	.	+	.	ID=mRNA:LOC_Os11g02400.2;Note=13111.m00167;Gene=LOC_Os11g02400
+Chr11	MSU_osa1r6_db	CDS	714535	714885	.	+	0	Parent=mRNA:LOC_Os11g02400.2
+Chr11	MSU_osa1r6_db	five_prime_UTR	714411	714534	.	+	.	Parent=mRNA:LOC_Os11g02400.2
+Chr11	MSU_osa1r6_db	three_prime_UTR	714886	715545	.	+	.	Parent=mRNA:LOC_Os11g02400.2
+Chr11	Protein-DB	peptide_p	714833	714883	.	?	.	Parent=mRNA:LOC_Os11g02400.1:P999_39247
+Chr11	Protein-DB	peptide_p	714794	714832	.	?	.	Parent=mRNA:LOC_Os11g02400.1:P999_39250
+Chr11	Protein-DB	peptide_p	714677	714712	.	?	.	Parent=mRNA:LOC_Os11g02400.1:P999_39251

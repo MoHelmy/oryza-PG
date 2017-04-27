@@ -1,0 +1,13 @@
+Chr3	MSU_osa1r6_db	gene	905154	908931	.	+	.	ID=Gene:LOC_Os03g02480;Note=inner+membrane+protein%2C+putative%2C+expressed;Alias=13103.t00147
+Chr3	MSU_osa1r6_db	processed_transcript	905154	908931	.	+	.	ID=mRNA:LOC_Os03g02480.1;Note=13103.m00210;Gene=LOC_Os03g02480
+Chr3	MSU_osa1r6_db	CDS	905154	905623	.	+	0	Parent=mRNA:LOC_Os03g02480.1
+Chr3	MSU_osa1r6_db	CDS	905722	905800	.	+	2	Parent=mRNA:LOC_Os03g02480.1
+Chr3	MSU_osa1r6_db	CDS	906183	906227	.	+	0	Parent=mRNA:LOC_Os03g02480.1
+Chr3	MSU_osa1r6_db	CDS	906491	906556	.	+	0	Parent=mRNA:LOC_Os03g02480.1
+Chr3	MSU_osa1r6_db	CDS	907015	907073	.	+	0	Parent=mRNA:LOC_Os03g02480.1
+Chr3	MSU_osa1r6_db	CDS	907279	907354	.	+	2	Parent=mRNA:LOC_Os03g02480.1
+Chr3	MSU_osa1r6_db	CDS	907478	907609	.	+	0	Parent=mRNA:LOC_Os03g02480.1
+Chr3	MSU_osa1r6_db	CDS	907699	907806	.	+	0	Parent=mRNA:LOC_Os03g02480.1
+Chr3	MSU_osa1r6_db	CDS	908332	908386	.	+	0	Parent=mRNA:LOC_Os03g02480.1
+Chr3	MSU_osa1r6_db	CDS	908475	908695	.	+	1	Parent=mRNA:LOC_Os03g02480.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	908696	908931	.	+	.	Parent=mRNA:LOC_Os03g02480.1

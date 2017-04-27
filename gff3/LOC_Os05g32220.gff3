@@ -1,0 +1,12 @@
+Chr5	MSU_osa1r6_db	gene	18727119	18731257	.	+	.	ID=Gene:LOC_Os05g32220;Note=L1P+family+of+ribosomal+proteins+domain+containing+protein%2C+expressed;Alias=13105.t02844
+Chr5	MSU_osa1r6_db	processed_transcript	18727119	18731257	.	+	.	ID=mRNA:LOC_Os05g32220.1;Note=13105.m03314;Gene=LOC_Os05g32220
+Chr5	MSU_osa1r6_db	CDS	18727188	18727556	.	+	0	Parent=mRNA:LOC_Os05g32220.1
+Chr5	MSU_osa1r6_db	CDS	18727663	18727842	.	+	0	Parent=mRNA:LOC_Os05g32220.1
+Chr5	MSU_osa1r6_db	CDS	18727953	18728007	.	+	0	Parent=mRNA:LOC_Os05g32220.1
+Chr5	MSU_osa1r6_db	CDS	18728274	18728401	.	+	1	Parent=mRNA:LOC_Os05g32220.1
+Chr5	MSU_osa1r6_db	CDS	18728863	18728946	.	+	0	Parent=mRNA:LOC_Os05g32220.1
+Chr5	MSU_osa1r6_db	CDS	18730471	18730596	.	+	0	Parent=mRNA:LOC_Os05g32220.1
+Chr5	MSU_osa1r6_db	CDS	18730678	18730815	.	+	0	Parent=mRNA:LOC_Os05g32220.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	18727119	18727187	.	+	.	Parent=mRNA:LOC_Os05g32220.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	18730816	18731257	.	+	.	Parent=mRNA:LOC_Os05g32220.1
+Chr5	Protein-DB	peptide_p	18727990	18728010	.	?	.	Parent=mRNA:LOC_Os05g32220.1:P999_24577

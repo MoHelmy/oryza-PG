@@ -1,0 +1,6 @@
+Chr8	MSU_osa1r6_db	gene	24902585	24906253	.	+	.	ID=Gene:LOC_Os08g39390;Note=ZOS8-10+-+C2H2+zinc+finger+protein%2C+expressed;Alias=13108.t03682
+Chr8	MSU_osa1r6_db	processed_transcript	24902585	24906253	.	+	.	ID=mRNA:LOC_Os08g39390.1;Note=13108.m04201;Gene=LOC_Os08g39390
+Chr8	MSU_osa1r6_db	CDS	24902818	24903669	.	+	0	Parent=mRNA:LOC_Os08g39390.1
+Chr8	MSU_osa1r6_db	CDS	24905392	24905856	.	+	0	Parent=mRNA:LOC_Os08g39390.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	24902585	24902817	.	+	.	Parent=mRNA:LOC_Os08g39390.1
+Chr8	MSU_osa1r6_db	three_prime_UTR	24905857	24906253	.	+	.	Parent=mRNA:LOC_Os08g39390.1

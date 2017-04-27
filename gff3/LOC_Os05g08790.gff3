@@ -1,0 +1,9 @@
+Chr5	MSU_osa1r6_db	gene	4831822	4835626	.	-	.	ID=Gene:LOC_Os05g08790;Note=MAR-binding+filament-like+protein+1%2C+putative%2C+expressed;Alias=13105.t00766
+Chr5	MSU_osa1r6_db	processed_transcript	4831822	4835626	.	-	.	ID=mRNA:LOC_Os05g08790.1;Note=13105.m00974;Gene=LOC_Os05g08790
+Chr5	MSU_osa1r6_db	CDS	4835259	4835514	.	-	0	Parent=mRNA:LOC_Os05g08790.1
+Chr5	MSU_osa1r6_db	CDS	4834519	4834724	.	-	1	Parent=mRNA:LOC_Os05g08790.1
+Chr5	MSU_osa1r6_db	CDS	4832016	4833785	.	-	0	Parent=mRNA:LOC_Os05g08790.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	4835515	4835626	.	-	.	Parent=mRNA:LOC_Os05g08790.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	4831822	4832015	.	-	.	Parent=mRNA:LOC_Os05g08790.1
+Chr5	Protein-DB	peptide_p	4834354	4834383	.	?	.	Parent=mRNA:LOC_Os05g08790.1:P999_23566
+Chr5	Protein-DB	peptide_p	4833994	4834026	.	?	.	Parent=mRNA:LOC_Os05g08790.1:P999_23567

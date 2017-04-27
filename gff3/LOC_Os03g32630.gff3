@@ -1,0 +1,12 @@
+Chr3	MSU_osa1r6_db	gene	18685654	18688148	.	-	.	ID=Gene:LOC_Os03g32630;Note=ABC+transporter%2C+ATP-binding+protein%2C+putative%2C+expressed;Alias=13103.t02876
+Chr3	MSU_osa1r6_db	processed_transcript	18685654	18688148	.	-	.	ID=mRNA:LOC_Os03g32630.1;Note=13103.m03713;Gene=LOC_Os03g32630
+Chr3	MSU_osa1r6_db	CDS	18685929	18688061	.	-	0	Parent=mRNA:LOC_Os03g32630.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	18688062	18688148	.	-	.	Parent=mRNA:LOC_Os03g32630.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	18685654	18685928	.	-	.	Parent=mRNA:LOC_Os03g32630.1
+Chr3	Protein-DB	peptide_p	18685793	18685849	.	?	.	Parent=mRNA:LOC_Os03g32630.1:P999_16465
+Chr3	Protein-DB	peptide_p	18687806	18687859	.	?	.	Parent=mRNA:LOC_Os03g32630.1:P999_16468
+Chr3	Protein-DB	peptide_p	18686945	18686965	.	?	.	Parent=mRNA:LOC_Os03g32630.1:P999_16470
+Chr3	Protein-DB	peptide_p	18687311	18687355	.	?	.	Parent=mRNA:LOC_Os03g32630.1:P999_16473
+Chr3	Protein-DB	peptide_p	18686687	18686749	.	?	.	Parent=mRNA:LOC_Os03g32630.1:P999_16474
+Chr3	Protein-DB	peptide_p	18687518	18687559	.	?	.	Parent=mRNA:LOC_Os03g32630.1:P999_16475
+Chr3	Protein-DB	peptide_p	18685997	18686035	.	?	.	Parent=mRNA:LOC_Os03g32630.1:P999_16479

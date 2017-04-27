@@ -1,0 +1,7 @@
+Chr2	MSU_osa1r6_db	gene	20679728	20681957	.	-	.	ID=Gene:LOC_Os02g34510;Note=vacuolar+ATP+synthase%2C+putative%2C+expressed;Alias=13102.t03107
+Chr2	MSU_osa1r6_db	processed_transcript	20679728	20681957	.	-	.	ID=mRNA:LOC_Os02g34510.1;Note=13102.m03738;Gene=LOC_Os02g34510
+Chr2	MSU_osa1r6_db	CDS	20681423	20681793	.	-	0	Parent=mRNA:LOC_Os02g34510.1
+Chr2	MSU_osa1r6_db	CDS	20680045	20680177	.	-	2	Parent=mRNA:LOC_Os02g34510.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	20681794	20681957	.	-	.	Parent=mRNA:LOC_Os02g34510.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	20679728	20680044	.	-	.	Parent=mRNA:LOC_Os02g34510.1
+Chr2	Protein-DB	peptide_p	20680007	20680060	.	?	.	Parent=mRNA:LOC_Os02g34510.1:P999_9522

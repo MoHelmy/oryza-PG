@@ -1,0 +1,10 @@
+Chr2	MSU_osa1r6_db	gene	27152479	27156897	.	-	.	ID=Gene:LOC_Os02g44860;Note=GDSL-like+lipase%2Facylhydrolase%2C+putative%2C+expressed;Alias=13102.t04109
+Chr2	MSU_osa1r6_db	processed_transcript	27152479	27156897	.	-	.	ID=mRNA:LOC_Os02g44860.1;Note=13102.m05026;Gene=LOC_Os02g44860
+Chr2	MSU_osa1r6_db	CDS	27156567	27156810	.	-	0	Parent=mRNA:LOC_Os02g44860.1
+Chr2	MSU_osa1r6_db	CDS	27153776	27153906	.	-	1	Parent=mRNA:LOC_Os02g44860.1
+Chr2	MSU_osa1r6_db	CDS	27153456	27153692	.	-	0	Parent=mRNA:LOC_Os02g44860.1
+Chr2	MSU_osa1r6_db	CDS	27153114	27153363	.	-	0	Parent=mRNA:LOC_Os02g44860.1
+Chr2	MSU_osa1r6_db	CDS	27152805	27153031	.	-	1	Parent=mRNA:LOC_Os02g44860.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	27156811	27156897	.	-	.	Parent=mRNA:LOC_Os02g44860.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	27152479	27152804	.	-	.	Parent=mRNA:LOC_Os02g44860.1
+Chr2	Protein-DB	peptide_p	27156089	27156139	.	?	.	Parent=mRNA:LOC_Os02g44860.1:P999_10599

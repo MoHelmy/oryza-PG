@@ -1,0 +1,10 @@
+Chr4	MSU_osa1r6_db	gene	31289272	31292331	.	+	.	ID=Gene:LOC_Os04g52850;Note=OTU-like+cysteine+protease+family+protein%2C+putative%2C+expressed;Alias=13104.t04762
+Chr4	MSU_osa1r6_db	processed_transcript	31289272	31292331	.	+	.	ID=mRNA:LOC_Os04g52850.1;Note=13104.m05430;Gene=LOC_Os04g52850
+Chr4	MSU_osa1r6_db	CDS	31289322	31289434	.	+	0	Parent=mRNA:LOC_Os04g52850.1
+Chr4	MSU_osa1r6_db	CDS	31291047	31291905	.	+	2	Parent=mRNA:LOC_Os04g52850.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	31289272	31289321	.	+	.	Parent=mRNA:LOC_Os04g52850.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	31291906	31292331	.	+	.	Parent=mRNA:LOC_Os04g52850.1
+Chr4	Protein-DB	peptide_p	31291373	31291408	.	?	.	Parent=mRNA:LOC_Os04g52850.1:P999_21722
+Chr4	Protein-DB	peptide_p	31291532	31291564	.	?	.	Parent=mRNA:LOC_Os04g52850.1:P999_21723
+Chr4	Protein-DB	peptide_p	31291589	31291633	.	?	.	Parent=mRNA:LOC_Os04g52850.1:P999_21725
+Chr4	Protein-DB	peptide_p	31291187	31291219	.	?	.	Parent=mRNA:LOC_Os04g52850.1:P999_21726

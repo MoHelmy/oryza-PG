@@ -1,0 +1,10 @@
+Chr9	MSU_osa1r6_db	gene	15943514	15946916	.	-	.	ID=Gene:LOC_Os09g26400;Note=zinc+finger%2C+C3HC4+type+domain+containing+protein%2C+expressed;Alias=13109.t02325
+Chr9	MSU_osa1r6_db	processed_transcript	15943514	15946916	.	-	.	ID=mRNA:LOC_Os09g26400.1;Note=13109.m02539;Gene=LOC_Os09g26400
+Chr9	MSU_osa1r6_db	CDS	15946540	15946686	.	-	0	Parent=mRNA:LOC_Os09g26400.1
+Chr9	MSU_osa1r6_db	CDS	15945268	15945481	.	-	0	Parent=mRNA:LOC_Os09g26400.1
+Chr9	MSU_osa1r6_db	CDS	15944762	15945006	.	-	1	Parent=mRNA:LOC_Os09g26400.1
+Chr9	MSU_osa1r6_db	CDS	15943995	15944201	.	-	0	Parent=mRNA:LOC_Os09g26400.1
+Chr9	MSU_osa1r6_db	CDS	15943735	15943884	.	-	0	Parent=mRNA:LOC_Os09g26400.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	15946687	15946916	.	-	.	Parent=mRNA:LOC_Os09g26400.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	15943514	15943734	.	-	.	Parent=mRNA:LOC_Os09g26400.1
+Chr9	Protein-DB	peptide_p	15945019	15945051	.	?	.	Parent=mRNA:LOC_Os09g26400.1:P999_35565

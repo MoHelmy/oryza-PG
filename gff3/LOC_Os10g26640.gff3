@@ -1,0 +1,4 @@
+Chr10	MSU_osa1r6_db	gene	13834056	13834328	.	-	.	ID=Gene:LOC_Os10g26640;Note=LYR+motif+containing+protein%2C+putative;Alias=13110.t02067
+Chr10	MSU_osa1r6_db	processed_transcript	13834056	13834328	.	-	.	ID=mRNA:LOC_Os10g26640.1;Note=13110.m02271;Gene=LOC_Os10g26640
+Chr10	MSU_osa1r6_db	CDS	13834056	13834328	.	-	0	Parent=mRNA:LOC_Os10g26640.1
+Chr10	Protein-DB	peptide_p	13834078	13834101	.	?	.	Parent=mRNA:LOC_Os10g26640.1:P999_37585

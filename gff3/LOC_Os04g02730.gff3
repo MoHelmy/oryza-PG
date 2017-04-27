@@ -1,0 +1,17 @@
+Chr4	MSU_osa1r6_db	gene	1042454	1049555	.	+	.	ID=Gene:LOC_Os04g02730;Note=tRNA-dihydrouridine+synthase+3-like%2C+putative%2C+expressed;Alias=13104.t00164
+Chr4	MSU_osa1r6_db	processed_transcript	1042454	1049555	.	+	.	ID=mRNA:LOC_Os04g02730.1;Note=13104.m00192;Gene=LOC_Os04g02730
+Chr4	MSU_osa1r6_db	CDS	1042511	1042762	.	+	0	Parent=mRNA:LOC_Os04g02730.1
+Chr4	MSU_osa1r6_db	CDS	1043416	1043532	.	+	0	Parent=mRNA:LOC_Os04g02730.1
+Chr4	MSU_osa1r6_db	CDS	1043606	1043836	.	+	0	Parent=mRNA:LOC_Os04g02730.1
+Chr4	MSU_osa1r6_db	CDS	1046654	1046909	.	+	0	Parent=mRNA:LOC_Os04g02730.1
+Chr4	MSU_osa1r6_db	CDS	1047005	1047261	.	+	1	Parent=mRNA:LOC_Os04g02730.1
+Chr4	MSU_osa1r6_db	CDS	1047432	1047704	.	+	0	Parent=mRNA:LOC_Os04g02730.1
+Chr4	MSU_osa1r6_db	CDS	1048071	1048352	.	+	0	Parent=mRNA:LOC_Os04g02730.1
+Chr4	MSU_osa1r6_db	CDS	1048499	1048619	.	+	0	Parent=mRNA:LOC_Os04g02730.1
+Chr4	MSU_osa1r6_db	CDS	1048805	1048974	.	+	1	Parent=mRNA:LOC_Os04g02730.1
+Chr4	MSU_osa1r6_db	CDS	1049067	1049165	.	+	0	Parent=mRNA:LOC_Os04g02730.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	1042454	1042510	.	+	.	Parent=mRNA:LOC_Os04g02730.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	1049166	1049555	.	+	.	Parent=mRNA:LOC_Os04g02730.1
+Chr4	Protein-DB	peptide_p	1047655	1047705	.	?	.	Parent=mRNA:LOC_Os04g02730.1:P999_19824
+Chr4	Protein-DB	peptide_p	1047149	1047193	.	?	.	Parent=mRNA:LOC_Os04g02730.1:P999_19829
+Chr4	Protein-DB	peptide_p	1048105	1048167	.	?	.	Parent=mRNA:LOC_Os04g02730.1:P999_19830

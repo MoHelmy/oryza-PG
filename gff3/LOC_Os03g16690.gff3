@@ -1,0 +1,17 @@
+Chr3	MSU_osa1r6_db	gene	9217702	9223119	.	+	.	ID=Gene:LOC_Os03g16690;Note=oxysterol-binding+protein%2C+putative%2C+expressed;Alias=13103.t01467
+Chr3	MSU_osa1r6_db	processed_transcript	9217702	9223119	.	+	.	ID=mRNA:LOC_Os03g16690.1;Note=13103.m01983;Gene=LOC_Os03g16690
+Chr3	MSU_osa1r6_db	CDS	9218045	9218160	.	+	0	Parent=mRNA:LOC_Os03g16690.1
+Chr3	MSU_osa1r6_db	CDS	9218941	9219034	.	+	2	Parent=mRNA:LOC_Os03g16690.1
+Chr3	MSU_osa1r6_db	CDS	9220431	9220547	.	+	0	Parent=mRNA:LOC_Os03g16690.1
+Chr3	MSU_osa1r6_db	CDS	9221017	9221089	.	+	0	Parent=mRNA:LOC_Os03g16690.1
+Chr3	MSU_osa1r6_db	CDS	9221165	9221283	.	+	1	Parent=mRNA:LOC_Os03g16690.1
+Chr3	MSU_osa1r6_db	CDS	9221399	9221520	.	+	0	Parent=mRNA:LOC_Os03g16690.1
+Chr3	MSU_osa1r6_db	CDS	9221607	9221783	.	+	2	Parent=mRNA:LOC_Os03g16690.1
+Chr3	MSU_osa1r6_db	CDS	9222019	9222163	.	+	2	Parent=mRNA:LOC_Os03g16690.1
+Chr3	MSU_osa1r6_db	CDS	9222288	9222466	.	+	0	Parent=mRNA:LOC_Os03g16690.1
+Chr3	MSU_osa1r6_db	CDS	9222572	9222821	.	+	2	Parent=mRNA:LOC_Os03g16690.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	9217702	9218044	.	+	.	Parent=mRNA:LOC_Os03g16690.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	9222822	9223119	.	+	.	Parent=mRNA:LOC_Os03g16690.1
+Chr3	Protein-DB	peptide_p	9221693	9221749	.	?	.	Parent=mRNA:LOC_Os03g16690.1:P999_14508
+Chr3	Protein-DB	peptide_p	9221484	9221522	.	?	.	Parent=mRNA:LOC_Os03g16690.1:P999_14510
+Chr3	Protein-DB	peptide_p	9221669	9221692	.	?	.	Parent=mRNA:LOC_Os03g16690.1:P999_14511

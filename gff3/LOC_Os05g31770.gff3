@@ -1,0 +1,10 @@
+Chr5	MSU_osa1r6_db	gene	18442132	18445377	.	-	.	ID=Gene:LOC_Os05g31770;Note=tetratricopeptide+repeat+containing+protein%2C+putative%2C+expressed;Alias=13105.t02799
+Chr5	MSU_osa1r6_db	processed_transcript	18442132	18445377	.	-	.	ID=mRNA:LOC_Os05g31770.1;Note=13105.m03263;Gene=LOC_Os05g31770
+Chr5	MSU_osa1r6_db	CDS	18445067	18445159	.	-	0	Parent=mRNA:LOC_Os05g31770.1
+Chr5	MSU_osa1r6_db	CDS	18444367	18444496	.	-	0	Parent=mRNA:LOC_Os05g31770.1
+Chr5	MSU_osa1r6_db	CDS	18444159	18444280	.	-	1	Parent=mRNA:LOC_Os05g31770.1
+Chr5	MSU_osa1r6_db	CDS	18442994	18443057	.	-	0	Parent=mRNA:LOC_Os05g31770.1
+Chr5	MSU_osa1r6_db	CDS	18442736	18442821	.	-	1	Parent=mRNA:LOC_Os05g31770.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	18445160	18445377	.	-	.	Parent=mRNA:LOC_Os05g31770.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	18442132	18442735	.	-	.	Parent=mRNA:LOC_Os05g31770.1
+Chr5	Protein-DB	peptide_p	18443229	18443267	.	?	.	Parent=mRNA:LOC_Os05g31770.1:P999_24575

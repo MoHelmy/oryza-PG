@@ -1,0 +1,17 @@
+Chr9	MSU_osa1r6_db	gene	16957543	16961180	.	+	.	ID=Gene:LOC_Os09g27890;Note=lysM+domain-containing+GPI-anchored+protein+precursor%2C+putative%2C+expressed;Alias=13109.t02477
+Chr9	MSU_osa1r6_db	processed_transcript	16957543	16961180	.	+	.	ID=mRNA:LOC_Os09g27890.1;Note=13109.m02738;Gene=LOC_Os09g27890
+Chr9	MSU_osa1r6_db	CDS	16957725	16958388	.	+	0	Parent=mRNA:LOC_Os09g27890.1
+Chr9	MSU_osa1r6_db	CDS	16959935	16960052	.	+	1	Parent=mRNA:LOC_Os09g27890.1
+Chr9	MSU_osa1r6_db	CDS	16960183	16960347	.	+	2	Parent=mRNA:LOC_Os09g27890.1
+Chr9	MSU_osa1r6_db	CDS	16960461	16960492	.	+	2	Parent=mRNA:LOC_Os09g27890.1
+Chr9	MSU_osa1r6_db	CDS	16960580	16960806	.	+	1	Parent=mRNA:LOC_Os09g27890.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	16957543	16957724	.	+	.	Parent=mRNA:LOC_Os09g27890.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	16960807	16961180	.	+	.	Parent=mRNA:LOC_Os09g27890.1
+Chr9	MSU_osa1r6_db	processed_transcript	16957543	16961180	.	+	.	ID=mRNA:LOC_Os09g27890.2;Note=13109.m02739;Gene=LOC_Os09g27890
+Chr9	MSU_osa1r6_db	CDS	16957725	16958388	.	+	0	Parent=mRNA:LOC_Os09g27890.2
+Chr9	MSU_osa1r6_db	CDS	16959935	16960056	.	+	1	Parent=mRNA:LOC_Os09g27890.2
+Chr9	MSU_osa1r6_db	five_prime_UTR	16957543	16957724	.	+	.	Parent=mRNA:LOC_Os09g27890.2
+Chr9	MSU_osa1r6_db	three_prime_UTR	16960057	16960492	.	+	.	Parent=mRNA:LOC_Os09g27890.2
+Chr9	MSU_osa1r6_db	three_prime_UTR	16960580	16961180	.	+	.	Parent=mRNA:LOC_Os09g27890.2
+Chr9	Protein-DB	peptide_p	16957993	16958028	.	?	.	Parent=mRNA:LOC_Os09g27890.1:P999_35681
+Chr9	Protein-DB	peptide_p	16958269	16958298	.	?	.	Parent=mRNA:LOC_Os09g27890.1:P999_35682

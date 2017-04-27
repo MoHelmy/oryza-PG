@@ -1,0 +1,10 @@
+Chr7	MSU_osa1r6_db	gene	27039002	27040977	.	+	.	ID=Gene:LOC_Os07g45320;Note=COX+VIIa%2C+putative%2C+expressed;Alias=13107.t04160
+Chr7	MSU_osa1r6_db	processed_transcript	27039002	27040977	.	+	.	ID=mRNA:LOC_Os07g45320.1;Note=13107.m04773;Gene=LOC_Os07g45320
+Chr7	MSU_osa1r6_db	CDS	27040344	27040499	.	+	0	Parent=mRNA:LOC_Os07g45320.1
+Chr7	MSU_osa1r6_db	CDS	27040594	27040641	.	+	0	Parent=mRNA:LOC_Os07g45320.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	27039002	27039107	.	+	.	Parent=mRNA:LOC_Os07g45320.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	27040343	27040343	.	+	.	Parent=mRNA:LOC_Os07g45320.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	27040642	27040977	.	+	.	Parent=mRNA:LOC_Os07g45320.1
+Chr7	Protein-DB	peptide_p	27040438	27040500	.	?	.	Parent=mRNA:LOC_Os07g45320.1:P999_31927
+Chr7	Protein-DB	peptide_p	27040601	27040633	.	?	.	Parent=mRNA:LOC_Os07g45320.1:P999_31928
+Chr7	Protein-DB	peptide_p	27040348	27040371	.	?	.	Parent=mRNA:LOC_Os07g45320.1:P999_31930

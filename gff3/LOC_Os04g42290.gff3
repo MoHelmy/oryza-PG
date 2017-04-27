@@ -1,0 +1,9 @@
+Chr4	MSU_osa1r6_db	gene	24832075	24835417	.	+	.	ID=Gene:LOC_Os04g42290;Note=methyladenine+glycosylase%2C+putative%2C+expressed;Alias=13104.t03767
+Chr4	MSU_osa1r6_db	processed_transcript	24832075	24835417	.	+	.	ID=mRNA:LOC_Os04g42290.1;Note=13104.m04169;Gene=LOC_Os04g42290
+Chr4	MSU_osa1r6_db	CDS	24832568	24833045	.	+	0	Parent=mRNA:LOC_Os04g42290.1
+Chr4	MSU_osa1r6_db	CDS	24834024	24834081	.	+	1	Parent=mRNA:LOC_Os04g42290.1
+Chr4	MSU_osa1r6_db	CDS	24834163	24834246	.	+	2	Parent=mRNA:LOC_Os04g42290.1
+Chr4	MSU_osa1r6_db	CDS	24834333	24834474	.	+	2	Parent=mRNA:LOC_Os04g42290.1
+Chr4	MSU_osa1r6_db	CDS	24834790	24835179	.	+	0	Parent=mRNA:LOC_Os04g42290.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	24832075	24832567	.	+	.	Parent=mRNA:LOC_Os04g42290.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	24835180	24835417	.	+	.	Parent=mRNA:LOC_Os04g42290.1

@@ -1,0 +1,7 @@
+Chr5	MSU_osa1r6_db	gene	2609380	2614061	.	+	.	ID=Gene:LOC_Os05g05300;Note=CRS1%2FYhbY+domain+containing+protein%2C+putative%2C+expressed;Alias=13105.t00424
+Chr5	MSU_osa1r6_db	processed_transcript	2609380	2614061	.	+	.	ID=mRNA:LOC_Os05g05300.1;Note=13105.m00549;Gene=LOC_Os05g05300
+Chr5	MSU_osa1r6_db	CDS	2609514	2609855	.	+	0	Parent=mRNA:LOC_Os05g05300.1
+Chr5	MSU_osa1r6_db	CDS	2610465	2610866	.	+	0	Parent=mRNA:LOC_Os05g05300.1
+Chr5	MSU_osa1r6_db	CDS	2611162	2612100	.	+	0	Parent=mRNA:LOC_Os05g05300.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	2609380	2609513	.	+	.	Parent=mRNA:LOC_Os05g05300.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	2612101	2614061	.	+	.	Parent=mRNA:LOC_Os05g05300.1

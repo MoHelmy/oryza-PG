@@ -1,0 +1,8 @@
+Chr5	MSU_osa1r6_db	gene	22536798	22540022	.	-	.	ID=Gene:LOC_Os05g38530;Note=DnaK+family+protein%2C+putative%2C+expressed;Alias=13105.t03426
+Chr5	MSU_osa1r6_db	processed_transcript	22536798	22540022	.	-	.	ID=mRNA:LOC_Os05g38530.1;Note=13105.m04043;Gene=LOC_Os05g38530
+Chr5	MSU_osa1r6_db	CDS	22539656	22539866	.	-	0	Parent=mRNA:LOC_Os05g38530.1
+Chr5	MSU_osa1r6_db	CDS	22537126	22538855	.	-	1	Parent=mRNA:LOC_Os05g38530.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	22539867	22540022	.	-	.	Parent=mRNA:LOC_Os05g38530.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	22536798	22537125	.	-	.	Parent=mRNA:LOC_Os05g38530.1
+Chr5	Protein-DB	peptide_p	22537069	22537107	.	?	.	Parent=mRNA:LOC_Os05g38530.1:P999_25117
+Chr5	Protein-DB	peptide_p	22537129	22537164	.	?	.	Parent=mRNA:LOC_Os05g38530.1:P999_25118

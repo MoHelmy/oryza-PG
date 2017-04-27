@@ -1,0 +1,13 @@
+Chr1	MSU_osa1r6_db	gene	10495580	10499919	.	-	.	ID=Gene:LOC_Os01g18640;Note=aminotransferase%2C+putative%2C+expressed;Alias=13101.t01649
+Chr1	MSU_osa1r6_db	processed_transcript	10495580	10499919	.	-	.	ID=mRNA:LOC_Os01g18640.1;Note=13101.m02020;Gene=LOC_Os01g18640
+Chr1	MSU_osa1r6_db	CDS	10498178	10499608	.	-	0	Parent=mRNA:LOC_Os01g18640.1
+Chr1	MSU_osa1r6_db	CDS	10496135	10496152	.	-	0	Parent=mRNA:LOC_Os01g18640.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	10499609	10499919	.	-	.	Parent=mRNA:LOC_Os01g18640.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	10495580	10496134	.	-	.	Parent=mRNA:LOC_Os01g18640.1
+Chr1	MSU_osa1r6_db	processed_transcript	10495580	10499919	.	-	.	ID=mRNA:LOC_Os01g18640.2;Note=13101.m02021;Gene=LOC_Os01g18640
+Chr1	MSU_osa1r6_db	CDS	10498178	10499608	.	-	0	Parent=mRNA:LOC_Os01g18640.2
+Chr1	MSU_osa1r6_db	CDS	10496135	10496149	.	-	0	Parent=mRNA:LOC_Os01g18640.2
+Chr1	MSU_osa1r6_db	five_prime_UTR	10499609	10499919	.	-	.	Parent=mRNA:LOC_Os01g18640.2
+Chr1	MSU_osa1r6_db	three_prime_UTR	10495580	10496134	.	-	.	Parent=mRNA:LOC_Os01g18640.2
+Chr1	Protein-DB	peptide_p	10496051	10496086	.	?	.	Parent=mRNA:LOC_Os01g18640.1:P999_1803
+Chr1	Protein-DB	peptide_p	10496537	10496590	.	?	.	Parent=mRNA:LOC_Os01g18640.1:P999_1804

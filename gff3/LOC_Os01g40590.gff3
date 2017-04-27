@@ -1,0 +1,10 @@
+Chr1	MSU_osa1r6_db	gene	22917409	22922826	.	-	.	ID=Gene:LOC_Os01g40590;Note=tyrosine+protein+kinase+domain+containing+protein%2C+putative%2C+expressed;Alias=13101.t03502
+Chr1	MSU_osa1r6_db	processed_transcript	22917409	22922826	.	-	.	ID=mRNA:LOC_Os01g40590.1;Note=13101.m04154;Gene=LOC_Os01g40590
+Chr1	MSU_osa1r6_db	CDS	22922271	22922508	.	-	0	Parent=mRNA:LOC_Os01g40590.1
+Chr1	MSU_osa1r6_db	CDS	22920459	22920796	.	-	1	Parent=mRNA:LOC_Os01g40590.1
+Chr1	MSU_osa1r6_db	CDS	22920228	22920363	.	-	0	Parent=mRNA:LOC_Os01g40590.1
+Chr1	MSU_osa1r6_db	CDS	22919553	22919689	.	-	1	Parent=mRNA:LOC_Os01g40590.1
+Chr1	MSU_osa1r6_db	CDS	22919341	22919464	.	-	0	Parent=mRNA:LOC_Os01g40590.1
+Chr1	MSU_osa1r6_db	CDS	22918235	22918746	.	-	1	Parent=mRNA:LOC_Os01g40590.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	22922509	22922826	.	-	.	Parent=mRNA:LOC_Os01g40590.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	22917409	22918234	.	-	.	Parent=mRNA:LOC_Os01g40590.1

@@ -1,0 +1,7 @@
+Chr2	MSU_osa1r6_db	gene	33770108	33771760	.	-	.	ID=Gene:LOC_Os02g55134;Note=cytochrome+c+oxidase+copper+chaperone%2C+putative%2C+expressed;Alias=13102.t05139
+Chr2	MSU_osa1r6_db	processed_transcript	33770108	33771760	.	-	.	ID=mRNA:LOC_Os02g55134.1;Note=13102.m06318;Gene=LOC_Os02g55134
+Chr2	MSU_osa1r6_db	CDS	33770391	33770630	.	-	0	Parent=mRNA:LOC_Os02g55134.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	33771601	33771760	.	-	.	Parent=mRNA:LOC_Os02g55134.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	33770631	33770656	.	-	.	Parent=mRNA:LOC_Os02g55134.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	33770108	33770390	.	-	.	Parent=mRNA:LOC_Os02g55134.1
+Chr2	Protein-DB	peptide_p	33771428	33771448	.	?	.	Parent=mRNA:LOC_Os02g55134.1:P999_11959

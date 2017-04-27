@@ -1,0 +1,10 @@
+Chr3	MSU_osa1r6_db	gene	23046710	23051987	.	+	.	ID=Gene:LOC_Os03g41419;Note=serpin+domain+containing+protein%2C+putative%2C+expressed;Alias=13103.t03564
+Chr3	MSU_osa1r6_db	processed_transcript	23046710	23051987	.	+	.	ID=mRNA:LOC_Os03g41419.1;Note=13103.m04459;Gene=LOC_Os03g41419
+Chr3	MSU_osa1r6_db	CDS	23046710	23047120	.	+	0	Parent=mRNA:LOC_Os03g41419.1
+Chr3	MSU_osa1r6_db	CDS	23047277	23047363	.	+	0	Parent=mRNA:LOC_Os03g41419.1
+Chr3	MSU_osa1r6_db	CDS	23047763	23047891	.	+	0	Parent=mRNA:LOC_Os03g41419.1
+Chr3	MSU_osa1r6_db	CDS	23048114	23048869	.	+	0	Parent=mRNA:LOC_Os03g41419.1
+Chr3	MSU_osa1r6_db	CDS	23051081	23051857	.	+	0	Parent=mRNA:LOC_Os03g41419.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	23051858	23051987	.	+	.	Parent=mRNA:LOC_Os03g41419.1
+Chr3	Protein-DB	peptide_p	23048568	23048603	.	?	.	Parent=mRNA:LOC_Os03g41419.1:P999_16802
+Chr3	Protein-DB	peptide_p	23046816	23046833	.	?	.	Parent=mRNA:LOC_Os03g41419.1:P999_16804

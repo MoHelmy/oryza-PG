@@ -1,0 +1,10 @@
+Chr1	MSU_osa1r6_db	gene	4948047	4950126	.	-	.	ID=Gene:LOC_Os01g09620;Note=zinc+finger%2FCCCH+transcription+factor%2C+putative%2C+expressed;Alias=13101.t00839
+Chr1	MSU_osa1r6_db	processed_transcript	4948047	4950126	.	-	.	ID=mRNA:LOC_Os01g09620.1;Note=13101.m01028;Gene=LOC_Os01g09620
+Chr1	MSU_osa1r6_db	CDS	4948852	4950012	.	-	0	Parent=mRNA:LOC_Os01g09620.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	4950013	4950126	.	-	.	Parent=mRNA:LOC_Os01g09620.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	4948047	4948851	.	-	.	Parent=mRNA:LOC_Os01g09620.1
+Chr1	MSU_osa1r6_db	processed_transcript	4948132	4950126	.	-	.	ID=mRNA:LOC_Os01g09620.2;Note=13101.m01029;Gene=LOC_Os01g09620
+Chr1	MSU_osa1r6_db	CDS	4948852	4950012	.	-	0	Parent=mRNA:LOC_Os01g09620.2
+Chr1	MSU_osa1r6_db	five_prime_UTR	4950013	4950126	.	-	.	Parent=mRNA:LOC_Os01g09620.2
+Chr1	MSU_osa1r6_db	three_prime_UTR	4948612	4948851	.	-	.	Parent=mRNA:LOC_Os01g09620.2
+Chr1	MSU_osa1r6_db	three_prime_UTR	4948132	4948523	.	-	.	Parent=mRNA:LOC_Os01g09620.2

@@ -1,0 +1,10 @@
+Chr5	MSU_osa1r6_db	gene	1291402	1295526	.	+	.	ID=Gene:LOC_Os05g03190;Note=IQ+calmodulin-binding+motif+domain+containing+protein%2C+expressed;Alias=13105.t00218
+Chr5	MSU_osa1r6_db	processed_transcript	1291402	1295526	.	+	.	ID=mRNA:LOC_Os05g03190.1;Note=13105.m00301;Gene=LOC_Os05g03190
+Chr5	MSU_osa1r6_db	CDS	1292062	1292136	.	+	0	Parent=mRNA:LOC_Os05g03190.1
+Chr5	MSU_osa1r6_db	CDS	1292642	1292929	.	+	0	Parent=mRNA:LOC_Os05g03190.1
+Chr5	MSU_osa1r6_db	CDS	1293841	1294056	.	+	0	Parent=mRNA:LOC_Os05g03190.1
+Chr5	MSU_osa1r6_db	CDS	1294245	1294364	.	+	0	Parent=mRNA:LOC_Os05g03190.1
+Chr5	MSU_osa1r6_db	CDS	1294462	1295187	.	+	0	Parent=mRNA:LOC_Os05g03190.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	1291402	1291952	.	+	.	Parent=mRNA:LOC_Os05g03190.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	1292048	1292061	.	+	.	Parent=mRNA:LOC_Os05g03190.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	1295188	1295526	.	+	.	Parent=mRNA:LOC_Os05g03190.1

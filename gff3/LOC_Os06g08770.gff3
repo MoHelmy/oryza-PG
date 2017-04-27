@@ -1,0 +1,9 @@
+Chr6	MSU_osa1r6_db	gene	4387210	4390754	.	-	.	ID=Gene:LOC_Os06g08770;Note=ruvB-like+2%2C+putative%2C+expressed;Alias=13106.t00757
+Chr6	MSU_osa1r6_db	processed_transcript	4387210	4390754	.	-	.	ID=mRNA:LOC_Os06g08770.1;Note=13106.m00923;Gene=LOC_Os06g08770
+Chr6	MSU_osa1r6_db	CDS	4389824	4390611	.	-	0	Parent=mRNA:LOC_Os06g08770.1
+Chr6	MSU_osa1r6_db	CDS	4387436	4388078	.	-	2	Parent=mRNA:LOC_Os06g08770.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	4390612	4390754	.	-	.	Parent=mRNA:LOC_Os06g08770.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	4387210	4387435	.	-	.	Parent=mRNA:LOC_Os06g08770.1
+Chr6	Protein-DB	peptide_p	4387876	4387914	.	?	.	Parent=mRNA:LOC_Os06g08770.1:P999_27501
+Chr6	Protein-DB	peptide_p	4387408	4387431	.	?	.	Parent=mRNA:LOC_Os06g08770.1:P999_27502
+Chr6	Protein-DB	peptide_p	4387507	4387536	.	?	.	Parent=mRNA:LOC_Os06g08770.1:P999_27505

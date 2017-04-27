@@ -1,0 +1,17 @@
+Chr3	MSU_osa1r6_db	gene	8211282	8217086	.	+	.	ID=Gene:LOC_Os03g15040;Note=FAR1+family+protein%2C+expressed;Alias=13103.t01309
+Chr3	MSU_osa1r6_db	processed_transcript	8211282	8217086	.	+	.	ID=mRNA:LOC_Os03g15040.1;Note=13103.m01759;Gene=LOC_Os03g15040
+Chr3	MSU_osa1r6_db	CDS	8213038	8214430	.	+	0	Parent=mRNA:LOC_Os03g15040.1
+Chr3	MSU_osa1r6_db	CDS	8214544	8214620	.	+	1	Parent=mRNA:LOC_Os03g15040.1
+Chr3	MSU_osa1r6_db	CDS	8214977	8215088	.	+	0	Parent=mRNA:LOC_Os03g15040.1
+Chr3	MSU_osa1r6_db	CDS	8215871	8216385	.	+	1	Parent=mRNA:LOC_Os03g15040.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	8211282	8211785	.	+	.	Parent=mRNA:LOC_Os03g15040.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	8212899	8213037	.	+	.	Parent=mRNA:LOC_Os03g15040.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	8216386	8217086	.	+	.	Parent=mRNA:LOC_Os03g15040.1
+Chr3	MSU_osa1r6_db	processed_transcript	8211282	8217086	.	+	.	ID=mRNA:LOC_Os03g15040.2;Note=13103.m01760;Gene=LOC_Os03g15040
+Chr3	MSU_osa1r6_db	CDS	8213038	8214430	.	+	0	Parent=mRNA:LOC_Os03g15040.2
+Chr3	MSU_osa1r6_db	CDS	8214544	8214620	.	+	1	Parent=mRNA:LOC_Os03g15040.2
+Chr3	MSU_osa1r6_db	CDS	8214969	8215061	.	+	0	Parent=mRNA:LOC_Os03g15040.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	8211282	8211785	.	+	.	Parent=mRNA:LOC_Os03g15040.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	8212899	8213037	.	+	.	Parent=mRNA:LOC_Os03g15040.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	8215062	8215088	.	+	.	Parent=mRNA:LOC_Os03g15040.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	8215871	8217086	.	+	.	Parent=mRNA:LOC_Os03g15040.2

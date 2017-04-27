@@ -1,0 +1,9 @@
+Chr2	MSU_osa1r6_db	gene	27159565	27161029	.	-	.	ID=Gene:LOC_Os02g44870;Note=dehydrin%2C+putative%2C+expressed;Alias=13102.t04110
+Chr2	MSU_osa1r6_db	processed_transcript	27159565	27161029	.	-	.	ID=mRNA:LOC_Os02g44870.1;Note=13102.m05027;Gene=LOC_Os02g44870
+Chr2	MSU_osa1r6_db	CDS	27160647	27160910	.	-	0	Parent=mRNA:LOC_Os02g44870.1
+Chr2	MSU_osa1r6_db	CDS	27159944	27160552	.	-	0	Parent=mRNA:LOC_Os02g44870.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	27160911	27161029	.	-	.	Parent=mRNA:LOC_Os02g44870.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	27159565	27159943	.	-	.	Parent=mRNA:LOC_Os02g44870.1
+Chr2	Protein-DB	peptide_p	27159700	27159750	.	?	.	Parent=mRNA:LOC_Os02g44870.1:P999_10601
+Chr2	Protein-DB	peptide_p	27159847	27159897	.	?	.	Parent=mRNA:LOC_Os02g44870.1:P999_10605
+Chr2	Protein-DB	peptide_p	27159757	27159783	.	?	.	Parent=mRNA:LOC_Os02g44870.1:P999_10607

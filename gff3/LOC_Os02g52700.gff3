@@ -1,0 +1,9 @@
+Chr2	MSU_osa1r6_db	gene	32237277	32239187	.	+	.	ID=Gene:LOC_Os02g52700;Note=alpha-amylase+precursor%2C+putative%2C+expressed;Alias=13102.t04897
+Chr2	MSU_osa1r6_db	processed_transcript	32237277	32239187	.	+	.	ID=mRNA:LOC_Os02g52700.1;Note=13102.m06007;Gene=LOC_Os02g52700
+Chr2	MSU_osa1r6_db	CDS	32237343	32237432	.	+	0	Parent=mRNA:LOC_Os02g52700.1
+Chr2	MSU_osa1r6_db	CDS	32237533	32237665	.	+	0	Parent=mRNA:LOC_Os02g52700.1
+Chr2	MSU_osa1r6_db	CDS	32237755	32238566	.	+	1	Parent=mRNA:LOC_Os02g52700.1
+Chr2	MSU_osa1r6_db	CDS	32238658	32238909	.	+	0	Parent=mRNA:LOC_Os02g52700.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	32237277	32237342	.	+	.	Parent=mRNA:LOC_Os02g52700.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	32238910	32239187	.	+	.	Parent=mRNA:LOC_Os02g52700.1
+Chr2	Protein-DB	peptide_p	32238079	32238108	.	?	.	Parent=mRNA:LOC_Os02g52700.1:P999_11554

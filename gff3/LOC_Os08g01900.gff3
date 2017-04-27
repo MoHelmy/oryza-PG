@@ -1,0 +1,9 @@
+Chr8	MSU_osa1r6_db	gene	550574	555931	.	+	.	ID=Gene:LOC_Os08g01900;Note=armadillo%2Fbeta-catenin+repeat+family+protein%2C+putative%2C+expressed;Alias=13108.t00091
+Chr8	MSU_osa1r6_db	processed_transcript	550574	555931	.	+	.	ID=mRNA:LOC_Os08g01900.1;Note=13108.m00122;Gene=LOC_Os08g01900
+Chr8	MSU_osa1r6_db	CDS	552091	552360	.	+	0	Parent=mRNA:LOC_Os08g01900.1
+Chr8	MSU_osa1r6_db	CDS	553119	553232	.	+	0	Parent=mRNA:LOC_Os08g01900.1
+Chr8	MSU_osa1r6_db	CDS	553349	555379	.	+	0	Parent=mRNA:LOC_Os08g01900.1
+Chr8	MSU_osa1r6_db	CDS	555501	555560	.	+	0	Parent=mRNA:LOC_Os08g01900.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	550574	550684	.	+	.	Parent=mRNA:LOC_Os08g01900.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	552086	552090	.	+	.	Parent=mRNA:LOC_Os08g01900.1
+Chr8	MSU_osa1r6_db	three_prime_UTR	555561	555931	.	+	.	Parent=mRNA:LOC_Os08g01900.1

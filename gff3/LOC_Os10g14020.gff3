@@ -1,0 +1,15 @@
+Chr10	MSU_osa1r6_db	gene	7639541	7640716	.	-	.	ID=Gene:LOC_Os10g14020;Note=TPD1%2C+putative%2C+expressed;Alias=13110.t01121
+Chr10	MSU_osa1r6_db	processed_transcript	7639541	7640716	.	-	.	ID=mRNA:LOC_Os10g14020.1;Note=13110.m01235;Gene=LOC_Os10g14020
+Chr10	MSU_osa1r6_db	CDS	7640498	7640570	.	-	0	Parent=mRNA:LOC_Os10g14020.1
+Chr10	MSU_osa1r6_db	CDS	7640337	7640414	.	-	1	Parent=mRNA:LOC_Os10g14020.1
+Chr10	MSU_osa1r6_db	CDS	7639865	7640223	.	-	1	Parent=mRNA:LOC_Os10g14020.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	7640571	7640716	.	-	.	Parent=mRNA:LOC_Os10g14020.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	7639541	7639864	.	-	.	Parent=mRNA:LOC_Os10g14020.1
+Chr10	MSU_osa1r6_db	processed_transcript	7639541	7640692	.	-	.	ID=mRNA:LOC_Os10g14020.2;Note=13110.m01236;Gene=LOC_Os10g14020
+Chr10	MSU_osa1r6_db	CDS	7640498	7640570	.	-	0	Parent=mRNA:LOC_Os10g14020.2
+Chr10	MSU_osa1r6_db	CDS	7640337	7640414	.	-	1	Parent=mRNA:LOC_Os10g14020.2
+Chr10	MSU_osa1r6_db	CDS	7639938	7640182	.	-	1	Parent=mRNA:LOC_Os10g14020.2
+Chr10	MSU_osa1r6_db	five_prime_UTR	7640571	7640692	.	-	.	Parent=mRNA:LOC_Os10g14020.2
+Chr10	MSU_osa1r6_db	three_prime_UTR	7639541	7639937	.	-	.	Parent=mRNA:LOC_Os10g14020.2
+Chr10	Protein-DB	peptide_p	7640310	7640390	.	?	.	Parent=mRNA:LOC_Os10g14020.1:P999_37338
+Chr10	Protein-DB	peptide_p	7640271	7640297	.	?	.	Parent=mRNA:LOC_Os10g14020.1:P999_37340

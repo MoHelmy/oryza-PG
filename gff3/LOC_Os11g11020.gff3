@@ -1,0 +1,10 @@
+Chr11	MSU_osa1r6_db	gene	6083731	6087234	.	-	.	ID=Gene:LOC_Os11g11020;Note=DAG+protein%2C+chloroplast+precursor%2C+putative%2C+expressed;Alias=13111.t01000
+Chr11	MSU_osa1r6_db	processed_transcript	6083731	6087234	.	-	.	ID=mRNA:LOC_Os11g11020.1;Note=13111.m01169;Gene=LOC_Os11g11020
+Chr11	MSU_osa1r6_db	CDS	6086809	6087179	.	-	0	Parent=mRNA:LOC_Os11g11020.1
+Chr11	MSU_osa1r6_db	CDS	6085438	6085535	.	-	2	Parent=mRNA:LOC_Os11g11020.1
+Chr11	MSU_osa1r6_db	CDS	6085280	6085345	.	-	1	Parent=mRNA:LOC_Os11g11020.1
+Chr11	MSU_osa1r6_db	CDS	6084600	6085177	.	-	1	Parent=mRNA:LOC_Os11g11020.1
+Chr11	MSU_osa1r6_db	CDS	6084108	6084119	.	-	0	Parent=mRNA:LOC_Os11g11020.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	6087180	6087234	.	-	.	Parent=mRNA:LOC_Os11g11020.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	6083731	6084107	.	-	.	Parent=mRNA:LOC_Os11g11020.1
+Chr11	Protein-DB	peptide_p	6085620	6085676	.	?	.	Parent=mRNA:LOC_Os11g11020.1:P999_40093

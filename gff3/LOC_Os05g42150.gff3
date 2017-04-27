@@ -1,0 +1,9 @@
+Chr5	MSU_osa1r6_db	gene	24580936	24583506	.	-	.	ID=Gene:LOC_Os05g42150;Note=OsGH3.4+-+Probable+indole-3-acetic+acid-amido+synthetase%2C+expressed;Alias=13105.t03786
+Chr5	MSU_osa1r6_db	processed_transcript	24580936	24583506	.	-	.	ID=mRNA:LOC_Os05g42150.1;Note=13105.m04482;Gene=LOC_Os05g42150
+Chr5	MSU_osa1r6_db	CDS	24582916	24583253	.	-	0	Parent=mRNA:LOC_Os05g42150.1
+Chr5	MSU_osa1r6_db	CDS	24581274	24582825	.	-	2	Parent=mRNA:LOC_Os05g42150.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	24583254	24583506	.	-	.	Parent=mRNA:LOC_Os05g42150.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	24580936	24581273	.	-	.	Parent=mRNA:LOC_Os05g42150.1
+Chr5	Protein-DB	peptide_p	24581682	24581720	.	?	.	Parent=mRNA:LOC_Os05g42150.1:P999_25640
+Chr5	Protein-DB	peptide_p	24581973	24582005	.	?	.	Parent=mRNA:LOC_Os05g42150.1:P999_25641
+Chr5	Protein-DB	peptide_p	24581418	24581465	.	?	.	Parent=mRNA:LOC_Os05g42150.1:P999_25642

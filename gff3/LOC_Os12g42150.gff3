@@ -1,0 +1,10 @@
+Chr12	MSU_osa1r6_db	gene	26094981	26097170	.	+	.	ID=Gene:LOC_Os12g42150;Note=WD+domain%2C+G-beta+repeat+domain+containing+protein%2C+expressed;Alias=13112.t03904
+Chr12	MSU_osa1r6_db	processed_transcript	26094981	26097170	.	+	.	ID=mRNA:LOC_Os12g42150.1;Note=13112.m04425;Gene=LOC_Os12g42150
+Chr12	MSU_osa1r6_db	CDS	26095026	26095715	.	+	0	Parent=mRNA:LOC_Os12g42150.1
+Chr12	MSU_osa1r6_db	CDS	26096101	26096392	.	+	0	Parent=mRNA:LOC_Os12g42150.1
+Chr12	MSU_osa1r6_db	CDS	26096882	26096883	.	+	1	Parent=mRNA:LOC_Os12g42150.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	26094981	26095025	.	+	.	Parent=mRNA:LOC_Os12g42150.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	26096884	26097170	.	+	.	Parent=mRNA:LOC_Os12g42150.1
+Chr12	Protein-DB	peptide_p	26095195	26095236	.	?	.	Parent=mRNA:LOC_Os12g42150.1:P999_42610
+Chr12	Protein-DB	peptide_p	26096135	26096167	.	?	.	Parent=mRNA:LOC_Os12g42150.1:P999_42611
+Chr12	Protein-DB	peptide_p	26096105	26096134	.	?	.	Parent=mRNA:LOC_Os12g42150.1:P999_42613

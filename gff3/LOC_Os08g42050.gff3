@@ -1,0 +1,11 @@
+Chr8	MSU_osa1r6_db	gene	26556130	26559444	.	-	.	ID=Gene:LOC_Os08g42050;Note=emp24%2Fgp25L%2Fp24+family+protein%2C+putative%2C+expressed;Alias=13108.t03945
+Chr8	MSU_osa1r6_db	processed_transcript	26556130	26559444	.	-	.	ID=mRNA:LOC_Os08g42050.1;Note=13108.m04521;Gene=LOC_Os08g42050
+Chr8	MSU_osa1r6_db	CDS	26558635	26558844	.	-	0	Parent=mRNA:LOC_Os08g42050.1
+Chr8	MSU_osa1r6_db	CDS	26557682	26557868	.	-	0	Parent=mRNA:LOC_Os08g42050.1
+Chr8	MSU_osa1r6_db	CDS	26557491	26557598	.	-	1	Parent=mRNA:LOC_Os08g42050.1
+Chr8	MSU_osa1r6_db	CDS	26556448	26556581	.	-	1	Parent=mRNA:LOC_Os08g42050.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	26559340	26559444	.	-	.	Parent=mRNA:LOC_Os08g42050.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	26558845	26558888	.	-	.	Parent=mRNA:LOC_Os08g42050.1
+Chr8	MSU_osa1r6_db	three_prime_UTR	26556130	26556447	.	-	.	Parent=mRNA:LOC_Os08g42050.1
+Chr8	Protein-DB	peptide_p	26558012	26558074	.	?	.	Parent=mRNA:LOC_Os08g42050.1:P999_34370
+Chr8	Protein-DB	peptide_p	26556896	26556943	.	?	.	Parent=mRNA:LOC_Os08g42050.1:P999_34371

@@ -1,0 +1,16 @@
+Chr12	MSU_osa1r6_db	gene	19093192	19095831	.	-	.	ID=Gene:LOC_Os12g31780;Note=nitrilase-associated+protein%2C+putative%2C+expressed;Alias=13112.t02885
+Chr12	MSU_osa1r6_db	processed_transcript	19093192	19094829	.	-	.	ID=mRNA:LOC_Os12g31780.1;Note=13112.m03233;Gene=LOC_Os12g31780
+Chr12	MSU_osa1r6_db	CDS	19094273	19094491	.	-	0	Parent=mRNA:LOC_Os12g31780.1
+Chr12	MSU_osa1r6_db	CDS	19093744	19093830	.	-	0	Parent=mRNA:LOC_Os12g31780.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	19094676	19094829	.	-	.	Parent=mRNA:LOC_Os12g31780.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	19094492	19094518	.	-	.	Parent=mRNA:LOC_Os12g31780.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	19093192	19093743	.	-	.	Parent=mRNA:LOC_Os12g31780.1
+Chr12	MSU_osa1r6_db	processed_transcript	19093192	19095831	.	-	.	ID=mRNA:LOC_Os12g31780.2;Note=13112.m08922;Gene=LOC_Os12g31780
+Chr12	MSU_osa1r6_db	CDS	19094273	19094491	.	-	0	Parent=mRNA:LOC_Os12g31780.2
+Chr12	MSU_osa1r6_db	CDS	19093744	19093830	.	-	0	Parent=mRNA:LOC_Os12g31780.2
+Chr12	MSU_osa1r6_db	five_prime_UTR	19095711	19095831	.	-	.	Parent=mRNA:LOC_Os12g31780.2
+Chr12	MSU_osa1r6_db	five_prime_UTR	19094492	19094518	.	-	.	Parent=mRNA:LOC_Os12g31780.2
+Chr12	MSU_osa1r6_db	three_prime_UTR	19093192	19093743	.	-	.	Parent=mRNA:LOC_Os12g31780.2
+Chr12	Protein-DB	peptide_p	19095212	19095268	.	?	.	Parent=mRNA:LOC_Os12g31780.1:P999_41959
+Chr12	Protein-DB	peptide_p	19094719	19094751	.	?	.	Parent=mRNA:LOC_Os12g31780.1:P999_41961
+Chr12	Protein-DB	peptide_p	19094608	19094664	.	?	.	Parent=mRNA:LOC_Os12g31780.1:P999_41963

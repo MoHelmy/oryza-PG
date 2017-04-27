@@ -1,0 +1,16 @@
+Chr4	MSU_osa1r6_db	gene	24693002	24696589	.	-	.	ID=Gene:LOC_Os04g42000;Note=6%2C7-dimethyl-8-ribityllumazine+synthase%2C+chloroplast+precursor%2C+putative%2C+expressed;Alias=13104.t03739
+Chr4	MSU_osa1r6_db	processed_transcript	24693002	24696589	.	-	.	ID=mRNA:LOC_Os04g42000.1;Note=13104.m04132;Gene=LOC_Os04g42000
+Chr4	MSU_osa1r6_db	CDS	24696357	24696477	.	-	0	Parent=mRNA:LOC_Os04g42000.1
+Chr4	MSU_osa1r6_db	CDS	24696125	24696252	.	-	1	Parent=mRNA:LOC_Os04g42000.1
+Chr4	MSU_osa1r6_db	CDS	24695634	24695729	.	-	0	Parent=mRNA:LOC_Os04g42000.1
+Chr4	MSU_osa1r6_db	CDS	24694808	24694903	.	-	0	Parent=mRNA:LOC_Os04g42000.1
+Chr4	MSU_osa1r6_db	CDS	24694111	24694189	.	-	0	Parent=mRNA:LOC_Os04g42000.1
+Chr4	MSU_osa1r6_db	CDS	24693935	24693981	.	-	1	Parent=mRNA:LOC_Os04g42000.1
+Chr4	MSU_osa1r6_db	CDS	24693426	24693485	.	-	0	Parent=mRNA:LOC_Os04g42000.1
+Chr4	MSU_osa1r6_db	CDS	24693313	24693351	.	-	0	Parent=mRNA:LOC_Os04g42000.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	24696478	24696589	.	-	.	Parent=mRNA:LOC_Os04g42000.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	24693002	24693312	.	-	.	Parent=mRNA:LOC_Os04g42000.1
+Chr4	Protein-DB	peptide_p	24694689	24694736	.	?	.	Parent=mRNA:LOC_Os04g42000.1:P999_21046
+Chr4	Protein-DB	peptide_p	24693423	24693458	.	?	.	Parent=mRNA:LOC_Os04g42000.1:P999_21047
+Chr4	Protein-DB	peptide_p	24694689	24694736	.	?	.	Parent=mRNA:LOC_Os04g42000.1:P999_21048
+Chr4	Protein-DB	peptide_p	24693875	24693931	.	?	.	Parent=mRNA:LOC_Os04g42000.1:P999_21050

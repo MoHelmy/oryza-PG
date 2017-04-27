@@ -1,0 +1,6 @@
+Chr5	MSU_osa1r6_db	gene	3535313	3536171	.	+	.	ID=Gene:LOC_Os05g06770;Note=40S+ribosomal+protein+S27a%2C+putative%2C+expressed;Alias=13105.t00572
+Chr5	MSU_osa1r6_db	processed_transcript	3535313	3536171	.	+	.	ID=mRNA:LOC_Os05g06770.1;Note=13105.m00733;Gene=LOC_Os05g06770
+Chr5	MSU_osa1r6_db	CDS	3535389	3535856	.	+	0	Parent=mRNA:LOC_Os05g06770.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	3535313	3535388	.	+	.	Parent=mRNA:LOC_Os05g06770.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	3535857	3536171	.	+	.	Parent=mRNA:LOC_Os05g06770.1
+Chr5	Protein-DB	peptide_p	3535750	3535806	.	?	.	Parent=mRNA:LOC_Os05g06770.1:P999_23284

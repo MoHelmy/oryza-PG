@@ -1,0 +1,10 @@
+Chr1	MSU_osa1r6_db	gene	23233591	23236628	.	-	.	ID=Gene:LOC_Os01g41030;Note=ribosomal+protein+L25%2C+putative%2C+expressed;Alias=13101.t03545
+Chr1	MSU_osa1r6_db	processed_transcript	23233591	23236628	.	-	.	ID=mRNA:LOC_Os01g41030.1;Note=13101.m04208;Gene=LOC_Os01g41030
+Chr1	MSU_osa1r6_db	CDS	23236105	23236569	.	-	0	Parent=mRNA:LOC_Os01g41030.1
+Chr1	MSU_osa1r6_db	CDS	23234948	23235077	.	-	0	Parent=mRNA:LOC_Os01g41030.1
+Chr1	MSU_osa1r6_db	CDS	23234172	23234392	.	-	1	Parent=mRNA:LOC_Os01g41030.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	23236570	23236628	.	-	.	Parent=mRNA:LOC_Os01g41030.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	23233591	23234171	.	-	.	Parent=mRNA:LOC_Os01g41030.1
+Chr1	Protein-DB	peptide_p	23235974	23236021	.	?	.	Parent=mRNA:LOC_Os01g41030.1:P999_2839
+Chr1	Protein-DB	peptide_p	23235140	23235193	.	?	.	Parent=mRNA:LOC_Os01g41030.1:P999_2840
+Chr1	Protein-DB	peptide_p	23235218	23235268	.	?	.	Parent=mRNA:LOC_Os01g41030.1:P999_2841

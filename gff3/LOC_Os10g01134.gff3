@@ -1,0 +1,14 @@
+Chr10	MSU_osa1r6_db	gene	109138	115454	.	-	.	ID=Gene:LOC_Os10g01134;Note=OsSCP46+-+Putative+Serine+Carboxypeptidase+homologue%2C+expressed;Alias=13110.t00012
+Chr10	MSU_osa1r6_db	processed_transcript	109138	115454	.	-	.	ID=mRNA:LOC_Os10g01134.1;Note=13110.m00014;Gene=LOC_Os10g01134
+Chr10	MSU_osa1r6_db	CDS	115112	115445	.	-	0	Parent=mRNA:LOC_Os10g01134.1
+Chr10	MSU_osa1r6_db	CDS	110464	110540	.	-	1	Parent=mRNA:LOC_Os10g01134.1
+Chr10	MSU_osa1r6_db	CDS	109365	110372	.	-	0	Parent=mRNA:LOC_Os10g01134.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	115446	115454	.	-	.	Parent=mRNA:LOC_Os10g01134.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	109138	109364	.	-	.	Parent=mRNA:LOC_Os10g01134.1
+Chr10	MSU_osa1r6_db	processed_transcript	109138	115454	.	-	.	ID=mRNA:LOC_Os10g01134.2;Note=13110.m00015;Gene=LOC_Os10g01134
+Chr10	MSU_osa1r6_db	CDS	110464	110580	.	-	0	Parent=mRNA:LOC_Os10g01134.2
+Chr10	MSU_osa1r6_db	CDS	109365	110372	.	-	0	Parent=mRNA:LOC_Os10g01134.2
+Chr10	MSU_osa1r6_db	five_prime_UTR	115112	115454	.	-	.	Parent=mRNA:LOC_Os10g01134.2
+Chr10	MSU_osa1r6_db	five_prime_UTR	110581	110584	.	-	.	Parent=mRNA:LOC_Os10g01134.2
+Chr10	MSU_osa1r6_db	three_prime_UTR	109138	109364	.	-	.	Parent=mRNA:LOC_Os10g01134.2
+Chr10	Protein-DB	peptide_p	114806	114841	.	?	.	Parent=mRNA:LOC_Os10g01134.1:P999_36971

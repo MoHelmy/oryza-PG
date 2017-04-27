@@ -1,0 +1,10 @@
+Chr1	MSU_osa1r6_db	gene	4526986	4531893	.	+	.	ID=Gene:LOC_Os01g09010;Note=transferase+family+protein%2C+putative%2C+expressed;Alias=13101.t00777
+Chr1	MSU_osa1r6_db	processed_transcript	4526986	4531893	.	+	.	ID=mRNA:LOC_Os01g09010.1;Note=13101.m00955;Gene=LOC_Os01g09010
+Chr1	MSU_osa1r6_db	CDS	4527309	4527740	.	+	0	Parent=mRNA:LOC_Os01g09010.1
+Chr1	MSU_osa1r6_db	CDS	4530776	4531603	.	+	0	Parent=mRNA:LOC_Os01g09010.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	4526986	4527308	.	+	.	Parent=mRNA:LOC_Os01g09010.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	4531604	4531893	.	+	.	Parent=mRNA:LOC_Os01g09010.1
+Chr1	Protein-DB	peptide_p	4527430	4527459	.	?	.	Parent=mRNA:LOC_Os01g09010.1:P999_901
+Chr1	Protein-DB	peptide_p	4531152	4531175	.	?	.	Parent=mRNA:LOC_Os01g09010.1:P999_905
+Chr1	Protein-DB	peptide_p	4527508	4527540	.	?	.	Parent=mRNA:LOC_Os01g09010.1:P999_907
+Chr1	Protein-DB	peptide_p	4527460	4527492	.	?	.	Parent=mRNA:LOC_Os01g09010.1:P999_908

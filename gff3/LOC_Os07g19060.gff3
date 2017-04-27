@@ -1,0 +1,16 @@
+Chr7	MSU_osa1r6_db	gene	11279309	11284331	.	-	.	ID=Gene:LOC_Os07g19060;Note=transport+protein+particle+component%2C+Bet3%2C+domain+containing+protein%2C+expressed;Alias=13107.t01768
+Chr7	MSU_osa1r6_db	processed_transcript	11279309	11284331	.	-	.	ID=mRNA:LOC_Os07g19060.1;Note=13107.m01992;Gene=LOC_Os07g19060
+Chr7	MSU_osa1r6_db	CDS	11284069	11284220	.	-	0	Parent=mRNA:LOC_Os07g19060.1
+Chr7	MSU_osa1r6_db	CDS	11281145	11281262	.	-	2	Parent=mRNA:LOC_Os07g19060.1
+Chr7	MSU_osa1r6_db	CDS	11280842	11281070	.	-	0	Parent=mRNA:LOC_Os07g19060.1
+Chr7	MSU_osa1r6_db	CDS	11279661	11279689	.	-	1	Parent=mRNA:LOC_Os07g19060.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	11284221	11284331	.	-	.	Parent=mRNA:LOC_Os07g19060.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	11279309	11279660	.	-	.	Parent=mRNA:LOC_Os07g19060.1
+Chr7	MSU_osa1r6_db	processed_transcript	11279309	11284331	.	-	.	ID=mRNA:LOC_Os07g19060.2;Note=13107.m01993;Gene=LOC_Os07g19060
+Chr7	MSU_osa1r6_db	CDS	11284069	11284220	.	-	0	Parent=mRNA:LOC_Os07g19060.2
+Chr7	MSU_osa1r6_db	CDS	11281145	11281262	.	-	2	Parent=mRNA:LOC_Os07g19060.2
+Chr7	MSU_osa1r6_db	CDS	11281004	11281015	.	-	0	Parent=mRNA:LOC_Os07g19060.2
+Chr7	MSU_osa1r6_db	five_prime_UTR	11284221	11284331	.	-	.	Parent=mRNA:LOC_Os07g19060.2
+Chr7	MSU_osa1r6_db	three_prime_UTR	11280842	11281003	.	-	.	Parent=mRNA:LOC_Os07g19060.2
+Chr7	MSU_osa1r6_db	three_prime_UTR	11279309	11279689	.	-	.	Parent=mRNA:LOC_Os07g19060.2
+Chr7	Protein-DB	peptide_p	11279526	11279573	.	?	.	Parent=mRNA:LOC_Os07g19060.1:P999_30750

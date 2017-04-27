@@ -1,0 +1,11 @@
+Chr3	MSU_osa1r6_db	gene	10982928	10987117	.	+	.	ID=Gene:LOC_Os03g19530;Note=DEAD-box+ATP-dependent+RNA+helicase%2C+putative%2C+expressed;Alias=13103.t01742
+Chr3	MSU_osa1r6_db	processed_transcript	10982928	10987117	.	+	.	ID=mRNA:LOC_Os03g19530.1;Note=13103.m02337;Gene=LOC_Os03g19530
+Chr3	MSU_osa1r6_db	CDS	10983098	10983671	.	+	0	Parent=mRNA:LOC_Os03g19530.1
+Chr3	MSU_osa1r6_db	CDS	10984818	10986046	.	+	1	Parent=mRNA:LOC_Os03g19530.1
+Chr3	MSU_osa1r6_db	CDS	10986242	10986278	.	+	0	Parent=mRNA:LOC_Os03g19530.1
+Chr3	MSU_osa1r6_db	CDS	10986364	10986784	.	+	1	Parent=mRNA:LOC_Os03g19530.1
+Chr3	MSU_osa1r6_db	CDS	10986895	10986946	.	+	2	Parent=mRNA:LOC_Os03g19530.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	10982928	10983097	.	+	.	Parent=mRNA:LOC_Os03g19530.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	10986947	10987117	.	+	.	Parent=mRNA:LOC_Os03g19530.1
+Chr3	Protein-DB	peptide_p	2787	2825	.	?	.	Parent=mRNA:LOC_Os03g19530.1:P15184
+Chr3	cDNA-DB	peptide_c	10983519	10983578	.	?	.	Parent=mRNA:LOC_Os03g19530.1:PC9

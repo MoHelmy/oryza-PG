@@ -1,0 +1,5 @@
+Chr9	MSU_osa1r6_db	gene	20749634	20750987	.	+	.	ID=Gene:LOC_Os09g36030;Note=4-hydroxy-2-oxovalerate+aldolase%2C+putative%2C+expressed;Alias=13109.t03087
+Chr9	MSU_osa1r6_db	processed_transcript	20749634	20750987	.	+	.	ID=mRNA:LOC_Os09g36030.1;Note=13109.m03539;Gene=LOC_Os09g36030
+Chr9	MSU_osa1r6_db	CDS	20749705	20750751	.	+	0	Parent=mRNA:LOC_Os09g36030.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	20749634	20749704	.	+	.	Parent=mRNA:LOC_Os09g36030.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	20750752	20750987	.	+	.	Parent=mRNA:LOC_Os09g36030.1

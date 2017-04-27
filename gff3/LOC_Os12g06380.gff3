@@ -1,0 +1,9 @@
+Chr12	MSU_osa1r6_db	gene	3058458	3062810	.	+	.	ID=Gene:LOC_Os12g06380;Note=transposon+protein%2C+putative%2C+unclassified%2C+expressed;Alias=13112.t00524
+Chr12	MSU_osa1r6_db	processed_transcript	3058458	3062810	.	+	.	ID=mRNA:LOC_Os12g06380.1;Note=13112.m00652;Gene=LOC_Os12g06380
+Chr12	MSU_osa1r6_db	CDS	3059249	3061427	.	+	0	Parent=mRNA:LOC_Os12g06380.1
+Chr12	MSU_osa1r6_db	CDS	3061518	3061648	.	+	1	Parent=mRNA:LOC_Os12g06380.1
+Chr12	MSU_osa1r6_db	CDS	3061746	3061826	.	+	0	Parent=mRNA:LOC_Os12g06380.1
+Chr12	MSU_osa1r6_db	CDS	3062405	3062467	.	+	0	Parent=mRNA:LOC_Os12g06380.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	3058458	3058863	.	+	.	Parent=mRNA:LOC_Os12g06380.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	3059247	3059248	.	+	.	Parent=mRNA:LOC_Os12g06380.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	3062468	3062810	.	+	.	Parent=mRNA:LOC_Os12g06380.1

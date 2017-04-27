@@ -1,0 +1,12 @@
+Chr4	MSU_osa1r6_db	gene	10052461	10055906	.	+	.	ID=Gene:LOC_Os04g18200;Note=dihydrodipicolinate+synthase%2C+chloroplast+precursor%2C+putative%2C+expressed;Alias=13104.t01554
+Chr4	MSU_osa1r6_db	processed_transcript	10052461	10055906	.	+	.	ID=mRNA:LOC_Os04g18200.1;Note=13104.m01665;Gene=LOC_Os04g18200
+Chr4	MSU_osa1r6_db	CDS	10052627	10052760	.	+	0	Parent=mRNA:LOC_Os04g18200.1
+Chr4	MSU_osa1r6_db	CDS	10053977	10054057	.	+	2	Parent=mRNA:LOC_Os04g18200.1
+Chr4	MSU_osa1r6_db	CDS	10054663	10055590	.	+	2	Parent=mRNA:LOC_Os04g18200.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	10052461	10052626	.	+	.	Parent=mRNA:LOC_Os04g18200.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	10055591	10055906	.	+	.	Parent=mRNA:LOC_Os04g18200.1
+Chr4	Protein-DB	peptide_p	10055550	10055585	.	?	.	Parent=mRNA:LOC_Os04g18200.1:P999_20055
+Chr4	Protein-DB	peptide_p	10055520	10055549	.	?	.	Parent=mRNA:LOC_Os04g18200.1:P999_20057
+Chr4	Protein-DB	peptide_p	10054665	10054694	.	?	.	Parent=mRNA:LOC_Os04g18200.1:P999_20058
+Chr4	Protein-DB	peptide_p	10055091	10055159	.	?	.	Parent=mRNA:LOC_Os04g18200.1:P999_20063
+Chr4	Protein-DB	peptide_p	10055373	10055450	.	?	.	Parent=mRNA:LOC_Os04g18200.1:P999_20064

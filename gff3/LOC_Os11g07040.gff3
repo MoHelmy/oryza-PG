@@ -1,0 +1,14 @@
+Chr11	MSU_osa1r6_db	gene	3491121	3495877	.	-	.	ID=Gene:LOC_Os11g07040;Note=CAMK_CAMK_like.43+-+CAMK+includes+calcium%2Fcalmodulin+depedent+protein+kinases%2C+expressed;Alias=13111.t00607
+Chr11	MSU_osa1r6_db	processed_transcript	3491121	3495877	.	-	.	ID=mRNA:LOC_Os11g07040.1;Note=13111.m00727;Gene=LOC_Os11g07040
+Chr11	MSU_osa1r6_db	CDS	3494484	3495087	.	-	0	Parent=mRNA:LOC_Os11g07040.1
+Chr11	MSU_osa1r6_db	CDS	3493383	3493526	.	-	1	Parent=mRNA:LOC_Os11g07040.1
+Chr11	MSU_osa1r6_db	CDS	3493144	3493296	.	-	1	Parent=mRNA:LOC_Os11g07040.1
+Chr11	MSU_osa1r6_db	CDS	3492918	3493033	.	-	1	Parent=mRNA:LOC_Os11g07040.1
+Chr11	MSU_osa1r6_db	CDS	3492193	3492360	.	-	0	Parent=mRNA:LOC_Os11g07040.1
+Chr11	MSU_osa1r6_db	CDS	3491719	3491943	.	-	0	Parent=mRNA:LOC_Os11g07040.1
+Chr11	MSU_osa1r6_db	CDS	3491501	3491632	.	-	0	Parent=mRNA:LOC_Os11g07040.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	3495248	3495877	.	-	.	Parent=mRNA:LOC_Os11g07040.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	3495088	3495157	.	-	.	Parent=mRNA:LOC_Os11g07040.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	3491121	3491500	.	-	.	Parent=mRNA:LOC_Os11g07040.1
+Chr11	Protein-DB	peptide_p	3493481	3493534	.	?	.	Parent=mRNA:LOC_Os11g07040.1:P999_39638
+Chr11	Protein-DB	peptide_p	3494639	3494695	.	?	.	Parent=mRNA:LOC_Os11g07040.1:P999_39639

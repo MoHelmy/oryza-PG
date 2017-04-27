@@ -1,0 +1,6 @@
+Chr2	MSU_osa1r6_db	gene	20141998	20144142	.	+	.	ID=Gene:LOC_Os02g33770;Note=homeodomain%2C+putative%2C+expressed;Alias=13102.t03037
+Chr2	MSU_osa1r6_db	processed_transcript	20141998	20144142	.	+	.	ID=mRNA:LOC_Os02g33770.1;Note=13102.m03665;Gene=LOC_Os02g33770
+Chr2	MSU_osa1r6_db	CDS	20142614	20143846	.	+	0	Parent=mRNA:LOC_Os02g33770.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	20141998	20142231	.	+	.	Parent=mRNA:LOC_Os02g33770.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	20142376	20142613	.	+	.	Parent=mRNA:LOC_Os02g33770.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	20143847	20144142	.	+	.	Parent=mRNA:LOC_Os02g33770.1

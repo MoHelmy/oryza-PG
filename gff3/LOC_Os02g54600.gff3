@@ -1,0 +1,9 @@
+Chr2	MSU_osa1r6_db	gene	33436200	33438079	.	-	.	ID=Gene:LOC_Os02g54600;Note=STE_MEK_ste7_MAP2K.5+-+STE+kinases+include+homologs+to+sterile+7%2C+sterile+11+and+sterile+20+from+yeast%2C+expressed;Alias=13102.t05086
+Chr2	MSU_osa1r6_db	processed_transcript	33436200	33438079	.	-	.	ID=mRNA:LOC_Os02g54600.1;Note=13102.m06253;Gene=LOC_Os02g54600
+Chr2	MSU_osa1r6_db	CDS	33436863	33437972	.	-	0	Parent=mRNA:LOC_Os02g54600.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	33437973	33438079	.	-	.	Parent=mRNA:LOC_Os02g54600.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	33436200	33436862	.	-	.	Parent=mRNA:LOC_Os02g54600.1
+Chr2	Protein-DB	peptide_p	33436848	33436883	.	?	.	Parent=mRNA:LOC_Os02g54600.1:P999_11873
+Chr2	Protein-DB	peptide_p	33436983	33437006	.	?	.	Parent=mRNA:LOC_Os02g54600.1:P999_11874
+Chr2	Protein-DB	peptide_p	33437319	33437351	.	?	.	Parent=mRNA:LOC_Os02g54600.1:P999_11875
+Chr2	Protein-DB	peptide_p	33436602	33436640	.	?	.	Parent=mRNA:LOC_Os02g54600.1:P999_11878

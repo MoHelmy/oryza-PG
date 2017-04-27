@@ -1,0 +1,3 @@
+Chr11	MSU_osa1r6_db	gene	22769907	22771154	.	-	.	ID=Gene:LOC_Os11g39030;Note=RNA+recognition+motif+containing+protein%2C+putative;Alias=13111.t03443
+Chr11	MSU_osa1r6_db	processed_transcript	22769907	22771154	.	-	.	ID=mRNA:LOC_Os11g39030.1;Note=13111.m03846;Gene=LOC_Os11g39030
+Chr11	MSU_osa1r6_db	CDS	22769907	22771154	.	-	0	Parent=mRNA:LOC_Os11g39030.1

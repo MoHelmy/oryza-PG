@@ -1,0 +1,14 @@
+Chr9	MSU_osa1r6_db	gene	3585600	3588801	.	-	.	ID=Gene:LOC_Os09g07294;Note=purity+of+essence%2C+putative%2C+expressed;Alias=13109.t00526
+Chr9	MSU_osa1r6_db	processed_transcript	3585600	3588801	.	-	.	ID=mRNA:LOC_Os09g07294.1;Note=13109.m00574;Gene=LOC_Os09g07294
+Chr9	MSU_osa1r6_db	CDS	3587903	3588763	.	-	0	Parent=mRNA:LOC_Os09g07294.1
+Chr9	MSU_osa1r6_db	CDS	3587274	3587777	.	-	0	Parent=mRNA:LOC_Os09g07294.1
+Chr9	MSU_osa1r6_db	CDS	3585851	3586663	.	-	0	Parent=mRNA:LOC_Os09g07294.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	3588764	3588801	.	-	.	Parent=mRNA:LOC_Os09g07294.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	3585600	3585850	.	-	.	Parent=mRNA:LOC_Os09g07294.1
+Chr9	Protein-DB	peptide_p	3588312	3588359	.	?	.	Parent=mRNA:LOC_Os09g07294.1:P999_34861
+Chr9	Protein-DB	peptide_p	3588129	3588161	.	?	.	Parent=mRNA:LOC_Os09g07294.1:P999_34862
+Chr9	Protein-DB	peptide_p	3586359	3586391	.	?	.	Parent=mRNA:LOC_Os09g07294.1:P999_34863
+Chr9	Protein-DB	peptide_p	3587751	3587786	.	?	.	Parent=mRNA:LOC_Os09g07294.1:P999_34864
+Chr9	Protein-DB	peptide_p	3587814	3587876	.	?	.	Parent=mRNA:LOC_Os09g07294.1:P999_34865
+Chr9	Protein-DB	peptide_p	3586125	3586145	.	?	.	Parent=mRNA:LOC_Os09g07294.1:P999_34866
+Chr9	Protein-DB	peptide_p	3586089	3586112	.	?	.	Parent=mRNA:LOC_Os09g07294.1:P999_34867

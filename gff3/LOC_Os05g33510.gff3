@@ -1,0 +1,8 @@
+Chr5	MSU_osa1r6_db	gene	19619216	19622083	.	+	.	ID=Gene:LOC_Os05g33510;Note=peptide+methionine+sulfoxide+reductase+msrB%2C+putative%2C+expressed;Alias=13105.t02972
+Chr5	MSU_osa1r6_db	processed_transcript	19619216	19622083	.	+	.	ID=mRNA:LOC_Os05g33510.1;Note=13105.m03464;Gene=LOC_Os05g33510
+Chr5	MSU_osa1r6_db	CDS	19619281	19619648	.	+	0	Parent=mRNA:LOC_Os05g33510.1
+Chr5	MSU_osa1r6_db	CDS	19621399	19621555	.	+	2	Parent=mRNA:LOC_Os05g33510.1
+Chr5	MSU_osa1r6_db	CDS	19621668	19621832	.	+	0	Parent=mRNA:LOC_Os05g33510.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	19619216	19619280	.	+	.	Parent=mRNA:LOC_Os05g33510.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	19621833	19622083	.	+	.	Parent=mRNA:LOC_Os05g33510.1
+Chr5	Protein-DB	peptide_p	19621428	19621481	.	?	.	Parent=mRNA:LOC_Os05g33510.1:P999_24821

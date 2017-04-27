@@ -1,0 +1,8 @@
+Chr1	MSU_osa1r6_db	gene	3590811	3595154	.	-	.	ID=Gene:LOC_Os01g07520;Note=proline-rich+family+protein%2C+putative%2C+expressed;Alias=13101.t00631
+Chr1	MSU_osa1r6_db	processed_transcript	3590811	3595154	.	-	.	ID=mRNA:LOC_Os01g07520.1;Note=13101.m00766;Gene=LOC_Os01g07520
+Chr1	MSU_osa1r6_db	CDS	3594688	3595008	.	-	0	Parent=mRNA:LOC_Os01g07520.1
+Chr1	MSU_osa1r6_db	CDS	3593522	3593800	.	-	0	Parent=mRNA:LOC_Os01g07520.1
+Chr1	MSU_osa1r6_db	CDS	3591171	3592313	.	-	0	Parent=mRNA:LOC_Os01g07520.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	3595009	3595154	.	-	.	Parent=mRNA:LOC_Os01g07520.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	3590811	3591170	.	-	.	Parent=mRNA:LOC_Os01g07520.1
+Chr1	Protein-DB	peptide_p	3594616	3594642	.	?	.	Parent=mRNA:LOC_Os01g07520.1:P999_518

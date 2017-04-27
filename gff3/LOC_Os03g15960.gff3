@@ -1,0 +1,12 @@
+Chr3	MSU_osa1r6_db	gene	8804505	8805539	.	+	.	ID=Gene:LOC_Os03g15960;Note=hsp20%2Falpha+crystallin+family+protein%2C+putative%2C+expressed;Alias=13103.t01401
+Chr3	MSU_osa1r6_db	processed_transcript	8804505	8805539	.	+	.	ID=mRNA:LOC_Os03g15960.1;Note=13103.m01885;Gene=LOC_Os03g15960
+Chr3	MSU_osa1r6_db	CDS	8804722	8805207	.	+	0	Parent=mRNA:LOC_Os03g15960.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	8804505	8804721	.	+	.	Parent=mRNA:LOC_Os03g15960.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	8805208	8805539	.	+	.	Parent=mRNA:LOC_Os03g15960.1
+Chr3	MSU_osa1r6_db	processed_transcript	8804505	8805539	.	+	.	ID=mRNA:LOC_Os03g15960.2;Note=13103.m01886;Gene=LOC_Os03g15960
+Chr3	MSU_osa1r6_db	CDS	8804722	8804868	.	+	0	Parent=mRNA:LOC_Os03g15960.2
+Chr3	MSU_osa1r6_db	CDS	8804911	8805207	.	+	0	Parent=mRNA:LOC_Os03g15960.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	8804505	8804721	.	+	.	Parent=mRNA:LOC_Os03g15960.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	8805208	8805539	.	+	.	Parent=mRNA:LOC_Os03g15960.2
+Chr3	Protein-DB	peptide_p	8804849	8804887	.	?	.	Parent=mRNA:LOC_Os03g15960.1:P999_14492
+Chr3	Protein-DB	peptide_p	8804963	8805007	.	?	.	Parent=mRNA:LOC_Os03g15960.1:P999_14493

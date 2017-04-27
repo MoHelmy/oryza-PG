@@ -1,0 +1,8 @@
+Chr4	MSU_osa1r6_db	gene	34328475	34330243	.	+	.	ID=Gene:LOC_Os04g57930;Note=thioredoxin%2C+putative%2C+expressed;Alias=13104.t05269
+Chr4	MSU_osa1r6_db	processed_transcript	34328475	34330243	.	+	.	ID=mRNA:LOC_Os04g57930.1;Note=13104.m06078;Gene=LOC_Os04g57930
+Chr4	MSU_osa1r6_db	CDS	34328532	34328867	.	+	0	Parent=mRNA:LOC_Os04g57930.1
+Chr4	MSU_osa1r6_db	CDS	34329737	34329943	.	+	0	Parent=mRNA:LOC_Os04g57930.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	34328475	34328531	.	+	.	Parent=mRNA:LOC_Os04g57930.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	34329944	34330243	.	+	.	Parent=mRNA:LOC_Os04g57930.1
+Chr4	Protein-DB	peptide_p	34328836	34328868	.	?	.	Parent=mRNA:LOC_Os04g57930.1:P999_22294
+Chr4	Protein-DB	peptide_p	34329897	34329941	.	?	.	Parent=mRNA:LOC_Os04g57930.1:P999_22295

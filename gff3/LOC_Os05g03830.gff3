@@ -1,0 +1,9 @@
+Chr5	MSU_osa1r6_db	gene	1704939	1707093	.	+	.	ID=Gene:LOC_Os05g03830;Note=aminotransferase%2C+putative%2C+expressed;Alias=13105.t00280
+Chr5	MSU_osa1r6_db	processed_transcript	1704939	1707093	.	+	.	ID=mRNA:LOC_Os05g03830.1;Note=13105.m00377;Gene=LOC_Os05g03830
+Chr5	MSU_osa1r6_db	CDS	1704991	1705419	.	+	0	Parent=mRNA:LOC_Os05g03830.1
+Chr5	MSU_osa1r6_db	CDS	1705530	1705961	.	+	0	Parent=mRNA:LOC_Os05g03830.1
+Chr5	MSU_osa1r6_db	CDS	1706322	1706858	.	+	0	Parent=mRNA:LOC_Os05g03830.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	1704939	1704990	.	+	.	Parent=mRNA:LOC_Os05g03830.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	1706859	1707093	.	+	.	Parent=mRNA:LOC_Os05g03830.1
+Chr5	Protein-DB	peptide_p	1705576	1705623	.	?	.	Parent=mRNA:LOC_Os05g03830.1:P999_22852
+Chr5	Protein-DB	peptide_p	1706545	1706580	.	?	.	Parent=mRNA:LOC_Os05g03830.1:P999_22853

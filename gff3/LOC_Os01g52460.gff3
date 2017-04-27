@@ -1,0 +1,15 @@
+Chr1	MSU_osa1r6_db	gene	30134718	30136701	.	+	.	ID=Gene:LOC_Os01g52460;Note=regulator+of+ribonuclease%2C+putative%2C+expressed;Alias=13101.t04593
+Chr1	MSU_osa1r6_db	processed_transcript	30134718	30136697	.	+	.	ID=mRNA:LOC_Os01g52460.1;Note=13101.m05489;Gene=LOC_Os01g52460
+Chr1	MSU_osa1r6_db	CDS	30136046	30136552	.	+	0	Parent=mRNA:LOC_Os01g52460.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	30134718	30135002	.	+	.	Parent=mRNA:LOC_Os01g52460.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	30136033	30136045	.	+	.	Parent=mRNA:LOC_Os01g52460.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	30136553	30136697	.	+	.	Parent=mRNA:LOC_Os01g52460.1
+Chr1	MSU_osa1r6_db	processed_transcript	30134718	30136701	.	+	.	ID=mRNA:LOC_Os01g52460.2;Note=13101.m15069;Gene=LOC_Os01g52460
+Chr1	MSU_osa1r6_db	CDS	30136046	30136552	.	+	0	Parent=mRNA:LOC_Os01g52460.2
+Chr1	MSU_osa1r6_db	five_prime_UTR	30134718	30134836	.	+	.	Parent=mRNA:LOC_Os01g52460.2
+Chr1	MSU_osa1r6_db	five_prime_UTR	30136033	30136045	.	+	.	Parent=mRNA:LOC_Os01g52460.2
+Chr1	MSU_osa1r6_db	three_prime_UTR	30136553	30136701	.	+	.	Parent=mRNA:LOC_Os01g52460.2
+Chr1	Protein-DB	peptide_p	30136482	30136535	.	?	.	Parent=mRNA:LOC_Os01g52460.1:P999_4062
+Chr1	Protein-DB	peptide_p	30136191	30136217	.	?	.	Parent=mRNA:LOC_Os01g52460.1:P999_4064
+Chr1	Protein-DB	peptide_p	30136122	30136154	.	?	.	Parent=mRNA:LOC_Os01g52460.1:P999_4065
+Chr1	Protein-DB	peptide_p	30136362	30136400	.	?	.	Parent=mRNA:LOC_Os01g52460.1:P999_4071

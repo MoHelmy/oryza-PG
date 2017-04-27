@@ -1,0 +1,10 @@
+Chr2	MSU_osa1r6_db	gene	30214659	30218121	.	+	.	ID=Gene:LOC_Os02g49450;Note=BSD+domain-containing+protein%2C+putative%2C+expressed;Alias=13102.t04571
+Chr2	MSU_osa1r6_db	processed_transcript	30214659	30218121	.	+	.	ID=mRNA:LOC_Os02g49450.1;Note=13102.m05606;Gene=LOC_Os02g49450
+Chr2	MSU_osa1r6_db	CDS	30214824	30215205	.	+	0	Parent=mRNA:LOC_Os02g49450.1
+Chr2	MSU_osa1r6_db	CDS	30215280	30215380	.	+	1	Parent=mRNA:LOC_Os02g49450.1
+Chr2	MSU_osa1r6_db	CDS	30216318	30216415	.	+	0	Parent=mRNA:LOC_Os02g49450.1
+Chr2	MSU_osa1r6_db	CDS	30217086	30217294	.	+	2	Parent=mRNA:LOC_Os02g49450.1
+Chr2	MSU_osa1r6_db	CDS	30217392	30217444	.	+	1	Parent=mRNA:LOC_Os02g49450.1
+Chr2	MSU_osa1r6_db	CDS	30217707	30217775	.	+	0	Parent=mRNA:LOC_Os02g49450.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	30214659	30214823	.	+	.	Parent=mRNA:LOC_Os02g49450.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	30217776	30218121	.	+	.	Parent=mRNA:LOC_Os02g49450.1

@@ -1,0 +1,12 @@
+Chr10	MSU_osa1r6_db	gene	18349270	18353990	.	+	.	ID=Gene:LOC_Os10g34540;Note=tetratricopeptide+repeat+protein+1%2C+putative%2C+expressed;Alias=13110.t02745
+Chr10	MSU_osa1r6_db	processed_transcript	18349270	18353990	.	+	.	ID=mRNA:LOC_Os10g34540.1;Note=13110.m03075;Gene=LOC_Os10g34540
+Chr10	MSU_osa1r6_db	CDS	18349466	18349639	.	+	0	Parent=mRNA:LOC_Os10g34540.1
+Chr10	MSU_osa1r6_db	CDS	18352156	18352335	.	+	0	Parent=mRNA:LOC_Os10g34540.1
+Chr10	MSU_osa1r6_db	CDS	18352802	18352928	.	+	0	Parent=mRNA:LOC_Os10g34540.1
+Chr10	MSU_osa1r6_db	CDS	18353065	18353178	.	+	1	Parent=mRNA:LOC_Os10g34540.1
+Chr10	MSU_osa1r6_db	CDS	18353532	18353647	.	+	1	Parent=mRNA:LOC_Os10g34540.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	18349270	18349465	.	+	.	Parent=mRNA:LOC_Os10g34540.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	18353648	18353990	.	+	.	Parent=mRNA:LOC_Os10g34540.1
+Chr10	Protein-DB	peptide_p	18353544	18353570	.	?	.	Parent=mRNA:LOC_Os10g34540.1:P999_38338
+Chr10	Protein-DB	peptide_p	18352229	18352294	.	?	.	Parent=mRNA:LOC_Os10g34540.1:P999_38340
+Chr10	Protein-DB	peptide_p	18352202	18352228	.	?	.	Parent=mRNA:LOC_Os10g34540.1:P999_38343

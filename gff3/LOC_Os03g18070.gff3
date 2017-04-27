@@ -1,0 +1,12 @@
+Chr3	MSU_osa1r6_db	gene	10079184	10082387	.	-	.	ID=Gene:LOC_Os03g18070;Note=omega-3+fatty+acid+desaturase%2C+chloroplast+precursor%2C+putative%2C+expressed;Alias=13103.t01599
+Chr3	MSU_osa1r6_db	processed_transcript	10079184	10082387	.	-	.	ID=mRNA:LOC_Os03g18070.1;Note=13103.m02163;Gene=LOC_Os03g18070
+Chr3	MSU_osa1r6_db	CDS	10081739	10082271	.	-	0	Parent=mRNA:LOC_Os03g18070.1
+Chr3	MSU_osa1r6_db	CDS	10081539	10081628	.	-	2	Parent=mRNA:LOC_Os03g18070.1
+Chr3	MSU_osa1r6_db	CDS	10081367	10081433	.	-	2	Parent=mRNA:LOC_Os03g18070.1
+Chr3	MSU_osa1r6_db	CDS	10081196	10081288	.	-	0	Parent=mRNA:LOC_Os03g18070.1
+Chr3	MSU_osa1r6_db	CDS	10080909	10081094	.	-	0	Parent=mRNA:LOC_Os03g18070.1
+Chr3	MSU_osa1r6_db	CDS	10080727	10080807	.	-	0	Parent=mRNA:LOC_Os03g18070.1
+Chr3	MSU_osa1r6_db	CDS	10079717	10079854	.	-	0	Parent=mRNA:LOC_Os03g18070.1
+Chr3	MSU_osa1r6_db	CDS	10079438	10079626	.	-	0	Parent=mRNA:LOC_Os03g18070.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	10082272	10082387	.	-	.	Parent=mRNA:LOC_Os03g18070.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	10079184	10079437	.	-	.	Parent=mRNA:LOC_Os03g18070.1

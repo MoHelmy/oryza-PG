@@ -1,0 +1,11 @@
+Chr1	MSU_osa1r6_db	gene	23455030	23456993	.	+	.	ID=Gene:LOC_Os01g41430;Note=UDP-glucoronosyl+and+UDP-glucosyl+transferase%2C+putative%2C+expressed;Alias=13101.t03583
+Chr1	MSU_osa1r6_db	processed_transcript	23455030	23456993	.	+	.	ID=mRNA:LOC_Os01g41430.1;Note=13101.m04247;Gene=LOC_Os01g41430
+Chr1	MSU_osa1r6_db	CDS	23455111	23456604	.	+	0	Parent=mRNA:LOC_Os01g41430.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	23455030	23455110	.	+	.	Parent=mRNA:LOC_Os01g41430.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	23456605	23456993	.	+	.	Parent=mRNA:LOC_Os01g41430.1
+Chr1	Protein-DB	peptide_p	23455775	23455837	.	?	.	Parent=mRNA:LOC_Os01g41430.1:P999_2846
+Chr1	Protein-DB	peptide_p	23456375	23456440	.	?	.	Parent=mRNA:LOC_Os01g41430.1:P999_2847
+Chr1	Protein-DB	peptide_p	23456303	23456329	.	?	.	Parent=mRNA:LOC_Os01g41430.1:P999_2848
+Chr1	Protein-DB	peptide_p	23455556	23455588	.	?	.	Parent=mRNA:LOC_Os01g41430.1:P999_2849
+Chr1	Protein-DB	peptide_p	23455907	23455948	.	?	.	Parent=mRNA:LOC_Os01g41430.1:P999_2859
+Chr1	Protein-DB	peptide_p	23456330	23456350	.	?	.	Parent=mRNA:LOC_Os01g41430.1:P999_2862

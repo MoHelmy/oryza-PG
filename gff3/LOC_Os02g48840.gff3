@@ -1,0 +1,10 @@
+Chr2	MSU_osa1r6_db	gene	29876197	29879380	.	+	.	ID=Gene:LOC_Os02g48840;Note=dual+specificity+protein+phosphatase%2C+putative%2C+expressed;Alias=13102.t04509
+Chr2	MSU_osa1r6_db	processed_transcript	29876197	29879380	.	+	.	ID=mRNA:LOC_Os02g48840.1;Note=13102.m05528;Gene=LOC_Os02g48840
+Chr2	MSU_osa1r6_db	CDS	29876352	29876591	.	+	0	Parent=mRNA:LOC_Os02g48840.1
+Chr2	MSU_osa1r6_db	CDS	29877862	29877961	.	+	0	Parent=mRNA:LOC_Os02g48840.1
+Chr2	MSU_osa1r6_db	CDS	29878216	29878273	.	+	1	Parent=mRNA:LOC_Os02g48840.1
+Chr2	MSU_osa1r6_db	CDS	29878358	29878464	.	+	2	Parent=mRNA:LOC_Os02g48840.1
+Chr2	MSU_osa1r6_db	CDS	29878817	29879118	.	+	1	Parent=mRNA:LOC_Os02g48840.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	29876197	29876351	.	+	.	Parent=mRNA:LOC_Os02g48840.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	29879119	29879380	.	+	.	Parent=mRNA:LOC_Os02g48840.1
+Chr2	Protein-DB	peptide_p	29876512	29876550	.	?	.	Parent=mRNA:LOC_Os02g48840.1:P999_11207

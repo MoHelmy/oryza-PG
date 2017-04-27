@@ -1,0 +1,7 @@
+Chr2	MSU_osa1r6_db	gene	5550032	5552116	.	-	.	ID=Gene:LOC_Os02g10540;Note=ribosomal+protein+L7%2FL12+C-terminal+domain+containing+protein%2C+expressed;Alias=13102.t00911
+Chr2	MSU_osa1r6_db	processed_transcript	5550032	5552116	.	-	.	ID=mRNA:LOC_Os02g10540.1;Note=13102.m01176;Gene=LOC_Os02g10540
+Chr2	MSU_osa1r6_db	CDS	5550472	5551053	.	-	0	Parent=mRNA:LOC_Os02g10540.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	5551950	5552116	.	-	.	Parent=mRNA:LOC_Os02g10540.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	5551054	5551124	.	-	.	Parent=mRNA:LOC_Os02g10540.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	5550032	5550471	.	-	.	Parent=mRNA:LOC_Os02g10540.1
+Chr2	Protein-DB	peptide_p	5551297	5551353	.	?	.	Parent=mRNA:LOC_Os02g10540.1:P999_7965

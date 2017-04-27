@@ -1,0 +1,6 @@
+Chr10	MSU_osa1r6_db	gene	17113303	17114532	.	-	.	ID=Gene:LOC_Os10g32820;Note=60S+ribosomal+protein+L21-2%2C+putative%2C+expressed;Alias=13110.t02581
+Chr10	MSU_osa1r6_db	processed_transcript	17113303	17114532	.	-	.	ID=mRNA:LOC_Os10g32820.1;Note=13110.m02876;Gene=LOC_Os10g32820
+Chr10	MSU_osa1r6_db	CDS	17114296	17114532	.	-	0	Parent=mRNA:LOC_Os10g32820.1
+Chr10	MSU_osa1r6_db	CDS	17113303	17113560	.	-	0	Parent=mRNA:LOC_Os10g32820.1
+Chr10	Protein-DB	peptide_p	17113400	17113432	.	?	.	Parent=mRNA:LOC_Os10g32820.1:P999_38155
+Chr10	Protein-DB	peptide_p	17113409	17113432	.	?	.	Parent=mRNA:LOC_Os10g32820.1:P999_38156

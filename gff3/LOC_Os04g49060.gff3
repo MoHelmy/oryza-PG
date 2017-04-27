@@ -1,0 +1,6 @@
+Chr4	MSU_osa1r6_db	gene	29062231	29064488	.	+	.	ID=Gene:LOC_Os04g49060;Note=H-BTB3+-+Bric-a-Brac%2C+Tramtrack%2C+Broad+Complex+BTB+domain+with+H+family+conserved+sequence%2C+expressed;Alias=13104.t04416
+Chr4	MSU_osa1r6_db	processed_transcript	29062231	29064488	.	+	.	ID=mRNA:LOC_Os04g49060.1;Note=13104.m05008;Gene=LOC_Os04g49060
+Chr4	MSU_osa1r6_db	CDS	29062339	29063136	.	+	0	Parent=mRNA:LOC_Os04g49060.1
+Chr4	MSU_osa1r6_db	CDS	29063221	29064219	.	+	0	Parent=mRNA:LOC_Os04g49060.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	29062231	29062338	.	+	.	Parent=mRNA:LOC_Os04g49060.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	29064220	29064488	.	+	.	Parent=mRNA:LOC_Os04g49060.1

@@ -1,0 +1,7 @@
+Chr1	MSU_osa1r6_db	gene	36056301	36058591	.	-	.	ID=Gene:LOC_Os01g62310;Note=homeobox+domain+containing+protein%2C+expressed;Alias=13101.t05530
+Chr1	MSU_osa1r6_db	processed_transcript	36056301	36058591	.	-	.	ID=mRNA:LOC_Os01g62310.1;Note=13101.m06667;Gene=LOC_Os01g62310
+Chr1	MSU_osa1r6_db	CDS	36058041	36058524	.	-	0	Parent=mRNA:LOC_Os01g62310.1
+Chr1	MSU_osa1r6_db	CDS	36056545	36057002	.	-	1	Parent=mRNA:LOC_Os01g62310.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	36058525	36058591	.	-	.	Parent=mRNA:LOC_Os01g62310.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	36056301	36056544	.	-	.	Parent=mRNA:LOC_Os01g62310.1
+Chr1	Protein-DB	peptide_p	36056516	36056548	.	?	.	Parent=mRNA:LOC_Os01g62310.1:P999_4943

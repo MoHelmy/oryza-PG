@@ -1,0 +1,11 @@
+Chr2	MSU_osa1r6_db	gene	135301	138097	.	-	.	ID=Gene:LOC_Os02g01250;Note=LSM+domain+containing+protein%2C+expressed;Alias=13102.t00025
+Chr2	MSU_osa1r6_db	processed_transcript	135301	138097	.	-	.	ID=mRNA:LOC_Os02g01250.1;Note=13102.m00040;Gene=LOC_Os02g01250
+Chr2	MSU_osa1r6_db	CDS	137762	137920	.	-	0	Parent=mRNA:LOC_Os02g01250.1
+Chr2	MSU_osa1r6_db	CDS	137559	137678	.	-	0	Parent=mRNA:LOC_Os02g01250.1
+Chr2	MSU_osa1r6_db	CDS	137426	137482	.	-	0	Parent=mRNA:LOC_Os02g01250.1
+Chr2	MSU_osa1r6_db	CDS	135655	135717	.	-	0	Parent=mRNA:LOC_Os02g01250.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	137921	138097	.	-	.	Parent=mRNA:LOC_Os02g01250.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	135301	135654	.	-	.	Parent=mRNA:LOC_Os02g01250.1
+Chr2	Protein-DB	peptide_p	135730	135759	.	?	.	Parent=mRNA:LOC_Os02g01250.1:P999_6285
+Chr2	Protein-DB	peptide_p	135775	135801	.	?	.	Parent=mRNA:LOC_Os02g01250.1:P999_6287
+Chr2	Protein-DB	peptide_p	135509	135553	.	?	.	Parent=mRNA:LOC_Os02g01250.1:P999_6290

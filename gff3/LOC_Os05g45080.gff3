@@ -1,0 +1,6 @@
+Chr5	MSU_osa1r6_db	gene	26130293	26132141	.	+	.	ID=Gene:LOC_Os05g45080;Note=anthocyanidin+5%2C3-O-glucosyltransferase%2C+putative%2C+expressed;Alias=13105.t04036
+Chr5	MSU_osa1r6_db	processed_transcript	26130293	26132141	.	+	.	ID=mRNA:LOC_Os05g45080.1;Note=13105.m04783;Gene=LOC_Os05g45080
+Chr5	MSU_osa1r6_db	CDS	26130411	26131853	.	+	0	Parent=mRNA:LOC_Os05g45080.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	26130293	26130410	.	+	.	Parent=mRNA:LOC_Os05g45080.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	26131854	26132141	.	+	.	Parent=mRNA:LOC_Os05g45080.1
+Chr5	Protein-DB	peptide_p	26131039	26131077	.	?	.	Parent=mRNA:LOC_Os05g45080.1:P999_25829

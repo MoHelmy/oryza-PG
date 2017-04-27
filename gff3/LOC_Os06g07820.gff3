@@ -1,0 +1,6 @@
+Chr6	MSU_osa1r6_db	gene	3794465	3797624	.	-	.	ID=Gene:LOC_Os06g07820;Note=BSD+domain+containing+protein%2C+expressed;Alias=13106.t00664
+Chr6	MSU_osa1r6_db	processed_transcript	3794465	3797624	.	-	.	ID=mRNA:LOC_Os06g07820.1;Note=13106.m00815;Gene=LOC_Os06g07820
+Chr6	MSU_osa1r6_db	CDS	3797138	3797624	.	-	0	Parent=mRNA:LOC_Os06g07820.1
+Chr6	MSU_osa1r6_db	CDS	3796218	3796387	.	-	1	Parent=mRNA:LOC_Os06g07820.1
+Chr6	MSU_osa1r6_db	CDS	3794732	3795247	.	-	0	Parent=mRNA:LOC_Os06g07820.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	3794465	3794731	.	-	.	Parent=mRNA:LOC_Os06g07820.1

@@ -1,0 +1,12 @@
+Chr6	MSU_osa1r6_db	gene	25213054	25214328	.	+	.	ID=Gene:LOC_Os06g42000;Note=peroxiredoxin%2C+putative%2C+expressed;Alias=13106.t03870
+Chr6	MSU_osa1r6_db	processed_transcript	25213054	25214328	.	+	.	ID=mRNA:LOC_Os06g42000.1;Note=13106.m04392;Gene=LOC_Os06g42000
+Chr6	MSU_osa1r6_db	CDS	25213151	25213849	.	+	0	Parent=mRNA:LOC_Os06g42000.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	25213054	25213150	.	+	.	Parent=mRNA:LOC_Os06g42000.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	25213850	25214328	.	+	.	Parent=mRNA:LOC_Os06g42000.1
+Chr6	Protein-DB	peptide_p	25213464	25213517	.	?	.	Parent=mRNA:LOC_Os06g42000.1:P999_28927
+Chr6	Protein-DB	peptide_p	25213746	25213781	.	?	.	Parent=mRNA:LOC_Os06g42000.1:P999_28928
+Chr6	Protein-DB	peptide_p	25213686	25213739	.	?	.	Parent=mRNA:LOC_Os06g42000.1:P999_28933
+Chr6	Protein-DB	peptide_p	25213782	25213841	.	?	.	Parent=mRNA:LOC_Os06g42000.1:P999_28941
+Chr6	Protein-DB	peptide_p	25213380	25213430	.	?	.	Parent=mRNA:LOC_Os06g42000.1:P999_28943
+Chr6	Protein-DB	peptide_p	25213623	25213685	.	?	.	Parent=mRNA:LOC_Os06g42000.1:P999_28946
+Chr6	Protein-DB	peptide_p	25213749	25213781	.	?	.	Parent=mRNA:LOC_Os06g42000.1:P999_28949

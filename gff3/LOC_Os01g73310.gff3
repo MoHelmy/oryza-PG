@@ -1,0 +1,11 @@
+Chr1	MSU_osa1r6_db	gene	42483029	42486407	.	-	.	ID=Gene:LOC_Os01g73310;Note=actin%2C+putative%2C+expressed;Alias=13101.t06547
+Chr1	MSU_osa1r6_db	processed_transcript	42483029	42486407	.	-	.	ID=mRNA:LOC_Os01g73310.1;Note=13101.m08001;Gene=LOC_Os01g73310
+Chr1	MSU_osa1r6_db	CDS	42484899	42484958	.	-	0	Parent=mRNA:LOC_Os01g73310.1
+Chr1	MSU_osa1r6_db	CDS	42484419	42484812	.	-	0	Parent=mRNA:LOC_Os01g73310.1
+Chr1	MSU_osa1r6_db	CDS	42483588	42484201	.	-	1	Parent=mRNA:LOC_Os01g73310.1
+Chr1	MSU_osa1r6_db	CDS	42483365	42483430	.	-	0	Parent=mRNA:LOC_Os01g73310.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	42486268	42486407	.	-	.	Parent=mRNA:LOC_Os01g73310.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	42484959	42484974	.	-	.	Parent=mRNA:LOC_Os01g73310.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	42483029	42483364	.	-	.	Parent=mRNA:LOC_Os01g73310.1
+Chr1	Protein-DB	peptide_p	42485502	42485549	.	?	.	Parent=mRNA:LOC_Os01g73310.1:P999_6109
+Chr1	Protein-DB	peptide_p	42485376	42485405	.	?	.	Parent=mRNA:LOC_Os01g73310.1:P999_6110

@@ -1,0 +1,13 @@
+Chr4	MSU_osa1r6_db	gene	34692692	34696529	.	-	.	ID=Gene:LOC_Os04g58640;Note=cleavage+and+polyadenylation+specificity+factor+subunit+5%2C+putative%2C+expressed;Alias=13104.t05337
+Chr4	MSU_osa1r6_db	processed_transcript	34692692	34696529	.	-	.	ID=mRNA:LOC_Os04g58640.1;Note=13104.m06164;Gene=LOC_Os04g58640
+Chr4	MSU_osa1r6_db	CDS	34696151	34696275	.	-	0	Parent=mRNA:LOC_Os04g58640.1
+Chr4	MSU_osa1r6_db	CDS	34695398	34695443	.	-	2	Parent=mRNA:LOC_Os04g58640.1
+Chr4	MSU_osa1r6_db	CDS	34695151	34695244	.	-	0	Parent=mRNA:LOC_Os04g58640.1
+Chr4	MSU_osa1r6_db	CDS	34694981	34695054	.	-	1	Parent=mRNA:LOC_Os04g58640.1
+Chr4	MSU_osa1r6_db	CDS	34694202	34694288	.	-	0	Parent=mRNA:LOC_Os04g58640.1
+Chr4	MSU_osa1r6_db	CDS	34693809	34693919	.	-	0	Parent=mRNA:LOC_Os04g58640.1
+Chr4	MSU_osa1r6_db	CDS	34693140	34693211	.	-	0	Parent=mRNA:LOC_Os04g58640.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	34696276	34696529	.	-	.	Parent=mRNA:LOC_Os04g58640.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	34692692	34693139	.	-	.	Parent=mRNA:LOC_Os04g58640.1
+Chr4	Protein-DB	peptide_p	34695372	34695413	.	?	.	Parent=mRNA:LOC_Os04g58640.1:P999_22493
+Chr4	Protein-DB	peptide_p	34696014	34696055	.	?	.	Parent=mRNA:LOC_Os04g58640.1:P999_22494

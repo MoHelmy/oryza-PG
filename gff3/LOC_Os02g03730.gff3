@@ -1,0 +1,13 @@
+Chr2	MSU_osa1r6_db	gene	1563393	1565446	.	-	.	ID=Gene:LOC_Os02g03730;Note=SWIB%2FMDM2+domain+containing+protein%2C+expressed;Alias=13102.t00274
+Chr2	MSU_osa1r6_db	processed_transcript	1563393	1565446	.	-	.	ID=mRNA:LOC_Os02g03730.1;Note=13102.m00366;Gene=LOC_Os02g03730
+Chr2	MSU_osa1r6_db	CDS	1565093	1565362	.	-	0	Parent=mRNA:LOC_Os02g03730.1
+Chr2	MSU_osa1r6_db	CDS	1563805	1563930	.	-	0	Parent=mRNA:LOC_Os02g03730.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	1565363	1565446	.	-	.	Parent=mRNA:LOC_Os02g03730.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	1563393	1563804	.	-	.	Parent=mRNA:LOC_Os02g03730.1
+Chr2	Protein-DB	peptide_p	1563622	1563666	.	?	.	Parent=mRNA:LOC_Os02g03730.1:P999_6919
+Chr2	Protein-DB	peptide_p	1564979	1565002	.	?	.	Parent=mRNA:LOC_Os02g03730.1:P999_6921
+Chr2	Protein-DB	peptide_p	1563625	1563666	.	?	.	Parent=mRNA:LOC_Os02g03730.1:P999_6922
+Chr2	Protein-DB	peptide_p	1564904	1564927	.	?	.	Parent=mRNA:LOC_Os02g03730.1:P999_6923
+Chr2	Protein-DB	peptide_p	1564928	1564954	.	?	.	Parent=mRNA:LOC_Os02g03730.1:P999_6924
+Chr2	Protein-DB	peptide_p	1563712	1563732	.	?	.	Parent=mRNA:LOC_Os02g03730.1:P999_6925
+Chr2	Protein-DB	peptide_p	1565003	1565026	.	?	.	Parent=mRNA:LOC_Os02g03730.1:P999_6930

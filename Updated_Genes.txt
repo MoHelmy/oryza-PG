@@ -1,0 +1,59 @@
+Name	Novel	GeneModels	Total pep	Novel Pep	PDB	CDB	TDB	GDB	ASP	DSP	IP	Chromosome	Desc
+LOC_Os01g40340	1	3	9	1	8	1	0	0	0	0	0	1	protein SIT4 phosphatase-associated protein domain containing protein, expressed
+LOC_Os01g67860	1	1	32	1	31	1	0	0	0	0	1	1	protein fructose-bisphospate aldolase isozyme, putative, expressed
+LOC_Os04g18010	1	3	4	1	3	1	0	0	0	0	0	4	protein cleavage and polyadenylation specificity factor subunit 1, putative, expressed
+LOC_Os04g27950	1	1	4	2	2	2	0	0	0	0	0	4	protein expressed protein
+LOC_Os04g28090	1	1	11	2	9	2	0	0	0	0	0	4	protein MYB family transcription factor, putative, expressed
+LOC_Os04g31620	3	1	4	3	1	3	0	0	0	0	0	4	protein retrotransposon protein, putative, unclassified, expressed
+LOC_Os04g42600	1	2	10	1	9	1	0	0	0	0	1	4	protein polyadenylate-binding protein, putative, expressed
+LOC_Os04g51090	1	1	13	1	12	0	1	0	0	0	1	4	protein tRNA-splicing endonuclease positive effector-related, putative, expressed
+LOC_Os07g01020	1	1	20	1	19	1	0	0	0	0	0	7	protein SOR/SNZ family protein, putative, expressed
+LOC_Os07g48960	2	1	16	2	14	0	2	0	1	1	0	7	protein OsLonP3 - Putative Lon protease homologue, expressed
+LOC_Os11g26850	4	2	34	4	30	4	0	0	0	0	1	11	protein erythronate-4-phosphate dehydrogenase, putative, expressed
+LOC_Os03g63410	1	2	22	1	21	1	0	0	0	0	0	3	protein elongation factor Tu, putative, expressed
+LOC_Os02g50799	3	1	18	3	15	3	0	0	0	1	2	2	protein nuclear-pore anchor, putative, expressed
+LOC_Os03g28330	1	5	45	1	44	1	0	0	0	1	0	3	protein sucrose synthase, putative, expressed
+LOC_Os03g40010	1	1	17	1	16	1	0	0	0	0	1	3	protein DEK C terminal domain containing protein, expressed
+LOC_Os03g44484	7	2	19	7	12	0	7	0	0	0	7	3	protein DNA-directed RNA polymerase II subunit RPB2, putative, expressed
+LOC_Os03g58050	1	1	12	1	11	1	0	0	0	0	1	3	protein ribosomal protein S13p/S18e, putative, expressed
+LOC_Os04g02820	1	3	25	2	23	2	0	0	0	1	0	4	protein elongation factor, putative, expressed
+LOC_Os07g31450	1	1	2	1	1	0	1	0	0	0	1	7	protein CHR4/MI-2-LIKE, putative, expressed
+LOC_Os04g40874	1	1	4	1	3	1	0	0	0	0	0	4	protein glucose-6-phosphate 1-dehydrogenase, cytoplasmic isoform, putative, expressed
+LOC_Os04g58280	2	2	10	2	8	2	0	0	0	0	0	4	protein stem-specific protein TSJT1, putative, expressed
+LOC_Os05g39310	1	1	24	1	23	1	0	0	0	1	0	5	protein thiamine pyrophosphate enzyme, C-terminal TPP binding domain containing protein
+LOC_Os06g08480	1	1	10	1	9	1	0	0	0	0	1	6	protein CHD3-type chromatin-remodeling factor PICKLE, putative, expressed
+LOC_Os07g43316	2	2	8	2	6	2	0	0	0	0	0	7	protein SAP domain-containing protein, putative, expressed
+LOC_Os09g30418	1	1	63	2	61	2	0	0	0	0	1	9	protein heat shock protein, putative
+LOC_Os10g02380	1	1	6	1	5	0	1	0	0	0	1	10	protein oxidoreductase, aldo/keto reductase family protein, putative, expressed
+LOC_Os10g08550	2	3	46	2	44	2	0	0	0	2	0	10	protein enolase, putative, expressed
+LOC_Os10g38489	5	1	8	5	3	0	5	0	0	0	5	10	protein glutathione S-transferase GSTU6, putative, expressed
+LOC_Os03g51140	2	1	33	2	31	2	0	0	0	0	0	3	protein HEAT repeat family protein, putative, expressed
+LOC_Os07g33240	1	1	9	1	8	1	0	0	0	1	0	7	protein endoribonuclease, putative, expressed
+LOC_Os10g36490	1	1	9	1	8	1	0	0	0	0	0	10	protein HEAT repeat family protein, putative, expressed
+LOC_Os11g03470	1	4	12	1	11	1	0	0	0	1	0	11	protein bifunctional aspartokinase/homoserine dehydrogenase, putative, expressed
+LOC_Os11g14170	1	1	2	1	1	0	1	0	0	0	1	11	protein OsDegp12 - Putative Deg protease homologue, expressed
+LOC_Os11g26860	4	1	9	4	5	4	0	0	0	0	0	11	protein serine hydroxymethyltransferase, mitochondrial precursor, putative, expressed
+LOC_Os07g31340	1	3	10	1	9	1	0	0	0	0	0	7	protein regulator of nonsense transcripts 1, putative, expressed
+LOC_Os06g50300	1	1	31	1	30	1	0	0	0	0	1	6	protein heat shock protein, putative, expressed
+LOC_Os09g29404	3	3	7	3	4	3	0	0	0	0	3	9	protein glycogen operon protein glgX, putative, expressed
+LOC_Os09g31180	1	2	10	1	9	1	0	0	0	0	0	9	protein ribosomal protein L6, putative, expressed
+LOC_Os04g56646	3	1	5	4	1	4	0	0	0	0	0	4	protein MEE34, putative, expressed
+LOC_Os04g39420	1	1	3	1	2	1	0	0	0	0	0	4	protein 6-phosphofructokinase 2, putative, expressed
+LOC_Os05g43252	3	2	3	3	0	3	0	0	0	0	0	5	protein expressed protein
+LOC_Os05g43374	2	2	2	2	0	2	0	0	0	0	0	5	protein pseudouridylate synthase, putative, expressed
+LOC_Os05g49880	1	2	12	1	11	1	0	0	0	0	0	5	protein lactate/malate dehydrogenase, putative, expressed
+LOC_Os06g16270	1	1	2	2	0	2	0	0	0	0	0	6	protein heat shock factor binding protein 2, putative, expressed
+LOC_Os06g30310	1	1	14	1	13	0	1	0	0	0	1	6	protein alpha-glucan water dikinase, chloroplast precursor, putative, expressed
+LOC_Os03g01020	2	1	2	2	0	2	0	0	0	0	0	3	protein pectinesterase inhibitor domain containing protein, putative, expressed
+LOC_Os03g58430	1	1	8	1	7	1	0	0	1	0	0	3	protein 40S ribosomal protein S15, putative, expressed
+LOC_Os04g32020	1	3	22	1	21	1	0	0	0	0	0	4	protein 2-oxoglutarate dehydrogenase E1 component, mitochondrial precursor, putative, expressed
+LOC_Os01g53520	1	2	4	1	3	0	1	0	0	0	1	1	protein reticulon domain containing protein, putative, expressed
+LOC_Os02g03440	1	1	3	1	2	1	0	0	0	0	0	2	protein LSM domain containing protein, expressed
+LOC_Os02g18850	1	1	5	1	4	1	0	0	0	0	1	2	protein OsPOP5 - Putative Prolyl Oligopeptidase homologue, expressed
+LOC_Os02g27769	1	1	4	1	3	1	0	0	0	1	0	2	protein 40S ribosomal protein S27, putative, expressed
+LOC_Os02g40514	1	2	5	1	4	1	0	0	0	0	0	2	protein h/ACA ribonucleoprotein complex subunit 3, putative, expressed
+LOC_Os02g44510	1	3	11	1	10	1	0	0	0	0	0	2	protein UDP-glucose glycoprotein glucosyltransferase 1 precursor, putative, expressed
+LOC_Os02g52290	3	1	8	3	5	3	0	0	0	0	3	2	protein peptidyl-prolyl cis-trans isomerase, FKBP-type, putative, expressed
+LOC_Os01g05970	1	1	2	1	1	1	0	0	0	0	1	1	protein OsFBO1 - F-box and other domain containing protein, expressed
+LOC_Os01g33204	2	1	2	2	0	2	0	0	0	0	0	1	protein retrotransposon protein, putative, unclassified, expressed
+LOC_Os01g50960	1	1	8	1	7	1	0	0	0	0	0	1	protein RNA polymerase II transcriptional coactivator KELP, putative, expressed

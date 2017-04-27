@@ -1,0 +1,6 @@
+Chr5	MSU_osa1r6_db	gene	23222054	23223178	.	+	.	ID=Gene:LOC_Os05g39670;Note=prenylated+rab+acceptor%2C+putative%2C+expressed;Alias=13105.t03541
+Chr5	MSU_osa1r6_db	processed_transcript	23222054	23223178	.	+	.	ID=mRNA:LOC_Os05g39670.1;Note=13105.m04184;Gene=LOC_Os05g39670
+Chr5	MSU_osa1r6_db	CDS	23222154	23222816	.	+	0	Parent=mRNA:LOC_Os05g39670.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	23222054	23222153	.	+	.	Parent=mRNA:LOC_Os05g39670.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	23222817	23223178	.	+	.	Parent=mRNA:LOC_Os05g39670.1
+Chr5	Protein-DB	peptide_p	23222356	23222400	.	?	.	Parent=mRNA:LOC_Os05g39670.1:P999_25357

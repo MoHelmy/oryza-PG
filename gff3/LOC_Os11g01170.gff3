@@ -1,0 +1,14 @@
+Chr11	MSU_osa1r6_db	gene	99824	103177	.	+	.	ID=Gene:LOC_Os11g01170;Note=tonneau+1b%2C+putative%2C+expressed;Alias=13111.t00015
+Chr11	MSU_osa1r6_db	processed_transcript	99824	103177	.	+	.	ID=mRNA:LOC_Os11g01170.1;Note=13111.m00024;Gene=LOC_Os11g01170
+Chr11	MSU_osa1r6_db	CDS	99857	100099	.	+	0	Parent=mRNA:LOC_Os11g01170.1
+Chr11	MSU_osa1r6_db	CDS	100640	100772	.	+	0	Parent=mRNA:LOC_Os11g01170.1
+Chr11	MSU_osa1r6_db	CDS	101090	101178	.	+	1	Parent=mRNA:LOC_Os11g01170.1
+Chr11	MSU_osa1r6_db	CDS	101279	101401	.	+	0	Parent=mRNA:LOC_Os11g01170.1
+Chr11	MSU_osa1r6_db	CDS	102171	102310	.	+	0	Parent=mRNA:LOC_Os11g01170.1
+Chr11	MSU_osa1r6_db	CDS	102398	102423	.	+	2	Parent=mRNA:LOC_Os11g01170.1
+Chr11	MSU_osa1r6_db	CDS	102501	102657	.	+	1	Parent=mRNA:LOC_Os11g01170.1
+Chr11	MSU_osa1r6_db	CDS	102739	102763	.	+	2	Parent=mRNA:LOC_Os11g01170.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	99824	99856	.	+	.	Parent=mRNA:LOC_Os11g01170.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	102764	103177	.	+	.	Parent=mRNA:LOC_Os11g01170.1
+Chr11	Protein-DB	peptide_p	101346	101396	.	?	.	Parent=mRNA:LOC_Os11g01170.1:P999_38985
+Chr11	Protein-DB	peptide_p	102558	102593	.	?	.	Parent=mRNA:LOC_Os11g01170.1:P999_38986

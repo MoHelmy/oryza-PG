@@ -1,0 +1,7 @@
+Chr2	MSU_osa1r6_db	gene	25690955	25693276	.	-	.	ID=Gene:LOC_Os02g42740;Note=cytochrome+b5-like+Heme%2FSteroid+binding+domain+containing+protein%2C+expressed;Alias=13102.t03887
+Chr2	MSU_osa1r6_db	processed_transcript	25690955	25693276	.	-	.	ID=mRNA:LOC_Os02g42740.1;Note=13102.m04741;Gene=LOC_Os02g42740
+Chr2	MSU_osa1r6_db	CDS	25692119	25692993	.	-	0	Parent=mRNA:LOC_Os02g42740.1
+Chr2	MSU_osa1r6_db	CDS	25691275	25691971	.	-	2	Parent=mRNA:LOC_Os02g42740.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	25692994	25693276	.	-	.	Parent=mRNA:LOC_Os02g42740.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	25690955	25691274	.	-	.	Parent=mRNA:LOC_Os02g42740.1
+Chr2	Protein-DB	peptide_p	25692085	25692114	.	?	.	Parent=mRNA:LOC_Os02g42740.1:P999_10362

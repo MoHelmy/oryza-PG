@@ -1,0 +1,13 @@
+Chr3	MSU_osa1r6_db	gene	2068450	2072226	.	+	.	ID=Gene:LOC_Os03g04460;Note=outer+mitochondrial+membrane+porin%2C+putative%2C+expressed;Alias=13103.t00329
+Chr3	MSU_osa1r6_db	processed_transcript	2068450	2072226	.	+	.	ID=mRNA:LOC_Os03g04460.1;Note=13103.m00456;Gene=LOC_Os03g04460
+Chr3	MSU_osa1r6_db	CDS	2068890	2068938	.	+	0	Parent=mRNA:LOC_Os03g04460.1
+Chr3	MSU_osa1r6_db	CDS	2069594	2069661	.	+	1	Parent=mRNA:LOC_Os03g04460.1
+Chr3	MSU_osa1r6_db	CDS	2069751	2069861	.	+	0	Parent=mRNA:LOC_Os03g04460.1
+Chr3	MSU_osa1r6_db	CDS	2070373	2070459	.	+	0	Parent=mRNA:LOC_Os03g04460.1
+Chr3	MSU_osa1r6_db	CDS	2070685	2070893	.	+	0	Parent=mRNA:LOC_Os03g04460.1
+Chr3	MSU_osa1r6_db	CDS	2071324	2071630	.	+	2	Parent=mRNA:LOC_Os03g04460.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	2068450	2068599	.	+	.	Parent=mRNA:LOC_Os03g04460.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	2068859	2068889	.	+	.	Parent=mRNA:LOC_Os03g04460.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	2071631	2072226	.	+	.	Parent=mRNA:LOC_Os03g04460.1
+Chr3	Protein-DB	peptide_p	2071350	2071415	.	?	.	Parent=mRNA:LOC_Os03g04460.1:P999_12885
+Chr3	Protein-DB	peptide_p	2070869	2070895	.	?	.	Parent=mRNA:LOC_Os03g04460.1:P999_12886

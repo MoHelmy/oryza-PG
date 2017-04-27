@@ -1,0 +1,16 @@
+Chr2	MSU_osa1r6_db	gene	32082213	32084435	.	-	.	ID=Gene:LOC_Os02g52430;Note=regulator+of+ribonuclease%2C+putative%2C+expressed;Alias=13102.t04871
+Chr2	MSU_osa1r6_db	processed_transcript	32082213	32084295	.	-	.	ID=mRNA:LOC_Os02g52430.1;Note=13102.m05977;Gene=LOC_Os02g52430
+Chr2	MSU_osa1r6_db	CDS	32082386	32082892	.	-	0	Parent=mRNA:LOC_Os02g52430.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	32083981	32084295	.	-	.	Parent=mRNA:LOC_Os02g52430.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	32082893	32082905	.	-	.	Parent=mRNA:LOC_Os02g52430.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	32082213	32082385	.	-	.	Parent=mRNA:LOC_Os02g52430.1
+Chr2	MSU_osa1r6_db	processed_transcript	32082213	32084435	.	-	.	ID=mRNA:LOC_Os02g52430.2;Note=13102.m05978;Gene=LOC_Os02g52430
+Chr2	MSU_osa1r6_db	CDS	32083981	32084354	.	-	0	Parent=mRNA:LOC_Os02g52430.2
+Chr2	MSU_osa1r6_db	CDS	32082386	32082908	.	-	2	Parent=mRNA:LOC_Os02g52430.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	32084355	32084435	.	-	.	Parent=mRNA:LOC_Os02g52430.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	32082213	32082385	.	-	.	Parent=mRNA:LOC_Os02g52430.2
+Chr2	Protein-DB	peptide_p	32083901	32083927	.	?	.	Parent=mRNA:LOC_Os02g52430.1:P999_11542
+Chr2	Protein-DB	peptide_p	32083832	32083864	.	?	.	Parent=mRNA:LOC_Os02g52430.1:P999_11543
+Chr2	Protein-DB	peptide_p	32083865	32083900	.	?	.	Parent=mRNA:LOC_Os02g52430.1:P999_11544
+Chr2	Protein-DB	peptide_p	32084162	32084191	.	?	.	Parent=mRNA:LOC_Os02g52430.1:P999_11545
+Chr2	Protein-DB	peptide_p	32083958	32083990	.	?	.	Parent=mRNA:LOC_Os02g52430.1:P999_11548

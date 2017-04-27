@@ -1,0 +1,7 @@
+Chr1	MSU_osa1r6_db	gene	4713468	4717746	.	-	.	ID=Gene:LOC_Os01g09280;Note=myb-related+transcription+activator%2C+putative%2C+expressed;Alias=13101.t00805
+Chr1	MSU_osa1r6_db	processed_transcript	4713468	4717746	.	-	.	ID=mRNA:LOC_Os01g09280.1;Note=13101.m00985;Gene=LOC_Os01g09280
+Chr1	MSU_osa1r6_db	CDS	4717310	4717628	.	-	0	Parent=mRNA:LOC_Os01g09280.1
+Chr1	MSU_osa1r6_db	CDS	4714645	4714853	.	-	1	Parent=mRNA:LOC_Os01g09280.1
+Chr1	MSU_osa1r6_db	CDS	4713943	4714515	.	-	0	Parent=mRNA:LOC_Os01g09280.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	4717629	4717746	.	-	.	Parent=mRNA:LOC_Os01g09280.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	4713468	4713942	.	-	.	Parent=mRNA:LOC_Os01g09280.1

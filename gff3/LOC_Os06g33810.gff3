@@ -1,0 +1,10 @@
+Chr6	MSU_osa1r6_db	gene	19662230	19668716	.	+	.	ID=Gene:LOC_Os06g33810;Note=zinc+finger+protein%2C+putative%2C+expressed;Alias=13106.t03057
+Chr6	MSU_osa1r6_db	processed_transcript	19662230	19668716	.	+	.	ID=mRNA:LOC_Os06g33810.1;Note=13106.m03492;Gene=LOC_Os06g33810
+Chr6	MSU_osa1r6_db	CDS	19662369	19662479	.	+	0	Parent=mRNA:LOC_Os06g33810.1
+Chr6	MSU_osa1r6_db	CDS	19662603	19662761	.	+	0	Parent=mRNA:LOC_Os06g33810.1
+Chr6	MSU_osa1r6_db	CDS	19665185	19665445	.	+	0	Parent=mRNA:LOC_Os06g33810.1
+Chr6	MSU_osa1r6_db	CDS	19665983	19666621	.	+	0	Parent=mRNA:LOC_Os06g33810.1
+Chr6	MSU_osa1r6_db	CDS	19668177	19668269	.	+	0	Parent=mRNA:LOC_Os06g33810.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	19662230	19662368	.	+	.	Parent=mRNA:LOC_Os06g33810.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	19668270	19668716	.	+	.	Parent=mRNA:LOC_Os06g33810.1
+Chr6	Protein-DB	peptide_p	19666065	19666097	.	?	.	Parent=mRNA:LOC_Os06g33810.1:P999_28451

@@ -1,0 +1,5 @@
+Chr3	MSU_osa1r6_db	gene	20689194	20691051	.	-	.	ID=Gene:LOC_Os03g37330;Note=KIN%2C+antigenic+determinant+of+recA+protein%2C+putative%2C+expressed;Alias=13103.t03206
+Chr3	MSU_osa1r6_db	processed_transcript	20689194	20691051	.	-	.	ID=mRNA:LOC_Os03g37330.1;Note=13103.m04061;Gene=LOC_Os03g37330
+Chr3	MSU_osa1r6_db	CDS	20689539	20690831	.	-	0	Parent=mRNA:LOC_Os03g37330.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	20690832	20691051	.	-	.	Parent=mRNA:LOC_Os03g37330.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	20689194	20689538	.	-	.	Parent=mRNA:LOC_Os03g37330.1

@@ -1,0 +1,11 @@
+Chr7	MSU_osa1r6_db	gene	25906660	25907505	.	+	.	ID=Gene:LOC_Os07g43250;Note=SKP1-like+protein+1B%2C+putative%2C+expressed;Alias=13107.t03961
+Chr7	MSU_osa1r6_db	processed_transcript	25906660	25907505	.	+	.	ID=mRNA:LOC_Os07g43250.1;Note=13107.m04545;Gene=LOC_Os07g43250
+Chr7	MSU_osa1r6_db	CDS	25906757	25907281	.	+	0	Parent=mRNA:LOC_Os07g43250.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	25906660	25906756	.	+	.	Parent=mRNA:LOC_Os07g43250.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	25907282	25907505	.	+	.	Parent=mRNA:LOC_Os07g43250.1
+Chr7	Protein-DB	peptide_p	25907208	25907252	.	?	.	Parent=mRNA:LOC_Os07g43250.1:P999_31666
+Chr7	Protein-DB	peptide_p	25907052	25907090	.	?	.	Parent=mRNA:LOC_Os07g43250.1:P999_31667
+Chr7	Protein-DB	peptide_p	25906857	25906886	.	?	.	Parent=mRNA:LOC_Os07g43250.1:P999_31669
+Chr7	Protein-DB	peptide_p	25907208	25907279	.	?	.	Parent=mRNA:LOC_Os07g43250.1:P999_31671
+Chr7	Protein-DB	peptide_p	25906980	25907036	.	?	.	Parent=mRNA:LOC_Os07g43250.1:P999_31672
+Chr7	Protein-DB	peptide_p	25906827	25906856	.	?	.	Parent=mRNA:LOC_Os07g43250.1:P999_31681

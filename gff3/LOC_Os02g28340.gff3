@@ -1,0 +1,9 @@
+Chr2	MSU_osa1r6_db	gene	16744207	16745901	.	+	.	ID=Gene:LOC_Os02g28340;Note=transferase+family+protein%2C+putative%2C+expressed;Alias=13102.t02539
+Chr2	MSU_osa1r6_db	processed_transcript	16744207	16745901	.	+	.	ID=mRNA:LOC_Os02g28340.1;Note=13102.m03089;Gene=LOC_Os02g28340
+Chr2	MSU_osa1r6_db	CDS	16744253	16745656	.	+	0	Parent=mRNA:LOC_Os02g28340.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	16744207	16744252	.	+	.	Parent=mRNA:LOC_Os02g28340.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	16745657	16745901	.	+	.	Parent=mRNA:LOC_Os02g28340.1
+Chr2	Protein-DB	peptide_p	16744887	16744937	.	?	.	Parent=mRNA:LOC_Os02g28340.1:P999_8965
+Chr2	Protein-DB	peptide_p	16744428	16744466	.	?	.	Parent=mRNA:LOC_Os02g28340.1:P999_8970
+Chr2	Protein-DB	peptide_p	16744968	16744994	.	?	.	Parent=mRNA:LOC_Os02g28340.1:P999_8973
+Chr2	Protein-DB	peptide_p	16744845	16744874	.	?	.	Parent=mRNA:LOC_Os02g28340.1:P999_8975

@@ -1,0 +1,11 @@
+Chr4	MSU_osa1r6_db	gene	23000776	23005642	.	+	.	ID=Gene:LOC_Os04g39040;Note=UBA+and+UBX+domain-containing+protein%2C+putative%2C+expressed;Alias=13104.t03457
+Chr4	MSU_osa1r6_db	processed_transcript	23000776	23005642	.	+	.	ID=mRNA:LOC_Os04g39040.1;Note=13104.m03768;Gene=LOC_Os04g39040
+Chr4	MSU_osa1r6_db	CDS	23000884	23001065	.	+	0	Parent=mRNA:LOC_Os04g39040.1
+Chr4	MSU_osa1r6_db	CDS	23003348	23003636	.	+	2	Parent=mRNA:LOC_Os04g39040.1
+Chr4	MSU_osa1r6_db	CDS	23004777	23004872	.	+	0	Parent=mRNA:LOC_Os04g39040.1
+Chr4	MSU_osa1r6_db	CDS	23004958	23005326	.	+	0	Parent=mRNA:LOC_Os04g39040.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	23000776	23000883	.	+	.	Parent=mRNA:LOC_Os04g39040.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	23005327	23005642	.	+	.	Parent=mRNA:LOC_Os04g39040.1
+Chr4	Protein-DB	peptide_p	23005070	23005123	.	?	.	Parent=mRNA:LOC_Os04g39040.1:P999_20752
+Chr4	Protein-DB	peptide_p	23003380	23003412	.	?	.	Parent=mRNA:LOC_Os04g39040.1:P999_20753
+Chr4	Protein-DB	peptide_p	23003602	23003643	.	?	.	Parent=mRNA:LOC_Os04g39040.1:P999_20758

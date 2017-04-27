@@ -1,0 +1,10 @@
+Chr3	MSU_osa1r6_db	gene	25067141	25072784	.	-	.	ID=Gene:LOC_Os03g44540;Note=nuclear+transcription+factor+Y+subunit%2C+putative%2C+expressed;Alias=13103.t03846
+Chr3	MSU_osa1r6_db	processed_transcript	25067141	25072784	.	-	.	ID=mRNA:LOC_Os03g44540.1;Note=13103.m04794;Gene=LOC_Os03g44540
+Chr3	MSU_osa1r6_db	CDS	25071460	25071748	.	-	0	Parent=mRNA:LOC_Os03g44540.1
+Chr3	MSU_osa1r6_db	CDS	25069620	25069738	.	-	1	Parent=mRNA:LOC_Os03g44540.1
+Chr3	MSU_osa1r6_db	CDS	25069382	25069450	.	-	0	Parent=mRNA:LOC_Os03g44540.1
+Chr3	MSU_osa1r6_db	CDS	25068840	25068983	.	-	0	Parent=mRNA:LOC_Os03g44540.1
+Chr3	MSU_osa1r6_db	CDS	25067685	25068128	.	-	0	Parent=mRNA:LOC_Os03g44540.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	25072360	25072784	.	-	.	Parent=mRNA:LOC_Os03g44540.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	25071749	25071902	.	-	.	Parent=mRNA:LOC_Os03g44540.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	25067141	25067684	.	-	.	Parent=mRNA:LOC_Os03g44540.1

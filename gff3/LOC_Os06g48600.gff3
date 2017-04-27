@@ -1,0 +1,9 @@
+Chr6	MSU_osa1r6_db	gene	29401707	29402743	.	-	.	ID=Gene:LOC_Os06g48600;Note=macrophage+migration+inhibitory+factor%2C+putative%2C+expressed;Alias=13106.t04528
+Chr6	MSU_osa1r6_db	processed_transcript	29401707	29402743	.	-	.	ID=mRNA:LOC_Os06g48600.1;Note=13106.m05168;Gene=LOC_Os06g48600
+Chr6	MSU_osa1r6_db	CDS	29402502	29402612	.	-	0	Parent=mRNA:LOC_Os06g48600.1
+Chr6	MSU_osa1r6_db	CDS	29402185	29402385	.	-	0	Parent=mRNA:LOC_Os06g48600.1
+Chr6	MSU_osa1r6_db	CDS	29401937	29401972	.	-	0	Parent=mRNA:LOC_Os06g48600.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	29402613	29402743	.	-	.	Parent=mRNA:LOC_Os06g48600.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	29401707	29401936	.	-	.	Parent=mRNA:LOC_Os06g48600.1
+Chr6	Protein-DB	peptide_p	29401842	29401871	.	?	.	Parent=mRNA:LOC_Os06g48600.1:P999_29455
+Chr6	Protein-DB	peptide_p	29402183	29402218	.	?	.	Parent=mRNA:LOC_Os06g48600.1:P999_29458

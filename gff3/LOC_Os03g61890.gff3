@@ -1,0 +1,10 @@
+Chr3	MSU_osa1r6_db	gene	35077642	35083169	.	+	.	ID=Gene:LOC_Os03g61890;Note=chloroplast+protein+import+component+Toc159%2C+putative%2C+expressed;Alias=13103.t05428
+Chr3	MSU_osa1r6_db	processed_transcript	35077642	35083169	.	+	.	ID=mRNA:LOC_Os03g61890.1;Note=13103.m06819;Gene=LOC_Os03g61890
+Chr3	MSU_osa1r6_db	CDS	35077642	35081262	.	+	0	Parent=mRNA:LOC_Os03g61890.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	35081263	35081270	.	+	.	Parent=mRNA:LOC_Os03g61890.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	35082012	35082091	.	+	.	Parent=mRNA:LOC_Os03g61890.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	35082426	35083169	.	+	.	Parent=mRNA:LOC_Os03g61890.1
+Chr3	MSU_osa1r6_db	processed_transcript	35077642	35083169	.	+	.	ID=mRNA:LOC_Os03g61890.2;Note=13103.m06820;Gene=LOC_Os03g61890
+Chr3	MSU_osa1r6_db	CDS	35077642	35081262	.	+	0	Parent=mRNA:LOC_Os03g61890.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	35081263	35081270	.	+	.	Parent=mRNA:LOC_Os03g61890.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	35082426	35083169	.	+	.	Parent=mRNA:LOC_Os03g61890.2

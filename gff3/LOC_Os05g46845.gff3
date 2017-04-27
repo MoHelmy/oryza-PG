@@ -1,0 +1,10 @@
+Chr5	MSU_osa1r6_db	gene	27061575	27062672	.	-	.	ID=Gene:LOC_Os05g46845;Note=conserved+hypothetical+protein;Alias=13105.t04214
+Chr5	MSU_osa1r6_db	processed_transcript	27061575	27062672	.	-	.	ID=mRNA:LOC_Os05g46845.1;Note=13105.m05011;Gene=LOC_Os05g46845
+Chr5	MSU_osa1r6_db	CDS	27062648	27062672	.	-	0	Parent=mRNA:LOC_Os05g46845.1
+Chr5	MSU_osa1r6_db	CDS	27062308	27062399	.	-	1	Parent=mRNA:LOC_Os05g46845.1
+Chr5	MSU_osa1r6_db	CDS	27062135	27062206	.	-	0	Parent=mRNA:LOC_Os05g46845.1
+Chr5	MSU_osa1r6_db	CDS	27061824	27061862	.	-	0	Parent=mRNA:LOC_Os05g46845.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	27061575	27061823	.	-	.	Parent=mRNA:LOC_Os05g46845.1
+Chr5	Protein-DB	peptide_p	27062057	27062098	.	?	.	Parent=mRNA:LOC_Os05g46845.1:P999_26120
+Chr5	Protein-DB	peptide_p	27061887	27061910	.	?	.	Parent=mRNA:LOC_Os05g46845.1:P999_26121
+Chr5	Protein-DB	peptide_p	27061857	27061880	.	?	.	Parent=mRNA:LOC_Os05g46845.1:P999_26122

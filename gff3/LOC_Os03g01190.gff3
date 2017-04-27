@@ -1,0 +1,8 @@
+Chr3	MSU_osa1r6_db	gene	121870	124144	.	-	.	ID=Gene:LOC_Os03g01190;Note=dehydrogenase%2C+putative%2C+expressed;Alias=13103.t00019
+Chr3	MSU_osa1r6_db	processed_transcript	121870	124144	.	-	.	ID=mRNA:LOC_Os03g01190.1;Note=13103.m00023;Gene=LOC_Os03g01190
+Chr3	MSU_osa1r6_db	CDS	123585	124130	.	-	0	Parent=mRNA:LOC_Os03g01190.1
+Chr3	MSU_osa1r6_db	CDS	122927	123184	.	-	0	Parent=mRNA:LOC_Os03g01190.1
+Chr3	MSU_osa1r6_db	CDS	122237	122551	.	-	0	Parent=mRNA:LOC_Os03g01190.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	124131	124144	.	-	.	Parent=mRNA:LOC_Os03g01190.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	121870	122236	.	-	.	Parent=mRNA:LOC_Os03g01190.1
+Chr3	Protein-DB	peptide_p	122074	122103	.	?	.	Parent=mRNA:LOC_Os03g01190.1:P999_12578

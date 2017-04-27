@@ -1,0 +1,6 @@
+Chr9	MSU_osa1r6_db	gene	6953941	6958667	.	-	.	ID=Gene:LOC_Os09g12240;Note=serine%2Fthreonine-protein+kinase+BRI1-like+1+precursor%2C+putative%2C+expressed;Alias=13109.t01020
+Chr9	MSU_osa1r6_db	processed_transcript	6953941	6958667	.	-	.	ID=mRNA:LOC_Os09g12240.1;Note=13109.m01106;Gene=LOC_Os09g12240
+Chr9	MSU_osa1r6_db	CDS	6954267	6957911	.	-	0	Parent=mRNA:LOC_Os09g12240.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	6958477	6958667	.	-	.	Parent=mRNA:LOC_Os09g12240.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	6957912	6958059	.	-	.	Parent=mRNA:LOC_Os09g12240.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	6953941	6954266	.	-	.	Parent=mRNA:LOC_Os09g12240.1

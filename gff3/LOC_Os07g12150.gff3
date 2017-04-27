@@ -1,0 +1,7 @@
+Chr7	MSU_osa1r6_db	gene	6797981	6798908	.	+	.	ID=Gene:LOC_Os07g12150;Note=acyl+carrier+protein%2C+putative%2C+expressed;Alias=13107.t01088
+Chr7	MSU_osa1r6_db	processed_transcript	6797981	6798908	.	+	.	ID=mRNA:LOC_Os07g12150.1;Note=13107.m01250;Gene=LOC_Os07g12150
+Chr7	MSU_osa1r6_db	CDS	6798069	6798287	.	+	0	Parent=mRNA:LOC_Os07g12150.1
+Chr7	MSU_osa1r6_db	CDS	6798364	6798540	.	+	0	Parent=mRNA:LOC_Os07g12150.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	6797981	6798068	.	+	.	Parent=mRNA:LOC_Os07g12150.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	6798541	6798908	.	+	.	Parent=mRNA:LOC_Os07g12150.1
+Chr7	Protein-DB	peptide_p	6798365	6798391	.	?	.	Parent=mRNA:LOC_Os07g12150.1:P999_30596

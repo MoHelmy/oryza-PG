@@ -1,0 +1,7 @@
+Chr3	MSU_osa1r6_db	gene	16973648	16974609	.	-	.	ID=Gene:LOC_Os03g29770;Note=EF+hand+family+protein%2C+expressed;Alias=13103.t02618
+Chr3	MSU_osa1r6_db	processed_transcript	16973648	16974609	.	-	.	ID=mRNA:LOC_Os03g29770.1;Note=13103.m03415;Gene=LOC_Os03g29770
+Chr3	MSU_osa1r6_db	CDS	16974010	16974486	.	-	0	Parent=mRNA:LOC_Os03g29770.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	16974487	16974609	.	-	.	Parent=mRNA:LOC_Os03g29770.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	16973648	16974009	.	-	.	Parent=mRNA:LOC_Os03g29770.1
+Chr3	Protein-DB	peptide_p	16973808	16973840	.	?	.	Parent=mRNA:LOC_Os03g29770.1:P999_16304
+Chr3	Protein-DB	peptide_p	16973856	16973897	.	?	.	Parent=mRNA:LOC_Os03g29770.1:P999_16305

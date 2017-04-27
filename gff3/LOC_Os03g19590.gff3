@@ -1,0 +1,10 @@
+Chr3	MSU_osa1r6_db	gene	11018809	11026946	.	+	.	ID=Gene:LOC_Os03g19590;Note=phytochrome+B%2C+putative%2C+expressed;Alias=13103.t01748
+Chr3	MSU_osa1r6_db	processed_transcript	11018809	11026946	.	+	.	ID=mRNA:LOC_Os03g19590.1;Note=13103.m02346;Gene=LOC_Os03g19590
+Chr3	MSU_osa1r6_db	CDS	11019050	11021240	.	+	0	Parent=mRNA:LOC_Os03g19590.1
+Chr3	MSU_osa1r6_db	CDS	11021639	11022446	.	+	1	Parent=mRNA:LOC_Os03g19590.1
+Chr3	MSU_osa1r6_db	CDS	11023564	11023857	.	+	2	Parent=mRNA:LOC_Os03g19590.1
+Chr3	MSU_osa1r6_db	CDS	11026195	11026417	.	+	2	Parent=mRNA:LOC_Os03g19590.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	11018809	11019049	.	+	.	Parent=mRNA:LOC_Os03g19590.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	11026418	11026946	.	+	.	Parent=mRNA:LOC_Os03g19590.1
+Chr3	Protein-DB	peptide_p	11019564	11019602	.	?	.	Parent=mRNA:LOC_Os03g19590.1:P999_15185
+Chr3	Protein-DB	peptide_p	11023722	11023763	.	?	.	Parent=mRNA:LOC_Os03g19590.1:P999_15186

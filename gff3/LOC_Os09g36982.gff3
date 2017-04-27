@@ -1,0 +1,7 @@
+Chr9	MSU_osa1r6_db	gene	21332768	21334623	.	-	.	ID=Gene:LOC_Os09g36982;Note=protein+of+unknown+function+DUF1279+domain+containing+protein%2C+expressed;Alias=13109.t03183
+Chr9	MSU_osa1r6_db	processed_transcript	21332768	21334623	.	-	.	ID=mRNA:LOC_Os09g36982.1;Note=13109.m03657;Gene=LOC_Os09g36982
+Chr9	MSU_osa1r6_db	CDS	21334204	21334599	.	-	0	Parent=mRNA:LOC_Os09g36982.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	21334600	21334623	.	-	.	Parent=mRNA:LOC_Os09g36982.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	21334200	21334203	.	-	.	Parent=mRNA:LOC_Os09g36982.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	21332768	21333054	.	-	.	Parent=mRNA:LOC_Os09g36982.1
+Chr9	Protein-DB	peptide_p	21333117	21333155	.	?	.	Parent=mRNA:LOC_Os09g36982.1:P999_36680

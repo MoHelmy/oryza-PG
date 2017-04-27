@@ -1,0 +1,14 @@
+Chr3	MSU_osa1r6_db	gene	188333	190297	.	+	.	ID=Gene:LOC_Os03g01270;Note=expansin+precursor%2C+putative%2C+expressed;Alias=13103.t00029
+Chr3	MSU_osa1r6_db	processed_transcript	188333	190297	.	+	.	ID=mRNA:LOC_Os03g01270.1;Note=13103.m00042;Gene=LOC_Os03g01270
+Chr3	MSU_osa1r6_db	CDS	188553	188996	.	+	0	Parent=mRNA:LOC_Os03g01270.1
+Chr3	MSU_osa1r6_db	CDS	189220	189404	.	+	0	Parent=mRNA:LOC_Os03g01270.1
+Chr3	MSU_osa1r6_db	CDS	189729	190083	.	+	2	Parent=mRNA:LOC_Os03g01270.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	188333	188552	.	+	.	Parent=mRNA:LOC_Os03g01270.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	190084	190297	.	+	.	Parent=mRNA:LOC_Os03g01270.1
+Chr3	MSU_osa1r6_db	processed_transcript	188333	190297	.	+	.	ID=mRNA:LOC_Os03g01270.2;Note=13103.m00043;Gene=LOC_Os03g01270
+Chr3	MSU_osa1r6_db	CDS	188553	188996	.	+	0	Parent=mRNA:LOC_Os03g01270.2
+Chr3	MSU_osa1r6_db	CDS	189220	189404	.	+	0	Parent=mRNA:LOC_Os03g01270.2
+Chr3	MSU_osa1r6_db	CDS	189742	189754	.	+	2	Parent=mRNA:LOC_Os03g01270.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	188333	188552	.	+	.	Parent=mRNA:LOC_Os03g01270.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	189755	190297	.	+	.	Parent=mRNA:LOC_Os03g01270.2
+Chr3	Protein-DB	peptide_p	189920	189943	.	?	.	Parent=mRNA:LOC_Os03g01270.1:P999_12581

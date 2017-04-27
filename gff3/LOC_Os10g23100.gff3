@@ -1,0 +1,7 @@
+Chr10	MSU_osa1r6_db	gene	11976861	11981767	.	-	.	ID=Gene:LOC_Os10g23100;Note=ras-related+protein%2C+putative%2C+expressed;Alias=13110.t01781
+Chr10	MSU_osa1r6_db	processed_transcript	11976861	11981767	.	-	.	ID=mRNA:LOC_Os10g23100.1;Note=13110.m01957;Gene=LOC_Os10g23100
+Chr10	MSU_osa1r6_db	CDS	11981337	11981548	.	-	0	Parent=mRNA:LOC_Os10g23100.1
+Chr10	MSU_osa1r6_db	CDS	11977277	11977715	.	-	2	Parent=mRNA:LOC_Os10g23100.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	11981549	11981767	.	-	.	Parent=mRNA:LOC_Os10g23100.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	11976861	11977276	.	-	.	Parent=mRNA:LOC_Os10g23100.1
+Chr10	Protein-DB	peptide_p	11977117	11977149	.	?	.	Parent=mRNA:LOC_Os10g23100.1:P999_37456

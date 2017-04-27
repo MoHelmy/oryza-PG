@@ -1,0 +1,13 @@
+Chr6	MSU_osa1r6_db	gene	795311	799813	.	-	.	ID=Gene:LOC_Os06g02370;Note=expressed+protein;Alias=13106.t00126
+Chr6	MSU_osa1r6_db	processed_transcript	795311	799813	.	-	.	ID=mRNA:LOC_Os06g02370.1;Note=13106.m00156;Gene=LOC_Os06g02370
+Chr6	MSU_osa1r6_db	CDS	798960	799417	.	-	0	Parent=mRNA:LOC_Os06g02370.1
+Chr6	MSU_osa1r6_db	CDS	795676	796975	.	-	2	Parent=mRNA:LOC_Os06g02370.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	799418	799813	.	-	.	Parent=mRNA:LOC_Os06g02370.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	795311	795675	.	-	.	Parent=mRNA:LOC_Os06g02370.1
+Chr6	MSU_osa1r6_db	processed_transcript	795311	799813	.	-	.	ID=mRNA:LOC_Os06g02370.3;Note=13106.m00157;Gene=LOC_Os06g02370
+Chr6	MSU_osa1r6_db	CDS	795676	796671	.	-	0	Parent=mRNA:LOC_Os06g02370.3
+Chr6	MSU_osa1r6_db	five_prime_UTR	796672	799813	.	-	.	Parent=mRNA:LOC_Os06g02370.3
+Chr6	MSU_osa1r6_db	three_prime_UTR	795311	795675	.	-	.	Parent=mRNA:LOC_Os06g02370.3
+Chr6	Protein-DB	peptide_p	798745	798771	.	?	.	Parent=mRNA:LOC_Os06g02370.1:P999_26914
+Chr6	Protein-DB	peptide_p	799396	799437	.	?	.	Parent=mRNA:LOC_Os06g02370.1:P999_26917
+Chr6	Protein-DB	peptide_p	798169	798195	.	?	.	Parent=mRNA:LOC_Os06g02370.1:P999_26918

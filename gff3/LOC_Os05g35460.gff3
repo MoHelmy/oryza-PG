@@ -1,0 +1,13 @@
+Chr5	MSU_osa1r6_db	gene	21002872	21005868	.	-	.	ID=Gene:LOC_Os05g35460;Note=patellin+protein%2C+putative%2C+expressed;Alias=13105.t03169
+Chr5	MSU_osa1r6_db	processed_transcript	21002872	21005868	.	-	.	ID=mRNA:LOC_Os05g35460.1;Note=13105.m03714;Gene=LOC_Os05g35460
+Chr5	MSU_osa1r6_db	CDS	21004445	21005671	.	-	0	Parent=mRNA:LOC_Os05g35460.1
+Chr5	MSU_osa1r6_db	CDS	21003893	21004017	.	-	0	Parent=mRNA:LOC_Os05g35460.1
+Chr5	MSU_osa1r6_db	CDS	21003658	21003799	.	-	2	Parent=mRNA:LOC_Os05g35460.1
+Chr5	MSU_osa1r6_db	CDS	21003293	21003556	.	-	0	Parent=mRNA:LOC_Os05g35460.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	21005672	21005868	.	-	.	Parent=mRNA:LOC_Os05g35460.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	21002872	21003292	.	-	.	Parent=mRNA:LOC_Os05g35460.1
+Chr5	Protein-DB	peptide_p	21005182	21005211	.	?	.	Parent=mRNA:LOC_Os05g35460.1:P999_24937
+Chr5	Protein-DB	peptide_p	21005359	21005391	.	?	.	Parent=mRNA:LOC_Os05g35460.1:P999_24938
+Chr5	Protein-DB	peptide_p	21004724	21004765	.	?	.	Parent=mRNA:LOC_Os05g35460.1:P999_24939
+Chr5	Protein-DB	peptide_p	21004766	21004792	.	?	.	Parent=mRNA:LOC_Os05g35460.1:P999_24940
+Chr5	Protein-DB	peptide_p	21003787	21003831	.	?	.	Parent=mRNA:LOC_Os05g35460.1:P999_24941

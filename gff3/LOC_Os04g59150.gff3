@@ -1,0 +1,16 @@
+Chr4	MSU_osa1r6_db	gene	35002254	35004219	.	-	.	ID=Gene:LOC_Os04g59150;Note=peroxidase+precursor%2C+putative%2C+expressed;Alias=13104.t05387
+Chr4	MSU_osa1r6_db	processed_transcript	35002254	35004219	.	-	.	ID=mRNA:LOC_Os04g59150.1;Note=13104.m06232;Gene=LOC_Os04g59150
+Chr4	MSU_osa1r6_db	CDS	35003627	35003863	.	-	0	Parent=mRNA:LOC_Os04g59150.1
+Chr4	MSU_osa1r6_db	CDS	35003287	35003472	.	-	0	Parent=mRNA:LOC_Os04g59150.1
+Chr4	MSU_osa1r6_db	CDS	35002574	35003191	.	-	0	Parent=mRNA:LOC_Os04g59150.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	35003864	35004219	.	-	.	Parent=mRNA:LOC_Os04g59150.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	35002254	35002573	.	-	.	Parent=mRNA:LOC_Os04g59150.1
+Chr4	MSU_osa1r6_db	processed_transcript	35002298	35004068	.	-	.	ID=mRNA:LOC_Os04g59150.2;Note=13104.m06234;Gene=LOC_Os04g59150
+Chr4	MSU_osa1r6_db	CDS	35003627	35003863	.	-	0	Parent=mRNA:LOC_Os04g59150.2
+Chr4	MSU_osa1r6_db	CDS	35003287	35003472	.	-	0	Parent=mRNA:LOC_Os04g59150.2
+Chr4	MSU_osa1r6_db	CDS	35002759	35003191	.	-	0	Parent=mRNA:LOC_Os04g59150.2
+Chr4	MSU_osa1r6_db	CDS	35002574	35002593	.	-	1	Parent=mRNA:LOC_Os04g59150.2
+Chr4	MSU_osa1r6_db	five_prime_UTR	35003864	35004068	.	-	.	Parent=mRNA:LOC_Os04g59150.2
+Chr4	MSU_osa1r6_db	three_prime_UTR	35002298	35002573	.	-	.	Parent=mRNA:LOC_Os04g59150.2
+Chr4	Protein-DB	peptide_p	35002791	35002820	.	?	.	Parent=mRNA:LOC_Os04g59150.1:P999_22535
+Chr4	Protein-DB	peptide_p	35003352	35003408	.	?	.	Parent=mRNA:LOC_Os04g59150.1:P999_22536

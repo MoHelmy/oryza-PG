@@ -1,0 +1,14 @@
+Chr10	MSU_osa1r6_db	gene	15592393	15593354	.	+	.	ID=Gene:LOC_Os10g30150;Note=universal+stress+protein+domain+containing+protein%2C+putative%2C+expressed;Alias=13110.t02347
+Chr10	MSU_osa1r6_db	processed_transcript	15592393	15593354	.	+	.	ID=mRNA:LOC_Os10g30150.1;Note=13110.m02588;Gene=LOC_Os10g30150
+Chr10	MSU_osa1r6_db	CDS	15592472	15592667	.	+	0	Parent=mRNA:LOC_Os10g30150.1
+Chr10	MSU_osa1r6_db	CDS	15592748	15592976	.	+	1	Parent=mRNA:LOC_Os10g30150.1
+Chr10	MSU_osa1r6_db	CDS	15593056	15593176	.	+	2	Parent=mRNA:LOC_Os10g30150.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	15592393	15592471	.	+	.	Parent=mRNA:LOC_Os10g30150.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	15593177	15593354	.	+	.	Parent=mRNA:LOC_Os10g30150.1
+Chr10	MSU_osa1r6_db	processed_transcript	15592399	15593354	.	+	.	ID=mRNA:LOC_Os10g30150.2;Note=13110.m02589;Gene=LOC_Os10g30150
+Chr10	MSU_osa1r6_db	CDS	15592472	15592667	.	+	0	Parent=mRNA:LOC_Os10g30150.2
+Chr10	MSU_osa1r6_db	CDS	15592748	15593031	.	+	1	Parent=mRNA:LOC_Os10g30150.2
+Chr10	MSU_osa1r6_db	five_prime_UTR	15592399	15592471	.	+	.	Parent=mRNA:LOC_Os10g30150.2
+Chr10	MSU_osa1r6_db	three_prime_UTR	15593032	15593354	.	+	.	Parent=mRNA:LOC_Os10g30150.2
+Chr10	Protein-DB	peptide_p	15592479	15592505	.	?	.	Parent=mRNA:LOC_Os10g30150.1:P999_37700
+Chr10	Protein-DB	peptide_p	15592913	15592957	.	?	.	Parent=mRNA:LOC_Os10g30150.1:P999_37701

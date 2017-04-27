@@ -1,0 +1,15 @@
+Chr11	MSU_osa1r6_db	gene	3033366	3035929	.	+	.	ID=Gene:LOC_Os11g06340;Note=ubiquinol-cytochrome+C+reductase+hinge+protein%2C+putative%2C+expressed;Alias=13111.t00536
+Chr11	MSU_osa1r6_db	processed_transcript	3033366	3035929	.	+	.	ID=mRNA:LOC_Os11g06340.1;Note=13111.m00633;Gene=LOC_Os11g06340
+Chr11	MSU_osa1r6_db	CDS	3033514	3033515	.	+	0	Parent=mRNA:LOC_Os11g06340.1
+Chr11	MSU_osa1r6_db	CDS	3034615	3034699	.	+	2	Parent=mRNA:LOC_Os11g06340.1
+Chr11	MSU_osa1r6_db	CDS	3035516	3035605	.	+	0	Parent=mRNA:LOC_Os11g06340.1
+Chr11	MSU_osa1r6_db	CDS	3035730	3035786	.	+	0	Parent=mRNA:LOC_Os11g06340.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	3033366	3033513	.	+	.	Parent=mRNA:LOC_Os11g06340.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	3035787	3035929	.	+	.	Parent=mRNA:LOC_Os11g06340.1
+Chr11	MSU_osa1r6_db	processed_transcript	3033366	3035929	.	+	.	ID=mRNA:LOC_Os11g06340.2;Note=13111.m09201;Gene=LOC_Os11g06340
+Chr11	MSU_osa1r6_db	CDS	3033514	3033515	.	+	0	Parent=mRNA:LOC_Os11g06340.2
+Chr11	MSU_osa1r6_db	CDS	3034615	3034699	.	+	2	Parent=mRNA:LOC_Os11g06340.2
+Chr11	MSU_osa1r6_db	CDS	3035516	3035659	.	+	0	Parent=mRNA:LOC_Os11g06340.2
+Chr11	MSU_osa1r6_db	five_prime_UTR	3033366	3033513	.	+	.	Parent=mRNA:LOC_Os11g06340.2
+Chr11	MSU_osa1r6_db	three_prime_UTR	3035660	3035929	.	+	.	Parent=mRNA:LOC_Os11g06340.2
+Chr11	Protein-DB	peptide_p	3035559	3035603	.	?	.	Parent=mRNA:LOC_Os11g06340.1:P999_39551

@@ -1,0 +1,8 @@
+Chr11	MSU_osa1r6_db	gene	702051	702963	.	+	.	ID=Gene:LOC_Os11g02389;Note=protease+inhibitor%2Fseed+storage%2FLTP+family%2C+putative%2C+expressed;Alias=13111.t00135
+Chr11	MSU_osa1r6_db	processed_transcript	702051	702963	.	+	.	ID=mRNA:LOC_Os11g02389.1;Note=13111.m00165;Gene=LOC_Os11g02389
+Chr11	MSU_osa1r6_db	CDS	702105	702445	.	+	0	Parent=mRNA:LOC_Os11g02389.1
+Chr11	MSU_osa1r6_db	CDS	702560	702569	.	+	2	Parent=mRNA:LOC_Os11g02389.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	702051	702104	.	+	.	Parent=mRNA:LOC_Os11g02389.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	702570	702963	.	+	.	Parent=mRNA:LOC_Os11g02389.1
+Chr11	Protein-DB	peptide_p	702397	702447	.	?	.	Parent=mRNA:LOC_Os11g02389.1:P999_39242
+Chr11	Protein-DB	peptide_p	702358	702396	.	?	.	Parent=mRNA:LOC_Os11g02389.1:P999_39244

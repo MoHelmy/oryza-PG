@@ -1,0 +1,6 @@
+Chr9	MSU_osa1r6_db	gene	22261731	22263897	.	-	.	ID=Gene:LOC_Os09g38740;Note=expressed+protein;Alias=13109.t03356
+Chr9	MSU_osa1r6_db	processed_transcript	22261731	22263897	.	-	.	ID=mRNA:LOC_Os09g38740.1;Note=13109.m03868;Gene=LOC_Os09g38740
+Chr9	MSU_osa1r6_db	CDS	22263656	22263832	.	-	0	Parent=mRNA:LOC_Os09g38740.1
+Chr9	MSU_osa1r6_db	CDS	22262050	22262124	.	-	0	Parent=mRNA:LOC_Os09g38740.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	22263833	22263897	.	-	.	Parent=mRNA:LOC_Os09g38740.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	22261731	22262049	.	-	.	Parent=mRNA:LOC_Os09g38740.1

@@ -1,0 +1,11 @@
+Chr5	MSU_osa1r6_db	gene	28959117	28961453	.	+	.	ID=Gene:LOC_Os05g50624;Note=transposon+protein%2C+putative%2C+unclassified%2C+expressed;Alias=13105.t04544
+Chr5	MSU_osa1r6_db	processed_transcript	28959117	28961453	.	+	.	ID=mRNA:LOC_Os05g50624.1;Note=13105.m05432;Gene=LOC_Os05g50624
+Chr5	MSU_osa1r6_db	CDS	28959148	28960689	.	+	0	Parent=mRNA:LOC_Os05g50624.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	28959117	28959147	.	+	.	Parent=mRNA:LOC_Os05g50624.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	28960690	28961453	.	+	.	Parent=mRNA:LOC_Os05g50624.1
+Chr5	MSU_osa1r6_db	processed_transcript	28959266	28960993	.	+	.	ID=mRNA:LOC_Os05g50624.2;Note=13105.m05433;Gene=LOC_Os05g50624
+Chr5	MSU_osa1r6_db	CDS	28959325	28960689	.	+	0	Parent=mRNA:LOC_Os05g50624.2
+Chr5	MSU_osa1r6_db	five_prime_UTR	28959266	28959324	.	+	.	Parent=mRNA:LOC_Os05g50624.2
+Chr5	MSU_osa1r6_db	three_prime_UTR	28960690	28960993	.	+	.	Parent=mRNA:LOC_Os05g50624.2
+Chr5	Protein-DB	peptide_p	28960574	28960618	.	?	.	Parent=mRNA:LOC_Os05g50624.1:P999_26596
+Chr5	Protein-DB	peptide_p	28960619	28960675	.	?	.	Parent=mRNA:LOC_Os05g50624.1:P999_26597

@@ -1,0 +1,9 @@
+Chr3	MSU_osa1r6_db	gene	3370370	3371406	.	+	.	ID=Gene:LOC_Os03g06670;Note=Core+histone+H2A%2FH2B%2FH3%2FH4+domain+containing+protein%2C+putative%2C+expressed;Alias=13103.t00542
+Chr3	MSU_osa1r6_db	processed_transcript	3370370	3371406	.	+	.	ID=mRNA:LOC_Os03g06670.1;Note=13103.m00731;Gene=LOC_Os03g06670
+Chr3	MSU_osa1r6_db	CDS	3370464	3370583	.	+	0	Parent=mRNA:LOC_Os03g06670.1
+Chr3	MSU_osa1r6_db	CDS	3370741	3371037	.	+	0	Parent=mRNA:LOC_Os03g06670.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	3370370	3370463	.	+	.	Parent=mRNA:LOC_Os03g06670.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	3371038	3371406	.	+	.	Parent=mRNA:LOC_Os03g06670.1
+Chr3	Protein-DB	peptide_p	3370799	3370885	.	?	.	Parent=mRNA:LOC_Os03g06670.1:P999_13340
+Chr3	Protein-DB	peptide_p	3370916	3370936	.	?	.	Parent=mRNA:LOC_Os03g06670.1:P999_13341
+Chr3	Protein-DB	peptide_p	3370937	3370966	.	?	.	Parent=mRNA:LOC_Os03g06670.1:P999_13343

@@ -1,0 +1,16 @@
+Chr5	MSU_osa1r6_db	gene	13553095	13556987	.	-	.	ID=Gene:LOC_Os05g23720;Note=mitochondrial+carrier+protein%2C+putative%2C+expressed;Alias=13105.t02056
+Chr5	MSU_osa1r6_db	processed_transcript	13553095	13556987	.	-	.	ID=mRNA:LOC_Os05g23720.1;Note=13105.m02418;Gene=LOC_Os05g23720
+Chr5	MSU_osa1r6_db	CDS	13554415	13554888	.	-	0	Parent=mRNA:LOC_Os05g23720.1
+Chr5	MSU_osa1r6_db	CDS	13553971	13554342	.	-	0	Parent=mRNA:LOC_Os05g23720.1
+Chr5	MSU_osa1r6_db	CDS	13553466	13553762	.	-	0	Parent=mRNA:LOC_Os05g23720.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	13556548	13556987	.	-	.	Parent=mRNA:LOC_Os05g23720.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	13554889	13554902	.	-	.	Parent=mRNA:LOC_Os05g23720.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	13553095	13553465	.	-	.	Parent=mRNA:LOC_Os05g23720.1
+Chr5	Protein-DB	peptide_p	13555570	13555593	.	?	.	Parent=mRNA:LOC_Os05g23720.1:P999_24156
+Chr5	Protein-DB	peptide_p	13556531	13556569	.	?	.	Parent=mRNA:LOC_Os05g23720.1:P999_24157
+Chr5	Protein-DB	peptide_p	13555978	13556013	.	?	.	Parent=mRNA:LOC_Os05g23720.1:P999_24158
+Chr5	Protein-DB	peptide_p	13556570	13556593	.	?	.	Parent=mRNA:LOC_Os05g23720.1:P999_24160
+Chr5	Protein-DB	peptide_p	13556441	13556467	.	?	.	Parent=mRNA:LOC_Os05g23720.1:P999_24161
+Chr5	Protein-DB	peptide_p	13555594	13555629	.	?	.	Parent=mRNA:LOC_Os05g23720.1:P999_24165
+Chr5	Protein-DB	peptide_p	13556507	13556530	.	?	.	Parent=mRNA:LOC_Os05g23720.1:P999_24168
+Chr5	Protein-DB	peptide_p	13556411	13556440	.	?	.	Parent=mRNA:LOC_Os05g23720.1:P999_24169

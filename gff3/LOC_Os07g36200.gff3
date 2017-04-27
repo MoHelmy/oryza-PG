@@ -1,0 +1,10 @@
+Chr7	MSU_osa1r6_db	gene	21628478	21632110	.	+	.	ID=Gene:LOC_Os07g36200;Note=eukaryotic+translation+initiation+factor-related%2C+putative%2C+expressed;Alias=13107.t03278
+Chr7	MSU_osa1r6_db	processed_transcript	21628478	21632110	.	+	.	ID=mRNA:LOC_Os07g36200.1;Note=13107.m03715;Gene=LOC_Os07g36200
+Chr7	MSU_osa1r6_db	CDS	21628534	21628628	.	+	0	Parent=mRNA:LOC_Os07g36200.1
+Chr7	MSU_osa1r6_db	CDS	21628726	21629488	.	+	2	Parent=mRNA:LOC_Os07g36200.1
+Chr7	MSU_osa1r6_db	CDS	21629720	21629913	.	+	0	Parent=mRNA:LOC_Os07g36200.1
+Chr7	MSU_osa1r6_db	CDS	21630840	21630876	.	+	2	Parent=mRNA:LOC_Os07g36200.1
+Chr7	MSU_osa1r6_db	CDS	21631007	21631071	.	+	0	Parent=mRNA:LOC_Os07g36200.1
+Chr7	MSU_osa1r6_db	CDS	21631618	21632110	.	+	2	Parent=mRNA:LOC_Os07g36200.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	21628478	21628533	.	+	.	Parent=mRNA:LOC_Os07g36200.1
+Chr7	Protein-DB	peptide_p	21631023	21631055	.	?	.	Parent=mRNA:LOC_Os07g36200.1:P999_31106

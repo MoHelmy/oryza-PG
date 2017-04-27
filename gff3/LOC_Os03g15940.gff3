@@ -1,0 +1,9 @@
+Chr3	MSU_osa1r6_db	gene	8796786	8798774	.	+	.	ID=Gene:LOC_Os03g15940;Note=OsWLIM2+-+LIM+domain+protein%2C+putative+actin-binding+protein+and+transcription+factor%2C+expressed;Alias=13103.t01399
+Chr3	MSU_osa1r6_db	processed_transcript	8796786	8798774	.	+	.	ID=mRNA:LOC_Os03g15940.1;Note=13103.m01883;Gene=LOC_Os03g15940
+Chr3	MSU_osa1r6_db	CDS	8797012	8797143	.	+	0	Parent=mRNA:LOC_Os03g15940.1
+Chr3	MSU_osa1r6_db	CDS	8797564	8797663	.	+	0	Parent=mRNA:LOC_Os03g15940.1
+Chr3	MSU_osa1r6_db	CDS	8797779	8797816	.	+	1	Parent=mRNA:LOC_Os03g15940.1
+Chr3	MSU_osa1r6_db	CDS	8797932	8798021	.	+	0	Parent=mRNA:LOC_Os03g15940.1
+Chr3	MSU_osa1r6_db	CDS	8798295	8798525	.	+	0	Parent=mRNA:LOC_Os03g15940.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	8796786	8797011	.	+	.	Parent=mRNA:LOC_Os03g15940.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	8798526	8798774	.	+	.	Parent=mRNA:LOC_Os03g15940.1

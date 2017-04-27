@@ -1,0 +1,12 @@
+Chr1	MSU_osa1r6_db	gene	27046321	27049442	.	-	.	ID=Gene:LOC_Os01g47340;Note=iron-sulfur+cluster+assembly+enzyme+ISCU%2C+mitochondrial+precursor%2C+putative%2C+expressed;Alias=13101.t04103
+Chr1	MSU_osa1r6_db	processed_transcript	27046321	27049442	.	-	.	ID=mRNA:LOC_Os01g47340.1;Note=13101.m04879;Gene=LOC_Os01g47340
+Chr1	MSU_osa1r6_db	CDS	27049019	27049331	.	-	0	Parent=mRNA:LOC_Os01g47340.1
+Chr1	MSU_osa1r6_db	CDS	27047637	27047691	.	-	1	Parent=mRNA:LOC_Os01g47340.1
+Chr1	MSU_osa1r6_db	CDS	27046768	27046915	.	-	2	Parent=mRNA:LOC_Os01g47340.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	27049332	27049442	.	-	.	Parent=mRNA:LOC_Os01g47340.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	27046321	27046767	.	-	.	Parent=mRNA:LOC_Os01g47340.1
+Chr1	MSU_osa1r6_db	processed_transcript	27046321	27049442	.	-	.	ID=mRNA:LOC_Os01g47340.2;Note=13101.m04880;Gene=LOC_Os01g47340
+Chr1	MSU_osa1r6_db	CDS	27048960	27049331	.	-	0	Parent=mRNA:LOC_Os01g47340.2
+Chr1	MSU_osa1r6_db	five_prime_UTR	27049332	27049442	.	-	.	Parent=mRNA:LOC_Os01g47340.2
+Chr1	MSU_osa1r6_db	three_prime_UTR	27046321	27048959	.	-	.	Parent=mRNA:LOC_Os01g47340.2
+Chr1	Protein-DB	peptide_p	27046571	27046651	.	?	.	Parent=mRNA:LOC_Os01g47340.1:P999_3382

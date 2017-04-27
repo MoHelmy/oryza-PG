@@ -1,0 +1,5 @@
+Chr9	MSU_osa1r6_db	gene	11868806	11873416	.	+	.	ID=Gene:LOC_Os09g19830;Note=histone-lysine+N-methyltransferase%2C+putative%2C+expressed;Alias=13109.t01721
+Chr9	MSU_osa1r6_db	processed_transcript	11868806	11873416	.	+	.	ID=mRNA:LOC_Os09g19830.1;Note=13109.m01868;Gene=LOC_Os09g19830
+Chr9	MSU_osa1r6_db	CDS	11868806	11871819	.	+	0	Parent=mRNA:LOC_Os09g19830.1
+Chr9	MSU_osa1r6_db	CDS	11872587	11873178	.	+	2	Parent=mRNA:LOC_Os09g19830.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	11873179	11873416	.	+	.	Parent=mRNA:LOC_Os09g19830.1

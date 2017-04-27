@@ -1,0 +1,11 @@
+Chr4	MSU_osa1r6_db	gene	19426228	19428944	.	+	.	ID=Gene:LOC_Os04g32550;Note=defender+against+cell+death+1%2C+putative%2C+expressed;Alias=13104.t02911
+Chr4	MSU_osa1r6_db	processed_transcript	19426228	19428944	.	+	.	ID=mRNA:LOC_Os04g32550.1;Note=13104.m03118;Gene=LOC_Os04g32550
+Chr4	MSU_osa1r6_db	CDS	19427350	19427430	.	+	0	Parent=mRNA:LOC_Os04g32550.1
+Chr4	MSU_osa1r6_db	CDS	19427506	19427553	.	+	0	Parent=mRNA:LOC_Os04g32550.1
+Chr4	MSU_osa1r6_db	CDS	19428198	19428285	.	+	0	Parent=mRNA:LOC_Os04g32550.1
+Chr4	MSU_osa1r6_db	CDS	19428366	19428409	.	+	1	Parent=mRNA:LOC_Os04g32550.1
+Chr4	MSU_osa1r6_db	CDS	19428495	19428578	.	+	0	Parent=mRNA:LOC_Os04g32550.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	19426228	19426351	.	+	.	Parent=mRNA:LOC_Os04g32550.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	19427331	19427349	.	+	.	Parent=mRNA:LOC_Os04g32550.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	19428579	19428944	.	+	.	Parent=mRNA:LOC_Os04g32550.1
+Chr4	Protein-DB	peptide_p	19427378	19427401	.	?	.	Parent=mRNA:LOC_Os04g32550.1:P999_20455

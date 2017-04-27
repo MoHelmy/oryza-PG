@@ -1,0 +1,9 @@
+Chr3	MSU_osa1r6_db	gene	4542319	4543648	.	-	.	ID=Gene:LOC_Os03g08800;Note=CutA%2C+chloroplast+precursor%2C+putative%2C+expressed;Alias=13103.t00752
+Chr3	MSU_osa1r6_db	processed_transcript	4542319	4543648	.	-	.	ID=mRNA:LOC_Os03g08800.1;Note=13103.m01018;Gene=LOC_Os03g08800
+Chr3	MSU_osa1r6_db	CDS	4543582	4543648	.	-	0	Parent=mRNA:LOC_Os03g08800.1
+Chr3	MSU_osa1r6_db	CDS	4543258	4543320	.	-	1	Parent=mRNA:LOC_Os03g08800.1
+Chr3	MSU_osa1r6_db	CDS	4542814	4542845	.	-	1	Parent=mRNA:LOC_Os03g08800.1
+Chr3	MSU_osa1r6_db	CDS	4542571	4542665	.	-	0	Parent=mRNA:LOC_Os03g08800.1
+Chr3	MSU_osa1r6_db	CDS	4542319	4542403	.	-	2	Parent=mRNA:LOC_Os03g08800.1
+Chr3	Protein-DB	peptide_p	4543303	4543338	.	?	.	Parent=mRNA:LOC_Os03g08800.1:P999_13762
+Chr3	Protein-DB	peptide_p	4543345	4543380	.	?	.	Parent=mRNA:LOC_Os03g08800.1:P999_13765

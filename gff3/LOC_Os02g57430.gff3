@@ -1,0 +1,7 @@
+Chr2	MSU_osa1r6_db	gene	35193546	35195059	.	-	.	ID=Gene:LOC_Os02g57430;Note=DNL+zinc+finger+domain+containing+protein%2C+putative%2C+expressed;Alias=13102.t05368
+Chr2	MSU_osa1r6_db	processed_transcript	35193546	35195059	.	-	.	ID=mRNA:LOC_Os02g57430.1;Note=13102.m06629;Gene=LOC_Os02g57430
+Chr2	MSU_osa1r6_db	CDS	35194847	35194928	.	-	0	Parent=mRNA:LOC_Os02g57430.1
+Chr2	MSU_osa1r6_db	CDS	35193858	35194342	.	-	1	Parent=mRNA:LOC_Os02g57430.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	35194929	35195059	.	-	.	Parent=mRNA:LOC_Os02g57430.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	35193546	35193857	.	-	.	Parent=mRNA:LOC_Os02g57430.1
+Chr2	Protein-DB	peptide_p	35194557	35194595	.	?	.	Parent=mRNA:LOC_Os02g57430.1:P999_12422

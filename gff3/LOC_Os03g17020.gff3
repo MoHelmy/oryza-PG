@@ -1,0 +1,15 @@
+Chr3	MSU_osa1r6_db	gene	9453766	9457869	.	-	.	ID=Gene:LOC_Os03g17020;Note=GTPase-activating+protein%2C+putative%2C+expressed;Alias=13103.t01500
+Chr3	MSU_osa1r6_db	processed_transcript	9454516	9457869	.	-	.	ID=mRNA:LOC_Os03g17020.1;Note=13103.m02035;Gene=LOC_Os03g17020
+Chr3	MSU_osa1r6_db	CDS	9456973	9457764	.	-	0	Parent=mRNA:LOC_Os03g17020.1
+Chr3	MSU_osa1r6_db	CDS	9455993	9456082	.	-	0	Parent=mRNA:LOC_Os03g17020.1
+Chr3	MSU_osa1r6_db	CDS	9455025	9455504	.	-	0	Parent=mRNA:LOC_Os03g17020.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	9457765	9457869	.	-	.	Parent=mRNA:LOC_Os03g17020.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	9454516	9455024	.	-	.	Parent=mRNA:LOC_Os03g17020.1
+Chr3	MSU_osa1r6_db	processed_transcript	9453766	9457869	.	-	.	ID=mRNA:LOC_Os03g17020.2;Note=13103.m02036;Gene=LOC_Os03g17020
+Chr3	MSU_osa1r6_db	CDS	9456973	9457764	.	-	0	Parent=mRNA:LOC_Os03g17020.2
+Chr3	MSU_osa1r6_db	CDS	9455993	9456082	.	-	0	Parent=mRNA:LOC_Os03g17020.2
+Chr3	MSU_osa1r6_db	CDS	9455025	9455504	.	-	0	Parent=mRNA:LOC_Os03g17020.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	9457765	9457869	.	-	.	Parent=mRNA:LOC_Os03g17020.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	9455024	9455024	.	-	.	Parent=mRNA:LOC_Os03g17020.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	9453766	9454468	.	-	.	Parent=mRNA:LOC_Os03g17020.2
+Chr3	Protein-DB	peptide_p	9456159	9456191	.	?	.	Parent=mRNA:LOC_Os03g17020.1:P999_14618

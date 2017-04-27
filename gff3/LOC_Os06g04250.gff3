@@ -1,0 +1,6 @@
+Chr6	MSU_osa1r6_db	gene	1788837	1790395	.	+	.	ID=Gene:LOC_Os06g04250;Note=phosphate-induced+protein+1+conserved+region+domain+containing+protein%2C+expressed;Alias=13106.t00310
+Chr6	MSU_osa1r6_db	processed_transcript	1788837	1790395	.	+	.	ID=mRNA:LOC_Os06g04250.1;Note=13106.m00377;Gene=LOC_Os06g04250
+Chr6	MSU_osa1r6_db	CDS	1789040	1790086	.	+	0	Parent=mRNA:LOC_Os06g04250.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	1788837	1789039	.	+	.	Parent=mRNA:LOC_Os06g04250.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	1790087	1790395	.	+	.	Parent=mRNA:LOC_Os06g04250.1
+Chr6	Protein-DB	peptide_p	1789494	1789517	.	?	.	Parent=mRNA:LOC_Os06g04250.1:P999_27059

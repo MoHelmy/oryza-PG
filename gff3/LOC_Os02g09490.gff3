@@ -1,0 +1,15 @@
+Chr2	MSU_osa1r6_db	gene	4870139	4874079	.	-	.	ID=Gene:LOC_Os02g09490;Note=dehydrogenase%2C+putative%2C+expressed;Alias=13102.t00808
+Chr2	MSU_osa1r6_db	processed_transcript	4870139	4874079	.	-	.	ID=mRNA:LOC_Os02g09490.1;Note=13102.m01041;Gene=LOC_Os02g09490
+Chr2	MSU_osa1r6_db	CDS	4873813	4873901	.	-	0	Parent=mRNA:LOC_Os02g09490.1
+Chr2	MSU_osa1r6_db	CDS	4872874	4872987	.	-	2	Parent=mRNA:LOC_Os02g09490.1
+Chr2	MSU_osa1r6_db	CDS	4872018	4872245	.	-	2	Parent=mRNA:LOC_Os02g09490.1
+Chr2	MSU_osa1r6_db	CDS	4870315	4870975	.	-	2	Parent=mRNA:LOC_Os02g09490.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	4873902	4874079	.	-	.	Parent=mRNA:LOC_Os02g09490.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	4870139	4870314	.	-	.	Parent=mRNA:LOC_Os02g09490.1
+Chr2	Protein-DB	peptide_p	4873416	4873457	.	?	.	Parent=mRNA:LOC_Os02g09490.1:P999_7848
+Chr2	Protein-DB	peptide_p	4871236	4871262	.	?	.	Parent=mRNA:LOC_Os02g09490.1:P999_7853
+Chr2	Protein-DB	peptide_p	4873257	4873331	.	?	.	Parent=mRNA:LOC_Os02g09490.1:P999_7855
+Chr2	Protein-DB	peptide_p	4873761	4873790	.	?	.	Parent=mRNA:LOC_Os02g09490.1:P999_7856
+Chr2	Protein-DB	peptide_p	4873791	4873820	.	?	.	Parent=mRNA:LOC_Os02g09490.1:P999_7857
+Chr2	Protein-DB	peptide_p	4873332	4873361	.	?	.	Parent=mRNA:LOC_Os02g09490.1:P999_7862
+Chr2	Protein-DB	peptide_p	4872023	4872073	.	?	.	Parent=mRNA:LOC_Os02g09490.1:P999_7863

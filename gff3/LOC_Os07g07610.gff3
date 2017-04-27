@@ -1,0 +1,12 @@
+Chr7	MSU_osa1r6_db	gene	3812969	3816342	.	-	.	ID=Gene:LOC_Os07g07610;Note=RNA+polymerase+subunit%2C+putative%2C+expressed;Alias=13107.t00645
+Chr7	MSU_osa1r6_db	processed_transcript	3812969	3816342	.	-	.	ID=mRNA:LOC_Os07g07610.1;Note=13107.m00748;Gene=LOC_Os07g07610
+Chr7	MSU_osa1r6_db	CDS	3815887	3815939	.	-	0	Parent=mRNA:LOC_Os07g07610.1
+Chr7	MSU_osa1r6_db	CDS	3813993	3814082	.	-	2	Parent=mRNA:LOC_Os07g07610.1
+Chr7	MSU_osa1r6_db	CDS	3813829	3813907	.	-	2	Parent=mRNA:LOC_Os07g07610.1
+Chr7	MSU_osa1r6_db	CDS	3813653	3813748	.	-	0	Parent=mRNA:LOC_Os07g07610.1
+Chr7	MSU_osa1r6_db	CDS	3813254	3813298	.	-	0	Parent=mRNA:LOC_Os07g07610.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	3816194	3816342	.	-	.	Parent=mRNA:LOC_Os07g07610.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	3815940	3815992	.	-	.	Parent=mRNA:LOC_Os07g07610.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	3812969	3813253	.	-	.	Parent=mRNA:LOC_Os07g07610.1
+Chr7	Protein-DB	peptide_p	3815418	3815447	.	?	.	Parent=mRNA:LOC_Os07g07610.1:P999_30168
+Chr7	Protein-DB	peptide_p	3815255	3815287	.	?	.	Parent=mRNA:LOC_Os07g07610.1:P999_30169

@@ -1,0 +1,6 @@
+Chr5	MSU_osa1r6_db	gene	19569446	19570927	.	+	.	ID=Gene:LOC_Os05g33400;Note=basic+7S+globulin+precursor%2C+putative%2C+expressed;Alias=13105.t02961
+Chr5	MSU_osa1r6_db	processed_transcript	19569446	19570927	.	+	.	ID=mRNA:LOC_Os05g33400.1;Note=13105.m03452;Gene=LOC_Os05g33400
+Chr5	MSU_osa1r6_db	CDS	19569486	19570799	.	+	0	Parent=mRNA:LOC_Os05g33400.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	19569446	19569485	.	+	.	Parent=mRNA:LOC_Os05g33400.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	19570800	19570927	.	+	.	Parent=mRNA:LOC_Os05g33400.1
+Chr5	Protein-DB	peptide_p	19570267	19570296	.	?	.	Parent=mRNA:LOC_Os05g33400.1:P999_24801

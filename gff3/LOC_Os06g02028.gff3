@@ -1,0 +1,10 @@
+Chr6	MSU_osa1r6_db	gene	586544	591230	.	+	.	ID=Gene:LOC_Os06g02028;Note=eyes+absent+homolog+4%2C+putative%2C+expressed;Alias=13106.t00095
+Chr6	MSU_osa1r6_db	processed_transcript	586544	591230	.	+	.	ID=mRNA:LOC_Os06g02028.1;Note=13106.m00117;Gene=LOC_Os06g02028
+Chr6	MSU_osa1r6_db	CDS	587160	587390	.	+	0	Parent=mRNA:LOC_Os06g02028.1
+Chr6	MSU_osa1r6_db	CDS	587986	588153	.	+	0	Parent=mRNA:LOC_Os06g02028.1
+Chr6	MSU_osa1r6_db	CDS	589133	589226	.	+	0	Parent=mRNA:LOC_Os06g02028.1
+Chr6	MSU_osa1r6_db	CDS	589995	590150	.	+	1	Parent=mRNA:LOC_Os06g02028.1
+Chr6	MSU_osa1r6_db	CDS	590379	590629	.	+	1	Parent=mRNA:LOC_Os06g02028.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	586544	586883	.	+	.	Parent=mRNA:LOC_Os06g02028.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	587153	587159	.	+	.	Parent=mRNA:LOC_Os06g02028.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	590630	591230	.	+	.	Parent=mRNA:LOC_Os06g02028.1

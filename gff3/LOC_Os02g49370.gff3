@@ -1,0 +1,15 @@
+Chr2	MSU_osa1r6_db	gene	30158404	30159572	.	-	.	ID=Gene:LOC_Os02g49370;Note=histone-like+transcription+factor+and+archaeal+histone%2C+putative%2C+expressed;Alias=13102.t04563
+Chr2	MSU_osa1r6_db	processed_transcript	30158404	30159572	.	-	.	ID=mRNA:LOC_Os02g49370.1;Note=13102.m05597;Gene=LOC_Os02g49370
+Chr2	MSU_osa1r6_db	CDS	30158743	30159507	.	-	0	Parent=mRNA:LOC_Os02g49370.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	30159508	30159572	.	-	.	Parent=mRNA:LOC_Os02g49370.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	30158404	30158742	.	-	.	Parent=mRNA:LOC_Os02g49370.1
+Chr2	MSU_osa1r6_db	processed_transcript	30158404	30159572	.	-	.	ID=mRNA:LOC_Os02g49370.2;Note=13102.m05598;Gene=LOC_Os02g49370
+Chr2	MSU_osa1r6_db	CDS	30159502	30159507	.	-	0	Parent=mRNA:LOC_Os02g49370.2
+Chr2	MSU_osa1r6_db	CDS	30158743	30159273	.	-	0	Parent=mRNA:LOC_Os02g49370.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	30159508	30159572	.	-	.	Parent=mRNA:LOC_Os02g49370.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	30158404	30158742	.	-	.	Parent=mRNA:LOC_Os02g49370.2
+Chr2	Protein-DB	peptide_p	30158737	30158775	.	?	.	Parent=mRNA:LOC_Os02g49370.1:P999_11252
+Chr2	Protein-DB	peptide_p	30158776	30158823	.	?	.	Parent=mRNA:LOC_Os02g49370.1:P999_11255
+Chr2	Protein-DB	peptide_p	30158734	30158775	.	?	.	Parent=mRNA:LOC_Os02g49370.1:P999_11256
+Chr2	Protein-DB	peptide_p	30158824	30158850	.	?	.	Parent=mRNA:LOC_Os02g49370.1:P999_11261
+Chr2	Protein-DB	peptide_p	30158653	30158715	.	?	.	Parent=mRNA:LOC_Os02g49370.1:P999_11265

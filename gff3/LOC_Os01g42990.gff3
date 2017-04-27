@@ -1,0 +1,9 @@
+Chr1	MSU_osa1r6_db	gene	24483505	24486787	.	+	.	ID=Gene:LOC_Os01g42990;Note=PPR+repeat+domain+containing+protein%2C+putative;Alias=13101.t03734
+Chr1	MSU_osa1r6_db	processed_transcript	24483505	24486787	.	+	.	ID=mRNA:LOC_Os01g42990.1;Note=13101.m04430;Gene=LOC_Os01g42990
+Chr1	MSU_osa1r6_db	CDS	24483505	24484637	.	+	0	Parent=mRNA:LOC_Os01g42990.1
+Chr1	MSU_osa1r6_db	CDS	24485176	24485209	.	+	2	Parent=mRNA:LOC_Os01g42990.1
+Chr1	MSU_osa1r6_db	CDS	24485790	24486149	.	+	0	Parent=mRNA:LOC_Os01g42990.1
+Chr1	MSU_osa1r6_db	CDS	24486322	24486376	.	+	0	Parent=mRNA:LOC_Os01g42990.1
+Chr1	MSU_osa1r6_db	CDS	24486420	24486787	.	+	1	Parent=mRNA:LOC_Os01g42990.1
+Chr1	Protein-DB	peptide_p	24484361	24484399	.	?	.	Parent=mRNA:LOC_Os01g42990.1:P999_3003
+Chr1	Protein-DB	peptide_p	24483950	24484006	.	?	.	Parent=mRNA:LOC_Os01g42990.1:P999_3005

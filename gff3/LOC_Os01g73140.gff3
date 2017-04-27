@@ -1,0 +1,10 @@
+Chr1	MSU_osa1r6_db	gene	42418120	42420335	.	-	.	ID=Gene:LOC_Os01g73140;Note=ubiquitin-fold+modifier+1+precursor%2C+putative%2C+expressed;Alias=13101.t06529
+Chr1	MSU_osa1r6_db	processed_transcript	42418120	42420335	.	-	.	ID=mRNA:LOC_Os01g73140.1;Note=13101.m07983;Gene=LOC_Os01g73140
+Chr1	MSU_osa1r6_db	CDS	42420097	42420194	.	-	0	Parent=mRNA:LOC_Os01g73140.1
+Chr1	MSU_osa1r6_db	CDS	42419874	42419971	.	-	2	Parent=mRNA:LOC_Os01g73140.1
+Chr1	MSU_osa1r6_db	CDS	42419074	42419106	.	-	1	Parent=mRNA:LOC_Os01g73140.1
+Chr1	MSU_osa1r6_db	CDS	42418505	42418584	.	-	1	Parent=mRNA:LOC_Os01g73140.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	42420195	42420335	.	-	.	Parent=mRNA:LOC_Os01g73140.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	42418120	42418504	.	-	.	Parent=mRNA:LOC_Os01g73140.1
+Chr1	Protein-DB	peptide_p	42418486	42418527	.	?	.	Parent=mRNA:LOC_Os01g73140.1:P999_6082
+Chr1	Protein-DB	peptide_p	42418322	42418345	.	?	.	Parent=mRNA:LOC_Os01g73140.1:P999_6083

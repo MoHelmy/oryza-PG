@@ -1,0 +1,8 @@
+Chr3	MSU_osa1r6_db	gene	2842443	2843827	.	-	.	ID=Gene:LOC_Os03g05710;Note=acetyltransferase%2C+GNAT+family%2C+putative%2C+expressed;Alias=13103.t00451
+Chr3	MSU_osa1r6_db	processed_transcript	2842443	2843827	.	-	.	ID=mRNA:LOC_Os03g05710.1;Note=13103.m00616;Gene=LOC_Os03g05710
+Chr3	MSU_osa1r6_db	CDS	2843089	2843772	.	-	0	Parent=mRNA:LOC_Os03g05710.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	2843773	2843827	.	-	.	Parent=mRNA:LOC_Os03g05710.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	2842443	2843088	.	-	.	Parent=mRNA:LOC_Os03g05710.1
+Chr3	Protein-DB	peptide_p	2843111	2843140	.	?	.	Parent=mRNA:LOC_Os03g05710.1:P999_13051
+Chr3	Protein-DB	peptide_p	2843048	2843101	.	?	.	Parent=mRNA:LOC_Os03g05710.1:P999_13053
+Chr3	Protein-DB	peptide_p	2843018	2843047	.	?	.	Parent=mRNA:LOC_Os03g05710.1:P999_13054

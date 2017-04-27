@@ -1,0 +1,8 @@
+Chr7	MSU_osa1r6_db	gene	25635709	25638900	.	+	.	ID=Gene:LOC_Os07g42800;Note=heat+shock+protein+DnaJ%2C+putative%2C+expressed;Alias=13107.t03917
+Chr7	MSU_osa1r6_db	processed_transcript	25635709	25638900	.	+	.	ID=mRNA:LOC_Os07g42800.1;Note=13107.m04483;Gene=LOC_Os07g42800
+Chr7	MSU_osa1r6_db	CDS	25635781	25636971	.	+	0	Parent=mRNA:LOC_Os07g42800.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	25635709	25635780	.	+	.	Parent=mRNA:LOC_Os07g42800.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	25636972	25637359	.	+	.	Parent=mRNA:LOC_Os07g42800.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	25638540	25638900	.	+	.	Parent=mRNA:LOC_Os07g42800.1
+Chr7	Protein-DB	peptide_p	25635893	25635970	.	?	.	Parent=mRNA:LOC_Os07g42800.1:P999_31610
+Chr7	Protein-DB	peptide_p	25636799	25636825	.	?	.	Parent=mRNA:LOC_Os07g42800.1:P999_31612

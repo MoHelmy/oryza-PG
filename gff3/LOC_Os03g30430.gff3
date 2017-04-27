@@ -1,0 +1,14 @@
+Chr3	MSU_osa1r6_db	gene	17345952	17349358	.	-	.	ID=Gene:LOC_Os03g30430;Note=nitrilase-associated+protein%2C+putative%2C+expressed;Alias=13103.t02678
+Chr3	MSU_osa1r6_db	processed_transcript	17345952	17349358	.	-	.	ID=mRNA:LOC_Os03g30430.1;Note=13103.m03482;Gene=LOC_Os03g30430
+Chr3	MSU_osa1r6_db	CDS	17347148	17347423	.	-	0	Parent=mRNA:LOC_Os03g30430.1
+Chr3	MSU_osa1r6_db	CDS	17346418	17346492	.	-	0	Parent=mRNA:LOC_Os03g30430.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	17349238	17349358	.	-	.	Parent=mRNA:LOC_Os03g30430.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	17347424	17347445	.	-	.	Parent=mRNA:LOC_Os03g30430.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	17345952	17346417	.	-	.	Parent=mRNA:LOC_Os03g30430.1
+Chr3	MSU_osa1r6_db	processed_transcript	17345952	17349287	.	-	.	ID=mRNA:LOC_Os03g30430.2;Note=13103.m03483;Gene=LOC_Os03g30430
+Chr3	MSU_osa1r6_db	CDS	17347148	17347423	.	-	0	Parent=mRNA:LOC_Os03g30430.2
+Chr3	MSU_osa1r6_db	CDS	17346418	17346492	.	-	0	Parent=mRNA:LOC_Os03g30430.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	17349233	17349287	.	-	.	Parent=mRNA:LOC_Os03g30430.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	17347424	17347445	.	-	.	Parent=mRNA:LOC_Os03g30430.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	17345952	17346417	.	-	.	Parent=mRNA:LOC_Os03g30430.2
+Chr3	Protein-DB	peptide_p	17348131	17348169	.	?	.	Parent=mRNA:LOC_Os03g30430.1:P999_16312

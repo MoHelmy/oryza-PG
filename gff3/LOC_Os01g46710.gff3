@@ -1,0 +1,9 @@
+Chr1	MSU_osa1r6_db	gene	26600860	26607432	.	-	.	ID=Gene:LOC_Os01g46710;Note=transposon+protein%2C+putative%2C+CACTA%2C+En%2FSpm+sub-class%2C+expressed;Alias=13101.t04038
+Chr1	MSU_osa1r6_db	processed_transcript	26600860	26607432	.	-	.	ID=mRNA:LOC_Os01g46710.1;Note=13101.m04803;Gene=LOC_Os01g46710
+Chr1	MSU_osa1r6_db	CDS	26606260	26607151	.	-	0	Parent=mRNA:LOC_Os01g46710.1
+Chr1	MSU_osa1r6_db	CDS	26604982	26605621	.	-	1	Parent=mRNA:LOC_Os01g46710.1
+Chr1	MSU_osa1r6_db	CDS	26602662	26604051	.	-	2	Parent=mRNA:LOC_Os01g46710.1
+Chr1	MSU_osa1r6_db	CDS	26602483	26602575	.	-	0	Parent=mRNA:LOC_Os01g46710.1
+Chr1	MSU_osa1r6_db	CDS	26601268	26602305	.	-	0	Parent=mRNA:LOC_Os01g46710.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	26607152	26607432	.	-	.	Parent=mRNA:LOC_Os01g46710.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	26600860	26601267	.	-	.	Parent=mRNA:LOC_Os01g46710.1

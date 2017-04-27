@@ -1,0 +1,5 @@
+Chr9	MSU_osa1r6_db	gene	18672329	18673856	.	-	.	ID=Gene:LOC_Os09g31050;Note=cytosolic+phospholipase+A2+beta%2C+putative%2C+expressed;Alias=13109.t02750
+Chr9	MSU_osa1r6_db	processed_transcript	18672329	18673856	.	-	.	ID=mRNA:LOC_Os09g31050.1;Note=13109.m03075;Gene=LOC_Os09g31050
+Chr9	MSU_osa1r6_db	CDS	18672713	18673792	.	-	0	Parent=mRNA:LOC_Os09g31050.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	18673793	18673856	.	-	.	Parent=mRNA:LOC_Os09g31050.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	18672329	18672712	.	-	.	Parent=mRNA:LOC_Os09g31050.1

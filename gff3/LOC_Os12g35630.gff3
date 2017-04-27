@@ -1,0 +1,14 @@
+Chr12	MSU_osa1r6_db	gene	21627198	21633444	.	+	.	ID=Gene:LOC_Os12g35630;Note=elongation+factor+TS+family+protein%2C+expressed;Alias=13112.t03264
+Chr12	MSU_osa1r6_db	processed_transcript	21627198	21633444	.	+	.	ID=mRNA:LOC_Os12g35630.1;Note=13112.m03651;Gene=LOC_Os12g35630
+Chr12	MSU_osa1r6_db	CDS	21628189	21630241	.	+	0	Parent=mRNA:LOC_Os12g35630.1
+Chr12	MSU_osa1r6_db	CDS	21631117	21631828	.	+	1	Parent=mRNA:LOC_Os12g35630.1
+Chr12	MSU_osa1r6_db	CDS	21631967	21632573	.	+	2	Parent=mRNA:LOC_Os12g35630.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	21627198	21627406	.	+	.	Parent=mRNA:LOC_Os12g35630.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	21628129	21628188	.	+	.	Parent=mRNA:LOC_Os12g35630.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	21632574	21633444	.	+	.	Parent=mRNA:LOC_Os12g35630.1
+Chr12	MSU_osa1r6_db	processed_transcript	21627198	21630672	.	+	.	ID=mRNA:LOC_Os12g35630.3;Note=13112.m03653;Gene=LOC_Os12g35630
+Chr12	MSU_osa1r6_db	CDS	21628189	21630252	.	+	0	Parent=mRNA:LOC_Os12g35630.3
+Chr12	MSU_osa1r6_db	five_prime_UTR	21627198	21627406	.	+	.	Parent=mRNA:LOC_Os12g35630.3
+Chr12	MSU_osa1r6_db	five_prime_UTR	21628129	21628188	.	+	.	Parent=mRNA:LOC_Os12g35630.3
+Chr12	MSU_osa1r6_db	three_prime_UTR	21630253	21630672	.	+	.	Parent=mRNA:LOC_Os12g35630.3
+Chr12	Protein-DB	peptide_p	21629249	21629278	.	?	.	Parent=mRNA:LOC_Os12g35630.1:P999_42212

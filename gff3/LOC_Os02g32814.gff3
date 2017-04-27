@@ -1,0 +1,9 @@
+Chr2	MSU_osa1r6_db	gene	19466343	19480380	.	-	.	ID=Gene:LOC_Os02g32814;Note=heavy+metal-associated+domain+containing+protein%2C+expressed;Alias=13102.t02942
+Chr2	MSU_osa1r6_db	processed_transcript	19466343	19480380	.	-	.	ID=mRNA:LOC_Os02g32814.1;Note=13102.m03555;Gene=LOC_Os02g32814
+Chr2	MSU_osa1r6_db	CDS	19479990	19480199	.	-	0	Parent=mRNA:LOC_Os02g32814.1
+Chr2	MSU_osa1r6_db	CDS	19479725	19479886	.	-	0	Parent=mRNA:LOC_Os02g32814.1
+Chr2	MSU_osa1r6_db	CDS	19467194	19467269	.	-	0	Parent=mRNA:LOC_Os02g32814.1
+Chr2	MSU_osa1r6_db	CDS	19466582	19466892	.	-	1	Parent=mRNA:LOC_Os02g32814.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	19480200	19480380	.	-	.	Parent=mRNA:LOC_Os02g32814.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	19466343	19466581	.	-	.	Parent=mRNA:LOC_Os02g32814.1
+Chr2	Protein-DB	peptide_p	19479882	19479923	.	?	.	Parent=mRNA:LOC_Os02g32814.1:P999_9443

@@ -1,0 +1,5 @@
+Chr7	MSU_osa1r6_db	gene	13383453	13385056	.	+	.	ID=Gene:LOC_Os07g23720;Note=B4-BTB4+-+Bric-a-Brac%2C+Tramtrack%2C+Broad+Complex+BTB+domain+with+B4+subfamily+conserved+sequence%2C+expressed;Alias=13107.t02065
+Chr7	MSU_osa1r6_db	processed_transcript	13383453	13385056	.	+	.	ID=mRNA:LOC_Os07g23720.1;Note=13107.m02329;Gene=LOC_Os07g23720
+Chr7	MSU_osa1r6_db	CDS	13383453	13384898	.	+	0	Parent=mRNA:LOC_Os07g23720.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	13384899	13385056	.	+	.	Parent=mRNA:LOC_Os07g23720.1
+Chr7	Protein-DB	peptide_p	13383910	13383987	.	?	.	Parent=mRNA:LOC_Os07g23720.1:P999_30812

@@ -1,0 +1,8 @@
+Chr3	MSU_osa1r6_db	gene	14008882	14012549	.	+	.	ID=Gene:LOC_Os03g24600;Note=peptide+methionine+sulfoxide+reductase+msrB%2C+putative%2C+expressed;Alias=13103.t02185
+Chr3	MSU_osa1r6_db	processed_transcript	14008882	14012549	.	+	.	ID=mRNA:LOC_Os03g24600.1;Note=13103.m02903;Gene=LOC_Os03g24600
+Chr3	MSU_osa1r6_db	CDS	14009045	14009148	.	+	0	Parent=mRNA:LOC_Os03g24600.1
+Chr3	MSU_osa1r6_db	CDS	14011952	14012108	.	+	2	Parent=mRNA:LOC_Os03g24600.1
+Chr3	MSU_osa1r6_db	CDS	14012195	14012344	.	+	0	Parent=mRNA:LOC_Os03g24600.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	14008882	14009044	.	+	.	Parent=mRNA:LOC_Os03g24600.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	14012345	14012549	.	+	.	Parent=mRNA:LOC_Os03g24600.1
+Chr3	Protein-DB	peptide_p	14011981	14012034	.	?	.	Parent=mRNA:LOC_Os03g24600.1:P999_15772

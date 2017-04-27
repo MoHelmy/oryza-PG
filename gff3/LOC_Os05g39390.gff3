@@ -1,0 +1,8 @@
+Chr5	MSU_osa1r6_db	gene	23041638	23047339	.	-	.	ID=Gene:LOC_Os05g39390;Note=outer+membrane+protein%2C+OMP85+family+protein%2C+expressed;Alias=13105.t03514
+Chr5	MSU_osa1r6_db	processed_transcript	23041638	23047339	.	-	.	ID=mRNA:LOC_Os05g39390.1;Note=13105.m04151;Gene=LOC_Os05g39390
+Chr5	MSU_osa1r6_db	CDS	23046778	23047260	.	-	0	Parent=mRNA:LOC_Os05g39390.1
+Chr5	MSU_osa1r6_db	CDS	23044163	23044645	.	-	0	Parent=mRNA:LOC_Os05g39390.1
+Chr5	MSU_osa1r6_db	CDS	23043494	23044006	.	-	0	Parent=mRNA:LOC_Os05g39390.1
+Chr5	MSU_osa1r6_db	CDS	23043319	23043402	.	-	0	Parent=mRNA:LOC_Os05g39390.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	23047261	23047339	.	-	.	Parent=mRNA:LOC_Os05g39390.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	23041638	23043318	.	-	.	Parent=mRNA:LOC_Os05g39390.1

@@ -1,0 +1,8 @@
+Chr11	MSU_osa1r6_db	gene	20243441	20248107	.	-	.	ID=Gene:LOC_Os11g35320;Note=BSD+domain-containing+protein%2C+putative%2C+expressed;Alias=13111.t03078
+Chr11	MSU_osa1r6_db	processed_transcript	20243441	20248107	.	-	.	ID=mRNA:LOC_Os11g35320.1;Note=13111.m03437;Gene=LOC_Os11g35320
+Chr11	MSU_osa1r6_db	CDS	20247545	20248010	.	-	0	Parent=mRNA:LOC_Os11g35320.1
+Chr11	MSU_osa1r6_db	CDS	20247277	20247464	.	-	1	Parent=mRNA:LOC_Os11g35320.1
+Chr11	MSU_osa1r6_db	CDS	20243830	20244468	.	-	0	Parent=mRNA:LOC_Os11g35320.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	20248011	20248107	.	-	.	Parent=mRNA:LOC_Os11g35320.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	20243441	20243829	.	-	.	Parent=mRNA:LOC_Os11g35320.1
+Chr11	Protein-DB	peptide_p	20243671	20243709	.	?	.	Parent=mRNA:LOC_Os11g35320.1:P999_40711

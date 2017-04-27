@@ -1,0 +1,15 @@
+Chr1	MSU_osa1r6_db	gene	10290865	10294512	.	+	.	ID=Gene:LOC_Os01g18320;Note=protoporphyrinogen+oxidase%2C+chloroplast+precursor%2C+putative%2C+expressed;Alias=13101.t01621
+Chr1	MSU_osa1r6_db	processed_transcript	10290865	10294512	.	+	.	ID=mRNA:LOC_Os01g18320.1;Note=13101.m01990;Gene=LOC_Os01g18320
+Chr1	MSU_osa1r6_db	CDS	10290933	10291307	.	+	0	Parent=mRNA:LOC_Os01g18320.1
+Chr1	MSU_osa1r6_db	CDS	10291397	10291582	.	+	0	Parent=mRNA:LOC_Os01g18320.1
+Chr1	MSU_osa1r6_db	CDS	10291664	10291748	.	+	0	Parent=mRNA:LOC_Os01g18320.1
+Chr1	MSU_osa1r6_db	CDS	10291823	10291970	.	+	1	Parent=mRNA:LOC_Os01g18320.1
+Chr1	MSU_osa1r6_db	CDS	10292045	10292125	.	+	2	Parent=mRNA:LOC_Os01g18320.1
+Chr1	MSU_osa1r6_db	CDS	10292551	10292722	.	+	2	Parent=mRNA:LOC_Os01g18320.1
+Chr1	MSU_osa1r6_db	CDS	10293284	10293443	.	+	0	Parent=mRNA:LOC_Os01g18320.1
+Chr1	MSU_osa1r6_db	CDS	10293576	10293679	.	+	1	Parent=mRNA:LOC_Os01g18320.1
+Chr1	MSU_osa1r6_db	CDS	10293879	10294178	.	+	0	Parent=mRNA:LOC_Os01g18320.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	10290865	10290932	.	+	.	Parent=mRNA:LOC_Os01g18320.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	10294179	10294512	.	+	.	Parent=mRNA:LOC_Os01g18320.1
+Chr1	Protein-DB	peptide_p	10291886	10291927	.	?	.	Parent=mRNA:LOC_Os01g18320.1:P999_1800
+Chr1	Protein-DB	peptide_p	10291452	10291472	.	?	.	Parent=mRNA:LOC_Os01g18320.1:P999_1802

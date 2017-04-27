@@ -1,0 +1,6 @@
+Chr7	MSU_osa1r6_db	gene	3468428	3470636	.	+	.	ID=Gene:LOC_Os07g07040;Note=erythrocyte+binding+protein+3%2C+putative%2C+expressed;Alias=13107.t00592
+Chr7	MSU_osa1r6_db	processed_transcript	3468428	3470636	.	+	.	ID=mRNA:LOC_Os07g07040.1;Note=13107.m00682;Gene=LOC_Os07g07040
+Chr7	MSU_osa1r6_db	CDS	3469557	3470384	.	+	0	Parent=mRNA:LOC_Os07g07040.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	3468428	3468615	.	+	.	Parent=mRNA:LOC_Os07g07040.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	3469528	3469556	.	+	.	Parent=mRNA:LOC_Os07g07040.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	3470385	3470636	.	+	.	Parent=mRNA:LOC_Os07g07040.1

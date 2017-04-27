@@ -1,0 +1,5 @@
+Chr6	MSU_osa1r6_db	gene	29753547	29755481	.	+	.	ID=Gene:LOC_Os06g49100;Note=retrotransposon+protein%2C+putative%2C+unclassified%2C+expressed;Alias=13106.t04577
+Chr6	MSU_osa1r6_db	processed_transcript	29753547	29755481	.	+	.	ID=mRNA:LOC_Os06g49100.1;Note=13106.m05237;Gene=LOC_Os06g49100
+Chr6	MSU_osa1r6_db	CDS	29753547	29755163	.	+	0	Parent=mRNA:LOC_Os06g49100.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	29755164	29755481	.	+	.	Parent=mRNA:LOC_Os06g49100.1
+Chr6	Protein-DB	peptide_p	29753995	29754042	.	?	.	Parent=mRNA:LOC_Os06g49100.1:P999_29613

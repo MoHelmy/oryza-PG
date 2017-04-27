@@ -1,0 +1,12 @@
+Chr3	MSU_osa1r6_db	gene	26370745	26372962	.	+	.	ID=Gene:LOC_Os03g46600;Note=acidic+leucine-rich+nuclear+phosphoprotein+32-related+protein+2%2C+putative%2C+expressed;Alias=13103.t04033
+Chr3	MSU_osa1r6_db	processed_transcript	26370745	26372962	.	+	.	ID=mRNA:LOC_Os03g46600.1;Note=13103.m05015;Gene=LOC_Os03g46600
+Chr3	MSU_osa1r6_db	CDS	26370833	26371510	.	+	0	Parent=mRNA:LOC_Os03g46600.1
+Chr3	MSU_osa1r6_db	CDS	26372567	26372707	.	+	0	Parent=mRNA:LOC_Os03g46600.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	26370745	26370832	.	+	.	Parent=mRNA:LOC_Os03g46600.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	26372708	26372962	.	+	.	Parent=mRNA:LOC_Os03g46600.1
+Chr3	Protein-DB	peptide_p	26370996	26371034	.	?	.	Parent=mRNA:LOC_Os03g46600.1:P999_17085
+Chr3	Protein-DB	peptide_p	26371035	26371061	.	?	.	Parent=mRNA:LOC_Os03g46600.1:P999_17086
+Chr3	Protein-DB	peptide_p	26371284	26371310	.	?	.	Parent=mRNA:LOC_Os03g46600.1:P999_17087
+Chr3	Protein-DB	peptide_p	26371182	26371262	.	?	.	Parent=mRNA:LOC_Os03g46600.1:P999_17088
+Chr3	Protein-DB	peptide_p	26370927	26370953	.	?	.	Parent=mRNA:LOC_Os03g46600.1:P999_17097
+Chr3	Protein-DB	peptide_p	26370903	26370926	.	?	.	Parent=mRNA:LOC_Os03g46600.1:P999_17099

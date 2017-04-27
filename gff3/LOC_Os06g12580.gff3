@@ -1,0 +1,9 @@
+Chr6	MSU_osa1r6_db	gene	6815403	6818862	.	-	.	ID=Gene:LOC_Os06g12580;Note=pro-resilin+precursor%2C+putative%2C+expressed;Alias=13106.t01132
+Chr6	MSU_osa1r6_db	processed_transcript	6815403	6818862	.	-	.	ID=mRNA:LOC_Os06g12580.1;Note=13106.m01374;Gene=LOC_Os06g12580
+Chr6	MSU_osa1r6_db	CDS	6817532	6818596	.	-	0	Parent=mRNA:LOC_Os06g12580.1
+Chr6	MSU_osa1r6_db	CDS	6815694	6815774	.	-	0	Parent=mRNA:LOC_Os06g12580.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	6818597	6818862	.	-	.	Parent=mRNA:LOC_Os06g12580.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	6815403	6815693	.	-	.	Parent=mRNA:LOC_Os06g12580.1
+Chr6	Protein-DB	peptide_p	6816447	6816488	.	?	.	Parent=mRNA:LOC_Os06g12580.1:P999_27801
+Chr6	Protein-DB	peptide_p	6816126	6816164	.	?	.	Parent=mRNA:LOC_Os06g12580.1:P999_27802
+Chr6	Protein-DB	peptide_p	6816357	6816407	.	?	.	Parent=mRNA:LOC_Os06g12580.1:P999_27803

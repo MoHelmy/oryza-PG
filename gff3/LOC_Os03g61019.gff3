@@ -1,0 +1,12 @@
+Chr3	MSU_osa1r6_db	gene	34661855	34664011	.	-	.	ID=Gene:LOC_Os03g61019;Note=mitochondrial+import+inner+membrane+translocase+subunit+Tim%2C+putative%2C+expressed;Alias=13103.t05345
+Chr3	MSU_osa1r6_db	processed_transcript	34661855	34664011	.	-	.	ID=mRNA:LOC_Os03g61019.1;Note=13103.m06704;Gene=LOC_Os03g61019
+Chr3	MSU_osa1r6_db	CDS	34663732	34663773	.	-	0	Parent=mRNA:LOC_Os03g61019.1
+Chr3	MSU_osa1r6_db	CDS	34663578	34663630	.	-	0	Parent=mRNA:LOC_Os03g61019.1
+Chr3	MSU_osa1r6_db	CDS	34662972	34663010	.	-	2	Parent=mRNA:LOC_Os03g61019.1
+Chr3	MSU_osa1r6_db	CDS	34662628	34662697	.	-	2	Parent=mRNA:LOC_Os03g61019.1
+Chr3	MSU_osa1r6_db	CDS	34662088	34662135	.	-	0	Parent=mRNA:LOC_Os03g61019.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	34663884	34664011	.	-	.	Parent=mRNA:LOC_Os03g61019.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	34663774	34663796	.	-	.	Parent=mRNA:LOC_Os03g61019.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	34661855	34662087	.	-	.	Parent=mRNA:LOC_Os03g61019.1
+Chr3	Protein-DB	peptide_p	34662858	34662881	.	?	.	Parent=mRNA:LOC_Os03g61019.1:P999_19312
+Chr3	Protein-DB	peptide_p	34663177	34663218	.	?	.	Parent=mRNA:LOC_Os03g61019.1:P999_19313

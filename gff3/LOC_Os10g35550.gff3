@@ -1,0 +1,10 @@
+Chr10	MSU_osa1r6_db	gene	18938237	18942831	.	-	.	ID=Gene:LOC_Os10g35550;Note=pre-mRNA-processing+factor+6%2C+putative%2C+expressed;Alias=13110.t02846
+Chr10	MSU_osa1r6_db	processed_transcript	18938237	18942831	.	-	.	ID=mRNA:LOC_Os10g35550.1;Note=13110.m03196;Gene=LOC_Os10g35550
+Chr10	MSU_osa1r6_db	CDS	18939656	18942775	.	-	0	Parent=mRNA:LOC_Os10g35550.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	18942776	18942831	.	-	.	Parent=mRNA:LOC_Os10g35550.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	18939629	18939655	.	-	.	Parent=mRNA:LOC_Os10g35550.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	18938237	18938709	.	-	.	Parent=mRNA:LOC_Os10g35550.1
+Chr10	Protein-DB	peptide_p	18939791	18939826	.	?	.	Parent=mRNA:LOC_Os10g35550.1:P999_38431
+Chr10	Protein-DB	peptide_p	18940652	18940675	.	?	.	Parent=mRNA:LOC_Os10g35550.1:P999_38433
+Chr10	Protein-DB	peptide_p	18939410	18939445	.	?	.	Parent=mRNA:LOC_Os10g35550.1:P999_38434
+Chr10	Protein-DB	peptide_p	18941165	18941215	.	?	.	Parent=mRNA:LOC_Os10g35550.1:P999_38440

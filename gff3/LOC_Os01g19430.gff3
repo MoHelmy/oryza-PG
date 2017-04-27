@@ -1,0 +1,6 @@
+Chr1	MSU_osa1r6_db	gene	10989751	10990593	.	-	.	ID=Gene:LOC_Os01g19430;Note=3-5+exonuclease+domain-containing+protein%2C+putative%2C+expressed;Alias=13101.t01726
+Chr1	MSU_osa1r6_db	processed_transcript	10989751	10990593	.	-	.	ID=mRNA:LOC_Os01g19430.1;Note=13101.m02113;Gene=LOC_Os01g19430
+Chr1	MSU_osa1r6_db	CDS	10989950	10990555	.	-	0	Parent=mRNA:LOC_Os01g19430.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	10990556	10990593	.	-	.	Parent=mRNA:LOC_Os01g19430.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	10989751	10989949	.	-	.	Parent=mRNA:LOC_Os01g19430.1
+Chr1	Protein-DB	peptide_p	10990249	10990281	.	?	.	Parent=mRNA:LOC_Os01g19430.1:P999_1812

@@ -1,0 +1,9 @@
+Chr4	MSU_osa1r6_db	gene	8632316	8634620	.	-	.	ID=Gene:LOC_Os04g15920;Note=dehydrogenase%2C+putative%2C+expressed;Alias=13104.t01336
+Chr4	MSU_osa1r6_db	processed_transcript	8632316	8634620	.	-	.	ID=mRNA:LOC_Os04g15920.1;Note=13104.m01433;Gene=LOC_Os04g15920
+Chr4	MSU_osa1r6_db	CDS	8634432	8634523	.	-	0	Parent=mRNA:LOC_Os04g15920.1
+Chr4	MSU_osa1r6_db	CDS	8633702	8634338	.	-	2	Parent=mRNA:LOC_Os04g15920.1
+Chr4	MSU_osa1r6_db	CDS	8633088	8633241	.	-	0	Parent=mRNA:LOC_Os04g15920.1
+Chr4	MSU_osa1r6_db	CDS	8632785	8632984	.	-	1	Parent=mRNA:LOC_Os04g15920.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	8634524	8634620	.	-	.	Parent=mRNA:LOC_Os04g15920.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	8632316	8632784	.	-	.	Parent=mRNA:LOC_Os04g15920.1
+Chr4	Protein-DB	peptide_p	8633789	8633854	.	?	.	Parent=mRNA:LOC_Os04g15920.1:P999_20030

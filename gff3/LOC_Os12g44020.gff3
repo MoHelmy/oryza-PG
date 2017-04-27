@@ -1,0 +1,17 @@
+Chr12	MSU_osa1r6_db	gene	27270280	27273546	.	-	.	ID=Gene:LOC_Os12g44020;Note=Ser%2FThr+protein+phosphatase+family+protein%2C+putative%2C+expressed;Alias=13112.t04084
+Chr12	MSU_osa1r6_db	processed_transcript	27270280	27273546	.	-	.	ID=mRNA:LOC_Os12g44020.1;Note=13112.m04646;Gene=LOC_Os12g44020
+Chr12	MSU_osa1r6_db	CDS	27273313	27273495	.	-	0	Parent=mRNA:LOC_Os12g44020.1
+Chr12	MSU_osa1r6_db	CDS	27272931	27273243	.	-	0	Parent=mRNA:LOC_Os12g44020.1
+Chr12	MSU_osa1r6_db	CDS	27270700	27271595	.	-	1	Parent=mRNA:LOC_Os12g44020.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	27273496	27273546	.	-	.	Parent=mRNA:LOC_Os12g44020.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	27270280	27270699	.	-	.	Parent=mRNA:LOC_Os12g44020.1
+Chr12	MSU_osa1r6_db	processed_transcript	27270280	27273546	.	-	.	ID=mRNA:LOC_Os12g44020.2;Note=13112.m04645;Gene=LOC_Os12g44020
+Chr12	MSU_osa1r6_db	CDS	27273313	27273495	.	-	0	Parent=mRNA:LOC_Os12g44020.2
+Chr12	MSU_osa1r6_db	CDS	27272931	27273219	.	-	0	Parent=mRNA:LOC_Os12g44020.2
+Chr12	MSU_osa1r6_db	CDS	27270700	27271595	.	-	1	Parent=mRNA:LOC_Os12g44020.2
+Chr12	MSU_osa1r6_db	five_prime_UTR	27273496	27273546	.	-	.	Parent=mRNA:LOC_Os12g44020.2
+Chr12	MSU_osa1r6_db	three_prime_UTR	27270280	27270699	.	-	.	Parent=mRNA:LOC_Os12g44020.2
+Chr12	Protein-DB	peptide_p	27273065	27273097	.	?	.	Parent=mRNA:LOC_Os12g44020.1:P999_42900
+Chr12	Protein-DB	peptide_p	27272600	27272644	.	?	.	Parent=mRNA:LOC_Os12g44020.1:P999_42901
+Chr12	Protein-DB	peptide_p	27270833	27270883	.	?	.	Parent=mRNA:LOC_Os12g44020.1:P999_42902
+Chr12	Protein-DB	peptide_p	27272825	27272860	.	?	.	Parent=mRNA:LOC_Os12g44020.1:P999_42916

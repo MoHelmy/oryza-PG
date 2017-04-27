@@ -1,0 +1,9 @@
+Chr7	MSU_osa1r6_db	gene	1054140	1057131	.	+	.	ID=Gene:LOC_Os07g02810;Note=L-ascorbate+oxidase+homolog+precursor%2C+putative%2C+expressed;Alias=13107.t00178
+Chr7	MSU_osa1r6_db	processed_transcript	1054140	1057131	.	+	.	ID=mRNA:LOC_Os07g02810.1;Note=13107.m00212;Gene=LOC_Os07g02810
+Chr7	MSU_osa1r6_db	CDS	1054495	1054644	.	+	0	Parent=mRNA:LOC_Os07g02810.1
+Chr7	MSU_osa1r6_db	CDS	1054767	1055971	.	+	0	Parent=mRNA:LOC_Os07g02810.1
+Chr7	MSU_osa1r6_db	CDS	1056102	1056180	.	+	2	Parent=mRNA:LOC_Os07g02810.1
+Chr7	MSU_osa1r6_db	CDS	1056619	1056822	.	+	0	Parent=mRNA:LOC_Os07g02810.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	1054140	1054494	.	+	.	Parent=mRNA:LOC_Os07g02810.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	1056823	1057131	.	+	.	Parent=mRNA:LOC_Os07g02810.1
+Chr7	Protein-DB	peptide_p	1055779	1055856	.	?	.	Parent=mRNA:LOC_Os07g02810.1:P999_29975

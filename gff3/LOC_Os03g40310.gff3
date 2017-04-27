@@ -1,0 +1,10 @@
+Chr3	MSU_osa1r6_db	gene	22412046	22417161	.	-	.	ID=Gene:LOC_Os03g40310;Note=RNA+recognition+motif+containing+protein%2C+putative%2C+expressed;Alias=13103.t03477
+Chr3	MSU_osa1r6_db	processed_transcript	22412046	22417161	.	-	.	ID=mRNA:LOC_Os03g40310.1;Note=13103.m04364;Gene=LOC_Os03g40310
+Chr3	MSU_osa1r6_db	CDS	22416865	22416901	.	-	0	Parent=mRNA:LOC_Os03g40310.1
+Chr3	MSU_osa1r6_db	CDS	22416389	22416652	.	-	1	Parent=mRNA:LOC_Os03g40310.1
+Chr3	MSU_osa1r6_db	CDS	22412307	22412521	.	-	1	Parent=mRNA:LOC_Os03g40310.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	22416902	22417161	.	-	.	Parent=mRNA:LOC_Os03g40310.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	22412046	22412306	.	-	.	Parent=mRNA:LOC_Os03g40310.1
+Chr3	Protein-DB	peptide_p	22412750	22412782	.	?	.	Parent=mRNA:LOC_Os03g40310.1:P999_16793
+Chr3	Protein-DB	peptide_p	22412555	22412584	.	?	.	Parent=mRNA:LOC_Os03g40310.1:P999_16795
+Chr3	Protein-DB	peptide_p	22412666	22412695	.	?	.	Parent=mRNA:LOC_Os03g40310.1:P999_16796

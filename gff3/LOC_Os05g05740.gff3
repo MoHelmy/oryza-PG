@@ -1,0 +1,15 @@
+Chr5	MSU_osa1r6_db	gene	2862652	2865741	.	-	.	ID=Gene:LOC_Os05g05740;Note=proline+synthetase+co-transcribed+bacterial+homolog+protein%2C+putative%2C+expressed;Alias=13105.t00468
+Chr5	MSU_osa1r6_db	processed_transcript	2862652	2865741	.	-	.	ID=mRNA:LOC_Os05g05740.1;Note=13105.m00608;Gene=LOC_Os05g05740
+Chr5	MSU_osa1r6_db	CDS	2865435	2865656	.	-	0	Parent=mRNA:LOC_Os05g05740.1
+Chr5	MSU_osa1r6_db	CDS	2864440	2864506	.	-	0	Parent=mRNA:LOC_Os05g05740.1
+Chr5	MSU_osa1r6_db	CDS	2863992	2864038	.	-	1	Parent=mRNA:LOC_Os05g05740.1
+Chr5	MSU_osa1r6_db	CDS	2863566	2863653	.	-	0	Parent=mRNA:LOC_Os05g05740.1
+Chr5	MSU_osa1r6_db	CDS	2863149	2863282	.	-	1	Parent=mRNA:LOC_Os05g05740.1
+Chr5	MSU_osa1r6_db	CDS	2862967	2863065	.	-	0	Parent=mRNA:LOC_Os05g05740.1
+Chr5	MSU_osa1r6_db	CDS	2862810	2862884	.	-	0	Parent=mRNA:LOC_Os05g05740.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	2865657	2865741	.	-	.	Parent=mRNA:LOC_Os05g05740.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	2862652	2862809	.	-	.	Parent=mRNA:LOC_Os05g05740.1
+Chr5	Protein-DB	peptide_p	2864795	2864827	.	?	.	Parent=mRNA:LOC_Os05g05740.1:P999_23003
+Chr5	Protein-DB	peptide_p	2865117	2865155	.	?	.	Parent=mRNA:LOC_Os05g05740.1:P999_23004
+Chr5	Protein-DB	peptide_p	2862912	2862950	.	?	.	Parent=mRNA:LOC_Os05g05740.1:P999_23005
+Chr5	Protein-DB	peptide_p	2864355	2864402	.	?	.	Parent=mRNA:LOC_Os05g05740.1:P999_23006

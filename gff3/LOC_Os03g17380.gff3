@@ -1,0 +1,4 @@
+Chr3	MSU_osa1r6_db	gene	9667127	9667630	.	+	.	ID=Gene:LOC_Os03g17380;Note=conserved+hypothetical+protein;Alias=13103.t01534
+Chr3	MSU_osa1r6_db	processed_transcript	9667127	9667630	.	+	.	ID=mRNA:LOC_Os03g17380.1;Note=13103.m02076;Gene=LOC_Os03g17380
+Chr3	MSU_osa1r6_db	CDS	9667127	9667630	.	+	0	Parent=mRNA:LOC_Os03g17380.1
+Chr3	Protein-DB	peptide_p	9667179	9667205	.	?	.	Parent=mRNA:LOC_Os03g17380.1:P999_14668

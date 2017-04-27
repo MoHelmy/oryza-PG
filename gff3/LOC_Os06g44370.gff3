@@ -1,0 +1,10 @@
+Chr6	MSU_osa1r6_db	gene	26777841	26780802	.	-	.	ID=Gene:LOC_Os06g44370;Note=WD+domain%2C+G-beta+repeat+domain+containing+protein%2C+expressed;Alias=13106.t04106
+Chr6	MSU_osa1r6_db	processed_transcript	26777841	26780802	.	-	.	ID=mRNA:LOC_Os06g44370.1;Note=13106.m04663;Gene=LOC_Os06g44370
+Chr6	MSU_osa1r6_db	CDS	26778192	26779223	.	-	0	Parent=mRNA:LOC_Os06g44370.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	26780654	26780802	.	-	.	Parent=mRNA:LOC_Os06g44370.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	26779224	26779245	.	-	.	Parent=mRNA:LOC_Os06g44370.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	26777841	26778191	.	-	.	Parent=mRNA:LOC_Os06g44370.1
+Chr6	Protein-DB	peptide_p	26779646	26779681	.	?	.	Parent=mRNA:LOC_Os06g44370.1:P999_29126
+Chr6	Protein-DB	peptide_p	26780054	26780077	.	?	.	Parent=mRNA:LOC_Os06g44370.1:P999_29132
+Chr6	Protein-DB	peptide_p	26780003	26780035	.	?	.	Parent=mRNA:LOC_Os06g44370.1:P999_29133
+Chr6	Protein-DB	peptide_p	26779934	26779960	.	?	.	Parent=mRNA:LOC_Os06g44370.1:P999_29135

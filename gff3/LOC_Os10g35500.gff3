@@ -1,0 +1,11 @@
+Chr10	MSU_osa1r6_db	gene	18923125	18925373	.	+	.	ID=Gene:LOC_Os10g35500;Note=epoxide+hydrolase%2C+putative%2C+expressed;Alias=13110.t02841
+Chr10	MSU_osa1r6_db	processed_transcript	18923125	18925373	.	+	.	ID=mRNA:LOC_Os10g35500.1;Note=13110.m03190;Gene=LOC_Os10g35500
+Chr10	MSU_osa1r6_db	CDS	18923521	18924179	.	+	0	Parent=mRNA:LOC_Os10g35500.1
+Chr10	MSU_osa1r6_db	CDS	18924818	18925076	.	+	2	Parent=mRNA:LOC_Os10g35500.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	18923125	18923520	.	+	.	Parent=mRNA:LOC_Os10g35500.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	18925077	18925373	.	+	.	Parent=mRNA:LOC_Os10g35500.1
+Chr10	MSU_osa1r6_db	processed_transcript	18923125	18925356	.	+	.	ID=mRNA:LOC_Os10g35500.2;Note=13110.m03189;Gene=LOC_Os10g35500
+Chr10	MSU_osa1r6_db	CDS	18923543	18924349	.	+	0	Parent=mRNA:LOC_Os10g35500.2
+Chr10	MSU_osa1r6_db	five_prime_UTR	18923125	18923542	.	+	.	Parent=mRNA:LOC_Os10g35500.2
+Chr10	MSU_osa1r6_db	three_prime_UTR	18924350	18925356	.	+	.	Parent=mRNA:LOC_Os10g35500.2
+Chr10	Protein-DB	peptide_p	18925033	18925074	.	?	.	Parent=mRNA:LOC_Os10g35500.1:P999_38428

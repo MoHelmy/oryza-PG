@@ -1,0 +1,10 @@
+Chr3	MSU_osa1r6_db	gene	32353444	32356711	.	-	.	ID=Gene:LOC_Os03g56790;Note=actin-depolymerizing+factor%2C+putative%2C+expressed;Alias=13103.t04949
+Chr3	MSU_osa1r6_db	processed_transcript	32353444	32356711	.	-	.	ID=mRNA:LOC_Os03g56790.1;Note=13103.m06204;Gene=LOC_Os03g56790
+Chr3	MSU_osa1r6_db	CDS	32356477	32356497	.	-	0	Parent=mRNA:LOC_Os03g56790.1
+Chr3	MSU_osa1r6_db	CDS	32354418	32354683	.	-	0	Parent=mRNA:LOC_Os03g56790.1
+Chr3	MSU_osa1r6_db	CDS	32353893	32354043	.	-	2	Parent=mRNA:LOC_Os03g56790.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	32356498	32356711	.	-	.	Parent=mRNA:LOC_Os03g56790.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	32353444	32353892	.	-	.	Parent=mRNA:LOC_Os03g56790.1
+Chr3	Protein-DB	peptide_p	32355668	32355715	.	?	.	Parent=mRNA:LOC_Os03g56790.1:P999_18605
+Chr3	Protein-DB	peptide_p	32355605	32355667	.	?	.	Parent=mRNA:LOC_Os03g56790.1:P999_18608
+Chr3	Protein-DB	peptide_p	32355515	32355541	.	?	.	Parent=mRNA:LOC_Os03g56790.1:P999_18610

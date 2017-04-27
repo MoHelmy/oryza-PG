@@ -1,0 +1,10 @@
+Chr1	MSU_osa1r6_db	gene	21274573	21277770	.	+	.	ID=Gene:LOC_Os01g37980;Note=vesicle+transport+v-SNARE+protein%2C+putative%2C+expressed;Alias=13101.t03261
+Chr1	MSU_osa1r6_db	processed_transcript	21274573	21277770	.	+	.	ID=mRNA:LOC_Os01g37980.1;Note=13101.m03873;Gene=LOC_Os01g37980
+Chr1	MSU_osa1r6_db	CDS	21274680	21274773	.	+	0	Parent=mRNA:LOC_Os01g37980.1
+Chr1	MSU_osa1r6_db	CDS	21274874	21274932	.	+	1	Parent=mRNA:LOC_Os01g37980.1
+Chr1	MSU_osa1r6_db	CDS	21275298	21275486	.	+	0	Parent=mRNA:LOC_Os01g37980.1
+Chr1	MSU_osa1r6_db	CDS	21276413	21276583	.	+	0	Parent=mRNA:LOC_Os01g37980.1
+Chr1	MSU_osa1r6_db	CDS	21277387	21277539	.	+	0	Parent=mRNA:LOC_Os01g37980.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	21274573	21274679	.	+	.	Parent=mRNA:LOC_Os01g37980.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	21277540	21277770	.	+	.	Parent=mRNA:LOC_Os01g37980.1
+Chr1	Protein-DB	peptide_p	21274907	21274939	.	?	.	Parent=mRNA:LOC_Os01g37980.1:P999_2657

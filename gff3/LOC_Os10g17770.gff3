@@ -1,0 +1,10 @@
+Chr10	MSU_osa1r6_db	gene	8921155	8925965	.	+	.	ID=Gene:LOC_Os10g17770;Note=chromo+domain-containing+protein+LHP1%2C+putative%2C+expressed;Alias=13110.t01325
+Chr10	MSU_osa1r6_db	processed_transcript	8921155	8925965	.	+	.	ID=mRNA:LOC_Os10g17770.1;Note=13110.m01457;Gene=LOC_Os10g17770
+Chr10	MSU_osa1r6_db	CDS	8921252	8921634	.	+	0	Parent=mRNA:LOC_Os10g17770.1
+Chr10	MSU_osa1r6_db	CDS	8924185	8924271	.	+	2	Parent=mRNA:LOC_Os10g17770.1
+Chr10	MSU_osa1r6_db	CDS	8924371	8925039	.	+	2	Parent=mRNA:LOC_Os10g17770.1
+Chr10	MSU_osa1r6_db	CDS	8925363	8925423	.	+	2	Parent=mRNA:LOC_Os10g17770.1
+Chr10	MSU_osa1r6_db	CDS	8925504	8925551	.	+	0	Parent=mRNA:LOC_Os10g17770.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	8921155	8921251	.	+	.	Parent=mRNA:LOC_Os10g17770.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	8925552	8925965	.	+	.	Parent=mRNA:LOC_Os10g17770.1
+Chr10	Protein-DB	peptide_p	8925505	8925534	.	?	.	Parent=mRNA:LOC_Os10g17770.1:P999_37381

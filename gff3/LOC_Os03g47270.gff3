@@ -1,0 +1,6 @@
+Chr3	MSU_osa1r6_db	gene	26739851	26740746	.	+	.	ID=Gene:LOC_Os03g47270;Note=GCRP4+-+Glycine+and+cysteine+rich+family+protein+precursor%2C+expressed;Alias=13103.t04098
+Chr3	MSU_osa1r6_db	processed_transcript	26739851	26740746	.	+	.	ID=mRNA:LOC_Os03g47270.1;Note=13103.m05088;Gene=LOC_Os03g47270
+Chr3	MSU_osa1r6_db	CDS	26739900	26740394	.	+	0	Parent=mRNA:LOC_Os03g47270.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	26739851	26739899	.	+	.	Parent=mRNA:LOC_Os03g47270.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	26740395	26740746	.	+	.	Parent=mRNA:LOC_Os03g47270.1
+Chr3	Protein-DB	peptide_p	26740354	26740371	.	?	.	Parent=mRNA:LOC_Os03g47270.1:P999_17185

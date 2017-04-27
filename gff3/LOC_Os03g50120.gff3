@@ -1,0 +1,12 @@
+Chr3	MSU_osa1r6_db	gene	28581668	28586751	.	+	.	ID=Gene:LOC_Os03g50120;Note=zinc+finger+family+protein%2C+putative%2C+expressed;Alias=13103.t04367
+Chr3	MSU_osa1r6_db	processed_transcript	28581668	28586751	.	+	.	ID=mRNA:LOC_Os03g50120.1;Note=13103.m05451;Gene=LOC_Os03g50120
+Chr3	MSU_osa1r6_db	CDS	28581724	28582136	.	+	0	Parent=mRNA:LOC_Os03g50120.1
+Chr3	MSU_osa1r6_db	CDS	28582708	28582825	.	+	2	Parent=mRNA:LOC_Os03g50120.1
+Chr3	MSU_osa1r6_db	CDS	28583023	28583384	.	+	0	Parent=mRNA:LOC_Os03g50120.1
+Chr3	MSU_osa1r6_db	CDS	28585763	28585879	.	+	2	Parent=mRNA:LOC_Os03g50120.1
+Chr3	MSU_osa1r6_db	CDS	28585966	28586064	.	+	2	Parent=mRNA:LOC_Os03g50120.1
+Chr3	MSU_osa1r6_db	CDS	28586143	28586548	.	+	2	Parent=mRNA:LOC_Os03g50120.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	28581668	28581723	.	+	.	Parent=mRNA:LOC_Os03g50120.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	28586549	28586751	.	+	.	Parent=mRNA:LOC_Os03g50120.1
+Chr3	Protein-DB	peptide_p	28582800	28582826	.	?	.	Parent=mRNA:LOC_Os03g50120.1:P999_17356
+Chr3	Protein-DB	peptide_p	28582734	28582769	.	?	.	Parent=mRNA:LOC_Os03g50120.1:P999_17357

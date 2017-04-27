@@ -1,0 +1,14 @@
+Chr6	MSU_osa1r6_db	gene	11203784	11207080	.	-	.	ID=Gene:LOC_Os06g19640;Note=39S+ribosomal+protein+L46%2C+mitochondrial+precursor%2C+putative%2C+expressed;Alias=13106.t01783
+Chr6	MSU_osa1r6_db	processed_transcript	11203784	11207080	.	-	.	ID=mRNA:LOC_Os06g19640.1;Note=13106.m02097;Gene=LOC_Os06g19640
+Chr6	MSU_osa1r6_db	CDS	11206814	11207016	.	-	0	Parent=mRNA:LOC_Os06g19640.1
+Chr6	MSU_osa1r6_db	CDS	11206646	11206711	.	-	2	Parent=mRNA:LOC_Os06g19640.1
+Chr6	MSU_osa1r6_db	CDS	11205476	11205550	.	-	2	Parent=mRNA:LOC_Os06g19640.1
+Chr6	MSU_osa1r6_db	CDS	11204869	11204998	.	-	2	Parent=mRNA:LOC_Os06g19640.1
+Chr6	MSU_osa1r6_db	CDS	11204581	11204703	.	-	0	Parent=mRNA:LOC_Os06g19640.1
+Chr6	MSU_osa1r6_db	CDS	11204127	11204276	.	-	0	Parent=mRNA:LOC_Os06g19640.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	11207017	11207080	.	-	.	Parent=mRNA:LOC_Os06g19640.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	11203784	11204126	.	-	.	Parent=mRNA:LOC_Os06g19640.1
+Chr6	Protein-DB	peptide_p	11203969	11203995	.	?	.	Parent=mRNA:LOC_Os06g19640.1:P999_28167
+Chr6	Protein-DB	peptide_p	11205895	11205918	.	?	.	Parent=mRNA:LOC_Os06g19640.1:P999_28169
+Chr6	Protein-DB	peptide_p	11205967	11205993	.	?	.	Parent=mRNA:LOC_Os06g19640.1:P999_28170
+Chr6	Protein-DB	peptide_p	11203996	11204016	.	?	.	Parent=mRNA:LOC_Os06g19640.1:P999_28173

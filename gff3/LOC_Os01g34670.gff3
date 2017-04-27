@@ -1,0 +1,10 @@
+Chr1	MSU_osa1r6_db	gene	19114201	19121364	.	-	.	ID=Gene:LOC_Os01g34670;Note=transposon+protein%2C+putative%2C+unclassified%2C+expressed;Alias=13101.t02947
+Chr1	MSU_osa1r6_db	processed_transcript	19114201	19121364	.	-	.	ID=mRNA:LOC_Os01g34670.1;Note=13101.m03499;Gene=LOC_Os01g34670
+Chr1	MSU_osa1r6_db	CDS	19116898	19117152	.	-	0	Parent=mRNA:LOC_Os01g34670.1
+Chr1	MSU_osa1r6_db	CDS	19115491	19116795	.	-	0	Parent=mRNA:LOC_Os01g34670.1
+Chr1	MSU_osa1r6_db	CDS	19114828	19115322	.	-	0	Parent=mRNA:LOC_Os01g34670.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	19120971	19121364	.	-	.	Parent=mRNA:LOC_Os01g34670.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	19119496	19119628	.	-	.	Parent=mRNA:LOC_Os01g34670.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	19117153	19117167	.	-	.	Parent=mRNA:LOC_Os01g34670.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	19114201	19114827	.	-	.	Parent=mRNA:LOC_Os01g34670.1
+Chr1	Protein-DB	peptide_p	19118900	19118926	.	?	.	Parent=mRNA:LOC_Os01g34670.1:P999_2433

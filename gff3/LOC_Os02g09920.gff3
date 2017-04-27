@@ -1,0 +1,9 @@
+Chr2	MSU_osa1r6_db	gene	5145545	5151128	.	+	.	ID=Gene:LOC_Os02g09920;Note=PHD-finger+domain+containing+protein%2C+putative%2C+expressed;Alias=13102.t00849
+Chr2	MSU_osa1r6_db	processed_transcript	5145545	5151128	.	+	.	ID=mRNA:LOC_Os02g09920.1;Note=13102.m01094;Gene=LOC_Os02g09920
+Chr2	MSU_osa1r6_db	CDS	5145725	5145823	.	+	0	Parent=mRNA:LOC_Os02g09920.1
+Chr2	MSU_osa1r6_db	CDS	5146165	5146263	.	+	0	Parent=mRNA:LOC_Os02g09920.1
+Chr2	MSU_osa1r6_db	CDS	5146676	5147104	.	+	0	Parent=mRNA:LOC_Os02g09920.1
+Chr2	MSU_osa1r6_db	CDS	5147666	5149723	.	+	0	Parent=mRNA:LOC_Os02g09920.1
+Chr2	MSU_osa1r6_db	CDS	5150168	5150422	.	+	0	Parent=mRNA:LOC_Os02g09920.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	5145545	5145724	.	+	.	Parent=mRNA:LOC_Os02g09920.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	5150423	5151128	.	+	.	Parent=mRNA:LOC_Os02g09920.1

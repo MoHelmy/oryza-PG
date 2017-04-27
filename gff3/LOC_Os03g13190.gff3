@@ -1,0 +1,16 @@
+Chr3	MSU_osa1r6_db	gene	7109942	7114126	.	-	.	ID=Gene:LOC_Os03g13190;Note=transposon+protein%2C+putative%2C+unclassified%2C+expressed;Alias=13103.t01132
+Chr3	MSU_osa1r6_db	processed_transcript	7109942	7114126	.	-	.	ID=mRNA:LOC_Os03g13190.1;Note=13103.m01528;Gene=LOC_Os03g13190
+Chr3	MSU_osa1r6_db	CDS	7113647	7114126	.	-	0	Parent=mRNA:LOC_Os03g13190.1
+Chr3	MSU_osa1r6_db	CDS	7113136	7113194	.	-	0	Parent=mRNA:LOC_Os03g13190.1
+Chr3	MSU_osa1r6_db	CDS	7112964	7113012	.	-	2	Parent=mRNA:LOC_Os03g13190.1
+Chr3	MSU_osa1r6_db	CDS	7112362	7112445	.	-	0	Parent=mRNA:LOC_Os03g13190.1
+Chr3	MSU_osa1r6_db	CDS	7111651	7111767	.	-	0	Parent=mRNA:LOC_Os03g13190.1
+Chr3	MSU_osa1r6_db	CDS	7110864	7110937	.	-	0	Parent=mRNA:LOC_Os03g13190.1
+Chr3	MSU_osa1r6_db	CDS	7110260	7110362	.	-	2	Parent=mRNA:LOC_Os03g13190.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	7109942	7110259	.	-	.	Parent=mRNA:LOC_Os03g13190.1
+Chr3	MSU_osa1r6_db	processed_transcript	7112056	7114126	.	-	.	ID=mRNA:LOC_Os03g13190.2;Note=13103.m01529;Gene=LOC_Os03g13190
+Chr3	MSU_osa1r6_db	CDS	7113647	7114126	.	-	0	Parent=mRNA:LOC_Os03g13190.2
+Chr3	MSU_osa1r6_db	CDS	7113136	7113194	.	-	0	Parent=mRNA:LOC_Os03g13190.2
+Chr3	MSU_osa1r6_db	CDS	7112964	7113012	.	-	2	Parent=mRNA:LOC_Os03g13190.2
+Chr3	MSU_osa1r6_db	CDS	7112335	7112445	.	-	0	Parent=mRNA:LOC_Os03g13190.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	7112056	7112334	.	-	.	Parent=mRNA:LOC_Os03g13190.2

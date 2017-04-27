@@ -1,0 +1,15 @@
+Chr3	MSU_osa1r6_db	gene	32950768	32957496	.	+	.	ID=Gene:LOC_Os03g57854;Note=MBTB3+-+Bric-a-Brac%2C+Tramtrack%2C+Broad+Complex+BTB+domain+with+Meprin+and+TRAF+Homology+MATH+domain%2C+expressed;Alias=13103.t05054
+Chr3	MSU_osa1r6_db	processed_transcript	32950768	32957496	.	+	.	ID=mRNA:LOC_Os03g57854.1;Note=13103.m06348;Gene=LOC_Os03g57854
+Chr3	MSU_osa1r6_db	CDS	32950893	32951353	.	+	0	Parent=mRNA:LOC_Os03g57854.1
+Chr3	MSU_osa1r6_db	CDS	32954182	32954557	.	+	2	Parent=mRNA:LOC_Os03g57854.1
+Chr3	MSU_osa1r6_db	CDS	32954651	32954924	.	+	0	Parent=mRNA:LOC_Os03g57854.1
+Chr3	MSU_osa1r6_db	CDS	32956889	32957073	.	+	1	Parent=mRNA:LOC_Os03g57854.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	32950768	32950892	.	+	.	Parent=mRNA:LOC_Os03g57854.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	32957074	32957496	.	+	.	Parent=mRNA:LOC_Os03g57854.1
+Chr3	MSU_osa1r6_db	processed_transcript	32950768	32957496	.	+	.	ID=mRNA:LOC_Os03g57854.2;Note=13103.m06347;Gene=LOC_Os03g57854
+Chr3	MSU_osa1r6_db	CDS	32950893	32951353	.	+	0	Parent=mRNA:LOC_Os03g57854.2
+Chr3	MSU_osa1r6_db	CDS	32954182	32954557	.	+	2	Parent=mRNA:LOC_Os03g57854.2
+Chr3	MSU_osa1r6_db	CDS	32954651	32954924	.	+	0	Parent=mRNA:LOC_Os03g57854.2
+Chr3	MSU_osa1r6_db	CDS	32956869	32956894	.	+	1	Parent=mRNA:LOC_Os03g57854.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	32950768	32950892	.	+	.	Parent=mRNA:LOC_Os03g57854.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	32956895	32957496	.	+	.	Parent=mRNA:LOC_Os03g57854.2

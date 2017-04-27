@@ -1,0 +1,16 @@
+Chr5	MSU_osa1r6_db	gene	24217021	24219275	.	-	.	ID=Gene:LOC_Os05g41460;Note=cysteine+proteinase+inhibitor+precursor+protein%2C+putative%2C+expressed;Alias=13105.t03718
+Chr5	MSU_osa1r6_db	processed_transcript	24217021	24219275	.	-	.	ID=mRNA:LOC_Os05g41460.1;Note=13105.m04399;Gene=LOC_Os05g41460
+Chr5	MSU_osa1r6_db	CDS	24218884	24219144	.	-	0	Parent=mRNA:LOC_Os05g41460.1
+Chr5	MSU_osa1r6_db	CDS	24218265	24218459	.	-	0	Parent=mRNA:LOC_Os05g41460.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	24219145	24219275	.	-	.	Parent=mRNA:LOC_Os05g41460.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	24218263	24218264	.	-	.	Parent=mRNA:LOC_Os05g41460.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	24217021	24218129	.	-	.	Parent=mRNA:LOC_Os05g41460.1
+Chr5	MSU_osa1r6_db	processed_transcript	24217021	24219275	.	-	.	ID=mRNA:LOC_Os05g41460.2;Note=13105.m04400;Gene=LOC_Os05g41460
+Chr5	MSU_osa1r6_db	CDS	24218884	24219144	.	-	0	Parent=mRNA:LOC_Os05g41460.2
+Chr5	MSU_osa1r6_db	CDS	24218353	24218469	.	-	0	Parent=mRNA:LOC_Os05g41460.2
+Chr5	MSU_osa1r6_db	five_prime_UTR	24219145	24219275	.	-	.	Parent=mRNA:LOC_Os05g41460.2
+Chr5	MSU_osa1r6_db	three_prime_UTR	24218263	24218352	.	-	.	Parent=mRNA:LOC_Os05g41460.2
+Chr5	MSU_osa1r6_db	three_prime_UTR	24217021	24218129	.	-	.	Parent=mRNA:LOC_Os05g41460.2
+Chr5	Protein-DB	peptide_p	24217838	24217861	.	?	.	Parent=mRNA:LOC_Os05g41460.1:P999_25565
+Chr5	Protein-DB	peptide_p	24217384	24217410	.	?	.	Parent=mRNA:LOC_Os05g41460.1:P999_25566
+Chr5	Protein-DB	peptide_p	24217351	24217383	.	?	.	Parent=mRNA:LOC_Os05g41460.1:P999_25567

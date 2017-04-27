@@ -1,0 +1,15 @@
+Chr2	MSU_osa1r6_db	gene	496936	500134	.	-	.	ID=Gene:LOC_Os02g01920;Note=GHMP+kinases+ATP-binding+protein%2C+putative%2C+expressed;Alias=13102.t00096
+Chr2	MSU_osa1r6_db	processed_transcript	496936	500134	.	-	.	ID=mRNA:LOC_Os02g01920.1;Note=13102.m29149;Gene=LOC_Os02g01920
+Chr2	MSU_osa1r6_db	CDS	499916	500134	.	-	0	Parent=mRNA:LOC_Os02g01920.1
+Chr2	MSU_osa1r6_db	CDS	499246	499444	.	-	0	Parent=mRNA:LOC_Os02g01920.1
+Chr2	MSU_osa1r6_db	CDS	498994	499057	.	-	1	Parent=mRNA:LOC_Os02g01920.1
+Chr2	MSU_osa1r6_db	CDS	498838	498901	.	-	2	Parent=mRNA:LOC_Os02g01920.1
+Chr2	MSU_osa1r6_db	CDS	498660	498740	.	-	0	Parent=mRNA:LOC_Os02g01920.1
+Chr2	MSU_osa1r6_db	CDS	498368	498454	.	-	0	Parent=mRNA:LOC_Os02g01920.1
+Chr2	MSU_osa1r6_db	CDS	498141	498211	.	-	0	Parent=mRNA:LOC_Os02g01920.1
+Chr2	MSU_osa1r6_db	CDS	497918	497966	.	-	2	Parent=mRNA:LOC_Os02g01920.1
+Chr2	MSU_osa1r6_db	CDS	497231	497352	.	-	0	Parent=mRNA:LOC_Os02g01920.1
+Chr2	MSU_osa1r6_db	CDS	496936	497158	.	-	2	Parent=mRNA:LOC_Os02g01920.1
+Chr2	Protein-DB	peptide_p	499959	500003	.	?	.	Parent=mRNA:LOC_Os02g01920.1:P999_6586
+Chr2	Protein-DB	peptide_p	498046	498078	.	?	.	Parent=mRNA:LOC_Os02g01920.1:P999_6587
+Chr2	Protein-DB	peptide_p	498911	498931	.	?	.	Parent=mRNA:LOC_Os02g01920.1:P999_6593

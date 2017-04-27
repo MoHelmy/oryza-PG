@@ -1,0 +1,12 @@
+Chr2	MSU_osa1r6_db	gene	24053319	24056852	.	+	.	ID=Gene:LOC_Os02g39820;Note=PPR+repeat+domain+containing+protein%2C+putative%2C+expressed;Alias=13102.t03643
+Chr2	MSU_osa1r6_db	processed_transcript	24053319	24056852	.	+	.	ID=mRNA:LOC_Os02g39820.1;Note=13102.m04421;Gene=LOC_Os02g39820
+Chr2	MSU_osa1r6_db	CDS	24053504	24054496	.	+	0	Parent=mRNA:LOC_Os02g39820.1
+Chr2	MSU_osa1r6_db	CDS	24055323	24056381	.	+	0	Parent=mRNA:LOC_Os02g39820.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	24053319	24053503	.	+	.	Parent=mRNA:LOC_Os02g39820.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	24056382	24056852	.	+	.	Parent=mRNA:LOC_Os02g39820.1
+Chr2	Protein-DB	peptide_p	24055930	24055965	.	?	.	Parent=mRNA:LOC_Os02g39820.1:P999_10096
+Chr2	Protein-DB	peptide_p	24055510	24055554	.	?	.	Parent=mRNA:LOC_Os02g39820.1:P999_10097
+Chr2	Protein-DB	peptide_p	24053757	24053810	.	?	.	Parent=mRNA:LOC_Os02g39820.1:P999_10098
+Chr2	Protein-DB	peptide_p	24053811	24053834	.	?	.	Parent=mRNA:LOC_Os02g39820.1:P999_10099
+Chr2	Protein-DB	peptide_p	24054030	24054053	.	?	.	Parent=mRNA:LOC_Os02g39820.1:P999_10100
+Chr2	Protein-DB	peptide_p	24055999	24056031	.	?	.	Parent=mRNA:LOC_Os02g39820.1:P999_10106

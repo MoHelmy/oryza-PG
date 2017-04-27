@@ -1,0 +1,7 @@
+Chr4	MSU_osa1r6_db	gene	26138700	26139677	.	-	.	ID=Gene:LOC_Os04g44470;Note=KUN1+-+Kunitz-type+trypsin+inhibitor+precursor%2C+expressed;Alias=13104.t03973
+Chr4	MSU_osa1r6_db	processed_transcript	26138700	26139677	.	-	.	ID=mRNA:LOC_Os04g44470.1;Note=13104.m04434;Gene=LOC_Os04g44470
+Chr4	MSU_osa1r6_db	CDS	26139019	26139621	.	-	0	Parent=mRNA:LOC_Os04g44470.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	26139622	26139677	.	-	.	Parent=mRNA:LOC_Os04g44470.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	26138700	26139018	.	-	.	Parent=mRNA:LOC_Os04g44470.1
+Chr4	Protein-DB	peptide_p	26139288	26139332	.	?	.	Parent=mRNA:LOC_Os04g44470.1:P999_21228
+Chr4	Protein-DB	peptide_p	26139000	26139038	.	?	.	Parent=mRNA:LOC_Os04g44470.1:P999_21229

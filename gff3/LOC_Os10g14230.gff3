@@ -1,0 +1,5 @@
+Chr10	MSU_osa1r6_db	gene	7727937	7730322	.	+	.	ID=Gene:LOC_Os10g14230;Note=transposon+protein%2C+putative%2C+unclassified;Alias=13110.t01139
+Chr10	MSU_osa1r6_db	processed_transcript	7727937	7730322	.	+	.	ID=mRNA:LOC_Os10g14230.1;Note=13110.m01262;Gene=LOC_Os10g14230
+Chr10	MSU_osa1r6_db	CDS	7727937	7730013	.	+	0	Parent=mRNA:LOC_Os10g14230.1
+Chr10	MSU_osa1r6_db	CDS	7730105	7730184	.	+	1	Parent=mRNA:LOC_Os10g14230.1
+Chr10	MSU_osa1r6_db	CDS	7730266	7730322	.	+	0	Parent=mRNA:LOC_Os10g14230.1

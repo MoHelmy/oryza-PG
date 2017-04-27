@@ -1,0 +1,10 @@
+Chr3	MSU_osa1r6_db	gene	14297079	14300034	.	-	.	ID=Gene:LOC_Os03g25050;Note=chaperonin%2C+putative%2C+expressed;Alias=13103.t02227
+Chr3	MSU_osa1r6_db	processed_transcript	14297079	14300034	.	-	.	ID=mRNA:LOC_Os03g25050.1;Note=13103.m02953;Gene=LOC_Os03g25050
+Chr3	MSU_osa1r6_db	CDS	14299834	14299941	.	-	0	Parent=mRNA:LOC_Os03g25050.1
+Chr3	MSU_osa1r6_db	CDS	14298401	14298540	.	-	0	Parent=mRNA:LOC_Os03g25050.1
+Chr3	MSU_osa1r6_db	CDS	14297360	14297408	.	-	2	Parent=mRNA:LOC_Os03g25050.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	14299942	14300034	.	-	.	Parent=mRNA:LOC_Os03g25050.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	14297079	14297359	.	-	.	Parent=mRNA:LOC_Os03g25050.1
+Chr3	Protein-DB	peptide_p	14298652	14298699	.	?	.	Parent=mRNA:LOC_Os03g25050.1:P999_15779
+Chr3	Protein-DB	peptide_p	14297242	14297277	.	?	.	Parent=mRNA:LOC_Os03g25050.1:P999_15780
+Chr3	Protein-DB	peptide_p	14298631	14298699	.	?	.	Parent=mRNA:LOC_Os03g25050.1:P999_15782

@@ -1,0 +1,12 @@
+Chr1	MSU_osa1r6_db	gene	8758370	8762491	.	+	.	ID=Gene:LOC_Os01g15600;Note=PUR+ALPHA-1%2C+putative%2C+expressed;Alias=13101.t01406
+Chr1	MSU_osa1r6_db	processed_transcript	8758370	8762491	.	+	.	ID=mRNA:LOC_Os01g15600.1;Note=13101.m01727;Gene=LOC_Os01g15600
+Chr1	MSU_osa1r6_db	CDS	8758486	8758815	.	+	0	Parent=mRNA:LOC_Os01g15600.1
+Chr1	MSU_osa1r6_db	CDS	8758913	8758960	.	+	0	Parent=mRNA:LOC_Os01g15600.1
+Chr1	MSU_osa1r6_db	CDS	8761512	8761664	.	+	0	Parent=mRNA:LOC_Os01g15600.1
+Chr1	MSU_osa1r6_db	CDS	8761749	8761991	.	+	0	Parent=mRNA:LOC_Os01g15600.1
+Chr1	MSU_osa1r6_db	CDS	8762078	8762230	.	+	0	Parent=mRNA:LOC_Os01g15600.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	8758370	8758485	.	+	.	Parent=mRNA:LOC_Os01g15600.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	8762231	8762491	.	+	.	Parent=mRNA:LOC_Os01g15600.1
+Chr1	Protein-DB	peptide_p	8761543	8761599	.	?	.	Parent=mRNA:LOC_Os01g15600.1:P999_1302
+Chr1	Protein-DB	peptide_p	8761939	8761968	.	?	.	Parent=mRNA:LOC_Os01g15600.1:P999_1304
+Chr1	Protein-DB	peptide_p	8762097	8762129	.	?	.	Parent=mRNA:LOC_Os01g15600.1:P999_1309

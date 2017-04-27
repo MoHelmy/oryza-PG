@@ -1,0 +1,9 @@
+Chr6	MSU_osa1r6_db	gene	25736419	25740550	.	-	.	ID=Gene:LOC_Os06g42810;Note=UBA+and+UBX+domain-containing+protein%2C+putative%2C+expressed;Alias=13106.t03952
+Chr6	MSU_osa1r6_db	processed_transcript	25736419	25740550	.	-	.	ID=mRNA:LOC_Os06g42810.1;Note=13106.m04483;Gene=LOC_Os06g42810
+Chr6	MSU_osa1r6_db	CDS	25739868	25740454	.	-	0	Parent=mRNA:LOC_Os06g42810.1
+Chr6	MSU_osa1r6_db	CDS	25738007	25738289	.	-	2	Parent=mRNA:LOC_Os06g42810.1
+Chr6	MSU_osa1r6_db	CDS	25737135	25737230	.	-	0	Parent=mRNA:LOC_Os06g42810.1
+Chr6	MSU_osa1r6_db	CDS	25736657	25737046	.	-	0	Parent=mRNA:LOC_Os06g42810.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	25740455	25740550	.	-	.	Parent=mRNA:LOC_Os06g42810.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	25736419	25736656	.	-	.	Parent=mRNA:LOC_Os06g42810.1
+Chr6	Protein-DB	peptide_p	25738928	25738963	.	?	.	Parent=mRNA:LOC_Os06g42810.1:P999_28958

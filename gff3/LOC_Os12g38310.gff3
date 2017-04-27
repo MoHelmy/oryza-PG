@@ -1,0 +1,12 @@
+Chr12	MSU_osa1r6_db	gene	23483112	23484957	.	+	.	ID=Gene:LOC_Os12g38310;Note=mitochondrial+import+inner+membrane+translocase+subunit+Tim%2C+putative%2C+expressed;Alias=13112.t03522
+Chr12	MSU_osa1r6_db	processed_transcript	23483112	23484957	.	+	.	ID=mRNA:LOC_Os12g38310.1;Note=13112.m03946;Gene=LOC_Os12g38310
+Chr12	MSU_osa1r6_db	CDS	23483194	23483288	.	+	0	Parent=mRNA:LOC_Os12g38310.1
+Chr12	MSU_osa1r6_db	CDS	23484435	23484621	.	+	2	Parent=mRNA:LOC_Os12g38310.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	23483112	23483193	.	+	.	Parent=mRNA:LOC_Os12g38310.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	23484622	23484957	.	+	.	Parent=mRNA:LOC_Os12g38310.1
+Chr12	cDNA-DB	peptide_c	23483204	23483245	.	?	.	Parent=mRNA:LOC_Os12g38310:C999_7055
+Chr12	Protein-DB	peptide_p	23483204	23483251	.	?	.	Parent=mRNA:LOC_Os12g38310.1:P999_42477
+Chr12	Protein-DB	peptide_p	23483204	23483245	.	?	.	Parent=mRNA:LOC_Os12g38310.1:P999_42481
+Chr12	Protein-DB	peptide_p	23483252	23483284	.	?	.	Parent=mRNA:LOC_Os12g38310.1:P999_42487
+Chr12	Protein-DB	peptide_p	23484443	23484466	.	?	.	Parent=mRNA:LOC_Os12g38310.1:P999_42488
+Chr12	Protein-DB	peptide_p	23484467	23484496	.	?	.	Parent=mRNA:LOC_Os12g38310.1:P999_42489

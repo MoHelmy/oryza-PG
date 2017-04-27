@@ -1,0 +1,10 @@
+Chr1	MSU_osa1r6_db	gene	6966620	6969164	.	+	.	ID=Gene:LOC_Os01g12650;Note=reticulon+domain+containing+protein%2C+putative%2C+expressed;Alias=13101.t01126
+Chr1	MSU_osa1r6_db	processed_transcript	6966620	6969164	.	+	.	ID=mRNA:LOC_Os01g12650.1;Note=13101.m01370;Gene=LOC_Os01g12650
+Chr1	MSU_osa1r6_db	CDS	6966700	6966979	.	+	0	Parent=mRNA:LOC_Os01g12650.1
+Chr1	MSU_osa1r6_db	CDS	6967930	6968110	.	+	1	Parent=mRNA:LOC_Os01g12650.1
+Chr1	MSU_osa1r6_db	CDS	6968224	6968365	.	+	2	Parent=mRNA:LOC_Os01g12650.1
+Chr1	MSU_osa1r6_db	CDS	6968448	6968517	.	+	0	Parent=mRNA:LOC_Os01g12650.1
+Chr1	MSU_osa1r6_db	CDS	6968617	6968783	.	+	1	Parent=mRNA:LOC_Os01g12650.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	6966620	6966699	.	+	.	Parent=mRNA:LOC_Os01g12650.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	6968784	6969164	.	+	.	Parent=mRNA:LOC_Os01g12650.1
+Chr1	Protein-DB	peptide_p	6966722	6966760	.	?	.	Parent=mRNA:LOC_Os01g12650.1:P999_1096

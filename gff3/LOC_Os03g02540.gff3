@@ -1,0 +1,12 @@
+Chr3	MSU_osa1r6_db	gene	934041	938212	.	-	.	ID=Gene:LOC_Os03g02540;Note=proteasome+subunit%2C+putative%2C+expressed;Alias=13103.t00151
+Chr3	MSU_osa1r6_db	processed_transcript	934041	938212	.	-	.	ID=mRNA:LOC_Os03g02540.1;Note=13103.m00215;Gene=LOC_Os03g02540
+Chr3	MSU_osa1r6_db	CDS	937701	938087	.	-	0	Parent=mRNA:LOC_Os03g02540.1
+Chr3	MSU_osa1r6_db	CDS	936586	936906	.	-	0	Parent=mRNA:LOC_Os03g02540.1
+Chr3	MSU_osa1r6_db	CDS	935789	935905	.	-	0	Parent=mRNA:LOC_Os03g02540.1
+Chr3	MSU_osa1r6_db	CDS	935616	935701	.	-	0	Parent=mRNA:LOC_Os03g02540.1
+Chr3	MSU_osa1r6_db	CDS	934712	934946	.	-	2	Parent=mRNA:LOC_Os03g02540.1
+Chr3	MSU_osa1r6_db	CDS	934457	934636	.	-	0	Parent=mRNA:LOC_Os03g02540.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	938088	938212	.	-	.	Parent=mRNA:LOC_Os03g02540.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	934041	934456	.	-	.	Parent=mRNA:LOC_Os03g02540.1
+Chr3	Protein-DB	peptide_p	934464	934502	.	?	.	Parent=mRNA:LOC_Os03g02540.1:P999_12700
+Chr3	Protein-DB	peptide_p	937690	937719	.	?	.	Parent=mRNA:LOC_Os03g02540.1:P999_12704

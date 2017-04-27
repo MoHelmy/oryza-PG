@@ -1,0 +1,6 @@
+Chr7	MSU_osa1r6_db	gene	796572	797722	.	+	.	ID=Gene:LOC_Os07g02340;Note=expressed+protein;Alias=13107.t00131
+Chr7	MSU_osa1r6_db	processed_transcript	796572	797722	.	+	.	ID=mRNA:LOC_Os07g02340.1;Note=13107.m00158;Gene=LOC_Os07g02340
+Chr7	MSU_osa1r6_db	CDS	796572	796644	.	+	0	Parent=mRNA:LOC_Os07g02340.1
+Chr7	MSU_osa1r6_db	CDS	796780	796820	.	+	1	Parent=mRNA:LOC_Os07g02340.1
+Chr7	MSU_osa1r6_db	CDS	797603	797722	.	+	0	Parent=mRNA:LOC_Os07g02340.1
+Chr7	Protein-DB	peptide_p	797610	797651	.	?	.	Parent=mRNA:LOC_Os07g02340.1:P999_29972

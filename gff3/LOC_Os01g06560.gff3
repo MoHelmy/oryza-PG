@@ -1,0 +1,12 @@
+Chr1	MSU_osa1r6_db	gene	3090123	3091865	.	-	.	ID=Gene:LOC_Os01g06560;Note=transcription+factor+HBP-1b%2C+putative%2C+expressed;Alias=13101.t00536
+Chr1	MSU_osa1r6_db	processed_transcript	3090123	3091865	.	-	.	ID=mRNA:LOC_Os01g06560.1;Note=13101.m00648;Gene=LOC_Os01g06560
+Chr1	MSU_osa1r6_db	CDS	3091100	3091630	.	-	0	Parent=mRNA:LOC_Os01g06560.1
+Chr1	MSU_osa1r6_db	CDS	3090744	3091022	.	-	0	Parent=mRNA:LOC_Os01g06560.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	3091631	3091865	.	-	.	Parent=mRNA:LOC_Os01g06560.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	3090123	3090743	.	-	.	Parent=mRNA:LOC_Os01g06560.1
+Chr1	MSU_osa1r6_db	processed_transcript	3090123	3091865	.	-	.	ID=mRNA:LOC_Os01g06560.2;Note=13101.m00647;Gene=LOC_Os01g06560
+Chr1	MSU_osa1r6_db	CDS	3091085	3091630	.	-	0	Parent=mRNA:LOC_Os01g06560.2
+Chr1	MSU_osa1r6_db	five_prime_UTR	3091631	3091865	.	-	.	Parent=mRNA:LOC_Os01g06560.2
+Chr1	MSU_osa1r6_db	three_prime_UTR	3090123	3091084	.	-	.	Parent=mRNA:LOC_Os01g06560.2
+Chr1	Protein-DB	peptide_p	3090437	3090469	.	?	.	Parent=mRNA:LOC_Os01g06560.1:P999_496
+Chr1	Protein-DB	peptide_p	3090596	3090625	.	?	.	Parent=mRNA:LOC_Os01g06560.1:P999_497

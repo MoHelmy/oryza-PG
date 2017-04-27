@@ -1,0 +1,6 @@
+Chr2	MSU_osa1r6_db	gene	16443666	16447615	.	+	.	ID=Gene:LOC_Os02g27790;Note=splicing+factor+3B+subunit+1%2C+putative%2C+expressed;Alias=13102.t02487
+Chr2	MSU_osa1r6_db	processed_transcript	16443666	16447615	.	+	.	ID=mRNA:LOC_Os02g27790.1;Note=13102.m03032;Gene=LOC_Os02g27790
+Chr2	MSU_osa1r6_db	CDS	16443666	16443670	.	+	0	Parent=mRNA:LOC_Os02g27790.1
+Chr2	MSU_osa1r6_db	CDS	16443769	16447384	.	+	2	Parent=mRNA:LOC_Os02g27790.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	16447385	16447615	.	+	.	Parent=mRNA:LOC_Os02g27790.1
+Chr2	Protein-DB	peptide_p	16446966	16447013	.	?	.	Parent=mRNA:LOC_Os02g27790.1:P999_8954

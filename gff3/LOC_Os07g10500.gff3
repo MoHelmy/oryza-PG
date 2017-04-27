@@ -1,0 +1,7 @@
+Chr7	MSU_osa1r6_db	gene	5654118	5655974	.	+	.	ID=Gene:LOC_Os07g10500;Note=cytochrome+b-c1+complex+subunit+7%2C+putative;Alias=13107.t00928
+Chr7	MSU_osa1r6_db	processed_transcript	5654118	5655974	.	+	.	ID=mRNA:LOC_Os07g10500.1;Note=13107.m01068;Gene=LOC_Os07g10500
+Chr7	MSU_osa1r6_db	CDS	5654118	5654214	.	+	0	Parent=mRNA:LOC_Os07g10500.1
+Chr7	MSU_osa1r6_db	CDS	5654315	5654538	.	+	1	Parent=mRNA:LOC_Os07g10500.1
+Chr7	MSU_osa1r6_db	CDS	5655156	5655203	.	+	0	Parent=mRNA:LOC_Os07g10500.1
+Chr7	MSU_osa1r6_db	CDS	5655906	5655974	.	+	0	Parent=mRNA:LOC_Os07g10500.1
+Chr7	Protein-DB	peptide_p	5655931	5655963	.	?	.	Parent=mRNA:LOC_Os07g10500.1:P999_30550

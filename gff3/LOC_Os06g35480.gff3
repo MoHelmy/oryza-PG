@@ -1,0 +1,8 @@
+Chr6	MSU_osa1r6_db	gene	20675133	20676670	.	-	.	ID=Gene:LOC_Os06g35480;Note=peroxidase+precursor%2C+putative%2C+expressed;Alias=13106.t03224
+Chr6	MSU_osa1r6_db	processed_transcript	20675133	20676670	.	-	.	ID=mRNA:LOC_Os06g35480.1;Note=13106.m03662;Gene=LOC_Os06g35480
+Chr6	MSU_osa1r6_db	CDS	20676356	20676568	.	-	0	Parent=mRNA:LOC_Os06g35480.1
+Chr6	MSU_osa1r6_db	CDS	20676059	20676250	.	-	0	Parent=mRNA:LOC_Os06g35480.1
+Chr6	MSU_osa1r6_db	CDS	20675430	20675981	.	-	0	Parent=mRNA:LOC_Os06g35480.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	20676569	20676670	.	-	.	Parent=mRNA:LOC_Os06g35480.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	20675133	20675429	.	-	.	Parent=mRNA:LOC_Os06g35480.1
+Chr6	Protein-DB	peptide_p	20676036	20676080	.	?	.	Parent=mRNA:LOC_Os06g35480.1:P999_28562

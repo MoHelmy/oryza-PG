@@ -1,0 +1,15 @@
+Chr11	MSU_osa1r6_db	gene	14995771	14998678	.	+	.	ID=Gene:LOC_Os11g26910;Note=SKP1-like+protein+1B%2C+putative%2C+expressed;Alias=13111.t02300
+Chr11	MSU_osa1r6_db	processed_transcript	14995771	14998678	.	+	.	ID=mRNA:LOC_Os11g26910.1;Note=13111.m02578;Gene=LOC_Os11g26910
+Chr11	MSU_osa1r6_db	CDS	14995895	14996242	.	+	0	Parent=mRNA:LOC_Os11g26910.1
+Chr11	MSU_osa1r6_db	CDS	14998251	14998424	.	+	0	Parent=mRNA:LOC_Os11g26910.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	14995771	14995894	.	+	.	Parent=mRNA:LOC_Os11g26910.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	14998425	14998678	.	+	.	Parent=mRNA:LOC_Os11g26910.1
+Chr11	Protein-DB	peptide_p	14995998	14996057	.	?	.	Parent=mRNA:LOC_Os11g26910.1:P999_40395
+Chr11	Protein-DB	peptide_p	14998348	14998401	.	?	.	Parent=mRNA:LOC_Os11g26910.1:P999_40398
+Chr11	Protein-DB	peptide_p	14996157	14996210	.	?	.	Parent=mRNA:LOC_Os11g26910.1:P999_40400
+Chr11	Protein-DB	peptide_p	14996091	14996123	.	?	.	Parent=mRNA:LOC_Os11g26910.1:P999_40401
+Chr11	Protein-DB	peptide_p	14998363	14998398	.	?	.	Parent=mRNA:LOC_Os11g26910.1:P999_40403
+Chr11	Protein-DB	peptide_p	14996070	14996123	.	?	.	Parent=mRNA:LOC_Os11g26910.1:P999_40407
+Chr11	Protein-DB	peptide_p	14996211	14996243	.	?	.	Parent=mRNA:LOC_Os11g26910.1:P999_40412
+Chr11	Protein-DB	peptide_p	14996187	14996210	.	?	.	Parent=mRNA:LOC_Os11g26910.1:P999_40416
+Chr11	Protein-DB	peptide_p	14996157	14996186	.	?	.	Parent=mRNA:LOC_Os11g26910.1:P999_40421

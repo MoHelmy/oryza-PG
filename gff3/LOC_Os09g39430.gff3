@@ -1,0 +1,12 @@
+Chr9	MSU_osa1r6_db	gene	22670943	22674960	.	-	.	ID=Gene:LOC_Os09g39430;Note=GDSL-like+lipase%2Facylhydrolase%2C+putative%2C+expressed;Alias=13109.t03427
+Chr9	MSU_osa1r6_db	processed_transcript	22670943	22674960	.	-	.	ID=mRNA:LOC_Os09g39430.1;Note=13109.m03952;Gene=LOC_Os09g39430
+Chr9	MSU_osa1r6_db	CDS	22674696	22674792	.	-	0	Parent=mRNA:LOC_Os09g39430.1
+Chr9	MSU_osa1r6_db	CDS	22674299	22674574	.	-	1	Parent=mRNA:LOC_Os09g39430.1
+Chr9	MSU_osa1r6_db	CDS	22671877	22672139	.	-	1	Parent=mRNA:LOC_Os09g39430.1
+Chr9	MSU_osa1r6_db	CDS	22671281	22671793	.	-	0	Parent=mRNA:LOC_Os09g39430.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	22674793	22674960	.	-	.	Parent=mRNA:LOC_Os09g39430.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	22670943	22671280	.	-	.	Parent=mRNA:LOC_Os09g39430.1
+Chr9	Protein-DB	peptide_p	22671449	22671508	.	?	.	Parent=mRNA:LOC_Os09g39430.1:P999_36905
+Chr9	Protein-DB	peptide_p	22673764	22673802	.	?	.	Parent=mRNA:LOC_Os09g39430.1:P999_36907
+Chr9	Protein-DB	peptide_p	22671509	22671556	.	?	.	Parent=mRNA:LOC_Os09g39430.1:P999_36908
+Chr9	Protein-DB	peptide_p	22674498	22674527	.	?	.	Parent=mRNA:LOC_Os09g39430.1:P999_36910

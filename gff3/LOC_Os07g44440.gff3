@@ -1,0 +1,15 @@
+Chr7	MSU_osa1r6_db	gene	26550787	26551666	.	+	.	ID=Gene:LOC_Os07g44440;Note=peroxiredoxin%2C+putative%2C+expressed;Alias=13107.t04074
+Chr7	MSU_osa1r6_db	processed_transcript	26550787	26551666	.	+	.	ID=mRNA:LOC_Os07g44440.1;Note=13107.m04678;Gene=LOC_Os07g44440
+Chr7	MSU_osa1r6_db	CDS	26550787	26550904	.	+	0	Parent=mRNA:LOC_Os07g44440.1
+Chr7	MSU_osa1r6_db	CDS	26551008	26551156	.	+	1	Parent=mRNA:LOC_Os07g44440.1
+Chr7	MSU_osa1r6_db	CDS	26551271	26551666	.	+	0	Parent=mRNA:LOC_Os07g44440.1
+Chr7	Protein-DB	peptide_p	26551596	26551637	.	?	.	Parent=mRNA:LOC_Os07g44440.1:P999_31738
+Chr7	Protein-DB	peptide_p	26551515	26551550	.	?	.	Parent=mRNA:LOC_Os07g44440.1:P999_31739
+Chr7	Protein-DB	peptide_p	26551089	26551127	.	?	.	Parent=mRNA:LOC_Os07g44440.1:P999_31752
+Chr7	Protein-DB	peptide_p	26551425	26551457	.	?	.	Parent=mRNA:LOC_Os07g44440.1:P999_31753
+Chr7	Protein-DB	peptide_p	26551284	26551316	.	?	.	Parent=mRNA:LOC_Os07g44440.1:P999_31754
+Chr7	Protein-DB	peptide_p	26551551	26551589	.	?	.	Parent=mRNA:LOC_Os07g44440.1:P999_31762
+Chr7	Protein-DB	peptide_p	26551479	26551508	.	?	.	Parent=mRNA:LOC_Os07g44440.1:P999_31765
+Chr7	Protein-DB	peptide_p	26551284	26551328	.	?	.	Parent=mRNA:LOC_Os07g44440.1:P999_31769
+Chr7	Protein-DB	peptide_p	26551089	26551139	.	?	.	Parent=mRNA:LOC_Os07g44440.1:P999_31770
+Chr7	Protein-DB	peptide_p	26550791	26550850	.	?	.	Parent=mRNA:LOC_Os07g44440.1:P999_31775

@@ -1,0 +1,16 @@
+Chr10	MSU_osa1r6_db	gene	14259455	14260324	.	+	.	ID=Gene:LOC_Os10g27190;Note=40S+ribosomal+protein+S17%2C+putative%2C+expressed;Alias=13110.t02119
+Chr10	MSU_osa1r6_db	processed_transcript	14259455	14260324	.	+	.	ID=mRNA:LOC_Os10g27190.1;Note=13110.m02328;Gene=LOC_Os10g27190
+Chr10	MSU_osa1r6_db	CDS	14259552	14259977	.	+	0	Parent=mRNA:LOC_Os10g27190.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	14259455	14259551	.	+	.	Parent=mRNA:LOC_Os10g27190.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	14259978	14260324	.	+	.	Parent=mRNA:LOC_Os10g27190.1
+Chr10	Protein-DB	peptide_p	14259853	14259909	.	?	.	Parent=mRNA:LOC_Os10g27190.1:P999_37618
+Chr10	Protein-DB	peptide_p	14259649	14259687	.	?	.	Parent=mRNA:LOC_Os10g27190.1:P999_37619
+Chr10	Protein-DB	peptide_p	14259649	14259684	.	?	.	Parent=mRNA:LOC_Os10g27190.1:P999_37621
+Chr10	Protein-DB	peptide_p	14259817	14259852	.	?	.	Parent=mRNA:LOC_Os10g27190.1:P999_37622
+Chr10	Protein-DB	peptide_p	14259652	14259687	.	?	.	Parent=mRNA:LOC_Os10g27190.1:P999_37623
+Chr10	Protein-DB	peptide_p	14259622	14259651	.	?	.	Parent=mRNA:LOC_Os10g27190.1:P999_37624
+Chr10	Protein-DB	peptide_p	14259622	14259648	.	?	.	Parent=mRNA:LOC_Os10g27190.1:P999_37626
+Chr10	Protein-DB	peptide_p	14259652	14259684	.	?	.	Parent=mRNA:LOC_Os10g27190.1:P999_37632
+Chr10	Protein-DB	peptide_p	14259817	14259843	.	?	.	Parent=mRNA:LOC_Os10g27190.1:P999_37633
+Chr10	Protein-DB	peptide_p	14259700	14259729	.	?	.	Parent=mRNA:LOC_Os10g27190.1:P999_37642
+Chr10	Protein-DB	peptide_p	14259844	14259909	.	?	.	Parent=mRNA:LOC_Os10g27190.1:P999_37643

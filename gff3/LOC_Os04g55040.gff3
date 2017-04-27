@@ -1,0 +1,10 @@
+Chr4	MSU_osa1r6_db	gene	32547485	32550459	.	+	.	ID=Gene:LOC_Os04g55040;Note=vacuolar+ATP+synthase+subunit+D+1%2C+putative%2C+expressed;Alias=13104.t04982
+Chr4	MSU_osa1r6_db	processed_transcript	32547485	32550459	.	+	.	ID=mRNA:LOC_Os04g55040.1;Note=13104.m05699;Gene=LOC_Os04g55040
+Chr4	MSU_osa1r6_db	CDS	32547754	32548563	.	+	0	Parent=mRNA:LOC_Os04g55040.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	32547485	32547753	.	+	.	Parent=mRNA:LOC_Os04g55040.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	32548564	32548592	.	+	.	Parent=mRNA:LOC_Os04g55040.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	32550057	32550459	.	+	.	Parent=mRNA:LOC_Os04g55040.1
+Chr4	MSU_osa1r6_db	processed_transcript	32547485	32548836	.	+	.	ID=mRNA:LOC_Os04g55040.2;Note=13104.m05700;Gene=LOC_Os04g55040
+Chr4	MSU_osa1r6_db	CDS	32547754	32548563	.	+	0	Parent=mRNA:LOC_Os04g55040.2
+Chr4	MSU_osa1r6_db	five_prime_UTR	32547485	32547753	.	+	.	Parent=mRNA:LOC_Os04g55040.2
+Chr4	MSU_osa1r6_db	three_prime_UTR	32548564	32548836	.	+	.	Parent=mRNA:LOC_Os04g55040.2

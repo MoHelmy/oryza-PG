@@ -1,0 +1,13 @@
+Chr1	MSU_osa1r6_db	gene	7505213	7510768	.	+	.	ID=Gene:LOC_Os01g13470;Note=KH+domain+containing+protein%2C+putative%2C+expressed;Alias=13101.t01202
+Chr1	MSU_osa1r6_db	processed_transcript	7505213	7510768	.	+	.	ID=mRNA:LOC_Os01g13470.1;Note=13101.m01481;Gene=LOC_Os01g13470
+Chr1	MSU_osa1r6_db	CDS	7505872	7506723	.	+	0	Parent=mRNA:LOC_Os01g13470.1
+Chr1	MSU_osa1r6_db	CDS	7506841	7507260	.	+	0	Parent=mRNA:LOC_Os01g13470.1
+Chr1	MSU_osa1r6_db	CDS	7508091	7508342	.	+	0	Parent=mRNA:LOC_Os01g13470.1
+Chr1	MSU_osa1r6_db	CDS	7508696	7508953	.	+	0	Parent=mRNA:LOC_Os01g13470.1
+Chr1	MSU_osa1r6_db	CDS	7509798	7509877	.	+	0	Parent=mRNA:LOC_Os01g13470.1
+Chr1	MSU_osa1r6_db	CDS	7509959	7510070	.	+	2	Parent=mRNA:LOC_Os01g13470.1
+Chr1	MSU_osa1r6_db	CDS	7510153	7510296	.	+	0	Parent=mRNA:LOC_Os01g13470.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	7505213	7505322	.	+	.	Parent=mRNA:LOC_Os01g13470.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	7505860	7505871	.	+	.	Parent=mRNA:LOC_Os01g13470.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	7510297	7510768	.	+	.	Parent=mRNA:LOC_Os01g13470.1
+Chr1	Protein-DB	peptide_p	7507172	7507204	.	?	.	Parent=mRNA:LOC_Os01g13470.1:P999_1182

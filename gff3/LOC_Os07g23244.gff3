@@ -1,0 +1,8 @@
+Chr7	MSU_osa1r6_db	gene	13097617	13102797	.	+	.	ID=Gene:LOC_Os07g23244;Note=ribosomal+protein+L23+family+protein%2C+putative%2C+expressed;Alias=13107.t02022
+Chr7	MSU_osa1r6_db	processed_transcript	13097617	13102797	.	+	.	ID=mRNA:LOC_Os07g23244.1;Note=13107.m02282;Gene=LOC_Os07g23244
+Chr7	MSU_osa1r6_db	CDS	13097708	13098297	.	+	0	Parent=mRNA:LOC_Os07g23244.1
+Chr7	MSU_osa1r6_db	CDS	13102245	13102344	.	+	2	Parent=mRNA:LOC_Os07g23244.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	13097617	13097707	.	+	.	Parent=mRNA:LOC_Os07g23244.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	13102345	13102797	.	+	.	Parent=mRNA:LOC_Os07g23244.1
+Chr7	Protein-DB	peptide_p	13097979	13098035	.	?	.	Parent=mRNA:LOC_Os07g23244.1:P999_30808
+Chr7	Protein-DB	peptide_p	13097733	13097762	.	?	.	Parent=mRNA:LOC_Os07g23244.1:P999_30809

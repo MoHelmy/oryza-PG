@@ -1,0 +1,15 @@
+Chr7	MSU_osa1r6_db	gene	3698583	3700581	.	+	.	ID=Gene:LOC_Os07g07410;Note=oxidoreductase%2C+2OG-Fe+oxygenase+family+protein%2C+putative%2C+expressed;Alias=13107.t00625
+Chr7	MSU_osa1r6_db	processed_transcript	3698592	3700561	.	+	.	ID=mRNA:LOC_Os07g07410.1;Note=13107.m00724;Gene=LOC_Os07g07410
+Chr7	MSU_osa1r6_db	CDS	3698691	3699235	.	+	0	Parent=mRNA:LOC_Os07g07410.1
+Chr7	MSU_osa1r6_db	CDS	3699336	3699657	.	+	2	Parent=mRNA:LOC_Os07g07410.1
+Chr7	MSU_osa1r6_db	CDS	3700081	3700323	.	+	0	Parent=mRNA:LOC_Os07g07410.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	3698592	3698690	.	+	.	Parent=mRNA:LOC_Os07g07410.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	3700324	3700561	.	+	.	Parent=mRNA:LOC_Os07g07410.1
+Chr7	MSU_osa1r6_db	processed_transcript	3698583	3700581	.	+	.	ID=mRNA:LOC_Os07g07410.2;Note=13107.m00723;Gene=LOC_Os07g07410
+Chr7	MSU_osa1r6_db	CDS	3698691	3698894	.	+	0	Parent=mRNA:LOC_Os07g07410.2
+Chr7	MSU_osa1r6_db	CDS	3698982	3699235	.	+	0	Parent=mRNA:LOC_Os07g07410.2
+Chr7	MSU_osa1r6_db	CDS	3699336	3699657	.	+	2	Parent=mRNA:LOC_Os07g07410.2
+Chr7	MSU_osa1r6_db	CDS	3700081	3700323	.	+	0	Parent=mRNA:LOC_Os07g07410.2
+Chr7	MSU_osa1r6_db	five_prime_UTR	3698583	3698690	.	+	.	Parent=mRNA:LOC_Os07g07410.2
+Chr7	MSU_osa1r6_db	three_prime_UTR	3700324	3700581	.	+	.	Parent=mRNA:LOC_Os07g07410.2
+Chr7	Protein-DB	peptide_p	3699371	3699394	.	?	.	Parent=mRNA:LOC_Os07g07410.1:P999_30149

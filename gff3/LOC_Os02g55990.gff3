@@ -1,0 +1,9 @@
+Chr2	MSU_osa1r6_db	gene	34258114	34259947	.	+	.	ID=Gene:LOC_Os02g55990;Note=vesicle-associated+membrane+protein%2C+putative%2C+expressed;Alias=13102.t05222
+Chr2	MSU_osa1r6_db	processed_transcript	34258114	34259947	.	+	.	ID=mRNA:LOC_Os02g55990.1;Note=13102.m06428;Gene=LOC_Os02g55990
+Chr2	MSU_osa1r6_db	CDS	34258197	34258434	.	+	0	Parent=mRNA:LOC_Os02g55990.1
+Chr2	MSU_osa1r6_db	CDS	34258885	34259075	.	+	1	Parent=mRNA:LOC_Os02g55990.1
+Chr2	MSU_osa1r6_db	CDS	34259268	34259431	.	+	0	Parent=mRNA:LOC_Os02g55990.1
+Chr2	MSU_osa1r6_db	CDS	34259644	34259731	.	+	2	Parent=mRNA:LOC_Os02g55990.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	34258114	34258196	.	+	.	Parent=mRNA:LOC_Os02g55990.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	34259732	34259947	.	+	.	Parent=mRNA:LOC_Os02g55990.1
+Chr2	Protein-DB	peptide_p	34259323	34259343	.	?	.	Parent=mRNA:LOC_Os02g55990.1:P999_12122

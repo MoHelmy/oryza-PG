@@ -1,0 +1,5 @@
+Chr6	MSU_osa1r6_db	gene	8743341	8743694	.	-	.	ID=Gene:LOC_Os06g15380;Note=acylphosphatase%2C+putative;Alias=13106.t01411
+Chr6	MSU_osa1r6_db	processed_transcript	8743341	8743694	.	-	.	ID=mRNA:LOC_Os06g15380.1;Note=13106.m01701;Gene=LOC_Os06g15380
+Chr6	MSU_osa1r6_db	CDS	8743341	8743694	.	-	0	Parent=mRNA:LOC_Os06g15380.1
+Chr6	Protein-DB	peptide_p	8743528	8743590	.	?	.	Parent=mRNA:LOC_Os06g15380.1:P999_28051
+Chr6	Protein-DB	peptide_p	8743528	8743569	.	?	.	Parent=mRNA:LOC_Os06g15380.1:P999_28052

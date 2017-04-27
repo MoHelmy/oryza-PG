@@ -1,0 +1,7 @@
+Chr7	MSU_osa1r6_db	gene	24723568	24727186	.	+	.	ID=Gene:LOC_Os07g41260;Note=PPR+repeat+domain+containing+protein%2C+putative%2C+expressed;Alias=13107.t03768
+Chr7	MSU_osa1r6_db	processed_transcript	24723568	24727186	.	+	.	ID=mRNA:LOC_Os07g41260.1;Note=13107.m04291;Gene=LOC_Os07g41260
+Chr7	MSU_osa1r6_db	CDS	24723608	24725068	.	+	0	Parent=mRNA:LOC_Os07g41260.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	24723568	24723607	.	+	.	Parent=mRNA:LOC_Os07g41260.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	24725069	24725080	.	+	.	Parent=mRNA:LOC_Os07g41260.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	24726716	24727186	.	+	.	Parent=mRNA:LOC_Os07g41260.1
+Chr7	Protein-DB	peptide_p	24724014	24724085	.	?	.	Parent=mRNA:LOC_Os07g41260.1:P999_31469

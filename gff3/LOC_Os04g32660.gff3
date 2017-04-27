@@ -1,0 +1,8 @@
+Chr4	MSU_osa1r6_db	gene	19512969	19516121	.	+	.	ID=Gene:LOC_Os04g32660;Note=cytochrome+b-c1+complex+subunit+Rieske%2C+mitochondrial+precursor%2C+putative%2C+expressed;Alias=13104.t02922
+Chr4	MSU_osa1r6_db	processed_transcript	19512969	19516121	.	+	.	ID=mRNA:LOC_Os04g32660.1;Note=13104.m03134;Gene=LOC_Os04g32660
+Chr4	MSU_osa1r6_db	CDS	19513436	19513625	.	+	0	Parent=mRNA:LOC_Os04g32660.1
+Chr4	MSU_osa1r6_db	CDS	19515093	19515739	.	+	1	Parent=mRNA:LOC_Os04g32660.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	19512969	19513435	.	+	.	Parent=mRNA:LOC_Os04g32660.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	19515740	19516121	.	+	.	Parent=mRNA:LOC_Os04g32660.1
+Chr4	Protein-DB	peptide_p	19515126	19515176	.	?	.	Parent=mRNA:LOC_Os04g32660.1:P999_20551
+Chr4	Protein-DB	peptide_p	19515669	19515725	.	?	.	Parent=mRNA:LOC_Os04g32660.1:P999_20552

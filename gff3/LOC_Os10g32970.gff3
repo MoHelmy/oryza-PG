@@ -1,0 +1,11 @@
+Chr10	MSU_osa1r6_db	gene	17186939	17190351	.	+	.	ID=Gene:LOC_Os10g32970;Note=eukaryotic+translation+initiation+factor%2C+putative%2C+expressed;Alias=13110.t02596
+Chr10	MSU_osa1r6_db	processed_transcript	17186939	17190351	.	+	.	ID=mRNA:LOC_Os10g32970.1;Note=13110.m02896;Gene=LOC_Os10g32970
+Chr10	MSU_osa1r6_db	CDS	17187096	17187304	.	+	0	Parent=mRNA:LOC_Os10g32970.1
+Chr10	MSU_osa1r6_db	CDS	17188274	17188442	.	+	2	Parent=mRNA:LOC_Os10g32970.1
+Chr10	MSU_osa1r6_db	CDS	17188572	17188697	.	+	0	Parent=mRNA:LOC_Os10g32970.1
+Chr10	MSU_osa1r6_db	CDS	17189551	17189616	.	+	0	Parent=mRNA:LOC_Os10g32970.1
+Chr10	MSU_osa1r6_db	CDS	17189735	17189785	.	+	0	Parent=mRNA:LOC_Os10g32970.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	17186939	17187095	.	+	.	Parent=mRNA:LOC_Os10g32970.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	17189786	17190351	.	+	.	Parent=mRNA:LOC_Os10g32970.1
+Chr10	Protein-DB	peptide_p	17188675	17188713	.	?	.	Parent=mRNA:LOC_Os10g32970.1:P999_38182
+Chr10	Protein-DB	peptide_p	17188675	17188713	.	?	.	Parent=mRNA:LOC_Os10g32970.1:P999_38183

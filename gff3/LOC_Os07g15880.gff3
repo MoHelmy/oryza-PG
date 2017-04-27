@@ -1,0 +1,15 @@
+Chr7	MSU_osa1r6_db	gene	9220394	9226216	.	-	.	ID=Gene:LOC_Os07g15880;Note=mitochondrial+prohibitin+complex+protein+2%2C+putative%2C+expressed;Alias=13107.t01453
+Chr7	MSU_osa1r6_db	processed_transcript	9220394	9226216	.	-	.	ID=mRNA:LOC_Os07g15880.1;Note=13107.m01663;Gene=LOC_Os07g15880
+Chr7	MSU_osa1r6_db	CDS	9225944	9226117	.	-	0	Parent=mRNA:LOC_Os07g15880.1
+Chr7	MSU_osa1r6_db	CDS	9222592	9222708	.	-	0	Parent=mRNA:LOC_Os07g15880.1
+Chr7	MSU_osa1r6_db	CDS	9221437	9221607	.	-	0	Parent=mRNA:LOC_Os07g15880.1
+Chr7	MSU_osa1r6_db	CDS	9221120	9221332	.	-	0	Parent=mRNA:LOC_Os07g15880.1
+Chr7	MSU_osa1r6_db	CDS	9220785	9220979	.	-	0	Parent=mRNA:LOC_Os07g15880.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	9226118	9226216	.	-	.	Parent=mRNA:LOC_Os07g15880.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	9220394	9220784	.	-	.	Parent=mRNA:LOC_Os07g15880.1
+Chr7	Protein-DB	peptide_p	9223969	9224007	.	?	.	Parent=mRNA:LOC_Os07g15880.1:P999_30720
+Chr7	Protein-DB	peptide_p	9225378	9225404	.	?	.	Parent=mRNA:LOC_Os07g15880.1:P999_30721
+Chr7	Protein-DB	peptide_p	9225094	9225126	.	?	.	Parent=mRNA:LOC_Os07g15880.1:P999_30729
+Chr7	Protein-DB	peptide_p	9225644	9225700	.	?	.	Parent=mRNA:LOC_Os07g15880.1:P999_30735
+Chr7	Protein-DB	peptide_p	9220557	9220628	.	?	.	Parent=mRNA:LOC_Os07g15880.1:P999_30737
+Chr7	Protein-DB	peptide_p	9225067	9225093	.	?	.	Parent=mRNA:LOC_Os07g15880.1:P999_30738

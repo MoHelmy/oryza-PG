@@ -1,0 +1,12 @@
+Chr3	MSU_osa1r6_db	gene	12476735	12478853	.	+	.	ID=Gene:LOC_Os03g21830;Note=appr-1-p+processing+enzyme+family+protein%2C+putative%2C+expressed;Alias=13103.t01963
+Chr3	MSU_osa1r6_db	processed_transcript	12476735	12478853	.	+	.	ID=mRNA:LOC_Os03g21830.1;Note=13103.m02622;Gene=LOC_Os03g21830
+Chr3	MSU_osa1r6_db	CDS	12476837	12476965	.	+	0	Parent=mRNA:LOC_Os03g21830.1
+Chr3	MSU_osa1r6_db	CDS	12477542	12477590	.	+	0	Parent=mRNA:LOC_Os03g21830.1
+Chr3	MSU_osa1r6_db	CDS	12477675	12477777	.	+	1	Parent=mRNA:LOC_Os03g21830.1
+Chr3	MSU_osa1r6_db	CDS	12477880	12477975	.	+	2	Parent=mRNA:LOC_Os03g21830.1
+Chr3	MSU_osa1r6_db	CDS	12478074	12478148	.	+	2	Parent=mRNA:LOC_Os03g21830.1
+Chr3	MSU_osa1r6_db	CDS	12478248	12478317	.	+	2	Parent=mRNA:LOC_Os03g21830.1
+Chr3	MSU_osa1r6_db	CDS	12478522	12478605	.	+	0	Parent=mRNA:LOC_Os03g21830.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	12476735	12476836	.	+	.	Parent=mRNA:LOC_Os03g21830.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	12478606	12478853	.	+	.	Parent=mRNA:LOC_Os03g21830.1
+Chr3	Protein-DB	peptide_p	12477564	12477590	.	?	.	Parent=mRNA:LOC_Os03g21830.1:P999_15436

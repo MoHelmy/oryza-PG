@@ -1,0 +1,7 @@
+Chr3	MSU_osa1r6_db	gene	2571059	2571530	.	+	.	ID=Gene:LOC_Os03g05300;Note=cyclin-dependent+kinases+regulatory+subunit+1%2C+putative%2C+expressed;Alias=13103.t00409
+Chr3	MSU_osa1r6_db	processed_transcript	2571059	2571530	.	+	.	ID=mRNA:LOC_Os03g05300.1;Note=13103.m00557;Gene=LOC_Os03g05300
+Chr3	MSU_osa1r6_db	CDS	2571059	2571111	.	+	0	Parent=mRNA:LOC_Os03g05300.1
+Chr3	MSU_osa1r6_db	CDS	2571199	2571259	.	+	2	Parent=mRNA:LOC_Os03g05300.1
+Chr3	MSU_osa1r6_db	CDS	2571372	2571530	.	+	0	Parent=mRNA:LOC_Os03g05300.1
+Chr3	Protein-DB	peptide_p	2571087	2571113	.	?	.	Parent=mRNA:LOC_Os03g05300.1:P999_13041
+Chr3	Protein-DB	peptide_p	2571201	2571230	.	?	.	Parent=mRNA:LOC_Os03g05300.1:P999_13042

@@ -1,0 +1,16 @@
+Chr3	MSU_osa1r6_db	gene	3114962	3119763	.	+	.	ID=Gene:LOC_Os03g06220;Note=DEAD-box+ATP-dependent+RNA+helicase%2C+putative%2C+expressed;Alias=13103.t00501
+Chr3	MSU_osa1r6_db	processed_transcript	3114962	3119763	.	+	.	ID=mRNA:LOC_Os03g06220.1;Note=13103.m00677;Gene=LOC_Os03g06220
+Chr3	MSU_osa1r6_db	CDS	3115087	3115350	.	+	0	Parent=mRNA:LOC_Os03g06220.1
+Chr3	MSU_osa1r6_db	CDS	3115463	3115756	.	+	0	Parent=mRNA:LOC_Os03g06220.1
+Chr3	MSU_osa1r6_db	CDS	3115868	3116095	.	+	0	Parent=mRNA:LOC_Os03g06220.1
+Chr3	MSU_osa1r6_db	CDS	3116946	3117011	.	+	0	Parent=mRNA:LOC_Os03g06220.1
+Chr3	MSU_osa1r6_db	CDS	3117514	3117915	.	+	0	Parent=mRNA:LOC_Os03g06220.1
+Chr3	MSU_osa1r6_db	CDS	3117986	3118097	.	+	0	Parent=mRNA:LOC_Os03g06220.1
+Chr3	MSU_osa1r6_db	CDS	3118654	3118739	.	+	1	Parent=mRNA:LOC_Os03g06220.1
+Chr3	MSU_osa1r6_db	CDS	3118816	3118881	.	+	0	Parent=mRNA:LOC_Os03g06220.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	3114962	3115086	.	+	.	Parent=mRNA:LOC_Os03g06220.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	3118882	3119763	.	+	.	Parent=mRNA:LOC_Os03g06220.1
+Chr3	Protein-DB	peptide_p	3117869	3117898	.	?	.	Parent=mRNA:LOC_Os03g06220.1:P999_13304
+Chr3	Protein-DB	peptide_p	3116058	3116096	.	?	.	Parent=mRNA:LOC_Os03g06220.1:P999_13305
+Chr3	Protein-DB	peptide_p	3118035	3118067	.	?	.	Parent=mRNA:LOC_Os03g06220.1:P999_13306
+Chr3	Protein-DB	peptide_p	3115127	3115162	.	?	.	Parent=mRNA:LOC_Os03g06220.1:P999_13314

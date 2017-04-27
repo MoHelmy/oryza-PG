@@ -1,0 +1,7 @@
+Chr10	MSU_osa1r6_db	gene	22871967	22873684	.	-	.	ID=Gene:LOC_Os10g42550;Note=Inositol+1%2C+3%2C+4-trisphosphate+5%2F6-kinase%2C+putative%2C+expressed;Alias=13110.t03476
+Chr10	MSU_osa1r6_db	processed_transcript	22871967	22873684	.	-	.	ID=mRNA:LOC_Os10g42550.1;Note=13110.m03999;Gene=LOC_Os10g42550
+Chr10	MSU_osa1r6_db	CDS	22872527	22873555	.	-	0	Parent=mRNA:LOC_Os10g42550.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	22873556	22873684	.	-	.	Parent=mRNA:LOC_Os10g42550.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	22871967	22872526	.	-	.	Parent=mRNA:LOC_Os10g42550.1
+Chr10	Protein-DB	peptide_p	22872916	22872954	.	?	.	Parent=mRNA:LOC_Os10g42550.1:P999_38962
+Chr10	Protein-DB	peptide_p	22872976	22873017	.	?	.	Parent=mRNA:LOC_Os10g42550.1:P999_38963

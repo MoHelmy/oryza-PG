@@ -1,0 +1,10 @@
+Chr4	MSU_osa1r6_db	gene	9685798	9694263	.	+	.	ID=Gene:LOC_Os04g17700;Note=kinesin+heavy+chain+isolog%2C+putative%2C+expressed;Alias=13104.t01507
+Chr4	MSU_osa1r6_db	processed_transcript	9685798	9694263	.	+	.	ID=mRNA:LOC_Os04g17700.1;Note=13104.m01613;Gene=LOC_Os04g17700
+Chr4	MSU_osa1r6_db	CDS	9685831	9686138	.	+	0	Parent=mRNA:LOC_Os04g17700.1
+Chr4	MSU_osa1r6_db	CDS	9686224	9686272	.	+	2	Parent=mRNA:LOC_Os04g17700.1
+Chr4	MSU_osa1r6_db	CDS	9686375	9686426	.	+	0	Parent=mRNA:LOC_Os04g17700.1
+Chr4	MSU_osa1r6_db	CDS	9691551	9691705	.	+	1	Parent=mRNA:LOC_Os04g17700.1
+Chr4	MSU_osa1r6_db	CDS	9693026	9693139	.	+	0	Parent=mRNA:LOC_Os04g17700.1
+Chr4	MSU_osa1r6_db	CDS	9693913	9694065	.	+	0	Parent=mRNA:LOC_Os04g17700.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	9685798	9685830	.	+	.	Parent=mRNA:LOC_Os04g17700.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	9694066	9694263	.	+	.	Parent=mRNA:LOC_Os04g17700.1

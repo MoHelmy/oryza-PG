@@ -1,0 +1,7 @@
+Chr5	MSU_osa1r6_db	gene	711549	715994	.	+	.	ID=Gene:LOC_Os05g02240;Note=ATCHX20%2C+putative%2C+expressed;Alias=13105.t00124
+Chr5	MSU_osa1r6_db	processed_transcript	711549	715994	.	+	.	ID=mRNA:LOC_Os05g02240.1;Note=13105.m00184;Gene=LOC_Os05g02240
+Chr5	MSU_osa1r6_db	CDS	711664	712875	.	+	0	Parent=mRNA:LOC_Os05g02240.1
+Chr5	MSU_osa1r6_db	CDS	714357	715295	.	+	0	Parent=mRNA:LOC_Os05g02240.1
+Chr5	MSU_osa1r6_db	CDS	715378	715761	.	+	0	Parent=mRNA:LOC_Os05g02240.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	711549	711663	.	+	.	Parent=mRNA:LOC_Os05g02240.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	715762	715994	.	+	.	Parent=mRNA:LOC_Os05g02240.1

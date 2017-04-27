@@ -1,0 +1,10 @@
+Chr6	MSU_osa1r6_db	gene	5618106	5620751	.	+	.	ID=Gene:LOC_Os06g10760;Note=emp24%2Fgp25L%2Fp24+family+protein%2C+putative%2C+expressed;Alias=13106.t00950
+Chr6	MSU_osa1r6_db	processed_transcript	5618106	5620751	.	+	.	ID=mRNA:LOC_Os06g10760.1;Note=13106.m01165;Gene=LOC_Os06g10760
+Chr6	MSU_osa1r6_db	CDS	5618220	5618417	.	+	0	Parent=mRNA:LOC_Os06g10760.1
+Chr6	MSU_osa1r6_db	CDS	5619604	5619813	.	+	0	Parent=mRNA:LOC_Os06g10760.1
+Chr6	MSU_osa1r6_db	CDS	5619919	5619995	.	+	0	Parent=mRNA:LOC_Os06g10760.1
+Chr6	MSU_osa1r6_db	CDS	5620388	5620532	.	+	2	Parent=mRNA:LOC_Os06g10760.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	5618106	5618219	.	+	.	Parent=mRNA:LOC_Os06g10760.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	5620533	5620751	.	+	.	Parent=mRNA:LOC_Os06g10760.1
+Chr6	Protein-DB	peptide_p	5619728	5619760	.	?	.	Parent=mRNA:LOC_Os06g10760.1:P999_27640
+Chr6	Protein-DB	peptide_p	5619941	5619991	.	?	.	Parent=mRNA:LOC_Os06g10760.1:P999_27641

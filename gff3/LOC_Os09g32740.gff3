@@ -1,0 +1,7 @@
+Chr9	MSU_osa1r6_db	gene	19521702	19527377	.	-	.	ID=Gene:LOC_Os09g32740;Note=ubiquitin+carboxyl-terminal+hydrolase+family+protein%2C+expressed;Alias=13109.t02890
+Chr9	MSU_osa1r6_db	processed_transcript	19521702	19527377	.	-	.	ID=mRNA:LOC_Os09g32740.1;Note=13109.m03270;Gene=LOC_Os09g32740
+Chr9	MSU_osa1r6_db	CDS	19523953	19526879	.	-	0	Parent=mRNA:LOC_Os09g32740.1
+Chr9	MSU_osa1r6_db	CDS	19522271	19522511	.	-	2	Parent=mRNA:LOC_Os09g32740.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	19527189	19527377	.	-	.	Parent=mRNA:LOC_Os09g32740.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	19526880	19526905	.	-	.	Parent=mRNA:LOC_Os09g32740.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	19521702	19522270	.	-	.	Parent=mRNA:LOC_Os09g32740.1

@@ -1,0 +1,10 @@
+Chr3	MSU_osa1r6_db	gene	18484388	18487153	.	-	.	ID=Gene:LOC_Os03g32314;Note=allene+oxide+cyclase+4%2C+chloroplast+precursor%2C+putative%2C+expressed;Alias=13103.t02847
+Chr3	MSU_osa1r6_db	processed_transcript	18484388	18487153	.	-	.	ID=mRNA:LOC_Os03g32314.1;Note=13103.m03681;Gene=LOC_Os03g32314
+Chr3	MSU_osa1r6_db	CDS	18485320	18485640	.	-	0	Parent=mRNA:LOC_Os03g32314.1
+Chr3	MSU_osa1r6_db	CDS	18484821	18485222	.	-	0	Parent=mRNA:LOC_Os03g32314.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	18485641	18487153	.	-	.	Parent=mRNA:LOC_Os03g32314.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	18484388	18484820	.	-	.	Parent=mRNA:LOC_Os03g32314.1
+Chr3	Protein-DB	peptide_p	18486548	18486574	.	?	.	Parent=mRNA:LOC_Os03g32314.1:P999_16453
+Chr3	Protein-DB	peptide_p	18486320	18486346	.	?	.	Parent=mRNA:LOC_Os03g32314.1:P999_16454
+Chr3	Protein-DB	peptide_p	18486680	18486718	.	?	.	Parent=mRNA:LOC_Os03g32314.1:P999_16455
+Chr3	Protein-DB	peptide_p	18486620	18486679	.	?	.	Parent=mRNA:LOC_Os03g32314.1:P999_16458

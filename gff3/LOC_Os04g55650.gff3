@@ -1,0 +1,17 @@
+Chr4	MSU_osa1r6_db	gene	32937960	32941876	.	-	.	ID=Gene:LOC_Os04g55650;Note=oryzain+alpha+chain+precursor%2C+putative%2C+expressed;Alias=13104.t05042
+Chr4	MSU_osa1r6_db	processed_transcript	32937960	32941876	.	-	.	ID=mRNA:LOC_Os04g55650.1;Note=13104.m05773;Gene=LOC_Os04g55650
+Chr4	MSU_osa1r6_db	CDS	32940085	32940183	.	-	0	Parent=mRNA:LOC_Os04g55650.1
+Chr4	MSU_osa1r6_db	CDS	32939855	32939995	.	-	0	Parent=mRNA:LOC_Os04g55650.1
+Chr4	MSU_osa1r6_db	CDS	32938743	32939192	.	-	0	Parent=mRNA:LOC_Os04g55650.1
+Chr4	MSU_osa1r6_db	CDS	32938548	32938646	.	-	0	Parent=mRNA:LOC_Os04g55650.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	32941362	32941876	.	-	.	Parent=mRNA:LOC_Os04g55650.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	32940184	32940320	.	-	.	Parent=mRNA:LOC_Os04g55650.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	32937960	32938547	.	-	.	Parent=mRNA:LOC_Os04g55650.1
+Chr4	MSU_osa1r6_db	processed_transcript	32937960	32941876	.	-	.	ID=mRNA:LOC_Os04g55650.2;Note=13104.m05774;Gene=LOC_Os04g55650
+Chr4	MSU_osa1r6_db	CDS	32940085	32940183	.	-	0	Parent=mRNA:LOC_Os04g55650.2
+Chr4	MSU_osa1r6_db	CDS	32939855	32939995	.	-	0	Parent=mRNA:LOC_Os04g55650.2
+Chr4	MSU_osa1r6_db	CDS	32938719	32939192	.	-	0	Parent=mRNA:LOC_Os04g55650.2
+Chr4	MSU_osa1r6_db	five_prime_UTR	32941362	32941876	.	-	.	Parent=mRNA:LOC_Os04g55650.2
+Chr4	MSU_osa1r6_db	five_prime_UTR	32940184	32940320	.	-	.	Parent=mRNA:LOC_Os04g55650.2
+Chr4	MSU_osa1r6_db	three_prime_UTR	32937960	32938718	.	-	.	Parent=mRNA:LOC_Os04g55650.2
+Chr4	Protein-DB	peptide_p	32939914	32939961	.	?	.	Parent=mRNA:LOC_Os04g55650.1:P999_21926

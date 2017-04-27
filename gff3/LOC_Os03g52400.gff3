@@ -1,0 +1,7 @@
+Chr3	MSU_osa1r6_db	gene	30073610	30074474	.	-	.	ID=Gene:LOC_Os03g52400;Note=ribosomal+protein+L7%2FL12+C-terminal+domain+containing+protein%2C+expressed;Alias=13103.t04572
+Chr3	MSU_osa1r6_db	processed_transcript	30073610	30074474	.	-	.	ID=mRNA:LOC_Os03g52400.1;Note=13103.m05708;Gene=LOC_Os03g52400
+Chr3	MSU_osa1r6_db	CDS	30073892	30074419	.	-	0	Parent=mRNA:LOC_Os03g52400.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	30074420	30074474	.	-	.	Parent=mRNA:LOC_Os03g52400.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	30073610	30073891	.	-	.	Parent=mRNA:LOC_Os03g52400.1
+Chr3	Protein-DB	peptide_p	30073786	30073857	.	?	.	Parent=mRNA:LOC_Os03g52400.1:P999_18045
+Chr3	Protein-DB	peptide_p	30073999	30074025	.	?	.	Parent=mRNA:LOC_Os03g52400.1:P999_18046

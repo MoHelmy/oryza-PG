@@ -1,0 +1,16 @@
+Chr1	MSU_osa1r6_db	gene	10118187	10122791	.	+	.	ID=Gene:LOC_Os01g18070;Note=bacterial+transferase+hexapeptide+domain+containing+protein%2C+expressed;Alias=13101.t01596
+Chr1	MSU_osa1r6_db	processed_transcript	10118187	10122791	.	+	.	ID=mRNA:LOC_Os01g18070.1;Note=13101.m01964;Gene=LOC_Os01g18070
+Chr1	MSU_osa1r6_db	CDS	10118367	10118481	.	+	0	Parent=mRNA:LOC_Os01g18070.1
+Chr1	MSU_osa1r6_db	CDS	10120283	10120426	.	+	1	Parent=mRNA:LOC_Os01g18070.1
+Chr1	MSU_osa1r6_db	CDS	10121434	10121559	.	+	1	Parent=mRNA:LOC_Os01g18070.1
+Chr1	MSU_osa1r6_db	CDS	10121785	10121936	.	+	1	Parent=mRNA:LOC_Os01g18070.1
+Chr1	MSU_osa1r6_db	CDS	10122255	10122509	.	+	0	Parent=mRNA:LOC_Os01g18070.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	10118187	10118366	.	+	.	Parent=mRNA:LOC_Os01g18070.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	10122510	10122791	.	+	.	Parent=mRNA:LOC_Os01g18070.1
+Chr1	Protein-DB	peptide_p	10122292	10122321	.	?	.	Parent=mRNA:LOC_Os01g18070.1:P999_1775
+Chr1	Protein-DB	peptide_p	10122253	10122279	.	?	.	Parent=mRNA:LOC_Os01g18070.1:P999_1777
+Chr1	Protein-DB	peptide_p	10122355	10122390	.	?	.	Parent=mRNA:LOC_Os01g18070.1:P999_1778
+Chr1	Protein-DB	peptide_p	10121878	10121910	.	?	.	Parent=mRNA:LOC_Os01g18070.1:P999_1779
+Chr1	Protein-DB	peptide_p	10122322	10122354	.	?	.	Parent=mRNA:LOC_Os01g18070.1:P999_1781
+Chr1	Protein-DB	peptide_p	10122289	10122321	.	?	.	Parent=mRNA:LOC_Os01g18070.1:P999_1783
+Chr1	Protein-DB	peptide_p	10118386	10118415	.	?	.	Parent=mRNA:LOC_Os01g18070.1:P999_1785

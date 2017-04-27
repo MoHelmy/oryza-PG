@@ -1,0 +1,4 @@
+Chr9	MSU_osa1r6_db	gene	18450701	18451294	.	+	.	ID=Gene:LOC_Os09g30310;Note=core+histone+H2A%2FH2B%2FH3%2FH4%2C+putative%2C+expressed;Alias=13109.t02709
+Chr9	MSU_osa1r6_db	processed_transcript	18450701	18451294	.	+	.	ID=mRNA:LOC_Os09g30310.1;Note=13109.m03027;Gene=LOC_Os09g30310
+Chr9	MSU_osa1r6_db	CDS	18450701	18451294	.	+	0	Parent=mRNA:LOC_Os09g30310.1
+Chr9	Protein-DB	peptide_p	18451113	18451139	.	?	.	Parent=mRNA:LOC_Os09g30310.1:P999_35791

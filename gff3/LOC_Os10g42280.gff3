@@ -1,0 +1,10 @@
+Chr10	MSU_osa1r6_db	gene	22694939	22695577	.	+	.	ID=Gene:LOC_Os10g42280;Note=cyclase%2Fdehydrase+family+protein%2C+putative%2C+expressed;Alias=13110.t03454
+Chr10	MSU_osa1r6_db	processed_transcript	22694939	22695577	.	+	.	ID=mRNA:LOC_Os10g42280.1;Note=13110.m03973;Gene=LOC_Os10g42280
+Chr10	MSU_osa1r6_db	CDS	22694939	22695577	.	+	0	Parent=mRNA:LOC_Os10g42280.1
+Chr10	Protein-DB	peptide_p	22695456	22695479	.	?	.	Parent=mRNA:LOC_Os10g42280.1:P999_38873
+Chr10	Protein-DB	peptide_p	22695015	22695038	.	?	.	Parent=mRNA:LOC_Os10g42280.1:P999_38874
+Chr10	Protein-DB	peptide_p	22695306	22695341	.	?	.	Parent=mRNA:LOC_Os10g42280.1:P999_38875
+Chr10	Protein-DB	peptide_p	22695231	22695278	.	?	.	Parent=mRNA:LOC_Os10g42280.1:P999_38878
+Chr10	Protein-DB	peptide_p	22695279	22695305	.	?	.	Parent=mRNA:LOC_Os10g42280.1:P999_38879
+Chr10	Protein-DB	peptide_p	22695039	22695083	.	?	.	Parent=mRNA:LOC_Os10g42280.1:P999_38881
+Chr10	Protein-DB	peptide_p	22695162	22695224	.	?	.	Parent=mRNA:LOC_Os10g42280.1:P999_38884

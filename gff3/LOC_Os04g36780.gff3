@@ -1,0 +1,9 @@
+Chr4	MSU_osa1r6_db	gene	22021643	22024377	.	+	.	ID=Gene:LOC_Os04g36780;Note=expressed+protein;Alias=13104.t03284
+Chr4	MSU_osa1r6_db	processed_transcript	22021643	22024377	.	+	.	ID=mRNA:LOC_Os04g36780.1;Note=13104.m03557;Gene=LOC_Os04g36780
+Chr4	MSU_osa1r6_db	CDS	22021879	22022059	.	+	0	Parent=mRNA:LOC_Os04g36780.1
+Chr4	MSU_osa1r6_db	CDS	22022897	22023042	.	+	1	Parent=mRNA:LOC_Os04g36780.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	22021643	22021878	.	+	.	Parent=mRNA:LOC_Os04g36780.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	22023130	22023229	.	+	.	Parent=mRNA:LOC_Os04g36780.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	22023705	22023778	.	+	.	Parent=mRNA:LOC_Os04g36780.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	22023948	22024377	.	+	.	Parent=mRNA:LOC_Os04g36780.1
+Chr4	Protein-DB	peptide_p	22021967	22022005	.	?	.	Parent=mRNA:LOC_Os04g36780.1:P999_20700

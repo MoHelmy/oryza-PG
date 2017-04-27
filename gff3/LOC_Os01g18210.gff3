@@ -1,0 +1,14 @@
+Chr1	MSU_osa1r6_db	gene	10192619	10195751	.	+	.	ID=Gene:LOC_Os01g18210;Note=peptidyl-prolyl+cis-trans+isomerase%2C+putative%2C+expressed;Alias=13101.t01610
+Chr1	MSU_osa1r6_db	processed_transcript	10192619	10195751	.	+	.	ID=mRNA:LOC_Os01g18210.1;Note=13101.m01978;Gene=LOC_Os01g18210
+Chr1	MSU_osa1r6_db	CDS	10192693	10192878	.	+	0	Parent=mRNA:LOC_Os01g18210.1
+Chr1	MSU_osa1r6_db	CDS	10192985	10193129	.	+	0	Parent=mRNA:LOC_Os01g18210.1
+Chr1	MSU_osa1r6_db	CDS	10193231	10193319	.	+	1	Parent=mRNA:LOC_Os01g18210.1
+Chr1	MSU_osa1r6_db	CDS	10193909	10193963	.	+	0	Parent=mRNA:LOC_Os01g18210.1
+Chr1	MSU_osa1r6_db	CDS	10194507	10194592	.	+	1	Parent=mRNA:LOC_Os01g18210.1
+Chr1	MSU_osa1r6_db	CDS	10195220	10195375	.	+	0	Parent=mRNA:LOC_Os01g18210.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	10192619	10192692	.	+	.	Parent=mRNA:LOC_Os01g18210.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	10195376	10195751	.	+	.	Parent=mRNA:LOC_Os01g18210.1
+Chr1	Protein-DB	peptide_p	10193925	10193969	.	?	.	Parent=mRNA:LOC_Os01g18210.1:P999_1788
+Chr1	Protein-DB	peptide_p	10193064	10193099	.	?	.	Parent=mRNA:LOC_Os01g18210.1:P999_1792
+Chr1	Protein-DB	peptide_p	10195242	10195286	.	?	.	Parent=mRNA:LOC_Os01g18210.1:P999_1793
+Chr1	Protein-DB	peptide_p	10193022	10193063	.	?	.	Parent=mRNA:LOC_Os01g18210.1:P999_1795

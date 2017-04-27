@@ -1,0 +1,14 @@
+Chr3	MSU_osa1r6_db	gene	30952485	30956661	.	-	.	ID=Gene:LOC_Os03g54000;Note=oligopeptide+transporter%2C+putative%2C+expressed;Alias=13103.t04721
+Chr3	MSU_osa1r6_db	processed_transcript	30952485	30956661	.	-	.	ID=mRNA:LOC_Os03g54000.1;Note=13103.m05915;Gene=LOC_Os03g54000
+Chr3	MSU_osa1r6_db	CDS	30955924	30956448	.	-	0	Parent=mRNA:LOC_Os03g54000.1
+Chr3	MSU_osa1r6_db	CDS	30954750	30954847	.	-	0	Parent=mRNA:LOC_Os03g54000.1
+Chr3	MSU_osa1r6_db	CDS	30953804	30954656	.	-	2	Parent=mRNA:LOC_Os03g54000.1
+Chr3	MSU_osa1r6_db	CDS	30952908	30953705	.	-	0	Parent=mRNA:LOC_Os03g54000.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	30956449	30956661	.	-	.	Parent=mRNA:LOC_Os03g54000.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	30952485	30952907	.	-	.	Parent=mRNA:LOC_Os03g54000.1
+Chr3	MSU_osa1r6_db	processed_transcript	30952485	30956661	.	-	.	ID=mRNA:LOC_Os03g54000.2;Note=13103.m05916;Gene=LOC_Os03g54000
+Chr3	MSU_osa1r6_db	CDS	30953804	30954592	.	-	0	Parent=mRNA:LOC_Os03g54000.2
+Chr3	MSU_osa1r6_db	CDS	30952908	30953705	.	-	0	Parent=mRNA:LOC_Os03g54000.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	30955924	30956661	.	-	.	Parent=mRNA:LOC_Os03g54000.2
+Chr3	MSU_osa1r6_db	five_prime_UTR	30954593	30954847	.	-	.	Parent=mRNA:LOC_Os03g54000.2
+Chr3	MSU_osa1r6_db	three_prime_UTR	30952485	30952907	.	-	.	Parent=mRNA:LOC_Os03g54000.2

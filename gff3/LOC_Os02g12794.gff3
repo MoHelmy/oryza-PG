@@ -1,0 +1,12 @@
+Chr2	MSU_osa1r6_db	gene	6716994	6720424	.	+	.	ID=Gene:LOC_Os02g12794;Note=elongation+factor+1-gamma%2C+putative%2C+expressed;Alias=13102.t01089
+Chr2	MSU_osa1r6_db	processed_transcript	6716994	6720424	.	+	.	ID=mRNA:LOC_Os02g12794.3;Note=13102.m01400;Gene=LOC_Os02g12794
+Chr2	MSU_osa1r6_db	CDS	6718993	6719371	.	+	0	Parent=mRNA:LOC_Os02g12794.3
+Chr2	MSU_osa1r6_db	CDS	6719696	6720075	.	+	1	Parent=mRNA:LOC_Os02g12794.3
+Chr2	MSU_osa1r6_db	five_prime_UTR	6716994	6717052	.	+	.	Parent=mRNA:LOC_Os02g12794.3
+Chr2	MSU_osa1r6_db	five_prime_UTR	6717175	6717235	.	+	.	Parent=mRNA:LOC_Os02g12794.3
+Chr2	MSU_osa1r6_db	five_prime_UTR	6718202	6718483	.	+	.	Parent=mRNA:LOC_Os02g12794.3
+Chr2	MSU_osa1r6_db	five_prime_UTR	6718573	6718625	.	+	.	Parent=mRNA:LOC_Os02g12794.3
+Chr2	MSU_osa1r6_db	five_prime_UTR	6718702	6718803	.	+	.	Parent=mRNA:LOC_Os02g12794.3
+Chr2	MSU_osa1r6_db	five_prime_UTR	6718882	6718992	.	+	.	Parent=mRNA:LOC_Os02g12794.3
+Chr2	MSU_osa1r6_db	three_prime_UTR	6720076	6720424	.	+	.	Parent=mRNA:LOC_Os02g12794.3
+Chr2	cDNA-DB	peptide_c	6718703	6718762	.	?	.	Parent=mRNA:LOC_Os02g12794.1:PC2

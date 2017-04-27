@@ -1,0 +1,15 @@
+Chr5	MSU_osa1r6_db	gene	3526694	3530402	.	+	.	ID=Gene:LOC_Os05g06750;Note=dihydrolipoyl+dehydrogenase%2C+mitochondrial+precursor%2C+putative%2C+expressed;Alias=13105.t00570
+Chr5	MSU_osa1r6_db	processed_transcript	3526694	3530402	.	+	.	ID=mRNA:LOC_Os05g06750.1;Note=13105.m00730;Gene=LOC_Os05g06750
+Chr5	MSU_osa1r6_db	CDS	3526763	3527026	.	+	0	Parent=mRNA:LOC_Os05g06750.1
+Chr5	MSU_osa1r6_db	CDS	3528693	3529943	.	+	0	Parent=mRNA:LOC_Os05g06750.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	3526694	3526762	.	+	.	Parent=mRNA:LOC_Os05g06750.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	3529944	3530402	.	+	.	Parent=mRNA:LOC_Os05g06750.1
+Chr5	Protein-DB	peptide_p	3528889	3528948	.	?	.	Parent=mRNA:LOC_Os05g06750.1:P999_23263
+Chr5	Protein-DB	peptide_p	3528733	3528759	.	?	.	Parent=mRNA:LOC_Os05g06750.1:P999_23265
+Chr5	Protein-DB	peptide_p	3529021	3529065	.	?	.	Parent=mRNA:LOC_Os05g06750.1:P999_23271
+Chr5	Protein-DB	peptide_p	3529288	3529362	.	?	.	Parent=mRNA:LOC_Os05g06750.1:P999_23274
+Chr5	Protein-DB	peptide_p	3529864	3529902	.	?	.	Parent=mRNA:LOC_Os05g06750.1:P999_23275
+Chr5	Protein-DB	peptide_p	3529363	3529425	.	?	.	Parent=mRNA:LOC_Os05g06750.1:P999_23278
+Chr5	Protein-DB	peptide_p	3529252	3529287	.	?	.	Parent=mRNA:LOC_Os05g06750.1:P999_23279
+Chr5	Protein-DB	peptide_p	3529903	3529929	.	?	.	Parent=mRNA:LOC_Os05g06750.1:P999_23282
+Chr5	Protein-DB	peptide_p	3529363	3529416	.	?	.	Parent=mRNA:LOC_Os05g06750.1:P999_23283

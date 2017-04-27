@@ -1,0 +1,11 @@
+Chr6	MSU_osa1r6_db	gene	5558910	5562098	.	+	.	ID=Gene:LOC_Os06g10660;Note=lysM+domain-containing+GPI-anchored+protein+1+precursor%2C+putative%2C+expressed;Alias=13106.t00940
+Chr6	MSU_osa1r6_db	processed_transcript	5558910	5562098	.	+	.	ID=mRNA:LOC_Os06g10660.1;Note=13106.m01153;Gene=LOC_Os06g10660
+Chr6	MSU_osa1r6_db	CDS	5559005	5559680	.	+	0	Parent=mRNA:LOC_Os06g10660.1
+Chr6	MSU_osa1r6_db	CDS	5560389	5560506	.	+	1	Parent=mRNA:LOC_Os06g10660.1
+Chr6	MSU_osa1r6_db	CDS	5560594	5560755	.	+	2	Parent=mRNA:LOC_Os06g10660.1
+Chr6	MSU_osa1r6_db	CDS	5560834	5560865	.	+	2	Parent=mRNA:LOC_Os06g10660.1
+Chr6	MSU_osa1r6_db	CDS	5561590	5561831	.	+	1	Parent=mRNA:LOC_Os06g10660.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	5558910	5559004	.	+	.	Parent=mRNA:LOC_Os06g10660.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	5561832	5562098	.	+	.	Parent=mRNA:LOC_Os06g10660.1
+Chr6	Protein-DB	peptide_p	5559204	5559257	.	?	.	Parent=mRNA:LOC_Os06g10660.1:P999_27638
+Chr6	Protein-DB	peptide_p	5559165	5559203	.	?	.	Parent=mRNA:LOC_Os06g10660.1:P999_27639

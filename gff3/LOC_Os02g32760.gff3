@@ -1,0 +1,10 @@
+Chr2	MSU_osa1r6_db	gene	19449254	19452482	.	-	.	ID=Gene:LOC_Os02g32760;Note=60S+acidic+ribosomal+protein%2C+putative%2C+expressed;Alias=13102.t02938
+Chr2	MSU_osa1r6_db	processed_transcript	19449254	19452482	.	-	.	ID=mRNA:LOC_Os02g32760.1;Note=13102.m03551;Gene=LOC_Os02g32760
+Chr2	MSU_osa1r6_db	CDS	19451100	19451187	.	-	0	Parent=mRNA:LOC_Os02g32760.1
+Chr2	MSU_osa1r6_db	CDS	19449912	19450138	.	-	1	Parent=mRNA:LOC_Os02g32760.1
+Chr2	MSU_osa1r6_db	CDS	19449524	19449550	.	-	0	Parent=mRNA:LOC_Os02g32760.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	19452377	19452482	.	-	.	Parent=mRNA:LOC_Os02g32760.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	19451188	19451188	.	-	.	Parent=mRNA:LOC_Os02g32760.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	19449254	19449523	.	-	.	Parent=mRNA:LOC_Os02g32760.1
+Chr2	Protein-DB	peptide_p	19451658	19451687	.	?	.	Parent=mRNA:LOC_Os02g32760.1:P999_9436
+Chr2	Protein-DB	peptide_p	19451625	19451657	.	?	.	Parent=mRNA:LOC_Os02g32760.1:P999_9438

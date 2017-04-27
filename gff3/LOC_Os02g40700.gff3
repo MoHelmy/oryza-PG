@@ -1,0 +1,7 @@
+Chr2	MSU_osa1r6_db	gene	24670494	24671495	.	+	.	ID=Gene:LOC_Os02g40700;Note=enzyme+of+the+cupin+superfamily+protein%2C+putative%2C+expressed;Alias=13102.t03732
+Chr2	MSU_osa1r6_db	processed_transcript	24670494	24671495	.	+	.	ID=mRNA:LOC_Os02g40700.1;Note=13102.m04537;Gene=LOC_Os02g40700
+Chr2	MSU_osa1r6_db	CDS	24670704	24670834	.	+	0	Parent=mRNA:LOC_Os02g40700.1
+Chr2	MSU_osa1r6_db	CDS	24670932	24671142	.	+	2	Parent=mRNA:LOC_Os02g40700.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	24670494	24670703	.	+	.	Parent=mRNA:LOC_Os02g40700.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	24671143	24671495	.	+	.	Parent=mRNA:LOC_Os02g40700.1
+Chr2	Protein-DB	peptide_p	24670804	24670824	.	?	.	Parent=mRNA:LOC_Os02g40700.1:P999_10137

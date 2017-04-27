@@ -1,0 +1,6 @@
+Chr3	MSU_osa1r6_db	gene	9417799	9418768	.	-	.	ID=Gene:LOC_Os03g16940;Note=glyoxalase+family+protein%2C+putative%2C+expressed;Alias=13103.t01492
+Chr3	MSU_osa1r6_db	processed_transcript	9417799	9418768	.	-	.	ID=mRNA:LOC_Os03g16940.1;Note=13103.m02019;Gene=LOC_Os03g16940
+Chr3	MSU_osa1r6_db	CDS	9418407	9418768	.	-	0	Parent=mRNA:LOC_Os03g16940.1
+Chr3	MSU_osa1r6_db	CDS	9418018	9418306	.	-	2	Parent=mRNA:LOC_Os03g16940.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	9417799	9418017	.	-	.	Parent=mRNA:LOC_Os03g16940.1
+Chr3	Protein-DB	peptide_p	9418320	9418373	.	?	.	Parent=mRNA:LOC_Os03g16940.1:P999_14580

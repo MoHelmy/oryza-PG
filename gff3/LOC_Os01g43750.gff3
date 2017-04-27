@@ -1,0 +1,8 @@
+Chr1	MSU_osa1r6_db	gene	25065127	25067255	.	+	.	ID=Gene:LOC_Os01g43750;Note=cytochrome+P450+72A1%2C+putative%2C+expressed;Alias=13101.t03811
+Chr1	MSU_osa1r6_db	processed_transcript	25065127	25067255	.	+	.	ID=mRNA:LOC_Os01g43750.1;Note=13101.m04529;Gene=LOC_Os01g43750
+Chr1	MSU_osa1r6_db	CDS	25065209	25065739	.	+	0	Parent=mRNA:LOC_Os01g43750.1
+Chr1	MSU_osa1r6_db	CDS	25065845	25066089	.	+	0	Parent=mRNA:LOC_Os01g43750.1
+Chr1	MSU_osa1r6_db	CDS	25066210	25066594	.	+	2	Parent=mRNA:LOC_Os01g43750.1
+Chr1	MSU_osa1r6_db	CDS	25066702	25067127	.	+	0	Parent=mRNA:LOC_Os01g43750.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	25065127	25065208	.	+	.	Parent=mRNA:LOC_Os01g43750.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	25067128	25067255	.	+	.	Parent=mRNA:LOC_Os01g43750.1

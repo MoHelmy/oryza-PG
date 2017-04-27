@@ -1,0 +1,10 @@
+Chr7	MSU_osa1r6_db	gene	26636516	26638955	.	+	.	ID=Gene:LOC_Os07g44650;Note=LYR+motif+containing+protein%2C+putative%2C+expressed;Alias=13107.t04093
+Chr7	MSU_osa1r6_db	processed_transcript	26636516	26638955	.	+	.	ID=mRNA:LOC_Os07g44650.1;Note=13107.m04701;Gene=LOC_Os07g44650
+Chr7	MSU_osa1r6_db	CDS	26636703	26636915	.	+	0	Parent=mRNA:LOC_Os07g44650.1
+Chr7	MSU_osa1r6_db	CDS	26638385	26638567	.	+	0	Parent=mRNA:LOC_Os07g44650.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	26636516	26636702	.	+	.	Parent=mRNA:LOC_Os07g44650.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	26638568	26638955	.	+	.	Parent=mRNA:LOC_Os07g44650.1
+Chr7	Protein-DB	peptide_p	26636803	26636865	.	?	.	Parent=mRNA:LOC_Os07g44650.1:P999_31805
+Chr7	Protein-DB	peptide_p	26636731	26636766	.	?	.	Parent=mRNA:LOC_Os07g44650.1:P999_31806
+Chr7	Protein-DB	peptide_p	26638410	26638448	.	?	.	Parent=mRNA:LOC_Os07g44650.1:P999_31807
+Chr7	Protein-DB	peptide_p	26638386	26638409	.	?	.	Parent=mRNA:LOC_Os07g44650.1:P999_31808

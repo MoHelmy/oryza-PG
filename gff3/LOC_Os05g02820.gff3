@@ -1,0 +1,7 @@
+Chr5	MSU_osa1r6_db	gene	1013970	1017596	.	-	.	ID=Gene:LOC_Os05g02820;Note=protein+transport+protein-related%2C+putative%2C+expressed;Alias=13105.t00184
+Chr5	MSU_osa1r6_db	processed_transcript	1013970	1017596	.	-	.	ID=mRNA:LOC_Os05g02820.1;Note=13105.m00258;Gene=LOC_Os05g02820
+Chr5	MSU_osa1r6_db	CDS	1017568	1017596	.	-	0	Parent=mRNA:LOC_Os05g02820.1
+Chr5	MSU_osa1r6_db	CDS	1016851	1017169	.	-	2	Parent=mRNA:LOC_Os05g02820.1
+Chr5	MSU_osa1r6_db	CDS	1014340	1016661	.	-	0	Parent=mRNA:LOC_Os05g02820.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	1013970	1014339	.	-	.	Parent=mRNA:LOC_Os05g02820.1
+Chr5	Protein-DB	peptide_p	1016640	1016684	.	?	.	Parent=mRNA:LOC_Os05g02820.1:P999_22800

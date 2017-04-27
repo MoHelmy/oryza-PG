@@ -1,0 +1,9 @@
+Chr10	MSU_osa1r6_db	gene	20293802	20296767	.	-	.	ID=Gene:LOC_Os10g38030;Note=per1-like+family+protein%2C+putative%2C+expressed;Alias=13110.t03057
+Chr10	MSU_osa1r6_db	processed_transcript	20293802	20296767	.	-	.	ID=mRNA:LOC_Os10g38030.1;Note=13110.m03467;Gene=LOC_Os10g38030
+Chr10	MSU_osa1r6_db	CDS	20296305	20296411	.	-	0	Parent=mRNA:LOC_Os10g38030.1
+Chr10	MSU_osa1r6_db	CDS	20295452	20295713	.	-	2	Parent=mRNA:LOC_Os10g38030.1
+Chr10	MSU_osa1r6_db	CDS	20295120	20295319	.	-	0	Parent=mRNA:LOC_Os10g38030.1
+Chr10	MSU_osa1r6_db	CDS	20294845	20295032	.	-	2	Parent=mRNA:LOC_Os10g38030.1
+Chr10	MSU_osa1r6_db	CDS	20294134	20294420	.	-	1	Parent=mRNA:LOC_Os10g38030.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	20296412	20296767	.	-	.	Parent=mRNA:LOC_Os10g38030.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	20293802	20294133	.	-	.	Parent=mRNA:LOC_Os10g38030.1

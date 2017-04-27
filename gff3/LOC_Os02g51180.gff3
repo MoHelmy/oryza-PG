@@ -1,0 +1,7 @@
+Chr2	MSU_osa1r6_db	gene	31303885	31306993	.	-	.	ID=Gene:LOC_Os02g51180;Note=cullin%2C+putative%2C+expressed;Alias=13102.t04746
+Chr2	MSU_osa1r6_db	processed_transcript	31303885	31306993	.	-	.	ID=mRNA:LOC_Os02g51180.1;Note=13102.m05818;Gene=LOC_Os02g51180
+Chr2	MSU_osa1r6_db	CDS	31306653	31306822	.	-	0	Parent=mRNA:LOC_Os02g51180.1
+Chr2	MSU_osa1r6_db	CDS	31304111	31306151	.	-	2	Parent=mRNA:LOC_Os02g51180.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	31306823	31306993	.	-	.	Parent=mRNA:LOC_Os02g51180.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	31303885	31304110	.	-	.	Parent=mRNA:LOC_Os02g51180.1
+Chr2	Protein-DB	peptide_p	31305029	31305061	.	?	.	Parent=mRNA:LOC_Os02g51180.1:P999_11432

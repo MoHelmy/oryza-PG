@@ -1,0 +1,12 @@
+Chr5	MSU_osa1r6_db	gene	13251144	13255372	.	+	.	ID=Gene:LOC_Os05g23320;Note=expressed+protein;Alias=13105.t02015
+Chr5	MSU_osa1r6_db	processed_transcript	13251144	13255372	.	+	.	ID=mRNA:LOC_Os05g23320.1;Note=13105.m02365;Gene=LOC_Os05g23320
+Chr5	MSU_osa1r6_db	CDS	13252320	13253069	.	+	0	Parent=mRNA:LOC_Os05g23320.1
+Chr5	MSU_osa1r6_db	CDS	13253748	13255010	.	+	0	Parent=mRNA:LOC_Os05g23320.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	13251144	13251342	.	+	.	Parent=mRNA:LOC_Os05g23320.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	13252278	13252319	.	+	.	Parent=mRNA:LOC_Os05g23320.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	13255011	13255372	.	+	.	Parent=mRNA:LOC_Os05g23320.1
+Chr5	MSU_osa1r6_db	processed_transcript	13251629	13255372	.	+	.	ID=mRNA:LOC_Os05g23320.2;Note=13105.m02364;Gene=LOC_Os05g23320
+Chr5	MSU_osa1r6_db	CDS	13252320	13253069	.	+	0	Parent=mRNA:LOC_Os05g23320.2
+Chr5	MSU_osa1r6_db	CDS	13253748	13255010	.	+	0	Parent=mRNA:LOC_Os05g23320.2
+Chr5	MSU_osa1r6_db	five_prime_UTR	13251629	13252319	.	+	.	Parent=mRNA:LOC_Os05g23320.2
+Chr5	MSU_osa1r6_db	three_prime_UTR	13255011	13255372	.	+	.	Parent=mRNA:LOC_Os05g23320.2

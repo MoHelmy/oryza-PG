@@ -1,0 +1,13 @@
+Chr8	MSU_osa1r6_db	gene	17510292	17513387	.	-	.	ID=Gene:LOC_Os08g28680;Note=ubiquitin-conjugating+enzyme%2C+putative%2C+expressed;Alias=13108.t02630
+Chr8	MSU_osa1r6_db	processed_transcript	17510292	17513387	.	-	.	ID=mRNA:LOC_Os08g28680.1;Note=13108.m02961;Gene=LOC_Os08g28680
+Chr8	MSU_osa1r6_db	CDS	17512385	17512493	.	-	0	Parent=mRNA:LOC_Os08g28680.1
+Chr8	MSU_osa1r6_db	CDS	17512074	17512182	.	-	1	Parent=mRNA:LOC_Os08g28680.1
+Chr8	MSU_osa1r6_db	CDS	17511409	17511487	.	-	2	Parent=mRNA:LOC_Os08g28680.1
+Chr8	MSU_osa1r6_db	CDS	17511190	17511306	.	-	0	Parent=mRNA:LOC_Os08g28680.1
+Chr8	MSU_osa1r6_db	CDS	17510815	17510952	.	-	0	Parent=mRNA:LOC_Os08g28680.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	17513201	17513387	.	-	.	Parent=mRNA:LOC_Os08g28680.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	17512494	17512497	.	-	.	Parent=mRNA:LOC_Os08g28680.1
+Chr8	MSU_osa1r6_db	three_prime_UTR	17510292	17510814	.	-	.	Parent=mRNA:LOC_Os08g28680.1
+Chr8	Protein-DB	peptide_p	17511554	17511607	.	?	.	Parent=mRNA:LOC_Os08g28680.1:P999_33754
+Chr8	Protein-DB	peptide_p	17512815	17512856	.	?	.	Parent=mRNA:LOC_Os08g28680.1:P999_33755
+Chr8	Protein-DB	peptide_p	17511497	17511523	.	?	.	Parent=mRNA:LOC_Os08g28680.1:P999_33757

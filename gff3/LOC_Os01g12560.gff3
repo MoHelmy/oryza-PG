@@ -1,0 +1,11 @@
+Chr1	MSU_osa1r6_db	gene	6908691	6911131	.	-	.	ID=Gene:LOC_Os01g12560;Note=3-methyl-2-oxobutanoate+hydroxymethyltransferase%2C+putative%2C+expressed;Alias=13101.t01118
+Chr1	MSU_osa1r6_db	processed_transcript	6908691	6911131	.	-	.	ID=mRNA:LOC_Os01g12560.1;Note=13101.m01361;Gene=LOC_Os01g12560
+Chr1	MSU_osa1r6_db	CDS	6910664	6911098	.	-	0	Parent=mRNA:LOC_Os01g12560.1
+Chr1	MSU_osa1r6_db	CDS	6909836	6910042	.	-	0	Parent=mRNA:LOC_Os01g12560.1
+Chr1	MSU_osa1r6_db	CDS	6909588	6909734	.	-	0	Parent=mRNA:LOC_Os01g12560.1
+Chr1	MSU_osa1r6_db	CDS	6909298	6909351	.	-	0	Parent=mRNA:LOC_Os01g12560.1
+Chr1	MSU_osa1r6_db	CDS	6908939	6909190	.	-	0	Parent=mRNA:LOC_Os01g12560.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	6911099	6911131	.	-	.	Parent=mRNA:LOC_Os01g12560.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	6908691	6908938	.	-	.	Parent=mRNA:LOC_Os01g12560.1
+Chr1	Protein-DB	peptide_p	6910756	6910800	.	?	.	Parent=mRNA:LOC_Os01g12560.1:P999_1092
+Chr1	Protein-DB	peptide_p	6909094	6909159	.	?	.	Parent=mRNA:LOC_Os01g12560.1:P999_1094

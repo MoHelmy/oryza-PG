@@ -1,0 +1,5 @@
+Chr2	MSU_osa1r6_db	gene	35766364	35767500	.	+	.	ID=Gene:LOC_Os02g58510;Note=GHMP+kinases+ATP-binding+protein%2C+putative;Alias=13102.t05478
+Chr2	MSU_osa1r6_db	processed_transcript	35766364	35767500	.	+	.	ID=mRNA:LOC_Os02g58510.1;Note=13102.m06774;Gene=LOC_Os02g58510
+Chr2	MSU_osa1r6_db	CDS	35766364	35767500	.	+	0	Parent=mRNA:LOC_Os02g58510.1
+Chr2	Protein-DB	peptide_p	35766941	35767006	.	?	.	Parent=mRNA:LOC_Os02g58510.1:P999_12551
+Chr2	Protein-DB	peptide_p	35766869	35766940	.	?	.	Parent=mRNA:LOC_Os02g58510.1:P999_12554

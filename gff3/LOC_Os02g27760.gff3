@@ -1,0 +1,10 @@
+Chr2	MSU_osa1r6_db	gene	16434397	16436646	.	+	.	ID=Gene:LOC_Os02g27760;Note=40S+ribosomal+protein+S15a%2C+putative%2C+expressed;Alias=13102.t02484
+Chr2	MSU_osa1r6_db	processed_transcript	16434397	16436646	.	+	.	ID=mRNA:LOC_Os02g27760.1;Note=13102.m03029;Gene=LOC_Os02g27760
+Chr2	MSU_osa1r6_db	CDS	16435698	16435830	.	+	0	Parent=mRNA:LOC_Os02g27760.1
+Chr2	MSU_osa1r6_db	CDS	16435953	16436113	.	+	1	Parent=mRNA:LOC_Os02g27760.1
+Chr2	MSU_osa1r6_db	CDS	16436211	16436309	.	+	0	Parent=mRNA:LOC_Os02g27760.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	16434397	16434489	.	+	.	Parent=mRNA:LOC_Os02g27760.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	16435693	16435697	.	+	.	Parent=mRNA:LOC_Os02g27760.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	16436310	16436646	.	+	.	Parent=mRNA:LOC_Os02g27760.1
+Chr2	Protein-DB	peptide_p	16435807	16435827	.	?	.	Parent=mRNA:LOC_Os02g27760.1:P999_8918
+Chr2	Protein-DB	peptide_p	16436209	16436268	.	?	.	Parent=mRNA:LOC_Os02g27760.1:P999_8926

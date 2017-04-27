@@ -1,0 +1,14 @@
+Chr4	MSU_osa1r6_db	gene	23610266	23612388	.	-	.	ID=Gene:LOC_Os04g39980;Note=gibberellin+20+oxidase+2%2C+putative%2C+expressed;Alias=13104.t03541
+Chr4	MSU_osa1r6_db	processed_transcript	23610266	23612388	.	-	.	ID=mRNA:LOC_Os04g39980.1;Note=13104.m03879;Gene=LOC_Os04g39980
+Chr4	MSU_osa1r6_db	CDS	23611627	23611967	.	-	0	Parent=mRNA:LOC_Os04g39980.1
+Chr4	MSU_osa1r6_db	CDS	23611209	23611527	.	-	2	Parent=mRNA:LOC_Os04g39980.1
+Chr4	MSU_osa1r6_db	CDS	23610747	23610989	.	-	0	Parent=mRNA:LOC_Os04g39980.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	23611968	23612388	.	-	.	Parent=mRNA:LOC_Os04g39980.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	23610266	23610746	.	-	.	Parent=mRNA:LOC_Os04g39980.1
+Chr4	Protein-DB	peptide_p	23611765	23611815	.	?	.	Parent=mRNA:LOC_Os04g39980.1:P999_20820
+Chr4	Protein-DB	peptide_p	23610850	23610879	.	?	.	Parent=mRNA:LOC_Os04g39980.1:P999_20821
+Chr4	Protein-DB	peptide_p	23611732	23611764	.	?	.	Parent=mRNA:LOC_Os04g39980.1:P999_20823
+Chr4	Protein-DB	peptide_p	23611156	23611188	.	?	.	Parent=mRNA:LOC_Os04g39980.1:P999_20824
+Chr4	Protein-DB	peptide_p	23611705	23611731	.	?	.	Parent=mRNA:LOC_Os04g39980.1:P999_20826
+Chr4	Protein-DB	peptide_p	23610691	23610717	.	?	.	Parent=mRNA:LOC_Os04g39980.1:P999_20827
+Chr4	Protein-DB	peptide_p	23611765	23611818	.	?	.	Parent=mRNA:LOC_Os04g39980.1:P999_20831

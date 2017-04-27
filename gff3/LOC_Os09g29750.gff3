@@ -1,0 +1,8 @@
+Chr9	MSU_osa1r6_db	gene	18084523	18089863	.	-	.	ID=Gene:LOC_Os09g29750;Note=ZOS9-15+-+C2H2+zinc+finger+protein%2C+expressed;Alias=13109.t02653
+Chr9	MSU_osa1r6_db	processed_transcript	18084523	18089863	.	-	.	ID=mRNA:LOC_Os09g29750.1;Note=13109.m02950;Gene=LOC_Os09g29750
+Chr9	MSU_osa1r6_db	CDS	18089010	18089758	.	-	0	Parent=mRNA:LOC_Os09g29750.1
+Chr9	MSU_osa1r6_db	CDS	18087752	18087884	.	-	2	Parent=mRNA:LOC_Os09g29750.1
+Chr9	MSU_osa1r6_db	CDS	18085683	18087680	.	-	0	Parent=mRNA:LOC_Os09g29750.1
+Chr9	MSU_osa1r6_db	CDS	18084837	18085229	.	-	0	Parent=mRNA:LOC_Os09g29750.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	18089759	18089863	.	-	.	Parent=mRNA:LOC_Os09g29750.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	18084523	18084836	.	-	.	Parent=mRNA:LOC_Os09g29750.1

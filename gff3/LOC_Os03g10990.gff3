@@ -1,0 +1,9 @@
+Chr3	MSU_osa1r6_db	gene	5645147	5649212	.	-	.	ID=Gene:LOC_Os03g10990;Note=retinoblastoma-binding+protein-like%2C+putative%2C+expressed;Alias=13103.t00919
+Chr3	MSU_osa1r6_db	processed_transcript	5645147	5649212	.	-	.	ID=mRNA:LOC_Os03g10990.1;Note=13103.m01238;Gene=LOC_Os03g10990
+Chr3	MSU_osa1r6_db	CDS	5648877	5648895	.	-	0	Parent=mRNA:LOC_Os03g10990.1
+Chr3	MSU_osa1r6_db	CDS	5648180	5648278	.	-	1	Parent=mRNA:LOC_Os03g10990.1
+Chr3	MSU_osa1r6_db	CDS	5646592	5647685	.	-	1	Parent=mRNA:LOC_Os03g10990.1
+Chr3	MSU_osa1r6_db	CDS	5646231	5646504	.	-	0	Parent=mRNA:LOC_Os03g10990.1
+Chr3	MSU_osa1r6_db	CDS	5645513	5645739	.	-	1	Parent=mRNA:LOC_Os03g10990.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	5648896	5649212	.	-	.	Parent=mRNA:LOC_Os03g10990.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	5645147	5645512	.	-	.	Parent=mRNA:LOC_Os03g10990.1

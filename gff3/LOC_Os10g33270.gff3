@@ -1,0 +1,9 @@
+Chr10	MSU_osa1r6_db	gene	17400372	17403627	.	+	.	ID=Gene:LOC_Os10g33270;Note=cyanate+hydratase%2C+putative%2C+expressed;Alias=13110.t02621
+Chr10	MSU_osa1r6_db	processed_transcript	17400372	17403627	.	+	.	ID=mRNA:LOC_Os10g33270.1;Note=13110.m02924;Gene=LOC_Os10g33270
+Chr10	MSU_osa1r6_db	CDS	17400514	17400794	.	+	0	Parent=mRNA:LOC_Os10g33270.1
+Chr10	MSU_osa1r6_db	CDS	17402405	17402476	.	+	2	Parent=mRNA:LOC_Os10g33270.1
+Chr10	MSU_osa1r6_db	CDS	17402884	17402992	.	+	2	Parent=mRNA:LOC_Os10g33270.1
+Chr10	MSU_osa1r6_db	CDS	17403326	17403370	.	+	0	Parent=mRNA:LOC_Os10g33270.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	17400372	17400513	.	+	.	Parent=mRNA:LOC_Os10g33270.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	17403371	17403627	.	+	.	Parent=mRNA:LOC_Os10g33270.1
+Chr10	Protein-DB	peptide_p	17400590	17400652	.	?	.	Parent=mRNA:LOC_Os10g33270.1:P999_38207

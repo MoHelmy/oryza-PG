@@ -1,0 +1,11 @@
+Chr5	MSU_osa1r6_db	gene	3673988	3678224	.	-	.	ID=Gene:LOC_Os05g07000;Note=splicing+factor%2C+arginine%2Fserine-rich+7%2C+putative%2C+expressed;Alias=13105.t00593
+Chr5	MSU_osa1r6_db	processed_transcript	3673988	3678224	.	-	.	ID=mRNA:LOC_Os05g07000.1;Note=13105.m00755;Gene=LOC_Os05g07000
+Chr5	MSU_osa1r6_db	CDS	3677101	3677228	.	-	0	Parent=mRNA:LOC_Os05g07000.1
+Chr5	MSU_osa1r6_db	CDS	3676162	3676201	.	-	2	Parent=mRNA:LOC_Os05g07000.1
+Chr5	MSU_osa1r6_db	CDS	3675934	3676029	.	-	0	Parent=mRNA:LOC_Os05g07000.1
+Chr5	MSU_osa1r6_db	CDS	3675526	3675719	.	-	0	Parent=mRNA:LOC_Os05g07000.1
+Chr5	MSU_osa1r6_db	CDS	3675379	3675444	.	-	2	Parent=mRNA:LOC_Os05g07000.1
+Chr5	MSU_osa1r6_db	CDS	3674383	3674875	.	-	2	Parent=mRNA:LOC_Os05g07000.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	3678112	3678224	.	-	.	Parent=mRNA:LOC_Os05g07000.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	3677229	3677233	.	-	.	Parent=mRNA:LOC_Os05g07000.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	3673988	3674382	.	-	.	Parent=mRNA:LOC_Os05g07000.1

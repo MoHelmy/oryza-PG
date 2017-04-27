@@ -1,0 +1,13 @@
+Chr6	MSU_osa1r6_db	gene	6151019	6152439	.	-	.	ID=Gene:LOC_Os06g11610;Note=heat+shock+22+kDa+protein%2C+mitochondrial+precursor%2C+putative%2C+expressed;Alias=13106.t01036
+Chr6	MSU_osa1r6_db	processed_transcript	6151019	6152439	.	-	.	ID=mRNA:LOC_Os06g11610.1;Note=13106.m01260;Gene=LOC_Os06g11610
+Chr6	MSU_osa1r6_db	CDS	6151913	6152222	.	-	0	Parent=mRNA:LOC_Os06g11610.1
+Chr6	MSU_osa1r6_db	CDS	6151339	6151775	.	-	1	Parent=mRNA:LOC_Os06g11610.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	6152223	6152439	.	-	.	Parent=mRNA:LOC_Os06g11610.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	6151019	6151338	.	-	.	Parent=mRNA:LOC_Os06g11610.1
+Chr6	Protein-DB	peptide_p	6151668	6151724	.	?	.	Parent=mRNA:LOC_Os06g11610.1:P999_27716
+Chr6	Protein-DB	peptide_p	6151893	6151925	.	?	.	Parent=mRNA:LOC_Os06g11610.1:P999_27717
+Chr6	Protein-DB	peptide_p	6151809	6151856	.	?	.	Parent=mRNA:LOC_Os06g11610.1:P999_27718
+Chr6	Protein-DB	peptide_p	6151806	6151856	.	?	.	Parent=mRNA:LOC_Os06g11610.1:P999_27720
+Chr6	Protein-DB	peptide_p	6151809	6151829	.	?	.	Parent=mRNA:LOC_Os06g11610.1:P999_27724
+Chr6	Protein-DB	peptide_p	6151725	6151805	.	?	.	Parent=mRNA:LOC_Os06g11610.1:P999_27728
+Chr6	Protein-DB	peptide_p	6151986	6152015	.	?	.	Parent=mRNA:LOC_Os06g11610.1:P999_27733

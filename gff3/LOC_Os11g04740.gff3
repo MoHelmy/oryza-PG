@@ -1,0 +1,10 @@
+Chr11	MSU_osa1r6_db	gene	2015624	2020096	.	-	.	ID=Gene:LOC_Os11g04740;Note=FAD-binding+and+arabino-lactone+oxidase+domains+containing+protein%2C+putative%2C+expressed;Alias=13111.t00370
+Chr11	MSU_osa1r6_db	processed_transcript	2015624	2020096	.	-	.	ID=mRNA:LOC_Os11g04740.1;Note=13111.m00435;Gene=LOC_Os11g04740
+Chr11	MSU_osa1r6_db	CDS	2019417	2020022	.	-	0	Parent=mRNA:LOC_Os11g04740.1
+Chr11	MSU_osa1r6_db	CDS	2018168	2018418	.	-	0	Parent=mRNA:LOC_Os11g04740.1
+Chr11	MSU_osa1r6_db	CDS	2017872	2018054	.	-	2	Parent=mRNA:LOC_Os11g04740.1
+Chr11	MSU_osa1r6_db	CDS	2017305	2017707	.	-	2	Parent=mRNA:LOC_Os11g04740.1
+Chr11	MSU_osa1r6_db	CDS	2016407	2016547	.	-	0	Parent=mRNA:LOC_Os11g04740.1
+Chr11	MSU_osa1r6_db	CDS	2015978	2016145	.	-	0	Parent=mRNA:LOC_Os11g04740.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	2020023	2020096	.	-	.	Parent=mRNA:LOC_Os11g04740.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	2015624	2015977	.	-	.	Parent=mRNA:LOC_Os11g04740.1

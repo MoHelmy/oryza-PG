@@ -1,0 +1,10 @@
+Chr9	MSU_osa1r6_db	gene	14386517	14388887	.	-	.	ID=Gene:LOC_Os09g24230;Note=haloacid+dehalogenase-like+hydrolase+family+protein%2C+putative%2C+expressed;Alias=13109.t02115
+Chr9	MSU_osa1r6_db	processed_transcript	14386517	14388887	.	-	.	ID=mRNA:LOC_Os09g24230.1;Note=13109.m02299;Gene=LOC_Os09g24230
+Chr9	MSU_osa1r6_db	CDS	14388744	14388781	.	-	0	Parent=mRNA:LOC_Os09g24230.1
+Chr9	MSU_osa1r6_db	CDS	14387689	14387797	.	-	2	Parent=mRNA:LOC_Os09g24230.1
+Chr9	MSU_osa1r6_db	CDS	14387461	14387615	.	-	0	Parent=mRNA:LOC_Os09g24230.1
+Chr9	MSU_osa1r6_db	CDS	14387027	14387288	.	-	2	Parent=mRNA:LOC_Os09g24230.1
+Chr9	MSU_osa1r6_db	CDS	14386746	14386940	.	-	0	Parent=mRNA:LOC_Os09g24230.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	14388782	14388887	.	-	.	Parent=mRNA:LOC_Os09g24230.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	14386517	14386745	.	-	.	Parent=mRNA:LOC_Os09g24230.1
+Chr9	Protein-DB	peptide_p	14387853	14387903	.	?	.	Parent=mRNA:LOC_Os09g24230.1:P999_35533

@@ -1,0 +1,6 @@
+Chr3	MSU_osa1r6_db	gene	25561671	25562595	.	+	.	ID=Gene:LOC_Os03g45280;Note=dehydrin%2C+putative%2C+expressed;Alias=13103.t03911
+Chr3	MSU_osa1r6_db	processed_transcript	25561671	25562595	.	+	.	ID=mRNA:LOC_Os03g45280.1;Note=13103.m04876;Gene=LOC_Os03g45280
+Chr3	MSU_osa1r6_db	CDS	25561758	25562036	.	+	0	Parent=mRNA:LOC_Os03g45280.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	25561671	25561757	.	+	.	Parent=mRNA:LOC_Os03g45280.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	25562037	25562595	.	+	.	Parent=mRNA:LOC_Os03g45280.1
+Chr3	Protein-DB	peptide_p	25561900	25561947	.	?	.	Parent=mRNA:LOC_Os03g45280.1:P999_17024

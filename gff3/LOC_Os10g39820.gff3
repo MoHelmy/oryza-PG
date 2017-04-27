@@ -1,0 +1,11 @@
+Chr10	MSU_osa1r6_db	gene	21240057	21243909	.	-	.	ID=Gene:LOC_Os10g39820;Note=zinc+knuckle+domain+containing+protein%2C+expressed;Alias=13110.t03221
+Chr10	MSU_osa1r6_db	processed_transcript	21240057	21243909	.	-	.	ID=mRNA:LOC_Os10g39820.1;Note=13110.m03669;Gene=LOC_Os10g39820
+Chr10	MSU_osa1r6_db	CDS	21242846	21242949	.	-	0	Parent=mRNA:LOC_Os10g39820.1
+Chr10	MSU_osa1r6_db	CDS	21241714	21241809	.	-	2	Parent=mRNA:LOC_Os10g39820.1
+Chr10	MSU_osa1r6_db	CDS	21240470	21241013	.	-	2	Parent=mRNA:LOC_Os10g39820.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	21243686	21243909	.	-	.	Parent=mRNA:LOC_Os10g39820.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	21242950	21243073	.	-	.	Parent=mRNA:LOC_Os10g39820.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	21240057	21240469	.	-	.	Parent=mRNA:LOC_Os10g39820.1
+Chr10	Protein-DB	peptide_p	21242210	21242254	.	?	.	Parent=mRNA:LOC_Os10g39820.1:P999_38604
+Chr10	Protein-DB	peptide_p	21243327	21243353	.	?	.	Parent=mRNA:LOC_Os10g39820.1:P999_38605
+Chr10	Protein-DB	peptide_p	21243216	21243272	.	?	.	Parent=mRNA:LOC_Os10g39820.1:P999_38606

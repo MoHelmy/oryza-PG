@@ -1,0 +1,13 @@
+Chr3	MSU_osa1r6_db	gene	28229247	28232431	.	+	.	ID=Gene:LOC_Os03g49580;Note=eukaryotic+peptide+chain+release+factor+subunit+1-1%2C+putative%2C+expressed;Alias=13103.t04318
+Chr3	MSU_osa1r6_db	three_prime_UTR	28226605	28227147	.	+	.	Parent=mRNA:LOC_Os03g49570.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	28222342	28222415	.	+	.	Parent=mRNA:LOC_Os03g49570.1
+Chr3	MSU_osa1r6_db	CDS	28226428	28226604	.	+	0	Parent=mRNA:LOC_Os03g49570.1
+Chr3	MSU_osa1r6_db	CDS	28225794	28225888	.	+	1	Parent=mRNA:LOC_Os03g49570.1
+Chr3	MSU_osa1r6_db	CDS	28225290	28225555	.	+	2	Parent=mRNA:LOC_Os03g49570.1
+Chr3	MSU_osa1r6_db	CDS	28224319	28224580	.	+	1	Parent=mRNA:LOC_Os03g49570.1
+Chr3	MSU_osa1r6_db	CDS	28224184	28224245	.	+	2	Parent=mRNA:LOC_Os03g49570.1
+Chr3	MSU_osa1r6_db	CDS	28223479	28223529	.	+	2	Parent=mRNA:LOC_Os03g49570.1
+Chr3	MSU_osa1r6_db	CDS	28223377	28223408	.	+	0	Parent=mRNA:LOC_Os03g49570.1
+Chr3	MSU_osa1r6_db	CDS	28223022	28223129	.	+	0	Parent=mRNA:LOC_Os03g49570.1
+Chr3	MSU_osa1r6_db	CDS	28222416	28222502	.	+	0	Parent=mRNA:LOC_Os03g49570.1
+Chr3	MSU_osa1r6_db	processed_transcript	28222342	28227147	.	+	.	ID=mRNA:LOC_Os03g49570.1;Note=13103.m05376;Gene=LOC_Os03g49570

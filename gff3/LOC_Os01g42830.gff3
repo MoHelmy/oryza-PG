@@ -1,0 +1,12 @@
+Chr1	MSU_osa1r6_db	gene	24374833	24378885	.	+	.	ID=Gene:LOC_Os01g42830;Note=adaptin+ear-binding+coat-associated+protein+2%2C+putative%2C+expressed;Alias=13101.t03719
+Chr1	MSU_osa1r6_db	processed_transcript	24374833	24378885	.	+	.	ID=mRNA:LOC_Os01g42830.1;Note=13101.m04409;Gene=LOC_Os01g42830
+Chr1	MSU_osa1r6_db	CDS	24375078	24375173	.	+	0	Parent=mRNA:LOC_Os01g42830.1
+Chr1	MSU_osa1r6_db	CDS	24375368	24375399	.	+	0	Parent=mRNA:LOC_Os01g42830.1
+Chr1	MSU_osa1r6_db	CDS	24375716	24375816	.	+	2	Parent=mRNA:LOC_Os01g42830.1
+Chr1	MSU_osa1r6_db	CDS	24375895	24375967	.	+	1	Parent=mRNA:LOC_Os01g42830.1
+Chr1	MSU_osa1r6_db	CDS	24376112	24376143	.	+	2	Parent=mRNA:LOC_Os01g42830.1
+Chr1	MSU_osa1r6_db	CDS	24376327	24376417	.	+	1	Parent=mRNA:LOC_Os01g42830.1
+Chr1	MSU_osa1r6_db	CDS	24376861	24376972	.	+	2	Parent=mRNA:LOC_Os01g42830.1
+Chr1	MSU_osa1r6_db	CDS	24378305	24378700	.	+	0	Parent=mRNA:LOC_Os01g42830.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	24374833	24375077	.	+	.	Parent=mRNA:LOC_Os01g42830.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	24378701	24378885	.	+	.	Parent=mRNA:LOC_Os01g42830.1

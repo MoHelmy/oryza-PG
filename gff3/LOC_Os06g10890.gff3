@@ -1,0 +1,17 @@
+Chr6	MSU_osa1r6_db	gene	5687536	5689096	.	+	.	ID=Gene:LOC_Os06g10890;Note=sterol+carrier+protein-2%2C+putative%2C+expressed;Alias=13106.t00963
+Chr6	MSU_osa1r6_db	processed_transcript	5687536	5689096	.	+	.	ID=mRNA:LOC_Os06g10890.1;Note=13106.m01180;Gene=LOC_Os06g10890
+Chr6	MSU_osa1r6_db	CDS	5687803	5687928	.	+	0	Parent=mRNA:LOC_Os06g10890.1
+Chr6	MSU_osa1r6_db	CDS	5688015	5688075	.	+	0	Parent=mRNA:LOC_Os06g10890.1
+Chr6	MSU_osa1r6_db	CDS	5688163	5688262	.	+	1	Parent=mRNA:LOC_Os06g10890.1
+Chr6	MSU_osa1r6_db	CDS	5688620	5688749	.	+	2	Parent=mRNA:LOC_Os06g10890.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	5687536	5687802	.	+	.	Parent=mRNA:LOC_Os06g10890.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	5688750	5689096	.	+	.	Parent=mRNA:LOC_Os06g10890.1
+Chr6	MSU_osa1r6_db	processed_transcript	5687536	5688412	.	+	.	ID=mRNA:LOC_Os06g10890.2;Note=13106.m10525;Gene=LOC_Os06g10890
+Chr6	MSU_osa1r6_db	CDS	5687803	5687928	.	+	0	Parent=mRNA:LOC_Os06g10890.2
+Chr6	MSU_osa1r6_db	CDS	5688015	5688075	.	+	0	Parent=mRNA:LOC_Os06g10890.2
+Chr6	MSU_osa1r6_db	CDS	5688163	5688266	.	+	1	Parent=mRNA:LOC_Os06g10890.2
+Chr6	MSU_osa1r6_db	five_prime_UTR	5687536	5687802	.	+	.	Parent=mRNA:LOC_Os06g10890.2
+Chr6	MSU_osa1r6_db	three_prime_UTR	5688267	5688412	.	+	.	Parent=mRNA:LOC_Os06g10890.2
+Chr6	Protein-DB	peptide_p	5687852	5687890	.	?	.	Parent=mRNA:LOC_Os06g10890.1:P999_27657
+Chr6	Protein-DB	peptide_p	5687891	5687929	.	?	.	Parent=mRNA:LOC_Os06g10890.1:P999_27658
+Chr6	Protein-DB	peptide_p	5688019	5688057	.	?	.	Parent=mRNA:LOC_Os06g10890.1:P999_27662

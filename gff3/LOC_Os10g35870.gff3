@@ -1,0 +1,11 @@
+Chr10	MSU_osa1r6_db	gene	19100297	19102611	.	-	.	ID=Gene:LOC_Os10g35870;Note=cytochrome+b5-like+Heme%2FSteroid+binding+domain+containing+protein%2C+expressed;Alias=13110.t02874
+Chr10	MSU_osa1r6_db	processed_transcript	19100297	19102611	.	-	.	ID=mRNA:LOC_Os10g35870.1;Note=13110.m03236;Gene=LOC_Os10g35870
+Chr10	MSU_osa1r6_db	CDS	19102173	19102489	.	-	0	Parent=mRNA:LOC_Os10g35870.1
+Chr10	MSU_osa1r6_db	CDS	19100524	19100905	.	-	2	Parent=mRNA:LOC_Os10g35870.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	19102490	19102611	.	-	.	Parent=mRNA:LOC_Os10g35870.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	19100297	19100523	.	-	.	Parent=mRNA:LOC_Os10g35870.1
+Chr10	Protein-DB	peptide_p	19102335	19102376	.	?	.	Parent=mRNA:LOC_Os10g35870.1:P999_38495
+Chr10	Protein-DB	peptide_p	19100591	19100659	.	?	.	Parent=mRNA:LOC_Os10g35870.1:P999_38498
+Chr10	Protein-DB	peptide_p	19102005	19102049	.	?	.	Parent=mRNA:LOC_Os10g35870.1:P999_38499
+Chr10	Protein-DB	peptide_p	19102329	19102376	.	?	.	Parent=mRNA:LOC_Os10g35870.1:P999_38501
+Chr10	Protein-DB	peptide_p	19100684	19100707	.	?	.	Parent=mRNA:LOC_Os10g35870.1:P999_38504

@@ -1,0 +1,8 @@
+Chr6	MSU_osa1r6_db	gene	16851006	16857875	.	+	.	ID=Gene:LOC_Os06g29430;Note=cytidine+and+deoxycytidylate+deaminase+zinc-binding+region+family+protein%2C+expressed;Alias=13106.t02633
+Chr6	MSU_osa1r6_db	processed_transcript	16851006	16857875	.	+	.	ID=mRNA:LOC_Os06g29430.1;Note=13106.m03039;Gene=LOC_Os06g29430
+Chr6	MSU_osa1r6_db	CDS	16851075	16855360	.	+	0	Parent=mRNA:LOC_Os06g29430.1
+Chr6	MSU_osa1r6_db	CDS	16855446	16855533	.	+	2	Parent=mRNA:LOC_Os06g29430.1
+Chr6	MSU_osa1r6_db	CDS	16855970	16856097	.	+	0	Parent=mRNA:LOC_Os06g29430.1
+Chr6	MSU_osa1r6_db	CDS	16857155	16857425	.	+	2	Parent=mRNA:LOC_Os06g29430.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	16851006	16851074	.	+	.	Parent=mRNA:LOC_Os06g29430.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	16857426	16857875	.	+	.	Parent=mRNA:LOC_Os06g29430.1

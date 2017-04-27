@@ -1,0 +1,5 @@
+Chr6	MSU_osa1r6_db	gene	25542347	25545483	.	+	.	ID=Gene:LOC_Os06g42490;Note=expressed+protein;Alias=13106.t03921
+Chr6	MSU_osa1r6_db	processed_transcript	25542347	25545483	.	+	.	ID=mRNA:LOC_Os06g42490.1;Note=13106.m04445;Gene=LOC_Os06g42490
+Chr6	MSU_osa1r6_db	CDS	25542413	25545115	.	+	0	Parent=mRNA:LOC_Os06g42490.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	25542347	25542412	.	+	.	Parent=mRNA:LOC_Os06g42490.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	25545116	25545483	.	+	.	Parent=mRNA:LOC_Os06g42490.1

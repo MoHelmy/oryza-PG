@@ -1,0 +1,10 @@
+Chr8	MSU_osa1r6_db	gene	25086809	25090235	.	+	.	ID=Gene:LOC_Os08g39630;Note=helix-loop-helix+DNA-binding+domain+containing+protein%2C+expressed;Alias=13108.t03706
+Chr8	MSU_osa1r6_db	processed_transcript	25086809	25090235	.	+	.	ID=mRNA:LOC_Os08g39630.1;Note=13108.m04229;Gene=LOC_Os08g39630
+Chr8	MSU_osa1r6_db	CDS	25087286	25087772	.	+	0	Parent=mRNA:LOC_Os08g39630.1
+Chr8	MSU_osa1r6_db	CDS	25087936	25088288	.	+	1	Parent=mRNA:LOC_Os08g39630.1
+Chr8	MSU_osa1r6_db	CDS	25088374	25088535	.	+	0	Parent=mRNA:LOC_Os08g39630.1
+Chr8	MSU_osa1r6_db	CDS	25088668	25088733	.	+	0	Parent=mRNA:LOC_Os08g39630.1
+Chr8	MSU_osa1r6_db	CDS	25088917	25088985	.	+	0	Parent=mRNA:LOC_Os08g39630.1
+Chr8	MSU_osa1r6_db	CDS	25089243	25089305	.	+	0	Parent=mRNA:LOC_Os08g39630.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	25086809	25087285	.	+	.	Parent=mRNA:LOC_Os08g39630.1
+Chr8	MSU_osa1r6_db	three_prime_UTR	25089306	25090235	.	+	.	Parent=mRNA:LOC_Os08g39630.1

@@ -1,0 +1,12 @@
+Chr2	MSU_osa1r6_db	gene	4598610	4601379	.	-	.	ID=Gene:LOC_Os02g08520;Note=peptidase%2C+T1+family%2C+putative%2C+expressed;Alias=13102.t00762
+Chr2	MSU_osa1r6_db	processed_transcript	4598610	4601379	.	-	.	ID=mRNA:LOC_Os02g08520.1;Note=13102.m00985;Gene=LOC_Os02g08520
+Chr2	MSU_osa1r6_db	CDS	4601267	4601272	.	-	0	Parent=mRNA:LOC_Os02g08520.1
+Chr2	MSU_osa1r6_db	CDS	4600983	4601164	.	-	0	Parent=mRNA:LOC_Os02g08520.1
+Chr2	MSU_osa1r6_db	CDS	4600772	4600879	.	-	2	Parent=mRNA:LOC_Os02g08520.1
+Chr2	MSU_osa1r6_db	CDS	4600107	4600196	.	-	2	Parent=mRNA:LOC_Os02g08520.1
+Chr2	MSU_osa1r6_db	CDS	4599410	4599494	.	-	2	Parent=mRNA:LOC_Os02g08520.1
+Chr2	MSU_osa1r6_db	CDS	4599209	4599303	.	-	0	Parent=mRNA:LOC_Os02g08520.1
+Chr2	MSU_osa1r6_db	CDS	4599035	4599083	.	-	2	Parent=mRNA:LOC_Os02g08520.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	4601273	4601379	.	-	.	Parent=mRNA:LOC_Os02g08520.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	4598610	4599034	.	-	.	Parent=mRNA:LOC_Os02g08520.1
+Chr2	Protein-DB	peptide_p	4598964	4599011	.	?	.	Parent=mRNA:LOC_Os02g08520.1:P999_7805

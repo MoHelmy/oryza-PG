@@ -1,0 +1,6 @@
+Chr12	MSU_osa1r6_db	gene	21288793	21290987	.	+	.	ID=Gene:LOC_Os12g35030;Note=plus-3+domain+containing+protein%2C+expressed;Alias=13112.t03203
+Chr12	MSU_osa1r6_db	processed_transcript	21288793	21290987	.	+	.	ID=mRNA:LOC_Os12g35030.1;Note=13112.m03580;Gene=LOC_Os12g35030
+Chr12	MSU_osa1r6_db	CDS	21289025	21290593	.	+	0	Parent=mRNA:LOC_Os12g35030.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	21288793	21289024	.	+	.	Parent=mRNA:LOC_Os12g35030.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	21290594	21290987	.	+	.	Parent=mRNA:LOC_Os12g35030.1
+Chr12	Protein-DB	peptide_p	21289656	21289697	.	?	.	Parent=mRNA:LOC_Os12g35030.1:P999_42159

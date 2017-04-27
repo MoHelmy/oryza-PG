@@ -1,0 +1,12 @@
+Chr4	MSU_osa1r6_db	gene	33970320	33973601	.	-	.	ID=Gene:LOC_Os04g57400;Note=methylthioribose+kinase%2C+putative%2C+expressed;Alias=13104.t05215
+Chr4	MSU_osa1r6_db	processed_transcript	33970320	33973601	.	-	.	ID=mRNA:LOC_Os04g57400.1;Note=13104.m06003;Gene=LOC_Os04g57400
+Chr4	MSU_osa1r6_db	CDS	33973229	33973444	.	-	0	Parent=mRNA:LOC_Os04g57400.1
+Chr4	MSU_osa1r6_db	CDS	33972834	33973143	.	-	0	Parent=mRNA:LOC_Os04g57400.1
+Chr4	MSU_osa1r6_db	CDS	33972511	33972685	.	-	1	Parent=mRNA:LOC_Os04g57400.1
+Chr4	MSU_osa1r6_db	CDS	33972230	33972431	.	-	2	Parent=mRNA:LOC_Os04g57400.1
+Chr4	MSU_osa1r6_db	CDS	33971594	33971808	.	-	0	Parent=mRNA:LOC_Os04g57400.1
+Chr4	MSU_osa1r6_db	CDS	33970735	33970909	.	-	2	Parent=mRNA:LOC_Os04g57400.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	33973445	33973601	.	-	.	Parent=mRNA:LOC_Os04g57400.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	33970320	33970734	.	-	.	Parent=mRNA:LOC_Os04g57400.1
+Chr4	Protein-DB	peptide_p	33970971	33971033	.	?	.	Parent=mRNA:LOC_Os04g57400.1:P999_22215
+Chr4	Protein-DB	peptide_p	33970833	33970862	.	?	.	Parent=mRNA:LOC_Os04g57400.1:P999_22220

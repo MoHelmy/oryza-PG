@@ -1,0 +1,17 @@
+Chr2	MSU_osa1r6_db	gene	35421683	35424771	.	+	.	ID=Gene:LOC_Os02g57854;Note=vacuolar+ATP+synthase+subunit+F%2C+putative%2C+expressed;Alias=13102.t05411
+Chr2	MSU_osa1r6_db	processed_transcript	35421683	35424771	.	+	.	ID=mRNA:LOC_Os02g57854.1;Note=13102.m06692;Gene=LOC_Os02g57854
+Chr2	MSU_osa1r6_db	CDS	35422008	35422070	.	+	0	Parent=mRNA:LOC_Os02g57854.1
+Chr2	MSU_osa1r6_db	CDS	35422863	35422944	.	+	0	Parent=mRNA:LOC_Os02g57854.1
+Chr2	MSU_osa1r6_db	CDS	35423578	35423660	.	+	1	Parent=mRNA:LOC_Os02g57854.1
+Chr2	MSU_osa1r6_db	CDS	35424329	35424493	.	+	0	Parent=mRNA:LOC_Os02g57854.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	35421683	35421793	.	+	.	Parent=mRNA:LOC_Os02g57854.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	35421990	35422007	.	+	.	Parent=mRNA:LOC_Os02g57854.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	35424494	35424771	.	+	.	Parent=mRNA:LOC_Os02g57854.1
+Chr2	MSU_osa1r6_db	processed_transcript	35423541	35424771	.	+	.	ID=mRNA:LOC_Os02g57854.2;Note=13102.m06693;Gene=LOC_Os02g57854
+Chr2	MSU_osa1r6_db	CDS	35424338	35424493	.	+	0	Parent=mRNA:LOC_Os02g57854.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	35423541	35423660	.	+	.	Parent=mRNA:LOC_Os02g57854.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	35424329	35424337	.	+	.	Parent=mRNA:LOC_Os02g57854.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	35424494	35424771	.	+	.	Parent=mRNA:LOC_Os02g57854.2
+Chr2	Protein-DB	peptide_p	35424453	35424488	.	?	.	Parent=mRNA:LOC_Os02g57854.1:P999_12476
+Chr2	Protein-DB	peptide_p	35422921	35422944	.	?	.	Parent=mRNA:LOC_Os02g57854.1:P999_12477
+Chr2	Protein-DB	peptide_p	35423629	35423676	.	?	.	Parent=mRNA:LOC_Os02g57854.1:P999_12479

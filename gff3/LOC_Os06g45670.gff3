@@ -1,0 +1,10 @@
+Chr6	MSU_osa1r6_db	gene	27658072	27660179	.	-	.	ID=Gene:LOC_Os06g45670;Note=glycine+cleavage+system+H+protein%2C+putative%2C+expressed;Alias=13106.t04237
+Chr6	MSU_osa1r6_db	processed_transcript	27658072	27660179	.	-	.	ID=mRNA:LOC_Os06g45670.1;Note=13106.m04815;Gene=LOC_Os06g45670
+Chr6	MSU_osa1r6_db	CDS	27660036	27660129	.	-	0	Parent=mRNA:LOC_Os06g45670.1
+Chr6	MSU_osa1r6_db	CDS	27659027	27659115	.	-	1	Parent=mRNA:LOC_Os06g45670.1
+Chr6	MSU_osa1r6_db	CDS	27658672	27658842	.	-	0	Parent=mRNA:LOC_Os06g45670.1
+Chr6	MSU_osa1r6_db	CDS	27658454	27658582	.	-	0	Parent=mRNA:LOC_Os06g45670.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	27660130	27660179	.	-	.	Parent=mRNA:LOC_Os06g45670.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	27658072	27658453	.	-	.	Parent=mRNA:LOC_Os06g45670.1
+Chr6	Protein-DB	peptide_p	27659715	27659759	.	?	.	Parent=mRNA:LOC_Os06g45670.1:P999_29232
+Chr6	Protein-DB	peptide_p	27659154	27659180	.	?	.	Parent=mRNA:LOC_Os06g45670.1:P999_29233

@@ -1,0 +1,14 @@
+Chr9	MSU_osa1r6_db	gene	6245237	6248750	.	-	.	ID=Gene:LOC_Os09g11250;Note=co-chaperone+GrpE+protein%2C+putative%2C+expressed;Alias=13109.t00921
+Chr9	MSU_osa1r6_db	processed_transcript	6245237	6248750	.	-	.	ID=mRNA:LOC_Os09g11250.1;Note=13109.m01005;Gene=LOC_Os09g11250
+Chr9	MSU_osa1r6_db	CDS	6248495	6248650	.	-	0	Parent=mRNA:LOC_Os09g11250.1
+Chr9	MSU_osa1r6_db	CDS	6247325	6247469	.	-	0	Parent=mRNA:LOC_Os09g11250.1
+Chr9	MSU_osa1r6_db	CDS	6247021	6247211	.	-	1	Parent=mRNA:LOC_Os09g11250.1
+Chr9	MSU_osa1r6_db	CDS	6246716	6246883	.	-	0	Parent=mRNA:LOC_Os09g11250.1
+Chr9	MSU_osa1r6_db	CDS	6246434	6246562	.	-	0	Parent=mRNA:LOC_Os09g11250.1
+Chr9	MSU_osa1r6_db	CDS	6245512	6245631	.	-	0	Parent=mRNA:LOC_Os09g11250.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	6248651	6248750	.	-	.	Parent=mRNA:LOC_Os09g11250.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	6245237	6245511	.	-	.	Parent=mRNA:LOC_Os09g11250.1
+Chr9	Protein-DB	peptide_p	6247117	6247149	.	?	.	Parent=mRNA:LOC_Os09g11250.1:P999_35208
+Chr9	Protein-DB	peptide_p	6247198	6247227	.	?	.	Parent=mRNA:LOC_Os09g11250.1:P999_35210
+Chr9	Protein-DB	peptide_p	6246803	6246832	.	?	.	Parent=mRNA:LOC_Os09g11250.1:P999_35212
+Chr9	Protein-DB	peptide_p	6247228	6247260	.	?	.	Parent=mRNA:LOC_Os09g11250.1:P999_35213

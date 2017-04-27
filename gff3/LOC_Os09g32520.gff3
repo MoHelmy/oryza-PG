@@ -1,0 +1,8 @@
+Chr9	MSU_osa1r6_db	gene	19412752	19414393	.	-	.	ID=Gene:LOC_Os09g32520;Note=60S+ribosomal+protein+L32%2C+putative%2C+expressed;Alias=13109.t02868
+Chr9	MSU_osa1r6_db	processed_transcript	19412752	19414393	.	-	.	ID=mRNA:LOC_Os09g32520.1;Note=13109.m03241;Gene=LOC_Os09g32520
+Chr9	MSU_osa1r6_db	CDS	19414101	19414190	.	-	0	Parent=mRNA:LOC_Os09g32520.1
+Chr9	MSU_osa1r6_db	CDS	19413259	19413440	.	-	0	Parent=mRNA:LOC_Os09g32520.1
+Chr9	MSU_osa1r6_db	CDS	19413003	19413132	.	-	2	Parent=mRNA:LOC_Os09g32520.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	19414295	19414393	.	-	.	Parent=mRNA:LOC_Os09g32520.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	19412752	19413002	.	-	.	Parent=mRNA:LOC_Os09g32520.1
+Chr9	Protein-DB	peptide_p	19414015	19414053	.	?	.	Parent=mRNA:LOC_Os09g32520.1:P999_36294

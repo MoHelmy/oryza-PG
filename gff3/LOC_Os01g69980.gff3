@@ -1,0 +1,4 @@
+Chr1	MSU_osa1r6_db	gene	40476437	40477864	.	+	.	ID=Gene:LOC_Os01g69980;Note=TCP+family+transcription+factor%2C+putative%2C+expressed;Alias=13101.t06221
+Chr1	MSU_osa1r6_db	processed_transcript	40476437	40477864	.	+	.	ID=mRNA:LOC_Os01g69980.1;Note=13101.m42772;Gene=LOC_Os01g69980
+Chr1	MSU_osa1r6_db	CDS	40476437	40477270	.	+	0	Parent=mRNA:LOC_Os01g69980.1
+Chr1	MSU_osa1r6_db	CDS	40477853	40477864	.	+	0	Parent=mRNA:LOC_Os01g69980.1

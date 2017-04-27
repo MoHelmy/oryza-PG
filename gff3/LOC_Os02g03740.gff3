@@ -1,0 +1,17 @@
+Chr2	MSU_osa1r6_db	gene	1566087	1569573	.	-	.	ID=Gene:LOC_Os02g03740;Note=pyridoxal+biosynthesis+protein+PDX2%2C+putative%2C+expressed;Alias=13102.t00275
+Chr2	MSU_osa1r6_db	processed_transcript	1566087	1569573	.	-	.	ID=mRNA:LOC_Os02g03740.1;Note=13102.m00367;Gene=LOC_Os02g03740
+Chr2	MSU_osa1r6_db	CDS	1569389	1569443	.	-	0	Parent=mRNA:LOC_Os02g03740.1
+Chr2	MSU_osa1r6_db	CDS	1569158	1569285	.	-	1	Parent=mRNA:LOC_Os02g03740.1
+Chr2	MSU_osa1r6_db	CDS	1567939	1568026	.	-	0	Parent=mRNA:LOC_Os02g03740.1
+Chr2	MSU_osa1r6_db	CDS	1567797	1567870	.	-	1	Parent=mRNA:LOC_Os02g03740.1
+Chr2	MSU_osa1r6_db	CDS	1567495	1567686	.	-	0	Parent=mRNA:LOC_Os02g03740.1
+Chr2	MSU_osa1r6_db	CDS	1566619	1566716	.	-	0	Parent=mRNA:LOC_Os02g03740.1
+Chr2	MSU_osa1r6_db	CDS	1566396	1566528	.	-	2	Parent=mRNA:LOC_Os02g03740.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	1569444	1569573	.	-	.	Parent=mRNA:LOC_Os02g03740.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	1566087	1566395	.	-	.	Parent=mRNA:LOC_Os02g03740.1
+Chr2	Protein-DB	peptide_p	1569140	1569175	.	?	.	Parent=mRNA:LOC_Os02g03740.1:P999_6933
+Chr2	Protein-DB	peptide_p	1566414	1566482	.	?	.	Parent=mRNA:LOC_Os02g03740.1:P999_6934
+Chr2	Protein-DB	peptide_p	1567799	1567846	.	?	.	Parent=mRNA:LOC_Os02g03740.1:P999_6935
+Chr2	Protein-DB	peptide_p	1567972	1568022	.	?	.	Parent=mRNA:LOC_Os02g03740.1:P999_6940
+Chr2	Protein-DB	peptide_p	1569233	1569262	.	?	.	Parent=mRNA:LOC_Os02g03740.1:P999_6943
+Chr2	Protein-DB	peptide_p	1569140	1569160	.	?	.	Parent=mRNA:LOC_Os02g03740.1:P999_6946

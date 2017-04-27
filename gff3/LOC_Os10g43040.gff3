@@ -1,0 +1,8 @@
+Chr10	MSU_osa1r6_db	gene	23114885	23118025	.	+	.	ID=Gene:LOC_Os10g43040;Note=ankyrin+repeat+domain-containing+protein+28%2C+putative%2C+expressed;Alias=13110.t03523
+Chr10	MSU_osa1r6_db	processed_transcript	23114885	23118025	.	+	.	ID=mRNA:LOC_Os10g43040.1;Note=13110.m04072;Gene=LOC_Os10g43040
+Chr10	MSU_osa1r6_db	CDS	23114962	23115155	.	+	0	Parent=mRNA:LOC_Os10g43040.1
+Chr10	MSU_osa1r6_db	CDS	23117169	23117772	.	+	2	Parent=mRNA:LOC_Os10g43040.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	23114885	23114961	.	+	.	Parent=mRNA:LOC_Os10g43040.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	23117773	23118025	.	+	.	Parent=mRNA:LOC_Os10g43040.1
+Chr10	Protein-DB	peptide_p	23115074	23115136	.	?	.	Parent=mRNA:LOC_Os10g43040.1:P999_38971
+Chr10	Protein-DB	peptide_p	23117561	23117605	.	?	.	Parent=mRNA:LOC_Os10g43040.1:P999_38974

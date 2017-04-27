@@ -1,0 +1,12 @@
+Chr3	MSU_osa1r6_db	gene	10186345	10189247	.	-	.	ID=Gene:LOC_Os03g18180;Note=ranBP1+domain+containing+protein%2C+expressed;Alias=13103.t01610
+Chr3	MSU_osa1r6_db	processed_transcript	10186345	10189247	.	-	.	ID=mRNA:LOC_Os03g18180.1;Note=13103.m02177;Gene=LOC_Os03g18180
+Chr3	MSU_osa1r6_db	CDS	10188919	10189076	.	-	0	Parent=mRNA:LOC_Os03g18180.1
+Chr3	MSU_osa1r6_db	CDS	10188672	10188823	.	-	2	Parent=mRNA:LOC_Os03g18180.1
+Chr3	MSU_osa1r6_db	CDS	10188451	10188576	.	-	1	Parent=mRNA:LOC_Os03g18180.1
+Chr3	MSU_osa1r6_db	CDS	10186741	10186934	.	-	1	Parent=mRNA:LOC_Os03g18180.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	10189077	10189247	.	-	.	Parent=mRNA:LOC_Os03g18180.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	10186345	10186740	.	-	.	Parent=mRNA:LOC_Os03g18180.1
+Chr3	Protein-DB	peptide_p	10187061	10187105	.	?	.	Parent=mRNA:LOC_Os03g18180.1:P999_14758
+Chr3	Protein-DB	peptide_p	10186619	10186675	.	?	.	Parent=mRNA:LOC_Os03g18180.1:P999_14759
+Chr3	Protein-DB	peptide_p	10186903	10186920	.	?	.	Parent=mRNA:LOC_Os03g18180.1:P999_14763
+Chr3	Protein-DB	peptide_p	10188724	10188765	.	?	.	Parent=mRNA:LOC_Os03g18180.1:P999_14764

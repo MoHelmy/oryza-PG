@@ -1,0 +1,10 @@
+Chr3	MSU_osa1r6_db	gene	14544403	14546617	.	+	.	ID=Gene:LOC_Os03g25450;Note=h%2FACA+ribonucleoprotein+complex+subunit+4%2C+putative%2C+expressed;Alias=13103.t02271
+Chr3	MSU_osa1r6_db	processed_transcript	14544403	14546617	.	+	.	ID=mRNA:LOC_Os03g25450.1;Note=13103.m03002;Gene=LOC_Os03g25450
+Chr3	MSU_osa1r6_db	CDS	14544481	14546256	.	+	0	Parent=mRNA:LOC_Os03g25450.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	14544403	14544480	.	+	.	Parent=mRNA:LOC_Os03g25450.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	14546257	14546617	.	+	.	Parent=mRNA:LOC_Os03g25450.1
+Chr3	Protein-DB	peptide_p	14545286	14545345	.	?	.	Parent=mRNA:LOC_Os03g25450.1:P999_15797
+Chr3	Protein-DB	peptide_p	14545952	14545993	.	?	.	Parent=mRNA:LOC_Os03g25450.1:P999_15798
+Chr3	Protein-DB	peptide_p	14545346	14545384	.	?	.	Parent=mRNA:LOC_Os03g25450.1:P999_15799
+Chr3	Protein-DB	peptide_p	14544731	14544775	.	?	.	Parent=mRNA:LOC_Os03g25450.1:P999_15800
+Chr3	Protein-DB	peptide_p	14544632	14544706	.	?	.	Parent=mRNA:LOC_Os03g25450.1:P999_15802

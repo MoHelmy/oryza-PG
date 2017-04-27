@@ -1,0 +1,13 @@
+Chr5	MSU_osa1r6_db	gene	17951786	17953904	.	+	.	ID=Gene:LOC_Os05g31000;Note=nascent+polypeptide-associated+complex+subunit+alpha%2C+putative%2C+expressed;Alias=13105.t02724
+Chr5	MSU_osa1r6_db	processed_transcript	17951786	17953904	.	+	.	ID=mRNA:LOC_Os05g31000.1;Note=13105.m03182;Gene=LOC_Os05g31000
+Chr5	MSU_osa1r6_db	CDS	17951867	17951938	.	+	0	Parent=mRNA:LOC_Os05g31000.1
+Chr5	MSU_osa1r6_db	CDS	17952333	17952417	.	+	0	Parent=mRNA:LOC_Os05g31000.1
+Chr5	MSU_osa1r6_db	CDS	17952920	17953044	.	+	1	Parent=mRNA:LOC_Os05g31000.1
+Chr5	MSU_osa1r6_db	CDS	17953137	17953472	.	+	0	Parent=mRNA:LOC_Os05g31000.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	17951786	17951866	.	+	.	Parent=mRNA:LOC_Os05g31000.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	17953473	17953904	.	+	.	Parent=mRNA:LOC_Os05g31000.1
+Chr5	Protein-DB	peptide_p	17951871	17951909	.	?	.	Parent=mRNA:LOC_Os05g31000.1:P999_24559
+Chr5	Protein-DB	peptide_p	17953138	17953173	.	?	.	Parent=mRNA:LOC_Os05g31000.1:P999_24561
+Chr5	Protein-DB	peptide_p	17953267	17953362	.	?	.	Parent=mRNA:LOC_Os05g31000.1:P999_24562
+Chr5	Protein-DB	peptide_p	17953174	17953215	.	?	.	Parent=mRNA:LOC_Os05g31000.1:P999_24566
+Chr5	Protein-DB	peptide_p	17953426	17953470	.	?	.	Parent=mRNA:LOC_Os05g31000.1:P999_24567

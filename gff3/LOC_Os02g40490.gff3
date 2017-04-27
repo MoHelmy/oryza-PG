@@ -1,0 +1,9 @@
+Chr2	MSU_osa1r6_db	gene	24554307	24557377	.	+	.	ID=Gene:LOC_Os02g40490;Note=conserved+hypothetical+protein;Alias=13102.t03711
+Chr2	MSU_osa1r6_db	processed_transcript	24554307	24557377	.	+	.	ID=mRNA:LOC_Os02g40490.1;Note=13102.m04513;Gene=LOC_Os02g40490
+Chr2	MSU_osa1r6_db	CDS	24554307	24554424	.	+	0	Parent=mRNA:LOC_Os02g40490.1
+Chr2	MSU_osa1r6_db	CDS	24555372	24555545	.	+	1	Parent=mRNA:LOC_Os02g40490.1
+Chr2	MSU_osa1r6_db	CDS	24556790	24556854	.	+	1	Parent=mRNA:LOC_Os02g40490.1
+Chr2	MSU_osa1r6_db	CDS	24557288	24557377	.	+	0	Parent=mRNA:LOC_Os02g40490.1
+Chr2	Protein-DB	peptide_p	24555453	24555482	.	?	.	Parent=mRNA:LOC_Os02g40490.1:P999_10127
+Chr2	Protein-DB	peptide_p	24556826	24556855	.	?	.	Parent=mRNA:LOC_Os02g40490.1:P999_10128
+Chr2	Protein-DB	peptide_p	24557289	24557318	.	?	.	Parent=mRNA:LOC_Os02g40490.1:P999_10129

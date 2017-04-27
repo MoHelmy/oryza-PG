@@ -1,0 +1,17 @@
+Chr7	MSU_osa1r6_db	gene	1164793	1168606	.	+	.	ID=Gene:LOC_Os07g03070;Note=tetratricopeptide+repeat+containing+protein%2C+putative%2C+expressed;Alias=13107.t00204
+Chr7	MSU_osa1r6_db	processed_transcript	1164793	1168606	.	+	.	ID=mRNA:LOC_Os07g03070.1;Note=13107.m00242;Gene=LOC_Os07g03070
+Chr7	MSU_osa1r6_db	CDS	1164903	1165144	.	+	0	Parent=mRNA:LOC_Os07g03070.1
+Chr7	MSU_osa1r6_db	CDS	1165839	1166074	.	+	2	Parent=mRNA:LOC_Os07g03070.1
+Chr7	MSU_osa1r6_db	CDS	1166808	1167017	.	+	1	Parent=mRNA:LOC_Os07g03070.1
+Chr7	MSU_osa1r6_db	CDS	1167098	1167188	.	+	1	Parent=mRNA:LOC_Os07g03070.1
+Chr7	MSU_osa1r6_db	CDS	1167543	1167780	.	+	2	Parent=mRNA:LOC_Os07g03070.1
+Chr7	MSU_osa1r6_db	CDS	1167970	1168362	.	+	0	Parent=mRNA:LOC_Os07g03070.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	1164793	1164902	.	+	.	Parent=mRNA:LOC_Os07g03070.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	1168363	1168606	.	+	.	Parent=mRNA:LOC_Os07g03070.1
+Chr7	Protein-DB	peptide_p	1167968	1168030	.	?	.	Parent=mRNA:LOC_Os07g03070.1:P999_29978
+Chr7	Protein-DB	peptide_p	1167134	1167154	.	?	.	Parent=mRNA:LOC_Os07g03070.1:P999_29980
+Chr7	Protein-DB	peptide_p	1168226	1168267	.	?	.	Parent=mRNA:LOC_Os07g03070.1:P999_29985
+Chr7	Protein-DB	peptide_p	1167722	1167778	.	?	.	Parent=mRNA:LOC_Os07g03070.1:P999_29988
+Chr7	Protein-DB	peptide_p	1165084	1165131	.	?	.	Parent=mRNA:LOC_Os07g03070.1:P999_29990
+Chr7	Protein-DB	peptide_p	1165916	1165954	.	?	.	Parent=mRNA:LOC_Os07g03070.1:P999_29993
+Chr7	Protein-DB	peptide_p	1166982	1167017	.	?	.	Parent=mRNA:LOC_Os07g03070.1:P999_29994

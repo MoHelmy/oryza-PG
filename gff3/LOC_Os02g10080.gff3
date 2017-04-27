@@ -1,0 +1,15 @@
+Chr2	MSU_osa1r6_db	gene	5250028	5253738	.	+	.	ID=Gene:LOC_Os02g10080;Note=zinc+finger+C-x8-C-x5-C-x3-H+type+family+protein%2C+expressed;Alias=13102.t00865
+Chr2	MSU_osa1r6_db	processed_transcript	5250028	5253738	.	+	.	ID=mRNA:LOC_Os02g10080.1;Note=13102.m01114;Gene=LOC_Os02g10080
+Chr2	MSU_osa1r6_db	CDS	5251206	5251275	.	+	0	Parent=mRNA:LOC_Os02g10080.1
+Chr2	MSU_osa1r6_db	CDS	5251858	5251918	.	+	1	Parent=mRNA:LOC_Os02g10080.1
+Chr2	MSU_osa1r6_db	CDS	5252783	5253554	.	+	2	Parent=mRNA:LOC_Os02g10080.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	5250028	5251205	.	+	.	Parent=mRNA:LOC_Os02g10080.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	5253555	5253738	.	+	.	Parent=mRNA:LOC_Os02g10080.1
+Chr2	MSU_osa1r6_db	processed_transcript	5251022	5253737	.	+	.	ID=mRNA:LOC_Os02g10080.2;Note=13102.m01115;Gene=LOC_Os02g10080
+Chr2	MSU_osa1r6_db	CDS	5252859	5253554	.	+	0	Parent=mRNA:LOC_Os02g10080.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	5251022	5251275	.	+	.	Parent=mRNA:LOC_Os02g10080.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	5252783	5252858	.	+	.	Parent=mRNA:LOC_Os02g10080.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	5253555	5253737	.	+	.	Parent=mRNA:LOC_Os02g10080.2
+Chr2	Protein-DB	peptide_p	5253301	5253336	.	?	.	Parent=mRNA:LOC_Os02g10080.1:P999_7908
+Chr2	Protein-DB	peptide_p	5251858	5251893	.	?	.	Parent=mRNA:LOC_Os02g10080.1:P999_7909
+Chr2	Protein-DB	peptide_p	5253175	5253216	.	?	.	Parent=mRNA:LOC_Os02g10080.1:P999_7910

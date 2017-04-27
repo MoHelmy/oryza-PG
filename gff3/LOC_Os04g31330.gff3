@@ -1,0 +1,5 @@
+Chr4	MSU_osa1r6_db	gene	18568630	18571373	.	+	.	ID=Gene:LOC_Os04g31330;Note=exo70+exocyst+complex+subunit+domain+containing+protein%2C+expressed;Alias=13104.t02797
+Chr4	MSU_osa1r6_db	processed_transcript	18568630	18571373	.	+	.	ID=mRNA:LOC_Os04g31330.1;Note=13104.m02994;Gene=LOC_Os04g31330
+Chr4	MSU_osa1r6_db	CDS	18568776	18570842	.	+	0	Parent=mRNA:LOC_Os04g31330.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	18568630	18568775	.	+	.	Parent=mRNA:LOC_Os04g31330.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	18570843	18571373	.	+	.	Parent=mRNA:LOC_Os04g31330.1

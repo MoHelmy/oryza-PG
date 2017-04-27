@@ -1,0 +1,4 @@
+Chr10	MSU_osa1r6_db	gene	938291	939377	.	-	.	ID=Gene:LOC_Os10g02509;Note=GAGA-binding+protein%2C+putative;Alias=13110.t00143
+Chr10	MSU_osa1r6_db	processed_transcript	938291	939377	.	-	.	ID=mRNA:LOC_Os10g02509.1;Note=13110.m19360;Gene=LOC_Os10g02509
+Chr10	MSU_osa1r6_db	CDS	938356	939377	.	-	0	Parent=mRNA:LOC_Os10g02509.1
+Chr10	MSU_osa1r6_db	CDS	938291	938303	.	-	2	Parent=mRNA:LOC_Os10g02509.1

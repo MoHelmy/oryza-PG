@@ -1,0 +1,14 @@
+Chr2	MSU_osa1r6_db	gene	4384185	4388039	.	+	.	ID=Gene:LOC_Os02g08260;Note=HD+domain+containing+protein+2%2C+putative%2C+expressed;Alias=13102.t00734
+Chr2	MSU_osa1r6_db	processed_transcript	4384185	4388039	.	+	.	ID=mRNA:LOC_Os02g08260.1;Note=13102.m00952;Gene=LOC_Os02g08260
+Chr2	MSU_osa1r6_db	CDS	4384246	4384434	.	+	0	Parent=mRNA:LOC_Os02g08260.1
+Chr2	MSU_osa1r6_db	CDS	4384531	4384658	.	+	0	Parent=mRNA:LOC_Os02g08260.1
+Chr2	MSU_osa1r6_db	CDS	4384741	4384778	.	+	2	Parent=mRNA:LOC_Os02g08260.1
+Chr2	MSU_osa1r6_db	CDS	4385248	4385358	.	+	1	Parent=mRNA:LOC_Os02g08260.1
+Chr2	MSU_osa1r6_db	CDS	4386266	4386345	.	+	1	Parent=mRNA:LOC_Os02g08260.1
+Chr2	MSU_osa1r6_db	CDS	4386910	4386946	.	+	0	Parent=mRNA:LOC_Os02g08260.1
+Chr2	MSU_osa1r6_db	CDS	4387230	4387271	.	+	1	Parent=mRNA:LOC_Os02g08260.1
+Chr2	MSU_osa1r6_db	CDS	4387555	4387616	.	+	1	Parent=mRNA:LOC_Os02g08260.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	4384185	4384245	.	+	.	Parent=mRNA:LOC_Os02g08260.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	4387617	4388039	.	+	.	Parent=mRNA:LOC_Os02g08260.1
+Chr2	Protein-DB	peptide_p	4387230	4387277	.	?	.	Parent=mRNA:LOC_Os02g08260.1:P999_7745
+Chr2	Protein-DB	peptide_p	4384604	4384654	.	?	.	Parent=mRNA:LOC_Os02g08260.1:P999_7746

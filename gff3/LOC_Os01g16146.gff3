@@ -1,0 +1,13 @@
+Chr1	MSU_osa1r6_db	gene	9113577	9116425	.	-	.	ID=Gene:LOC_Os01g16146;Note=phenazine+biosynthesis+protein%2C+putative%2C+expressed;Alias=13101.t01460
+Chr1	MSU_osa1r6_db	processed_transcript	9113577	9116425	.	-	.	ID=mRNA:LOC_Os01g16146.1;Note=13101.m01794;Gene=LOC_Os01g16146
+Chr1	MSU_osa1r6_db	CDS	9116315	9116344	.	-	0	Parent=mRNA:LOC_Os01g16146.1
+Chr1	MSU_osa1r6_db	CDS	9115992	9116216	.	-	0	Parent=mRNA:LOC_Os01g16146.1
+Chr1	MSU_osa1r6_db	CDS	9115584	9115904	.	-	0	Parent=mRNA:LOC_Os01g16146.1
+Chr1	MSU_osa1r6_db	CDS	9114831	9114992	.	-	0	Parent=mRNA:LOC_Os01g16146.1
+Chr1	MSU_osa1r6_db	CDS	9113952	9114035	.	-	0	Parent=mRNA:LOC_Os01g16146.1
+Chr1	MSU_osa1r6_db	CDS	9113728	9113835	.	-	0	Parent=mRNA:LOC_Os01g16146.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	9116345	9116425	.	-	.	Parent=mRNA:LOC_Os01g16146.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	9113577	9113727	.	-	.	Parent=mRNA:LOC_Os01g16146.1
+Chr1	Protein-DB	peptide_p	9115965	9116021	.	?	.	Parent=mRNA:LOC_Os01g16146.1:P999_1365
+Chr1	Protein-DB	peptide_p	9115086	9115142	.	?	.	Parent=mRNA:LOC_Os01g16146.1:P999_1366
+Chr1	Protein-DB	peptide_p	9114396	9114422	.	?	.	Parent=mRNA:LOC_Os01g16146.1:P999_1372

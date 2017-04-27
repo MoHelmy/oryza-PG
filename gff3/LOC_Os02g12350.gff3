@@ -1,0 +1,12 @@
+Chr2	MSU_osa1r6_db	gene	6424555	6430620	.	-	.	ID=Gene:LOC_Os02g12350;Note=histone+deacetylase%2C+putative%2C+expressed;Alias=13102.t01042
+Chr2	MSU_osa1r6_db	processed_transcript	6424555	6430620	.	-	.	ID=mRNA:LOC_Os02g12350.1;Note=13102.m01336;Gene=LOC_Os02g12350
+Chr2	MSU_osa1r6_db	CDS	6429937	6430491	.	-	0	Parent=mRNA:LOC_Os02g12350.1
+Chr2	MSU_osa1r6_db	CDS	6428410	6428850	.	-	0	Parent=mRNA:LOC_Os02g12350.1
+Chr2	MSU_osa1r6_db	CDS	6427340	6427570	.	-	0	Parent=mRNA:LOC_Os02g12350.1
+Chr2	MSU_osa1r6_db	CDS	6427139	6427230	.	-	0	Parent=mRNA:LOC_Os02g12350.1
+Chr2	MSU_osa1r6_db	CDS	6426996	6427056	.	-	2	Parent=mRNA:LOC_Os02g12350.1
+Chr2	MSU_osa1r6_db	CDS	6425202	6425279	.	-	0	Parent=mRNA:LOC_Os02g12350.1
+Chr2	MSU_osa1r6_db	CDS	6424945	6425019	.	-	0	Parent=mRNA:LOC_Os02g12350.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	6430492	6430620	.	-	.	Parent=mRNA:LOC_Os02g12350.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	6424555	6424944	.	-	.	Parent=mRNA:LOC_Os02g12350.1
+Chr2	Protein-DB	peptide_p	6426689	6426739	.	?	.	Parent=mRNA:LOC_Os02g12350.1:P999_8117

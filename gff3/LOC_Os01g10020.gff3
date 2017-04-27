@@ -1,0 +1,8 @@
+Chr1	MSU_osa1r6_db	gene	5217542	5219398	.	+	.	ID=Gene:LOC_Os01g10020;Note=ectonucleotide+pyrophosphatase%2Fphosphodiesterase+family+member+1%2C+putative%2C+expressed;Alias=13101.t00877
+Chr1	MSU_osa1r6_db	processed_transcript	5217542	5219398	.	+	.	ID=mRNA:LOC_Os01g10020.1;Note=13101.m01072;Gene=LOC_Os01g10020
+Chr1	MSU_osa1r6_db	CDS	5217633	5219072	.	+	0	Parent=mRNA:LOC_Os01g10020.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	5217542	5217632	.	+	.	Parent=mRNA:LOC_Os01g10020.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	5219073	5219398	.	+	.	Parent=mRNA:LOC_Os01g10020.1
+Chr1	Protein-DB	peptide_p	5218474	5218497	.	?	.	Parent=mRNA:LOC_Os01g10020.1:P999_965
+Chr1	Protein-DB	peptide_p	5218717	5218740	.	?	.	Parent=mRNA:LOC_Os01g10020.1:P999_966
+Chr1	Protein-DB	peptide_p	5218909	5218935	.	?	.	Parent=mRNA:LOC_Os01g10020.1:P999_967

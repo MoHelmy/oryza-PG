@@ -1,0 +1,8 @@
+Chr6	MSU_osa1r6_db	gene	29155427	29156885	.	-	.	ID=Gene:LOC_Os06g48200;Note=glycosyl+hydrolases+family+16%2C+putative%2C+expressed;Alias=13106.t04487
+Chr6	MSU_osa1r6_db	processed_transcript	29155427	29156885	.	-	.	ID=mRNA:LOC_Os06g48200.1;Note=13106.m05124;Gene=LOC_Os06g48200
+Chr6	MSU_osa1r6_db	CDS	29156504	29156758	.	-	0	Parent=mRNA:LOC_Os06g48200.1
+Chr6	MSU_osa1r6_db	CDS	29156235	29156428	.	-	0	Parent=mRNA:LOC_Os06g48200.1
+Chr6	MSU_osa1r6_db	CDS	29155721	29156144	.	-	2	Parent=mRNA:LOC_Os06g48200.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	29156759	29156885	.	-	.	Parent=mRNA:LOC_Os06g48200.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	29155427	29155720	.	-	.	Parent=mRNA:LOC_Os06g48200.1
+Chr6	Protein-DB	peptide_p	29155660	29155701	.	?	.	Parent=mRNA:LOC_Os06g48200.1:P999_29434

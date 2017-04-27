@@ -1,0 +1,11 @@
+Chr1	MSU_osa1r6_db	gene	6698462	6702371	.	-	.	ID=Gene:LOC_Os01g12260;Note=vacuolar+ATP+synthase+subunit+E%2C+putative%2C+expressed;Alias=13101.t01087
+Chr1	MSU_osa1r6_db	processed_transcript	6698462	6702371	.	-	.	ID=mRNA:LOC_Os01g12260.1;Note=13101.m01320;Gene=LOC_Os01g12260
+Chr1	MSU_osa1r6_db	CDS	6702147	6702251	.	-	0	Parent=mRNA:LOC_Os01g12260.1
+Chr1	MSU_osa1r6_db	CDS	6701422	6701522	.	-	0	Parent=mRNA:LOC_Os01g12260.1
+Chr1	MSU_osa1r6_db	CDS	6701032	6701188	.	-	2	Parent=mRNA:LOC_Os01g12260.1
+Chr1	MSU_osa1r6_db	CDS	6700052	6700248	.	-	0	Parent=mRNA:LOC_Os01g12260.1
+Chr1	MSU_osa1r6_db	CDS	6699219	6699318	.	-	2	Parent=mRNA:LOC_Os01g12260.1
+Chr1	MSU_osa1r6_db	CDS	6698981	6699016	.	-	0	Parent=mRNA:LOC_Os01g12260.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	6702252	6702371	.	-	.	Parent=mRNA:LOC_Os01g12260.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	6698462	6698980	.	-	.	Parent=mRNA:LOC_Os01g12260.1
+Chr1	Protein-DB	peptide_p	6701553	6701582	.	?	.	Parent=mRNA:LOC_Os01g12260.1:P999_1078

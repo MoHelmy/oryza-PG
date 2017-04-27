@@ -1,0 +1,8 @@
+Chr11	MSU_osa1r6_db	gene	2073422	2075952	.	+	.	ID=Gene:LOC_Os11g04890;Note=ASH-like+SPRY+domain+containing+protein%2C+putative%2C+expressed;Alias=13111.t00385
+Chr11	MSU_osa1r6_db	processed_transcript	2073422	2075952	.	+	.	ID=mRNA:LOC_Os11g04890.1;Note=13111.m00451;Gene=LOC_Os11g04890
+Chr11	MSU_osa1r6_db	CDS	2073422	2074155	.	+	0	Parent=mRNA:LOC_Os11g04890.1
+Chr11	MSU_osa1r6_db	CDS	2074454	2074514	.	+	2	Parent=mRNA:LOC_Os11g04890.1
+Chr11	MSU_osa1r6_db	CDS	2074654	2074773	.	+	0	Parent=mRNA:LOC_Os11g04890.1
+Chr11	MSU_osa1r6_db	CDS	2075041	2075206	.	+	0	Parent=mRNA:LOC_Os11g04890.1
+Chr11	MSU_osa1r6_db	CDS	2075323	2075729	.	+	1	Parent=mRNA:LOC_Os11g04890.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	2075730	2075952	.	+	.	Parent=mRNA:LOC_Os11g04890.1

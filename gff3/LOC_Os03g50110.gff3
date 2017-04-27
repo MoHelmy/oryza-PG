@@ -1,0 +1,6 @@
+Chr3	MSU_osa1r6_db	gene	28578299	28579768	.	-	.	ID=Gene:LOC_Os03g50110;Note=transcription+regulator%2C+putative%2C+expressed;Alias=13103.t04366
+Chr3	MSU_osa1r6_db	processed_transcript	28578299	28579768	.	-	.	ID=mRNA:LOC_Os03g50110.1;Note=13103.m05450;Gene=LOC_Os03g50110
+Chr3	MSU_osa1r6_db	CDS	28578549	28579676	.	-	0	Parent=mRNA:LOC_Os03g50110.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	28579677	28579768	.	-	.	Parent=mRNA:LOC_Os03g50110.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	28578299	28578548	.	-	.	Parent=mRNA:LOC_Os03g50110.1
+Chr3	Protein-DB	peptide_p	28579448	28579474	.	?	.	Parent=mRNA:LOC_Os03g50110.1:P999_17353

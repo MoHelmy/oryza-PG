@@ -1,0 +1,8 @@
+Chr2	MSU_osa1r6_db	gene	23106068	23108060	.	+	.	ID=Gene:LOC_Os02g38210;Note=elongation+factor+Tu%2C+putative%2C+expressed;Alias=13102.t03474
+Chr2	MSU_osa1r6_db	processed_transcript	23106068	23108060	.	+	.	ID=mRNA:LOC_Os02g38210.1;Note=13102.m04202;Gene=LOC_Os02g38210
+Chr2	MSU_osa1r6_db	CDS	23106171	23107574	.	+	0	Parent=mRNA:LOC_Os02g38210.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	23106068	23106170	.	+	.	Parent=mRNA:LOC_Os02g38210.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	23107575	23108060	.	+	.	Parent=mRNA:LOC_Os02g38210.1
+Chr2	Protein-DB	peptide_p	23107168	23107215	.	?	.	Parent=mRNA:LOC_Os02g38210.1:P999_9782
+Chr2	Protein-DB	peptide_p	23107090	23107122	.	?	.	Parent=mRNA:LOC_Os02g38210.1:P999_9785
+Chr2	Protein-DB	peptide_p	23107288	23107314	.	?	.	Parent=mRNA:LOC_Os02g38210.1:P999_9788

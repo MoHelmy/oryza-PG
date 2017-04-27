@@ -1,0 +1,12 @@
+Chr4	MSU_osa1r6_db	gene	9332046	9340559	.	+	.	ID=Gene:LOC_Os04g17050;Note=glutaredoxin+family+protein%2C+expressed;Alias=13104.t01446
+Chr4	MSU_osa1r6_db	processed_transcript	9332046	9340559	.	+	.	ID=mRNA:LOC_Os04g17050.1;Note=13104.m01545;Gene=LOC_Os04g17050
+Chr4	MSU_osa1r6_db	CDS	9332235	9332559	.	+	0	Parent=mRNA:LOC_Os04g17050.1
+Chr4	MSU_osa1r6_db	CDS	9336303	9336437	.	+	1	Parent=mRNA:LOC_Os04g17050.1
+Chr4	MSU_osa1r6_db	CDS	9336569	9336644	.	+	1	Parent=mRNA:LOC_Os04g17050.1
+Chr4	MSU_osa1r6_db	CDS	9337525	9337619	.	+	2	Parent=mRNA:LOC_Os04g17050.1
+Chr4	MSU_osa1r6_db	CDS	9339712	9339879	.	+	1	Parent=mRNA:LOC_Os04g17050.1
+Chr4	MSU_osa1r6_db	CDS	9339993	9340153	.	+	1	Parent=mRNA:LOC_Os04g17050.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	9332046	9332234	.	+	.	Parent=mRNA:LOC_Os04g17050.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	9340154	9340559	.	+	.	Parent=mRNA:LOC_Os04g17050.1
+Chr4	Protein-DB	peptide_p	9339820	9339870	.	?	.	Parent=mRNA:LOC_Os04g17050.1:P999_20033
+Chr4	Protein-DB	peptide_p	9336336	9336362	.	?	.	Parent=mRNA:LOC_Os04g17050.1:P999_20034

@@ -1,0 +1,14 @@
+Chr6	MSU_osa1r6_db	gene	4007140	4012540	.	+	.	ID=Gene:LOC_Os06g08280;Note=protein+kinase+domain+containing+protein%2C+expressed;Alias=13106.t00708
+Chr6	MSU_osa1r6_db	processed_transcript	4007140	4012540	.	+	.	ID=mRNA:LOC_Os06g08280.1;Note=13106.m00863;Gene=LOC_Os06g08280
+Chr6	MSU_osa1r6_db	CDS	4007440	4010182	.	+	0	Parent=mRNA:LOC_Os06g08280.1
+Chr6	MSU_osa1r6_db	CDS	4010307	4010458	.	+	1	Parent=mRNA:LOC_Os06g08280.1
+Chr6	MSU_osa1r6_db	CDS	4010542	4010613	.	+	0	Parent=mRNA:LOC_Os06g08280.1
+Chr6	MSU_osa1r6_db	CDS	4010707	4010859	.	+	0	Parent=mRNA:LOC_Os06g08280.1
+Chr6	MSU_osa1r6_db	CDS	4010935	4011098	.	+	0	Parent=mRNA:LOC_Os06g08280.1
+Chr6	MSU_osa1r6_db	CDS	4011176	4011323	.	+	2	Parent=mRNA:LOC_Os06g08280.1
+Chr6	MSU_osa1r6_db	CDS	4011716	4011838	.	+	0	Parent=mRNA:LOC_Os06g08280.1
+Chr6	MSU_osa1r6_db	CDS	4011960	4012047	.	+	0	Parent=mRNA:LOC_Os06g08280.1
+Chr6	MSU_osa1r6_db	CDS	4012137	4012315	.	+	1	Parent=mRNA:LOC_Os06g08280.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	4007140	4007439	.	+	.	Parent=mRNA:LOC_Os06g08280.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	4012316	4012540	.	+	.	Parent=mRNA:LOC_Os06g08280.1
+Chr6	cDNA-DB	peptide_c	4007456	4007500	.	?	.	Parent=mRNA:LOC_Os06g08280.1:PC23

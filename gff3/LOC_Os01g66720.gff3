@@ -1,0 +1,10 @@
+Chr1	MSU_osa1r6_db	gene	38751568	38753927	.	+	.	ID=Gene:LOC_Os01g66720;Note=NADP-dependent+oxidoreductase%2C+putative%2C+expressed;Alias=13101.t05955
+Chr1	MSU_osa1r6_db	processed_transcript	38751568	38753927	.	+	.	ID=mRNA:LOC_Os01g66720.1;Note=13101.m07221;Gene=LOC_Os01g66720
+Chr1	MSU_osa1r6_db	CDS	38751638	38751892	.	+	0	Parent=mRNA:LOC_Os01g66720.1
+Chr1	MSU_osa1r6_db	CDS	38752001	38752178	.	+	0	Parent=mRNA:LOC_Os01g66720.1
+Chr1	MSU_osa1r6_db	CDS	38752814	38752980	.	+	1	Parent=mRNA:LOC_Os01g66720.1
+Chr1	MSU_osa1r6_db	CDS	38753056	38753138	.	+	0	Parent=mRNA:LOC_Os01g66720.1
+Chr1	MSU_osa1r6_db	CDS	38753416	38753812	.	+	2	Parent=mRNA:LOC_Os01g66720.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	38751568	38751637	.	+	.	Parent=mRNA:LOC_Os01g66720.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	38753813	38753927	.	+	.	Parent=mRNA:LOC_Os01g66720.1
+Chr1	Protein-DB	peptide_p	38751765	38751806	.	?	.	Parent=mRNA:LOC_Os01g66720.1:P999_5208

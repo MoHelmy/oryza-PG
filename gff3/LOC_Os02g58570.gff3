@@ -1,0 +1,7 @@
+Chr2	MSU_osa1r6_db	gene	35798720	35800672	.	+	.	ID=Gene:LOC_Os02g58570;Note=PRLI-interacting+factor+A%2C+putative%2C+expressed;Alias=13102.t05485
+Chr2	MSU_osa1r6_db	processed_transcript	35798720	35800672	.	+	.	ID=mRNA:LOC_Os02g58570.1;Note=13102.m06783;Gene=LOC_Os02g58570
+Chr2	MSU_osa1r6_db	CDS	35799226	35800281	.	+	0	Parent=mRNA:LOC_Os02g58570.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	35798720	35799225	.	+	.	Parent=mRNA:LOC_Os02g58570.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	35800282	35800672	.	+	.	Parent=mRNA:LOC_Os02g58570.1
+Chr2	Protein-DB	peptide_p	35800196	35800240	.	?	.	Parent=mRNA:LOC_Os02g58570.1:P999_12560
+Chr2	Protein-DB	peptide_p	35799905	35799931	.	?	.	Parent=mRNA:LOC_Os02g58570.1:P999_12561

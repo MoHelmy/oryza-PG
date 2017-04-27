@@ -1,0 +1,13 @@
+Chr1	MSU_osa1r6_db	gene	38054590	38056799	.	-	.	ID=Gene:LOC_Os01g65560;Note=snRK1-interacting+protein+1%2C+putative%2C+expressed;Alias=13101.t05844
+Chr1	MSU_osa1r6_db	processed_transcript	38054590	38056799	.	-	.	ID=mRNA:LOC_Os01g65560.1;Note=13101.m07085;Gene=LOC_Os01g65560
+Chr1	MSU_osa1r6_db	CDS	38056448	38056737	.	-	0	Parent=mRNA:LOC_Os01g65560.1
+Chr1	MSU_osa1r6_db	CDS	38055805	38055842	.	-	2	Parent=mRNA:LOC_Os01g65560.1
+Chr1	MSU_osa1r6_db	CDS	38055578	38055672	.	-	1	Parent=mRNA:LOC_Os01g65560.1
+Chr1	MSU_osa1r6_db	CDS	38054863	38055006	.	-	0	Parent=mRNA:LOC_Os01g65560.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	38056738	38056799	.	-	.	Parent=mRNA:LOC_Os01g65560.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	38054590	38054862	.	-	.	Parent=mRNA:LOC_Os01g65560.1
+Chr1	Protein-DB	peptide_p	38055717	38055737	.	?	.	Parent=mRNA:LOC_Os01g65560.1:P999_5075
+Chr1	Protein-DB	peptide_p	38056486	38056524	.	?	.	Parent=mRNA:LOC_Os01g65560.1:P999_5076
+Chr1	Protein-DB	peptide_p	38054878	38054901	.	?	.	Parent=mRNA:LOC_Os01g65560.1:P999_5077
+Chr1	Protein-DB	peptide_p	38055786	38055815	.	?	.	Parent=mRNA:LOC_Os01g65560.1:P999_5078
+Chr1	Protein-DB	peptide_p	38056393	38056449	.	?	.	Parent=mRNA:LOC_Os01g65560.1:P999_5082

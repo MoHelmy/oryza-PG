@@ -1,0 +1,7 @@
+Chr12	MSU_osa1r6_db	gene	12777781	12781676	.	+	.	ID=Gene:LOC_Os12g22620;Note=endonuclease%2FExonuclease%2Fphosphatase+family+protein%2C+expressed;Alias=13112.t01996
+Chr12	MSU_osa1r6_db	processed_transcript	12777781	12781676	.	+	.	ID=mRNA:LOC_Os12g22620.1;Note=13112.m02299;Gene=LOC_Os12g22620
+Chr12	MSU_osa1r6_db	CDS	12777781	12778432	.	+	0	Parent=mRNA:LOC_Os12g22620.1
+Chr12	MSU_osa1r6_db	CDS	12779623	12779768	.	+	1	Parent=mRNA:LOC_Os12g22620.1
+Chr12	MSU_osa1r6_db	CDS	12779840	12779950	.	+	0	Parent=mRNA:LOC_Os12g22620.1
+Chr12	MSU_osa1r6_db	CDS	12780869	12781456	.	+	0	Parent=mRNA:LOC_Os12g22620.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	12781457	12781676	.	+	.	Parent=mRNA:LOC_Os12g22620.1

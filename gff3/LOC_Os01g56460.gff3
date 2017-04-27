@@ -1,0 +1,10 @@
+Chr1	MSU_osa1r6_db	gene	32537855	32540573	.	-	.	ID=Gene:LOC_Os01g56460;Note=mitochondrial+glycoprotein%2C+putative%2C+expressed;Alias=13101.t04978
+Chr1	MSU_osa1r6_db	processed_transcript	32537855	32540573	.	-	.	ID=mRNA:LOC_Os01g56460.1;Note=13101.m05974;Gene=LOC_Os01g56460
+Chr1	MSU_osa1r6_db	CDS	32539987	32540546	.	-	0	Parent=mRNA:LOC_Os01g56460.1
+Chr1	MSU_osa1r6_db	CDS	32538603	32538774	.	-	2	Parent=mRNA:LOC_Os01g56460.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	32540547	32540573	.	-	.	Parent=mRNA:LOC_Os01g56460.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	32538602	32538602	.	-	.	Parent=mRNA:LOC_Os01g56460.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	32537855	32538360	.	-	.	Parent=mRNA:LOC_Os01g56460.1
+Chr1	Protein-DB	peptide_p	32538009	32538041	.	?	.	Parent=mRNA:LOC_Os01g56460.1:P999_4434
+Chr1	Protein-DB	peptide_p	32538093	32538128	.	?	.	Parent=mRNA:LOC_Os01g56460.1:P999_4435
+Chr1	Protein-DB	peptide_p	32539647	32539676	.	?	.	Parent=mRNA:LOC_Os01g56460.1:P999_4438

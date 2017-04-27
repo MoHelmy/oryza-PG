@@ -1,0 +1,8 @@
+Chr2	MSU_osa1r6_db	gene	633642	635608	.	+	.	ID=Gene:LOC_Os02g02130;Note=ribosomal+protein+L37%2C+putative;Alias=13102.t00117
+Chr2	MSU_osa1r6_db	processed_transcript	633642	635608	.	+	.	ID=mRNA:LOC_Os02g02130.1;Note=13102.m00147;Gene=LOC_Os02g02130
+Chr2	MSU_osa1r6_db	CDS	633642	633644	.	+	0	Parent=mRNA:LOC_Os02g02130.1
+Chr2	MSU_osa1r6_db	CDS	633728	633863	.	+	0	Parent=mRNA:LOC_Os02g02130.1
+Chr2	MSU_osa1r6_db	CDS	635356	635457	.	+	1	Parent=mRNA:LOC_Os02g02130.1
+Chr2	MSU_osa1r6_db	CDS	635565	635608	.	+	1	Parent=mRNA:LOC_Os02g02130.1
+Chr2	Protein-DB	peptide_p	635565	635585	.	?	.	Parent=mRNA:LOC_Os02g02130.1:P999_6607
+Chr2	Protein-DB	peptide_p	633819	633854	.	?	.	Parent=mRNA:LOC_Os02g02130.1:P999_6615

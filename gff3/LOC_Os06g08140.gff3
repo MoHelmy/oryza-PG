@@ -1,0 +1,8 @@
+Chr6	MSU_osa1r6_db	gene	3946927	3951252	.	-	.	ID=Gene:LOC_Os06g08140;Note=protein+phosphatase+2C%2C+putative%2C+expressed;Alias=13106.t00696
+Chr6	MSU_osa1r6_db	processed_transcript	3946927	3951252	.	-	.	ID=mRNA:LOC_Os06g08140.1;Note=13106.m00851;Gene=LOC_Os06g08140
+Chr6	MSU_osa1r6_db	CDS	3950853	3950969	.	-	0	Parent=mRNA:LOC_Os06g08140.1
+Chr6	MSU_osa1r6_db	CDS	3949068	3949268	.	-	0	Parent=mRNA:LOC_Os06g08140.1
+Chr6	MSU_osa1r6_db	CDS	3948270	3948466	.	-	0	Parent=mRNA:LOC_Os06g08140.1
+Chr6	MSU_osa1r6_db	CDS	3947308	3947875	.	-	2	Parent=mRNA:LOC_Os06g08140.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	3950970	3951252	.	-	.	Parent=mRNA:LOC_Os06g08140.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	3946927	3947307	.	-	.	Parent=mRNA:LOC_Os06g08140.1

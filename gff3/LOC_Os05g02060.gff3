@@ -1,0 +1,12 @@
+Chr5	MSU_osa1r6_db	gene	600302	603321	.	+	.	ID=Gene:LOC_Os05g02060;Note=mitochondrial+import+inner+membrane+translocase+subunit+Tim17%2C+putative%2C+expressed;Alias=13105.t00106
+Chr5	MSU_osa1r6_db	processed_transcript	600302	603321	.	+	.	ID=mRNA:LOC_Os05g02060.1;Note=13105.m00159;Gene=LOC_Os05g02060
+Chr5	MSU_osa1r6_db	CDS	600422	600535	.	+	0	Parent=mRNA:LOC_Os05g02060.1
+Chr5	MSU_osa1r6_db	CDS	600630	600681	.	+	0	Parent=mRNA:LOC_Os05g02060.1
+Chr5	MSU_osa1r6_db	CDS	601371	601402	.	+	1	Parent=mRNA:LOC_Os05g02060.1
+Chr5	MSU_osa1r6_db	CDS	601855	601888	.	+	0	Parent=mRNA:LOC_Os05g02060.1
+Chr5	MSU_osa1r6_db	CDS	602025	602092	.	+	1	Parent=mRNA:LOC_Os05g02060.1
+Chr5	MSU_osa1r6_db	CDS	602872	603012	.	+	0	Parent=mRNA:LOC_Os05g02060.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	600302	600421	.	+	.	Parent=mRNA:LOC_Os05g02060.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	603013	603321	.	+	.	Parent=mRNA:LOC_Os05g02060.1
+Chr5	Protein-DB	peptide_p	602876	602938	.	?	.	Parent=mRNA:LOC_Os05g02060.1:P999_22689
+Chr5	Protein-DB	peptide_p	600465	600506	.	?	.	Parent=mRNA:LOC_Os05g02060.1:P999_22690

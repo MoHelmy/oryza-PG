@@ -1,0 +1,11 @@
+Chr1	MSU_osa1r6_db	gene	42002888	42008742	.	-	.	ID=Gene:LOC_Os01g72430;Note=NADPH+quinone+oxidoreductase%2C+putative%2C+expressed;Alias=13101.t06461
+Chr1	MSU_osa1r6_db	processed_transcript	42002888	42008742	.	-	.	ID=mRNA:LOC_Os01g72430.1;Note=13101.m07893;Gene=LOC_Os01g72430
+Chr1	MSU_osa1r6_db	CDS	42008518	42008611	.	-	0	Parent=mRNA:LOC_Os01g72430.1
+Chr1	MSU_osa1r6_db	CDS	42008202	42008396	.	-	1	Parent=mRNA:LOC_Os01g72430.1
+Chr1	MSU_osa1r6_db	CDS	42006119	42006423	.	-	1	Parent=mRNA:LOC_Os01g72430.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	42008612	42008742	.	-	.	Parent=mRNA:LOC_Os01g72430.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	42004497	42006118	.	-	.	Parent=mRNA:LOC_Os01g72430.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	42002888	42003632	.	-	.	Parent=mRNA:LOC_Os01g72430.1
+Chr1	Protein-DB	peptide_p	42003053	42003079	.	?	.	Parent=mRNA:LOC_Os01g72430.1:P999_6066
+Chr1	Protein-DB	peptide_p	42005408	42005446	.	?	.	Parent=mRNA:LOC_Os01g72430.1:P999_6067
+Chr1	Protein-DB	peptide_p	42005459	42005494	.	?	.	Parent=mRNA:LOC_Os01g72430.1:P999_6069

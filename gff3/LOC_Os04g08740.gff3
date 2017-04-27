@@ -1,0 +1,16 @@
+Chr4	MSU_osa1r6_db	gene	4733814	4737787	.	+	.	ID=Gene:LOC_Os04g08740;Note=ethylene+receptor%2C+putative%2C+expressed;Alias=13104.t00737
+Chr4	MSU_osa1r6_db	processed_transcript	4733814	4737787	.	+	.	ID=mRNA:LOC_Os04g08740.1;Note=13104.m00795;Gene=LOC_Os04g08740
+Chr4	MSU_osa1r6_db	CDS	4734646	4736409	.	+	0	Parent=mRNA:LOC_Os04g08740.1
+Chr4	MSU_osa1r6_db	CDS	4736780	4737307	.	+	0	Parent=mRNA:LOC_Os04g08740.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	4733814	4734272	.	+	.	Parent=mRNA:LOC_Os04g08740.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	4734496	4734645	.	+	.	Parent=mRNA:LOC_Os04g08740.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	4737308	4737787	.	+	.	Parent=mRNA:LOC_Os04g08740.1
+Chr4	MSU_osa1r6_db	processed_transcript	4734324	4737787	.	+	.	ID=mRNA:LOC_Os04g08740.2;Note=13104.m00796;Gene=LOC_Os04g08740
+Chr4	MSU_osa1r6_db	CDS	4734646	4736409	.	+	0	Parent=mRNA:LOC_Os04g08740.2
+Chr4	MSU_osa1r6_db	CDS	4736780	4737307	.	+	0	Parent=mRNA:LOC_Os04g08740.2
+Chr4	MSU_osa1r6_db	five_prime_UTR	4734324	4734645	.	+	.	Parent=mRNA:LOC_Os04g08740.2
+Chr4	MSU_osa1r6_db	three_prime_UTR	4737308	4737787	.	+	.	Parent=mRNA:LOC_Os04g08740.2
+Chr4	MSU_osa1r6_db	processed_transcript	4733814	4736670	.	+	.	ID=mRNA:LOC_Os04g08740.3;Note=13104.m00797;Gene=LOC_Os04g08740
+Chr4	MSU_osa1r6_db	CDS	4734646	4736658	.	+	0	Parent=mRNA:LOC_Os04g08740.3
+Chr4	MSU_osa1r6_db	five_prime_UTR	4733814	4734645	.	+	.	Parent=mRNA:LOC_Os04g08740.3
+Chr4	MSU_osa1r6_db	three_prime_UTR	4736659	4736670	.	+	.	Parent=mRNA:LOC_Os04g08740.3

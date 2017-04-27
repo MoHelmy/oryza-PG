@@ -1,0 +1,13 @@
+Chr5	MSU_osa1r6_db	gene	19975324	19977132	.	+	.	ID=Gene:LOC_Os05g33940;Note=alpha%2Fbeta+hydrolase+fold%2C+putative%2C+expressed;Alias=13105.t03016
+Chr5	MSU_osa1r6_db	processed_transcript	19975324	19977132	.	+	.	ID=mRNA:LOC_Os05g33940.1;Note=13105.m03524;Gene=LOC_Os05g33940
+Chr5	MSU_osa1r6_db	CDS	19975616	19976704	.	+	0	Parent=mRNA:LOC_Os05g33940.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	19975324	19975615	.	+	.	Parent=mRNA:LOC_Os05g33940.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	19976705	19977132	.	+	.	Parent=mRNA:LOC_Os05g33940.1
+Chr5	Protein-DB	peptide_p	19976100	19976156	.	?	.	Parent=mRNA:LOC_Os05g33940.1:P999_24832
+Chr5	Protein-DB	peptide_p	19975701	19975730	.	?	.	Parent=mRNA:LOC_Os05g33940.1:P999_24834
+Chr5	Protein-DB	peptide_p	19976235	19976273	.	?	.	Parent=mRNA:LOC_Os05g33940.1:P999_24835
+Chr5	Protein-DB	peptide_p	19976523	19976555	.	?	.	Parent=mRNA:LOC_Os05g33940.1:P999_24842
+Chr5	Protein-DB	peptide_p	19976568	19976591	.	?	.	Parent=mRNA:LOC_Os05g33940.1:P999_24843
+Chr5	Protein-DB	peptide_p	19975869	19975901	.	?	.	Parent=mRNA:LOC_Os05g33940.1:P999_24844
+Chr5	Protein-DB	peptide_p	19975731	19975757	.	?	.	Parent=mRNA:LOC_Os05g33940.1:P999_24846
+Chr5	Protein-DB	peptide_p	19976049	19976090	.	?	.	Parent=mRNA:LOC_Os05g33940.1:P999_24852

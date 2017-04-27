@@ -1,0 +1,8 @@
+Chr5	MSU_osa1r6_db	gene	2520727	2521599	.	+	.	ID=Gene:LOC_Os05g05170;Note=jacalin-like+lectin+domain+containing+protein%2C+expressed;Alias=13105.t00411
+Chr5	MSU_osa1r6_db	processed_transcript	2520727	2521599	.	+	.	ID=mRNA:LOC_Os05g05170.1;Note=13105.m00532;Gene=LOC_Os05g05170
+Chr5	MSU_osa1r6_db	CDS	2520807	2521265	.	+	0	Parent=mRNA:LOC_Os05g05170.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	2520727	2520806	.	+	.	Parent=mRNA:LOC_Os05g05170.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	2521266	2521599	.	+	.	Parent=mRNA:LOC_Os05g05170.1
+Chr5	Protein-DB	peptide_p	2521222	2521263	.	?	.	Parent=mRNA:LOC_Os05g05170.1:P999_22895
+Chr5	Protein-DB	peptide_p	2520859	2520897	.	?	.	Parent=mRNA:LOC_Os05g05170.1:P999_22896
+Chr5	Protein-DB	peptide_p	2521045	2521101	.	?	.	Parent=mRNA:LOC_Os05g05170.1:P999_22897

@@ -1,0 +1,15 @@
+Chr1	MSU_osa1r6_db	gene	36028742	36029926	.	-	.	ID=Gene:LOC_Os01g62260;Note=thaumatin%2C+putative%2C+expressed;Alias=13101.t05526
+Chr1	MSU_osa1r6_db	processed_transcript	36028742	36029926	.	-	.	ID=mRNA:LOC_Os01g62260.1;Note=13101.m06662;Gene=LOC_Os01g62260
+Chr1	MSU_osa1r6_db	CDS	36029051	36029794	.	-	0	Parent=mRNA:LOC_Os01g62260.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	36029795	36029926	.	-	.	Parent=mRNA:LOC_Os01g62260.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	36028742	36029050	.	-	.	Parent=mRNA:LOC_Os01g62260.1
+Chr1	Protein-DB	peptide_p	36029118	36029177	.	?	.	Parent=mRNA:LOC_Os01g62260.1:P999_4876
+Chr1	Protein-DB	peptide_p	36029523	36029591	.	?	.	Parent=mRNA:LOC_Os01g62260.1:P999_4877
+Chr1	Protein-DB	peptide_p	36029592	36029615	.	?	.	Parent=mRNA:LOC_Os01g62260.1:P999_4880
+Chr1	Protein-DB	peptide_p	36029493	36029522	.	?	.	Parent=mRNA:LOC_Os01g62260.1:P999_4881
+Chr1	Protein-DB	peptide_p	36029520	36029591	.	?	.	Parent=mRNA:LOC_Os01g62260.1:P999_4886
+Chr1	Protein-DB	peptide_p	36029352	36029390	.	?	.	Parent=mRNA:LOC_Os01g62260.1:P999_4891
+Chr1	Protein-DB	peptide_p	36029421	36029441	.	?	.	Parent=mRNA:LOC_Os01g62260.1:P999_4893
+Chr1	Protein-DB	peptide_p	36029391	36029420	.	?	.	Parent=mRNA:LOC_Os01g62260.1:P999_4901
+Chr1	Protein-DB	peptide_p	36029070	36029105	.	?	.	Parent=mRNA:LOC_Os01g62260.1:P999_4915
+Chr1	Protein-DB	peptide_p	36029421	36029462	.	?	.	Parent=mRNA:LOC_Os01g62260.1:P999_4918

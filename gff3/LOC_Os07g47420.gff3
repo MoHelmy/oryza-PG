@@ -1,0 +1,9 @@
+Chr7	MSU_osa1r6_db	gene	28351546	28353776	.	+	.	ID=Gene:LOC_Os07g47420;Note=60S+ribosome+subunit+biogenesis+protein+NIP7%2C+putative%2C+expressed;Alias=13107.t04373
+Chr7	MSU_osa1r6_db	processed_transcript	28351546	28353776	.	+	.	ID=mRNA:LOC_Os07g47420.1;Note=13107.m05047;Gene=LOC_Os07g47420
+Chr7	MSU_osa1r6_db	CDS	28351649	28352215	.	+	0	Parent=mRNA:LOC_Os07g47420.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	28351546	28351648	.	+	.	Parent=mRNA:LOC_Os07g47420.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	28352216	28352216	.	+	.	Parent=mRNA:LOC_Os07g47420.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	28353473	28353776	.	+	.	Parent=mRNA:LOC_Os07g47420.1
+Chr7	Protein-DB	peptide_p	28352052	28352117	.	?	.	Parent=mRNA:LOC_Os07g47420.1:P999_32128
+Chr7	Protein-DB	peptide_p	28352136	28352195	.	?	.	Parent=mRNA:LOC_Os07g47420.1:P999_32129
+Chr7	Protein-DB	peptide_p	28351803	28351832	.	?	.	Parent=mRNA:LOC_Os07g47420.1:P999_32130

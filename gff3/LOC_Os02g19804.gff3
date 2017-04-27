@@ -1,0 +1,6 @@
+Chr2	MSU_osa1r6_db	gene	11578485	11583587	.	+	.	ID=Gene:LOC_Os02g19804;Note=Zinc+finger+C-x8-C-x5-C-x3-H+type+domain+containing+protein%2C+expressed;Alias=13102.t01783
+Chr2	MSU_osa1r6_db	processed_transcript	11578485	11583587	.	+	.	ID=mRNA:LOC_Os02g19804.1;Note=13102.m02218;Gene=LOC_Os02g19804
+Chr2	MSU_osa1r6_db	CDS	11578704	11579576	.	+	0	Parent=mRNA:LOC_Os02g19804.1
+Chr2	MSU_osa1r6_db	CDS	11583170	11583277	.	+	0	Parent=mRNA:LOC_Os02g19804.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	11578485	11578703	.	+	.	Parent=mRNA:LOC_Os02g19804.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	11583278	11583587	.	+	.	Parent=mRNA:LOC_Os02g19804.1

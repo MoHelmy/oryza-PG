@@ -1,0 +1,9 @@
+Chr6	MSU_osa1r6_db	gene	21373016	21376316	.	-	.	ID=Gene:LOC_Os06g36400;Note=HAD+superfamily+phosphatase%2C+putative%2C+expressed;Alias=13106.t03315
+Chr6	MSU_osa1r6_db	processed_transcript	21373016	21376316	.	-	.	ID=mRNA:LOC_Os06g36400.1;Note=13106.m03766;Gene=LOC_Os06g36400
+Chr6	MSU_osa1r6_db	CDS	21375743	21376149	.	-	0	Parent=mRNA:LOC_Os06g36400.1
+Chr6	MSU_osa1r6_db	CDS	21374741	21374950	.	-	2	Parent=mRNA:LOC_Os06g36400.1
+Chr6	MSU_osa1r6_db	CDS	21373263	21373440	.	-	2	Parent=mRNA:LOC_Os06g36400.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	21376150	21376316	.	-	.	Parent=mRNA:LOC_Os06g36400.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	21373016	21373262	.	-	.	Parent=mRNA:LOC_Os06g36400.1
+Chr6	Protein-DB	peptide_p	21375972	21376031	.	?	.	Parent=mRNA:LOC_Os06g36400.1:P999_28608
+Chr6	Protein-DB	peptide_p	21374435	21374461	.	?	.	Parent=mRNA:LOC_Os06g36400.1:P999_28609

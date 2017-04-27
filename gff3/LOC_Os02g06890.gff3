@@ -1,0 +1,14 @@
+Chr2	MSU_osa1r6_db	gene	3470532	3474166	.	+	.	ID=Gene:LOC_Os02g06890;Note=OTU-like+cysteine+protease+family+protein%2C+putative%2C+expressed;Alias=13102.t00596
+Chr2	MSU_osa1r6_db	processed_transcript	3470532	3474166	.	+	.	ID=mRNA:LOC_Os02g06890.1;Note=13102.m00771;Gene=LOC_Os02g06890
+Chr2	MSU_osa1r6_db	CDS	3471527	3471591	.	+	0	Parent=mRNA:LOC_Os02g06890.1
+Chr2	MSU_osa1r6_db	CDS	3471679	3471724	.	+	2	Parent=mRNA:LOC_Os02g06890.1
+Chr2	MSU_osa1r6_db	CDS	3472468	3472576	.	+	0	Parent=mRNA:LOC_Os02g06890.1
+Chr2	MSU_osa1r6_db	CDS	3473023	3473114	.	+	1	Parent=mRNA:LOC_Os02g06890.1
+Chr2	MSU_osa1r6_db	CDS	3473196	3473258	.	+	0	Parent=mRNA:LOC_Os02g06890.1
+Chr2	MSU_osa1r6_db	CDS	3473346	3473464	.	+	0	Parent=mRNA:LOC_Os02g06890.1
+Chr2	MSU_osa1r6_db	CDS	3473752	3473827	.	+	2	Parent=mRNA:LOC_Os02g06890.1
+Chr2	MSU_osa1r6_db	CDS	3473925	3473981	.	+	0	Parent=mRNA:LOC_Os02g06890.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	3470532	3470749	.	+	.	Parent=mRNA:LOC_Os02g06890.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	3471517	3471526	.	+	.	Parent=mRNA:LOC_Os02g06890.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	3473982	3474166	.	+	.	Parent=mRNA:LOC_Os02g06890.1
+Chr2	Protein-DB	peptide_p	3473760	3473792	.	?	.	Parent=mRNA:LOC_Os02g06890.1:P999_7402

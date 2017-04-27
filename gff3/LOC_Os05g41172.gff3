@@ -1,0 +1,13 @@
+Chr5	MSU_osa1r6_db	gene	24052999	24059086	.	-	.	ID=Gene:LOC_Os05g41172;Note=histone-lysine+N-methyltransferase%2C+H3+lysine-9+specific+SUVH1%2C+putative%2C+expressed;Alias=13105.t03689
+Chr5	MSU_osa1r6_db	processed_transcript	24052999	24059086	.	-	.	ID=mRNA:LOC_Os05g41172.1;Note=13105.m04365;Gene=LOC_Os05g41172
+Chr5	MSU_osa1r6_db	CDS	24054296	24056314	.	-	0	Parent=mRNA:LOC_Os05g41172.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	24058828	24059086	.	-	.	Parent=mRNA:LOC_Os05g41172.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	24056315	24056333	.	-	.	Parent=mRNA:LOC_Os05g41172.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	24054244	24054295	.	-	.	Parent=mRNA:LOC_Os05g41172.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	24052999	24053436	.	-	.	Parent=mRNA:LOC_Os05g41172.1
+Chr5	MSU_osa1r6_db	processed_transcript	24052999	24059086	.	-	.	ID=mRNA:LOC_Os05g41172.2;Note=13105.m04366;Gene=LOC_Os05g41172
+Chr5	MSU_osa1r6_db	CDS	24054296	24056314	.	-	0	Parent=mRNA:LOC_Os05g41172.2
+Chr5	MSU_osa1r6_db	five_prime_UTR	24058824	24059086	.	-	.	Parent=mRNA:LOC_Os05g41172.2
+Chr5	MSU_osa1r6_db	five_prime_UTR	24056315	24056333	.	-	.	Parent=mRNA:LOC_Os05g41172.2
+Chr5	MSU_osa1r6_db	three_prime_UTR	24054244	24054295	.	-	.	Parent=mRNA:LOC_Os05g41172.2
+Chr5	MSU_osa1r6_db	three_prime_UTR	24052999	24053436	.	-	.	Parent=mRNA:LOC_Os05g41172.2

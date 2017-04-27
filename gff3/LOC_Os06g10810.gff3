@@ -1,0 +1,15 @@
+Chr6	MSU_osa1r6_db	gene	5637273	5640661	.	+	.	ID=Gene:LOC_Os06g10810;Note=phosphate+carrier+protein%2C+mitochondrial+precursor%2C+putative%2C+expressed;Alias=13106.t00955
+Chr6	MSU_osa1r6_db	processed_transcript	5637273	5640661	.	+	.	ID=mRNA:LOC_Os06g10810.1;Note=13106.m01170;Gene=LOC_Os06g10810
+Chr6	MSU_osa1r6_db	CDS	5637365	5637655	.	+	0	Parent=mRNA:LOC_Os06g10810.1
+Chr6	MSU_osa1r6_db	CDS	5638276	5638637	.	+	0	Parent=mRNA:LOC_Os06g10810.1
+Chr6	MSU_osa1r6_db	CDS	5638760	5638803	.	+	2	Parent=mRNA:LOC_Os06g10810.1
+Chr6	MSU_osa1r6_db	CDS	5639508	5639722	.	+	1	Parent=mRNA:LOC_Os06g10810.1
+Chr6	MSU_osa1r6_db	CDS	5639827	5639951	.	+	0	Parent=mRNA:LOC_Os06g10810.1
+Chr6	MSU_osa1r6_db	CDS	5640046	5640115	.	+	2	Parent=mRNA:LOC_Os06g10810.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	5637273	5637364	.	+	.	Parent=mRNA:LOC_Os06g10810.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	5640116	5640661	.	+	.	Parent=mRNA:LOC_Os06g10810.1
+Chr6	Protein-DB	peptide_p	5639523	5639561	.	?	.	Parent=mRNA:LOC_Os06g10810.1:P999_27643
+Chr6	Protein-DB	peptide_p	5639837	5639866	.	?	.	Parent=mRNA:LOC_Os06g10810.1:P999_27644
+Chr6	Protein-DB	peptide_p	5638433	5638471	.	?	.	Parent=mRNA:LOC_Os06g10810.1:P999_27646
+Chr6	Protein-DB	peptide_p	5639562	5639582	.	?	.	Parent=mRNA:LOC_Os06g10810.1:P999_27647
+Chr6	Protein-DB	peptide_p	5638562	5638588	.	?	.	Parent=mRNA:LOC_Os06g10810.1:P999_27648

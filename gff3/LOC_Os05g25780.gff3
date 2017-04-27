@@ -1,0 +1,10 @@
+Chr5	MSU_osa1r6_db	gene	14940402	14943313	.	+	.	ID=Gene:LOC_Os05g25780;Note=rhodanese-like+domain+containing+protein%2C+putative%2C+expressed;Alias=13105.t02259
+Chr5	MSU_osa1r6_db	processed_transcript	14940402	14943313	.	+	.	ID=mRNA:LOC_Os05g25780.1;Note=13105.m02641;Gene=LOC_Os05g25780
+Chr5	MSU_osa1r6_db	CDS	14940428	14940790	.	+	0	Parent=mRNA:LOC_Os05g25780.1
+Chr5	MSU_osa1r6_db	CDS	14941232	14941483	.	+	0	Parent=mRNA:LOC_Os05g25780.1
+Chr5	MSU_osa1r6_db	CDS	14941571	14941669	.	+	0	Parent=mRNA:LOC_Os05g25780.1
+Chr5	MSU_osa1r6_db	CDS	14941787	14942080	.	+	0	Parent=mRNA:LOC_Os05g25780.1
+Chr5	MSU_osa1r6_db	CDS	14942628	14943008	.	+	0	Parent=mRNA:LOC_Os05g25780.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	14940402	14940427	.	+	.	Parent=mRNA:LOC_Os05g25780.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	14943009	14943313	.	+	.	Parent=mRNA:LOC_Os05g25780.1
+Chr5	Protein-DB	peptide_p	14942680	14942721	.	?	.	Parent=mRNA:LOC_Os05g25780.1:P999_24267

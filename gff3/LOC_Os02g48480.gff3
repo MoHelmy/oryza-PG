@@ -1,0 +1,6 @@
+Chr2	MSU_osa1r6_db	gene	29671952	29672764	.	+	.	ID=Gene:LOC_Os02g48480;Note=expressed+protein;Alias=13102.t04473
+Chr2	MSU_osa1r6_db	processed_transcript	29671952	29672764	.	+	.	ID=mRNA:LOC_Os02g48480.1;Note=13102.m05481;Gene=LOC_Os02g48480
+Chr2	MSU_osa1r6_db	CDS	29672074	29672379	.	+	0	Parent=mRNA:LOC_Os02g48480.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	29671952	29672073	.	+	.	Parent=mRNA:LOC_Os02g48480.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	29672380	29672764	.	+	.	Parent=mRNA:LOC_Os02g48480.1
+Chr2	Protein-DB	peptide_p	29672222	29672278	.	?	.	Parent=mRNA:LOC_Os02g48480.1:P999_11075

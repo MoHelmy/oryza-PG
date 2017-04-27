@@ -1,0 +1,12 @@
+Chr3	MSU_osa1r6_db	gene	7645584	7649497	.	+	.	ID=Gene:LOC_Os03g14080;Note=transmembrane+amino+acid+transporter+protein%2C+putative%2C+expressed;Alias=13103.t01218
+Chr3	MSU_osa1r6_db	processed_transcript	7645584	7649497	.	+	.	ID=mRNA:LOC_Os03g14080.1;Note=13103.m01647;Gene=LOC_Os03g14080
+Chr3	MSU_osa1r6_db	CDS	7645705	7645890	.	+	0	Parent=mRNA:LOC_Os03g14080.1
+Chr3	MSU_osa1r6_db	CDS	7646024	7646209	.	+	0	Parent=mRNA:LOC_Os03g14080.1
+Chr3	MSU_osa1r6_db	CDS	7646321	7646433	.	+	0	Parent=mRNA:LOC_Os03g14080.1
+Chr3	MSU_osa1r6_db	CDS	7646529	7646712	.	+	2	Parent=mRNA:LOC_Os03g14080.1
+Chr3	MSU_osa1r6_db	CDS	7646849	7646946	.	+	0	Parent=mRNA:LOC_Os03g14080.1
+Chr3	MSU_osa1r6_db	CDS	7647619	7648084	.	+	2	Parent=mRNA:LOC_Os03g14080.1
+Chr3	MSU_osa1r6_db	CDS	7648848	7649189	.	+	0	Parent=mRNA:LOC_Os03g14080.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	7645584	7645704	.	+	.	Parent=mRNA:LOC_Os03g14080.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	7649190	7649497	.	+	.	Parent=mRNA:LOC_Os03g14080.1
+Chr3	Protein-DB	peptide_p	7645745	7645774	.	?	.	Parent=mRNA:LOC_Os03g14080.1:P999_14238

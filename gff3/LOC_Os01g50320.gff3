@@ -1,0 +1,13 @@
+Chr1	MSU_osa1r6_db	gene	28884364	28889897	.	+	.	ID=Gene:LOC_Os01g50320;Note=surp+module+family+protein%2C+putative%2C+expressed;Alias=13101.t04385
+Chr1	MSU_osa1r6_db	processed_transcript	28884364	28889897	.	+	.	ID=mRNA:LOC_Os01g50320.1;Note=13101.m05234;Gene=LOC_Os01g50320
+Chr1	MSU_osa1r6_db	CDS	28884509	28884818	.	+	0	Parent=mRNA:LOC_Os01g50320.1
+Chr1	MSU_osa1r6_db	CDS	28885887	28886029	.	+	1	Parent=mRNA:LOC_Os01g50320.1
+Chr1	MSU_osa1r6_db	CDS	28886451	28887230	.	+	0	Parent=mRNA:LOC_Os01g50320.1
+Chr1	MSU_osa1r6_db	CDS	28888266	28889666	.	+	0	Parent=mRNA:LOC_Os01g50320.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	28884364	28884508	.	+	.	Parent=mRNA:LOC_Os01g50320.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	28889667	28889897	.	+	.	Parent=mRNA:LOC_Os01g50320.1
+Chr1	MSU_osa1r6_db	processed_transcript	28886204	28889897	.	+	.	ID=mRNA:LOC_Os01g50320.2;Note=13101.m05235;Gene=LOC_Os01g50320
+Chr1	MSU_osa1r6_db	CDS	28886574	28887230	.	+	0	Parent=mRNA:LOC_Os01g50320.2
+Chr1	MSU_osa1r6_db	CDS	28888266	28889666	.	+	0	Parent=mRNA:LOC_Os01g50320.2
+Chr1	MSU_osa1r6_db	five_prime_UTR	28886204	28886573	.	+	.	Parent=mRNA:LOC_Os01g50320.2
+Chr1	MSU_osa1r6_db	three_prime_UTR	28889667	28889897	.	+	.	Parent=mRNA:LOC_Os01g50320.2

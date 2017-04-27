@@ -1,0 +1,13 @@
+Chr4	MSU_osa1r6_db	gene	31227033	31231058	.	-	.	ID=Gene:LOC_Os04g52760;Note=gamma-soluble+NSF+attachment+protein%2C+putative%2C+expressed;Alias=13104.t04753
+Chr4	MSU_osa1r6_db	processed_transcript	31227033	31231058	.	-	.	ID=mRNA:LOC_Os04g52760.1;Note=13104.m05420;Gene=LOC_Os04g52760
+Chr4	MSU_osa1r6_db	CDS	31229359	31229495	.	-	0	Parent=mRNA:LOC_Os04g52760.1
+Chr4	MSU_osa1r6_db	CDS	31229151	31229288	.	-	2	Parent=mRNA:LOC_Os04g52760.1
+Chr4	MSU_osa1r6_db	CDS	31228369	31228447	.	-	2	Parent=mRNA:LOC_Os04g52760.1
+Chr4	MSU_osa1r6_db	CDS	31228020	31228099	.	-	0	Parent=mRNA:LOC_Os04g52760.1
+Chr4	MSU_osa1r6_db	CDS	31227762	31227891	.	-	2	Parent=mRNA:LOC_Os04g52760.1
+Chr4	MSU_osa1r6_db	CDS	31227264	31227368	.	-	0	Parent=mRNA:LOC_Os04g52760.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	31230900	31231058	.	-	.	Parent=mRNA:LOC_Os04g52760.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	31229778	31229845	.	-	.	Parent=mRNA:LOC_Os04g52760.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	31229602	31229686	.	-	.	Parent=mRNA:LOC_Os04g52760.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	31229496	31229525	.	-	.	Parent=mRNA:LOC_Os04g52760.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	31227033	31227263	.	-	.	Parent=mRNA:LOC_Os04g52760.1

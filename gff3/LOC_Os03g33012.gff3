@@ -1,0 +1,8 @@
+Chr3	MSU_osa1r6_db	gene	18881133	18892135	.	+	.	ID=Gene:LOC_Os03g33012;Note=WRKY+DNA-binding+domain+containing+protein%2C+expressed;Alias=13103.t02911
+Chr3	MSU_osa1r6_db	processed_transcript	18881133	18892135	.	+	.	ID=mRNA:LOC_Os03g33012.1;Note=13103.m03749;Gene=LOC_Os03g33012
+Chr3	MSU_osa1r6_db	CDS	18881231	18881551	.	+	0	Parent=mRNA:LOC_Os03g33012.1
+Chr3	MSU_osa1r6_db	CDS	18888175	18888890	.	+	0	Parent=mRNA:LOC_Os03g33012.1
+Chr3	MSU_osa1r6_db	CDS	18888968	18889090	.	+	2	Parent=mRNA:LOC_Os03g33012.1
+Chr3	MSU_osa1r6_db	CDS	18891468	18891741	.	+	2	Parent=mRNA:LOC_Os03g33012.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	18881133	18881230	.	+	.	Parent=mRNA:LOC_Os03g33012.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	18891742	18892135	.	+	.	Parent=mRNA:LOC_Os03g33012.1

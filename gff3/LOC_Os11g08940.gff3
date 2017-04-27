@@ -1,0 +1,7 @@
+Chr11	MSU_osa1r6_db	gene	4727921	4729946	.	+	.	ID=Gene:LOC_Os11g08940;Note=RNA+polymerases+N+8+kDa+subunit%2C+putative;Alias=13111.t00798
+Chr11	MSU_osa1r6_db	processed_transcript	4727921	4729946	.	+	.	ID=mRNA:LOC_Os11g08940.1;Note=13111.m00941;Gene=LOC_Os11g08940
+Chr11	MSU_osa1r6_db	CDS	4727921	4728010	.	+	0	Parent=mRNA:LOC_Os11g08940.1
+Chr11	MSU_osa1r6_db	CDS	4728104	4728162	.	+	0	Parent=mRNA:LOC_Os11g08940.1
+Chr11	MSU_osa1r6_db	CDS	4729494	4729588	.	+	2	Parent=mRNA:LOC_Os11g08940.1
+Chr11	MSU_osa1r6_db	CDS	4729942	4729946	.	+	1	Parent=mRNA:LOC_Os11g08940.1
+Chr11	Protein-DB	peptide_p	4729541	4729573	.	?	.	Parent=mRNA:LOC_Os11g08940.1:P999_39716

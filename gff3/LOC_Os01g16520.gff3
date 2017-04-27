@@ -1,0 +1,14 @@
+Chr1	MSU_osa1r6_db	gene	9372692	9377180	.	-	.	ID=Gene:LOC_Os01g16520;Note=glutamyl-tRNA+synthetase%2C+cytoplasmic%2C+putative%2C+expressed;Alias=13101.t01498
+Chr1	MSU_osa1r6_db	processed_transcript	9372692	9377180	.	-	.	ID=mRNA:LOC_Os01g16520.1;Note=13101.m01847;Gene=LOC_Os01g16520
+Chr1	MSU_osa1r6_db	CDS	9376238	9376374	.	-	0	Parent=mRNA:LOC_Os01g16520.1
+Chr1	MSU_osa1r6_db	CDS	9375783	9375879	.	-	2	Parent=mRNA:LOC_Os01g16520.1
+Chr1	MSU_osa1r6_db	CDS	9375534	9375687	.	-	0	Parent=mRNA:LOC_Os01g16520.1
+Chr1	MSU_osa1r6_db	CDS	9374372	9375447	.	-	1	Parent=mRNA:LOC_Os01g16520.1
+Chr1	MSU_osa1r6_db	CDS	9373814	9374278	.	-	0	Parent=mRNA:LOC_Os01g16520.1
+Chr1	MSU_osa1r6_db	CDS	9372879	9373097	.	-	0	Parent=mRNA:LOC_Os01g16520.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	9377059	9377180	.	-	.	Parent=mRNA:LOC_Os01g16520.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	9376375	9376409	.	-	.	Parent=mRNA:LOC_Os01g16520.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	9372692	9372878	.	-	.	Parent=mRNA:LOC_Os01g16520.1
+Chr1	Protein-DB	peptide_p	9375706	9375750	.	?	.	Parent=mRNA:LOC_Os01g16520.1:P999_1471
+Chr1	Protein-DB	peptide_p	9376932	9376973	.	?	.	Parent=mRNA:LOC_Os01g16520.1:P999_1472
+Chr1	Protein-DB	peptide_p	9373595	9373636	.	?	.	Parent=mRNA:LOC_Os01g16520.1:P999_1473

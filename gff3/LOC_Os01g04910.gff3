@@ -1,0 +1,15 @@
+Chr1	MSU_osa1r6_db	gene	2270163	2272757	.	+	.	ID=Gene:LOC_Os01g04910;Note=TP53RK-binding+protein%2C+putative%2C+expressed;Alias=13101.t00374
+Chr1	MSU_osa1r6_db	processed_transcript	2270163	2272757	.	+	.	ID=mRNA:LOC_Os01g04910.1;Note=13101.m00456;Gene=LOC_Os01g04910
+Chr1	MSU_osa1r6_db	CDS	2270244	2270314	.	+	0	Parent=mRNA:LOC_Os01g04910.1
+Chr1	MSU_osa1r6_db	CDS	2270437	2270503	.	+	2	Parent=mRNA:LOC_Os01g04910.1
+Chr1	MSU_osa1r6_db	CDS	2270613	2270735	.	+	0	Parent=mRNA:LOC_Os01g04910.1
+Chr1	MSU_osa1r6_db	CDS	2270844	2270927	.	+	0	Parent=mRNA:LOC_Os01g04910.1
+Chr1	MSU_osa1r6_db	CDS	2271733	2271819	.	+	0	Parent=mRNA:LOC_Os01g04910.1
+Chr1	MSU_osa1r6_db	CDS	2271913	2271999	.	+	0	Parent=mRNA:LOC_Os01g04910.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	2270163	2270243	.	+	.	Parent=mRNA:LOC_Os01g04910.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	2272000	2272000	.	+	.	Parent=mRNA:LOC_Os01g04910.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	2272302	2272757	.	+	.	Parent=mRNA:LOC_Os01g04910.1
+Chr1	Protein-DB	peptide_p	2271923	2271976	.	?	.	Parent=mRNA:LOC_Os01g04910.1:P999_325
+Chr1	Protein-DB	peptide_p	2270845	2270865	.	?	.	Parent=mRNA:LOC_Os01g04910.1:P999_326
+Chr1	Protein-DB	peptide_p	2271752	2271796	.	?	.	Parent=mRNA:LOC_Os01g04910.1:P999_327
+Chr1	Protein-DB	peptide_p	2270908	2270931	.	?	.	Parent=mRNA:LOC_Os01g04910.1:P999_329

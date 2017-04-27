@@ -1,0 +1,7 @@
+Chr3	MSU_osa1r6_db	gene	27813065	27815975	.	-	.	ID=Gene:LOC_Os03g48830;Note=ribosomal+protein-related%2C+putative%2C+expressed;Alias=13103.t04247
+Chr3	MSU_osa1r6_db	processed_transcript	27813065	27815975	.	-	.	ID=mRNA:LOC_Os03g48830.1;Note=13103.m05274;Gene=LOC_Os03g48830
+Chr3	MSU_osa1r6_db	CDS	27815596	27815903	.	-	0	Parent=mRNA:LOC_Os03g48830.1
+Chr3	MSU_osa1r6_db	CDS	27813283	27813292	.	-	2	Parent=mRNA:LOC_Os03g48830.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	27815904	27815975	.	-	.	Parent=mRNA:LOC_Os03g48830.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	27813065	27813282	.	-	.	Parent=mRNA:LOC_Os03g48830.1
+Chr3	Protein-DB	peptide_p	27813321	27813359	.	?	.	Parent=mRNA:LOC_Os03g48830.1:P999_17228

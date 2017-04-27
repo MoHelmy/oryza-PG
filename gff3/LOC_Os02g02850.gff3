@@ -1,0 +1,16 @@
+Chr2	MSU_osa1r6_db	gene	1086158	1089626	.	-	.	ID=Gene:LOC_Os02g02850;Note=bifunctional+protein+folD%2C+putative%2C+expressed;Alias=13102.t00187
+Chr2	MSU_osa1r6_db	processed_transcript	1086158	1089626	.	-	.	ID=mRNA:LOC_Os02g02850.1;Note=13102.m00241;Gene=LOC_Os02g02850
+Chr2	MSU_osa1r6_db	CDS	1089343	1089571	.	-	0	Parent=mRNA:LOC_Os02g02850.1
+Chr2	MSU_osa1r6_db	CDS	1088763	1089073	.	-	1	Parent=mRNA:LOC_Os02g02850.1
+Chr2	MSU_osa1r6_db	CDS	1087935	1088171	.	-	0	Parent=mRNA:LOC_Os02g02850.1
+Chr2	MSU_osa1r6_db	CDS	1087680	1087847	.	-	0	Parent=mRNA:LOC_Os02g02850.1
+Chr2	MSU_osa1r6_db	CDS	1086750	1086920	.	-	0	Parent=mRNA:LOC_Os02g02850.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	1089572	1089626	.	-	.	Parent=mRNA:LOC_Os02g02850.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	1086158	1086749	.	-	.	Parent=mRNA:LOC_Os02g02850.1
+Chr2	Protein-DB	peptide_p	1086795	1086845	.	?	.	Parent=mRNA:LOC_Os02g02850.1:P999_6697
+Chr2	Protein-DB	peptide_p	1088001	1088048	.	?	.	Parent=mRNA:LOC_Os02g02850.1:P999_6700
+Chr2	Protein-DB	peptide_p	1088892	1088927	.	?	.	Parent=mRNA:LOC_Os02g02850.1:P999_6702
+Chr2	Protein-DB	peptide_p	1086789	1086845	.	?	.	Parent=mRNA:LOC_Os02g02850.1:P999_6704
+Chr2	Protein-DB	peptide_p	1088928	1089014	.	?	.	Parent=mRNA:LOC_Os02g02850.1:P999_6711
+Chr2	Protein-DB	peptide_p	1087941	1087979	.	?	.	Parent=mRNA:LOC_Os02g02850.1:P999_6712
+Chr2	Protein-DB	peptide_p	1087659	1087694	.	?	.	Parent=mRNA:LOC_Os02g02850.1:P999_6714

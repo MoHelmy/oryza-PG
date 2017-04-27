@@ -1,0 +1,12 @@
+Chr2	MSU_osa1r6_db	gene	33072355	33077687	.	+	.	ID=Gene:LOC_Os02g54010;Note=lipase+class+3+family+protein%2C+putative%2C+expressed;Alias=13102.t05028
+Chr2	MSU_osa1r6_db	processed_transcript	33072355	33077687	.	+	.	ID=mRNA:LOC_Os02g54010.1;Note=13102.m06178;Gene=LOC_Os02g54010
+Chr2	MSU_osa1r6_db	CDS	33073148	33073459	.	+	0	Parent=mRNA:LOC_Os02g54010.1
+Chr2	MSU_osa1r6_db	CDS	33074484	33074681	.	+	0	Parent=mRNA:LOC_Os02g54010.1
+Chr2	MSU_osa1r6_db	CDS	33074812	33075084	.	+	0	Parent=mRNA:LOC_Os02g54010.1
+Chr2	MSU_osa1r6_db	CDS	33075213	33075315	.	+	0	Parent=mRNA:LOC_Os02g54010.1
+Chr2	MSU_osa1r6_db	CDS	33075935	33076053	.	+	1	Parent=mRNA:LOC_Os02g54010.1
+Chr2	MSU_osa1r6_db	CDS	33076341	33076517	.	+	0	Parent=mRNA:LOC_Os02g54010.1
+Chr2	MSU_osa1r6_db	CDS	33076606	33077397	.	+	0	Parent=mRNA:LOC_Os02g54010.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	33072355	33072639	.	+	.	Parent=mRNA:LOC_Os02g54010.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	33072964	33073147	.	+	.	Parent=mRNA:LOC_Os02g54010.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	33077398	33077687	.	+	.	Parent=mRNA:LOC_Os02g54010.1

@@ -1,0 +1,12 @@
+Chr3	MSU_osa1r6_db	gene	34949890	34952256	.	-	.	ID=Gene:LOC_Os03g61680;Note=huntingtin-interacting+protein+HYPK%2C+putative%2C+expressed;Alias=13103.t05408
+Chr3	MSU_osa1r6_db	processed_transcript	34949890	34952256	.	-	.	ID=mRNA:LOC_Os03g61680.1;Note=13103.m06794;Gene=LOC_Os03g61680
+Chr3	MSU_osa1r6_db	CDS	34952001	34952180	.	-	0	Parent=mRNA:LOC_Os03g61680.1
+Chr3	MSU_osa1r6_db	CDS	34951023	34951078	.	-	0	Parent=mRNA:LOC_Os03g61680.1
+Chr3	MSU_osa1r6_db	CDS	34950278	34950344	.	-	2	Parent=mRNA:LOC_Os03g61680.1
+Chr3	MSU_osa1r6_db	CDS	34950118	34950198	.	-	0	Parent=mRNA:LOC_Os03g61680.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	34952181	34952256	.	-	.	Parent=mRNA:LOC_Os03g61680.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	34949890	34950117	.	-	.	Parent=mRNA:LOC_Os03g61680.1
+Chr3	Protein-DB	peptide_p	34951828	34951872	.	?	.	Parent=mRNA:LOC_Os03g61680.1:P999_19367
+Chr3	Protein-DB	peptide_p	34951069	34951095	.	?	.	Parent=mRNA:LOC_Os03g61680.1:P999_19368
+Chr3	Protein-DB	peptide_p	34951973	34952014	.	?	.	Parent=mRNA:LOC_Os03g61680.1:P999_19369
+Chr3	Protein-DB	peptide_p	34951828	34951872	.	?	.	Parent=mRNA:LOC_Os03g61680.1:P999_19370

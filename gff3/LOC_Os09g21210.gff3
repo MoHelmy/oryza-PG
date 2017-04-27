@@ -1,0 +1,14 @@
+Chr9	MSU_osa1r6_db	gene	12801545	12804260	.	-	.	ID=Gene:LOC_Os09g21210;Note=beta-glucan-binding+protein+4%2C+putative%2C+expressed;Alias=13109.t01860
+Chr9	MSU_osa1r6_db	processed_transcript	12801545	12804260	.	-	.	ID=mRNA:LOC_Os09g21210.1;Note=13109.m02025;Gene=LOC_Os09g21210
+Chr9	MSU_osa1r6_db	CDS	12802038	12804260	.	-	0	Parent=mRNA:LOC_Os09g21210.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	12801545	12802037	.	-	.	Parent=mRNA:LOC_Os09g21210.1
+Chr9	Protein-DB	peptide_p	12802329	12802382	.	?	.	Parent=mRNA:LOC_Os09g21210.1:P999_35461
+Chr9	Protein-DB	peptide_p	12803520	12803555	.	?	.	Parent=mRNA:LOC_Os09g21210.1:P999_35462
+Chr9	Protein-DB	peptide_p	12803640	12803702	.	?	.	Parent=mRNA:LOC_Os09g21210.1:P999_35463
+Chr9	Protein-DB	peptide_p	12802272	12802328	.	?	.	Parent=mRNA:LOC_Os09g21210.1:P999_35464
+Chr9	Protein-DB	peptide_p	12803580	12803615	.	?	.	Parent=mRNA:LOC_Os09g21210.1:P999_35468
+Chr9	Protein-DB	peptide_p	12802830	12802892	.	?	.	Parent=mRNA:LOC_Os09g21210.1:P999_35472
+Chr9	Protein-DB	peptide_p	12803451	12803519	.	?	.	Parent=mRNA:LOC_Os09g21210.1:P999_35473
+Chr9	Protein-DB	peptide_p	12803703	12803738	.	?	.	Parent=mRNA:LOC_Os09g21210.1:P999_35475
+Chr9	Protein-DB	peptide_p	12801780	12801848	.	?	.	Parent=mRNA:LOC_Os09g21210.1:P999_35477
+Chr9	Protein-DB	peptide_p	12803331	12803375	.	?	.	Parent=mRNA:LOC_Os09g21210.1:P999_35478

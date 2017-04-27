@@ -1,0 +1,15 @@
+Chr2	MSU_osa1r6_db	gene	2776405	2779384	.	+	.	ID=Gene:LOC_Os02g05680;Note=apoptosis-inducing+factor+2%2C+putative%2C+expressed;Alias=13102.t00472
+Chr2	MSU_osa1r6_db	processed_transcript	2776405	2779384	.	+	.	ID=mRNA:LOC_Os02g05680.1;Note=13102.m00623;Gene=LOC_Os02g05680
+Chr2	MSU_osa1r6_db	CDS	2776526	2776632	.	+	0	Parent=mRNA:LOC_Os02g05680.1
+Chr2	MSU_osa1r6_db	CDS	2777579	2777835	.	+	2	Parent=mRNA:LOC_Os02g05680.1
+Chr2	MSU_osa1r6_db	CDS	2777915	2778366	.	+	1	Parent=mRNA:LOC_Os02g05680.1
+Chr2	MSU_osa1r6_db	CDS	2778845	2779102	.	+	0	Parent=mRNA:LOC_Os02g05680.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	2776405	2776525	.	+	.	Parent=mRNA:LOC_Os02g05680.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	2779103	2779384	.	+	.	Parent=mRNA:LOC_Os02g05680.1
+Chr2	MSU_osa1r6_db	processed_transcript	2776405	2779384	.	+	.	ID=mRNA:LOC_Os02g05680.2;Note=13102.m00622;Gene=LOC_Os02g05680
+Chr2	MSU_osa1r6_db	CDS	2777619	2777835	.	+	0	Parent=mRNA:LOC_Os02g05680.2
+Chr2	MSU_osa1r6_db	CDS	2777915	2778366	.	+	1	Parent=mRNA:LOC_Os02g05680.2
+Chr2	MSU_osa1r6_db	CDS	2778845	2779102	.	+	0	Parent=mRNA:LOC_Os02g05680.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	2776405	2777618	.	+	.	Parent=mRNA:LOC_Os02g05680.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	2779103	2779384	.	+	.	Parent=mRNA:LOC_Os02g05680.2
+Chr2	Protein-DB	peptide_p	2778936	2778986	.	?	.	Parent=mRNA:LOC_Os02g05680.1:P999_7314

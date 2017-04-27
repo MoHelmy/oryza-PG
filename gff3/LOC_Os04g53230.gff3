@@ -1,0 +1,9 @@
+Chr4	MSU_osa1r6_db	gene	31515800	31518510	.	+	.	ID=Gene:LOC_Os04g53230;Note=aminomethyltransferase%2C+putative%2C+expressed;Alias=13104.t04800
+Chr4	MSU_osa1r6_db	processed_transcript	31515800	31518510	.	+	.	ID=mRNA:LOC_Os04g53230.1;Note=13104.m05476;Gene=LOC_Os04g53230
+Chr4	MSU_osa1r6_db	CDS	31515913	31516473	.	+	0	Parent=mRNA:LOC_Os04g53230.1
+Chr4	MSU_osa1r6_db	CDS	31517538	31517656	.	+	0	Parent=mRNA:LOC_Os04g53230.1
+Chr4	MSU_osa1r6_db	CDS	31517764	31518310	.	+	2	Parent=mRNA:LOC_Os04g53230.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	31515800	31515912	.	+	.	Parent=mRNA:LOC_Os04g53230.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	31518311	31518510	.	+	.	Parent=mRNA:LOC_Os04g53230.1
+Chr4	Protein-DB	peptide_p	31516292	31516324	.	?	.	Parent=mRNA:LOC_Os04g53230.1:P999_21812
+Chr4	Protein-DB	peptide_p	31516199	31516252	.	?	.	Parent=mRNA:LOC_Os04g53230.1:P999_21813

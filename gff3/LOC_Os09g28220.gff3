@@ -1,0 +1,5 @@
+Chr9	MSU_osa1r6_db	gene	17140365	17142324	.	+	.	ID=Gene:LOC_Os09g28220;Note=NFKB%2C+putative%2C+expressed;Alias=13109.t02508
+Chr9	MSU_osa1r6_db	processed_transcript	17140365	17142324	.	+	.	ID=mRNA:LOC_Os09g28220.1;Note=13109.m02780;Gene=LOC_Os09g28220
+Chr9	MSU_osa1r6_db	CDS	17140425	17141960	.	+	0	Parent=mRNA:LOC_Os09g28220.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	17140365	17140424	.	+	.	Parent=mRNA:LOC_Os09g28220.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	17141961	17142324	.	+	.	Parent=mRNA:LOC_Os09g28220.1

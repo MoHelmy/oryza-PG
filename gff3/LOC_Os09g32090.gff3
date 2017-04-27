@@ -1,0 +1,17 @@
+Chr9	MSU_osa1r6_db	gene	19150058	19155470	.	-	.	ID=Gene:LOC_Os09g32090;Note=methyl-binding+domain+protein+MBD%2C+putative%2C+expressed;Alias=13109.t02826
+Chr9	MSU_osa1r6_db	processed_transcript	19150058	19155385	.	-	.	ID=mRNA:LOC_Os09g32090.1;Note=13109.m03186;Gene=LOC_Os09g32090
+Chr9	MSU_osa1r6_db	CDS	19153632	19154137	.	-	0	Parent=mRNA:LOC_Os09g32090.1
+Chr9	MSU_osa1r6_db	CDS	19152123	19152176	.	-	2	Parent=mRNA:LOC_Os09g32090.1
+Chr9	MSU_osa1r6_db	CDS	19151787	19151956	.	-	2	Parent=mRNA:LOC_Os09g32090.1
+Chr9	MSU_osa1r6_db	CDS	19150474	19150691	.	-	1	Parent=mRNA:LOC_Os09g32090.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	19154998	19155385	.	-	.	Parent=mRNA:LOC_Os09g32090.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	19154138	19154157	.	-	.	Parent=mRNA:LOC_Os09g32090.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	19150058	19150473	.	-	.	Parent=mRNA:LOC_Os09g32090.1
+Chr9	MSU_osa1r6_db	processed_transcript	19151689	19155470	.	-	.	ID=mRNA:LOC_Os09g32090.2;Note=13109.m03187;Gene=LOC_Os09g32090
+Chr9	MSU_osa1r6_db	CDS	19153632	19154137	.	-	0	Parent=mRNA:LOC_Os09g32090.2
+Chr9	MSU_osa1r6_db	CDS	19152123	19152176	.	-	2	Parent=mRNA:LOC_Os09g32090.2
+Chr9	MSU_osa1r6_db	CDS	19151779	19151956	.	-	2	Parent=mRNA:LOC_Os09g32090.2
+Chr9	MSU_osa1r6_db	five_prime_UTR	19154998	19155470	.	-	.	Parent=mRNA:LOC_Os09g32090.2
+Chr9	MSU_osa1r6_db	five_prime_UTR	19154138	19154157	.	-	.	Parent=mRNA:LOC_Os09g32090.2
+Chr9	MSU_osa1r6_db	three_prime_UTR	19151689	19151778	.	-	.	Parent=mRNA:LOC_Os09g32090.2
+Chr9	Protein-DB	peptide_p	19153682	19153723	.	?	.	Parent=mRNA:LOC_Os09g32090.1:P999_36274

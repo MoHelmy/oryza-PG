@@ -1,0 +1,14 @@
+Chr4	MSU_osa1r6_db	gene	21204995	21207589	.	-	.	ID=Gene:LOC_Os04g35180;Note=co-chaperone+GrpE+protein%2C+putative%2C+expressed;Alias=13104.t03170
+Chr4	MSU_osa1r6_db	processed_transcript	21204995	21207518	.	-	.	ID=mRNA:LOC_Os04g35180.1;Note=13104.m03419;Gene=LOC_Os04g35180
+Chr4	MSU_osa1r6_db	CDS	21207286	21207329	.	-	0	Parent=mRNA:LOC_Os04g35180.1
+Chr4	MSU_osa1r6_db	CDS	21206036	21206507	.	-	2	Parent=mRNA:LOC_Os04g35180.1
+Chr4	MSU_osa1r6_db	CDS	21205600	21205803	.	-	0	Parent=mRNA:LOC_Os04g35180.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	21207330	21207518	.	-	.	Parent=mRNA:LOC_Os04g35180.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	21204995	21205599	.	-	.	Parent=mRNA:LOC_Os04g35180.1
+Chr4	MSU_osa1r6_db	processed_transcript	21204995	21207589	.	-	.	ID=mRNA:LOC_Os04g35180.2;Note=13104.m11897;Gene=LOC_Os04g35180
+Chr4	MSU_osa1r6_db	CDS	21207286	21207492	.	-	0	Parent=mRNA:LOC_Os04g35180.2
+Chr4	MSU_osa1r6_db	CDS	21206036	21206497	.	-	0	Parent=mRNA:LOC_Os04g35180.2
+Chr4	MSU_osa1r6_db	CDS	21205600	21205803	.	-	0	Parent=mRNA:LOC_Os04g35180.2
+Chr4	MSU_osa1r6_db	five_prime_UTR	21207493	21207589	.	-	.	Parent=mRNA:LOC_Os04g35180.2
+Chr4	MSU_osa1r6_db	three_prime_UTR	21204995	21205599	.	-	.	Parent=mRNA:LOC_Os04g35180.2
+Chr4	Protein-DB	peptide_p	21206217	21206270	.	?	.	Parent=mRNA:LOC_Os04g35180.1:P999_20621

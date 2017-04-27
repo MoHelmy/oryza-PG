@@ -1,0 +1,8 @@
+Chr2	MSU_osa1r6_db	gene	18974969	18978338	.	-	.	ID=Gene:LOC_Os02g32120;Note=cytochrome+b-c1+complex+subunit+Rieske%2C+mitochondrial+precursor%2C+putative%2C+expressed;Alias=13102.t02876
+Chr2	MSU_osa1r6_db	processed_transcript	18974969	18978338	.	-	.	ID=mRNA:LOC_Os02g32120.1;Note=13102.m03471;Gene=LOC_Os02g32120
+Chr2	MSU_osa1r6_db	CDS	18978060	18978234	.	-	0	Parent=mRNA:LOC_Os02g32120.1
+Chr2	MSU_osa1r6_db	CDS	18975329	18975972	.	-	1	Parent=mRNA:LOC_Os02g32120.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	18978235	18978338	.	-	.	Parent=mRNA:LOC_Os02g32120.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	18974969	18975328	.	-	.	Parent=mRNA:LOC_Os02g32120.1
+Chr2	Protein-DB	peptide_p	18977908	18977964	.	?	.	Parent=mRNA:LOC_Os02g32120.1:P999_9328
+Chr2	Protein-DB	peptide_p	18977365	18977415	.	?	.	Parent=mRNA:LOC_Os02g32120.1:P999_9330

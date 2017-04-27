@@ -1,0 +1,15 @@
+Chr5	MSU_osa1r6_db	gene	739646	742966	.	-	.	ID=Gene:LOC_Os05g02310;Note=soluble+inorganic+pyrophosphatase%2C+putative%2C+expressed;Alias=13105.t00131
+Chr5	MSU_osa1r6_db	processed_transcript	739646	742966	.	-	.	ID=mRNA:LOC_Os05g02310.1;Note=13105.m00195;Gene=LOC_Os05g02310
+Chr5	MSU_osa1r6_db	CDS	741584	741719	.	-	0	Parent=mRNA:LOC_Os05g02310.1
+Chr5	MSU_osa1r6_db	CDS	741470	741498	.	-	1	Parent=mRNA:LOC_Os05g02310.1
+Chr5	MSU_osa1r6_db	CDS	741167	741232	.	-	0	Parent=mRNA:LOC_Os05g02310.1
+Chr5	MSU_osa1r6_db	CDS	740952	741059	.	-	0	Parent=mRNA:LOC_Os05g02310.1
+Chr5	MSU_osa1r6_db	CDS	740639	740704	.	-	0	Parent=mRNA:LOC_Os05g02310.1
+Chr5	MSU_osa1r6_db	CDS	740429	740549	.	-	0	Parent=mRNA:LOC_Os05g02310.1
+Chr5	MSU_osa1r6_db	CDS	740069	740150	.	-	1	Parent=mRNA:LOC_Os05g02310.1
+Chr5	MSU_osa1r6_db	CDS	739929	739971	.	-	2	Parent=mRNA:LOC_Os05g02310.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	742732	742966	.	-	.	Parent=mRNA:LOC_Os05g02310.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	741720	741728	.	-	.	Parent=mRNA:LOC_Os05g02310.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	739646	739928	.	-	.	Parent=mRNA:LOC_Os05g02310.1
+Chr5	Protein-DB	peptide_p	742483	742536	.	?	.	Parent=mRNA:LOC_Os05g02310.1:P999_22697
+Chr5	Protein-DB	peptide_p	742082	742117	.	?	.	Parent=mRNA:LOC_Os05g02310.1:P999_22698

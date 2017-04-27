@@ -1,0 +1,13 @@
+Chr2	MSU_osa1r6_db	gene	13495407	13498719	.	+	.	ID=Gene:LOC_Os02g22650;Note=glycosyltransferase%2C+putative%2C+expressed;Alias=13102.t02062
+Chr2	MSU_osa1r6_db	processed_transcript	13495407	13498719	.	+	.	ID=mRNA:LOC_Os02g22650.1;Note=13102.m02545;Gene=LOC_Os02g22650
+Chr2	MSU_osa1r6_db	CDS	13495694	13495817	.	+	0	Parent=mRNA:LOC_Os02g22650.1
+Chr2	MSU_osa1r6_db	CDS	13495977	13496081	.	+	1	Parent=mRNA:LOC_Os02g22650.1
+Chr2	MSU_osa1r6_db	CDS	13496482	13497767	.	+	1	Parent=mRNA:LOC_Os02g22650.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	13495407	13495693	.	+	.	Parent=mRNA:LOC_Os02g22650.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	13497768	13498719	.	+	.	Parent=mRNA:LOC_Os02g22650.1
+Chr2	MSU_osa1r6_db	processed_transcript	13495407	13498719	.	+	.	ID=mRNA:LOC_Os02g22650.2;Note=13102.m02546;Gene=LOC_Os02g22650
+Chr2	MSU_osa1r6_db	CDS	13495694	13495817	.	+	0	Parent=mRNA:LOC_Os02g22650.2
+Chr2	MSU_osa1r6_db	CDS	13495977	13496081	.	+	1	Parent=mRNA:LOC_Os02g22650.2
+Chr2	MSU_osa1r6_db	CDS	13496485	13497767	.	+	1	Parent=mRNA:LOC_Os02g22650.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	13495407	13495693	.	+	.	Parent=mRNA:LOC_Os02g22650.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	13497768	13498719	.	+	.	Parent=mRNA:LOC_Os02g22650.2

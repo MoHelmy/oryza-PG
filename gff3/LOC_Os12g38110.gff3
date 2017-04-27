@@ -1,0 +1,17 @@
+Chr12	MSU_osa1r6_db	gene	23369076	23375239	.	+	.	ID=Gene:LOC_Os12g38110;Note=importin+subunit+beta%2C+putative%2C+expressed;Alias=13112.t03502
+Chr12	MSU_osa1r6_db	processed_transcript	23369076	23375239	.	+	.	ID=mRNA:LOC_Os12g38110.1;Note=13112.m03924;Gene=LOC_Os12g38110
+Chr12	MSU_osa1r6_db	CDS	23370628	23373047	.	+	0	Parent=mRNA:LOC_Os12g38110.1
+Chr12	MSU_osa1r6_db	CDS	23373153	23373351	.	+	2	Parent=mRNA:LOC_Os12g38110.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	23369076	23369244	.	+	.	Parent=mRNA:LOC_Os12g38110.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	23370621	23370627	.	+	.	Parent=mRNA:LOC_Os12g38110.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	23373352	23375239	.	+	.	Parent=mRNA:LOC_Os12g38110.1
+Chr12	Protein-DB	peptide_p	23372921	23372965	.	?	.	Parent=mRNA:LOC_Os12g38110.1:P999_42430
+Chr12	Protein-DB	peptide_p	23372681	23372722	.	?	.	Parent=mRNA:LOC_Os12g38110.1:P999_42431
+Chr12	Protein-DB	peptide_p	23371295	23371330	.	?	.	Parent=mRNA:LOC_Os12g38110.1:P999_42432
+Chr12	Protein-DB	peptide_p	23373260	23373301	.	?	.	Parent=mRNA:LOC_Os12g38110.1:P999_42433
+Chr12	Protein-DB	peptide_p	23373173	23373256	.	?	.	Parent=mRNA:LOC_Os12g38110.1:P999_42434
+Chr12	Protein-DB	peptide_p	23372201	23372236	.	?	.	Parent=mRNA:LOC_Os12g38110.1:P999_42435
+Chr12	Protein-DB	peptide_p	23370911	23370955	.	?	.	Parent=mRNA:LOC_Os12g38110.1:P999_42436
+Chr12	Protein-DB	peptide_p	23370983	23371009	.	?	.	Parent=mRNA:LOC_Os12g38110.1:P999_42439
+Chr12	Protein-DB	peptide_p	23372723	23372749	.	?	.	Parent=mRNA:LOC_Os12g38110.1:P999_42446
+Chr12	Protein-DB	peptide_p	23370872	23370898	.	?	.	Parent=mRNA:LOC_Os12g38110.1:P999_42451

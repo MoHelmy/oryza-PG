@@ -1,0 +1,5 @@
+Chr1	MSU_osa1r6_db	gene	40703751	40704679	.	+	.	ID=Gene:LOC_Os01g70280;Note=hypothetical+protein;Alias=13101.t06252
+Chr1	MSU_osa1r6_db	processed_transcript	40703751	40704679	.	+	.	ID=mRNA:LOC_Os01g70280.1;Note=13101.m07633;Gene=LOC_Os01g70280
+Chr1	MSU_osa1r6_db	CDS	40703751	40704005	.	+	0	Parent=mRNA:LOC_Os01g70280.1
+Chr1	MSU_osa1r6_db	CDS	40704077	40704679	.	+	0	Parent=mRNA:LOC_Os01g70280.1
+Chr1	Protein-DB	peptide_p	40703770	40703796	.	?	.	Parent=mRNA:LOC_Os01g70280.1:P999_5812

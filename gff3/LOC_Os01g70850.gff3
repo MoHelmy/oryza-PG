@@ -1,0 +1,13 @@
+Chr1	MSU_osa1r6_db	gene	41003245	41005094	.	-	.	ID=Gene:LOC_Os01g70850;Note=esterase%2C+putative%2C+expressed;Alias=13101.t06309
+Chr1	MSU_osa1r6_db	processed_transcript	41003245	41005094	.	-	.	ID=mRNA:LOC_Os01g70850.1;Note=13101.m07708;Gene=LOC_Os01g70850
+Chr1	MSU_osa1r6_db	CDS	41004541	41004918	.	-	0	Parent=mRNA:LOC_Os01g70850.1
+Chr1	MSU_osa1r6_db	CDS	41003910	41004050	.	-	0	Parent=mRNA:LOC_Os01g70850.1
+Chr1	MSU_osa1r6_db	CDS	41003401	41003688	.	-	0	Parent=mRNA:LOC_Os01g70850.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	41004919	41005094	.	-	.	Parent=mRNA:LOC_Os01g70850.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	41003245	41003400	.	-	.	Parent=mRNA:LOC_Os01g70850.1
+Chr1	MSU_osa1r6_db	processed_transcript	41003262	41005094	.	-	.	ID=mRNA:LOC_Os01g70850.2;Note=13101.m07709;Gene=LOC_Os01g70850
+Chr1	MSU_osa1r6_db	CDS	41004541	41004918	.	-	0	Parent=mRNA:LOC_Os01g70850.2
+Chr1	MSU_osa1r6_db	CDS	41003730	41004050	.	-	0	Parent=mRNA:LOC_Os01g70850.2
+Chr1	MSU_osa1r6_db	five_prime_UTR	41004919	41005094	.	-	.	Parent=mRNA:LOC_Os01g70850.2
+Chr1	MSU_osa1r6_db	three_prime_UTR	41003262	41003729	.	-	.	Parent=mRNA:LOC_Os01g70850.2
+Chr1	Protein-DB	peptide_p	41003533	41003577	.	?	.	Parent=mRNA:LOC_Os01g70850.1:P999_5827

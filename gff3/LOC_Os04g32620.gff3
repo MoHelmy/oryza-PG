@@ -1,0 +1,7 @@
+Chr4	MSU_osa1r6_db	gene	19479694	19484059	.	+	.	ID=Gene:LOC_Os04g32620;Note=ethylene-responsive+transcription+factor+ERF114%2C+putative%2C+expressed;Alias=13104.t02918
+Chr4	MSU_osa1r6_db	processed_transcript	19479694	19484059	.	+	.	ID=mRNA:LOC_Os04g32620.1;Note=13104.m03130;Gene=LOC_Os04g32620
+Chr4	MSU_osa1r6_db	CDS	19480192	19480375	.	+	0	Parent=mRNA:LOC_Os04g32620.1
+Chr4	MSU_osa1r6_db	CDS	19480884	19481506	.	+	1	Parent=mRNA:LOC_Os04g32620.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	19479694	19480191	.	+	.	Parent=mRNA:LOC_Os04g32620.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	19481507	19484059	.	+	.	Parent=mRNA:LOC_Os04g32620.1
+Chr4	Protein-DB	peptide_p	19481088	19481114	.	?	.	Parent=mRNA:LOC_Os04g32620.1:P999_20490

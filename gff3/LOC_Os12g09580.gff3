@@ -1,0 +1,11 @@
+Chr12	MSU_osa1r6_db	gene	5034184	5039877	.	-	.	ID=Gene:LOC_Os12g09580;Note=leafbladeless1%2C+putative%2C+expressed;Alias=13112.t00837
+Chr12	MSU_osa1r6_db	processed_transcript	5034184	5039877	.	-	.	ID=mRNA:LOC_Os12g09580.1;Note=13112.m01017;Gene=LOC_Os12g09580
+Chr12	MSU_osa1r6_db	CDS	5039739	5039799	.	-	0	Parent=mRNA:LOC_Os12g09580.1
+Chr12	MSU_osa1r6_db	CDS	5037620	5038458	.	-	1	Parent=mRNA:LOC_Os12g09580.1
+Chr12	MSU_osa1r6_db	CDS	5036662	5036959	.	-	0	Parent=mRNA:LOC_Os12g09580.1
+Chr12	MSU_osa1r6_db	CDS	5035207	5035451	.	-	1	Parent=mRNA:LOC_Os12g09580.1
+Chr12	MSU_osa1r6_db	CDS	5034839	5034996	.	-	0	Parent=mRNA:LOC_Os12g09580.1
+Chr12	MSU_osa1r6_db	CDS	5034457	5034685	.	-	2	Parent=mRNA:LOC_Os12g09580.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	5039800	5039877	.	-	.	Parent=mRNA:LOC_Os12g09580.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	5034184	5034456	.	-	.	Parent=mRNA:LOC_Os12g09580.1
+Chr12	Protein-DB	peptide_p	5037109	5037162	.	?	.	Parent=mRNA:LOC_Os12g09580.1:P999_41497

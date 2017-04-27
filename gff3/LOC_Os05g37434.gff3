@@ -1,0 +1,10 @@
+Chr5	MSU_osa1r6_db	gene	21840673	21848770	.	-	.	ID=Gene:LOC_Os05g37434;Note=arginyl-tRNA--protein+transferase+1%2C+putative%2C+expressed;Alias=13105.t03316
+Chr5	MSU_osa1r6_db	processed_transcript	21840673	21848770	.	-	.	ID=mRNA:LOC_Os05g37434.1;Note=13105.m03901;Gene=LOC_Os05g37434
+Chr5	MSU_osa1r6_db	CDS	21848458	21848605	.	-	0	Parent=mRNA:LOC_Os05g37434.1
+Chr5	MSU_osa1r6_db	CDS	21846750	21846788	.	-	1	Parent=mRNA:LOC_Os05g37434.1
+Chr5	MSU_osa1r6_db	CDS	21843823	21843973	.	-	1	Parent=mRNA:LOC_Os05g37434.1
+Chr5	MSU_osa1r6_db	CDS	21842551	21843708	.	-	2	Parent=mRNA:LOC_Os05g37434.1
+Chr5	MSU_osa1r6_db	CDS	21841478	21841793	.	-	2	Parent=mRNA:LOC_Os05g37434.1
+Chr5	MSU_osa1r6_db	CDS	21840996	21841118	.	-	0	Parent=mRNA:LOC_Os05g37434.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	21848606	21848770	.	-	.	Parent=mRNA:LOC_Os05g37434.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	21840673	21840995	.	-	.	Parent=mRNA:LOC_Os05g37434.1

@@ -1,0 +1,7 @@
+Chr2	MSU_osa1r6_db	gene	32247269	32247932	.	-	.	ID=Gene:LOC_Os02g52720;Note=peroxisomal+multifunctional+enzyme+type+2%2C+putative;Alias=13102.t04899
+Chr2	MSU_osa1r6_db	processed_transcript	32247269	32247932	.	-	.	ID=mRNA:LOC_Os02g52720.1;Note=13102.m06009;Gene=LOC_Os02g52720
+Chr2	MSU_osa1r6_db	CDS	32247807	32247932	.	-	0	Parent=mRNA:LOC_Os02g52720.1
+Chr2	MSU_osa1r6_db	CDS	32247650	32247710	.	-	0	Parent=mRNA:LOC_Os02g52720.1
+Chr2	MSU_osa1r6_db	CDS	32247461	32247560	.	-	1	Parent=mRNA:LOC_Os02g52720.1
+Chr2	MSU_osa1r6_db	CDS	32247269	32247350	.	-	2	Parent=mRNA:LOC_Os02g52720.1
+Chr2	Protein-DB	peptide_p	32247895	32247930	.	?	.	Parent=mRNA:LOC_Os02g52720.1:P999_11557

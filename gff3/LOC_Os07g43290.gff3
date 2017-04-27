@@ -1,0 +1,13 @@
+Chr7	MSU_osa1r6_db	gene	25919683	25921877	.	-	.	ID=Gene:LOC_Os07g43290;Note=LTPL56+-+Protease+inhibitor%2Fseed+storage%2FLTP+family+protein+precursor%2C+expressed;Alias=13107.t03964
+Chr7	MSU_osa1r6_db	processed_transcript	25919683	25921877	.	-	.	ID=mRNA:LOC_Os07g43290.1;Note=13107.m04548;Gene=LOC_Os07g43290
+Chr7	MSU_osa1r6_db	CDS	25921317	25921665	.	-	0	Parent=mRNA:LOC_Os07g43290.1
+Chr7	MSU_osa1r6_db	CDS	25920841	25920870	.	-	1	Parent=mRNA:LOC_Os07g43290.1
+Chr7	MSU_osa1r6_db	CDS	25919915	25920069	.	-	1	Parent=mRNA:LOC_Os07g43290.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	25921666	25921877	.	-	.	Parent=mRNA:LOC_Os07g43290.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	25919683	25919914	.	-	.	Parent=mRNA:LOC_Os07g43290.1
+Chr7	MSU_osa1r6_db	processed_transcript	25919686	25921812	.	-	.	ID=mRNA:LOC_Os07g43290.2;Note=13107.m09962;Gene=LOC_Os07g43290
+Chr7	MSU_osa1r6_db	CDS	25921174	25921665	.	-	0	Parent=mRNA:LOC_Os07g43290.2
+Chr7	MSU_osa1r6_db	five_prime_UTR	25921666	25921812	.	-	.	Parent=mRNA:LOC_Os07g43290.2
+Chr7	MSU_osa1r6_db	three_prime_UTR	25920841	25921173	.	-	.	Parent=mRNA:LOC_Os07g43290.2
+Chr7	MSU_osa1r6_db	three_prime_UTR	25919686	25920069	.	-	.	Parent=mRNA:LOC_Os07g43290.2
+Chr7	Protein-DB	peptide_p	25920187	25920237	.	?	.	Parent=mRNA:LOC_Os07g43290.1:P999_31684

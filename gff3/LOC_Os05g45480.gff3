@@ -1,0 +1,7 @@
+Chr5	MSU_osa1r6_db	gene	26314560	26316079	.	+	.	ID=Gene:LOC_Os05g45480;Note=POEI45+-+Pollen+Ole+e+I+allergen+and+extensin+family+protein+precursor%2C+expressed;Alias=13105.t04076
+Chr5	MSU_osa1r6_db	processed_transcript	26314560	26316079	.	+	.	ID=mRNA:LOC_Os05g45480.1;Note=13105.m04832;Gene=LOC_Os05g45480
+Chr5	MSU_osa1r6_db	CDS	26314716	26314941	.	+	0	Parent=mRNA:LOC_Os05g45480.1
+Chr5	MSU_osa1r6_db	CDS	26315458	26315756	.	+	1	Parent=mRNA:LOC_Os05g45480.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	26314560	26314715	.	+	.	Parent=mRNA:LOC_Os05g45480.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	26315757	26316079	.	+	.	Parent=mRNA:LOC_Os05g45480.1
+Chr5	Protein-DB	peptide_p	26315683	26315736	.	?	.	Parent=mRNA:LOC_Os05g45480.1:P999_25865

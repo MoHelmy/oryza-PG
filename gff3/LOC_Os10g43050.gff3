@@ -1,0 +1,8 @@
+Chr10	MSU_osa1r6_db	gene	23118587	23120791	.	+	.	ID=Gene:LOC_Os10g43050;Note=OsClp11+-+Putative+Clp+protease+homologue%2C+expressed;Alias=13110.t03524
+Chr10	MSU_osa1r6_db	processed_transcript	23118587	23120791	.	+	.	ID=mRNA:LOC_Os10g43050.1;Note=13110.m04073;Gene=LOC_Os10g43050
+Chr10	MSU_osa1r6_db	CDS	23118646	23119043	.	+	0	Parent=mRNA:LOC_Os10g43050.1
+Chr10	MSU_osa1r6_db	CDS	23119959	23120442	.	+	2	Parent=mRNA:LOC_Os10g43050.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	23118587	23118645	.	+	.	Parent=mRNA:LOC_Os10g43050.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	23120443	23120791	.	+	.	Parent=mRNA:LOC_Os10g43050.1
+Chr10	Protein-DB	peptide_p	23118845	23118907	.	?	.	Parent=mRNA:LOC_Os10g43050.1:P999_38975
+Chr10	Protein-DB	peptide_p	23120369	23120392	.	?	.	Parent=mRNA:LOC_Os10g43050.1:P999_38977

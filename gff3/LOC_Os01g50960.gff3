@@ -1,0 +1,15 @@
+Chr1	MSU_osa1r6_db	gene	29279081	29281856	.	-	.	ID=Gene:LOC_Os01g50960;Note=RNA+polymerase+II+transcriptional+coactivator+KELP%2C+putative%2C+expressed;Alias=13101.t04450
+Chr1	MSU_osa1r6_db	processed_transcript	29279081	29281856	.	-	.	ID=mRNA:LOC_Os01g50960.1;Note=13101.m05308;Gene=LOC_Os01g50960
+Chr1	MSU_osa1r6_db	CDS	29281400	29281756	.	-	0	Parent=mRNA:LOC_Os01g50960.1
+Chr1	MSU_osa1r6_db	CDS	29281205	29281307	.	-	0	Parent=mRNA:LOC_Os01g50960.1
+Chr1	MSU_osa1r6_db	CDS	29279570	29279664	.	-	1	Parent=mRNA:LOC_Os01g50960.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	29281757	29281856	.	-	.	Parent=mRNA:LOC_Os01g50960.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	29279081	29279569	.	-	.	Parent=mRNA:LOC_Os01g50960.1
+Chr1	cDNA-DB	peptide_c	29279236	29279268	.	?	.	Parent=mRNA:LOC_Os01g50960:C999_7805
+Chr1	Protein-DB	peptide_p	29279236	29279268	.	?	.	Parent=mRNA:LOC_Os01g50960.1:P999_3874
+Chr1	Protein-DB	peptide_p	29279293	29279322	.	?	.	Parent=mRNA:LOC_Os01g50960.1:P999_3877
+Chr1	Protein-DB	peptide_p	29279503	29279538	.	?	.	Parent=mRNA:LOC_Os01g50960.1:P999_3878
+Chr1	Protein-DB	peptide_p	29279206	29279235	.	?	.	Parent=mRNA:LOC_Os01g50960.1:P999_3880
+Chr1	Protein-DB	peptide_p	29279203	29279235	.	?	.	Parent=mRNA:LOC_Os01g50960.1:P999_3883
+Chr1	Protein-DB	peptide_p	29279293	29279325	.	?	.	Parent=mRNA:LOC_Os01g50960.1:P999_3886
+Chr1	Protein-DB	peptide_p	29279649	29279669	.	?	.	Parent=mRNA:LOC_Os01g50960.1:P999_3887

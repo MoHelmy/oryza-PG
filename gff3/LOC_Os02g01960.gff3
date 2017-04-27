@@ -1,0 +1,7 @@
+Chr2	MSU_osa1r6_db	gene	534930	538203	.	-	.	ID=Gene:LOC_Os02g01960;Note=tetratricopeptide+repeat+domain+containing+protein%2C+expressed;Alias=13102.t00100
+Chr2	MSU_osa1r6_db	processed_transcript	534930	538203	.	-	.	ID=mRNA:LOC_Os02g01960.1;Note=13102.m00125;Gene=LOC_Os02g01960
+Chr2	MSU_osa1r6_db	CDS	537503	538158	.	-	0	Parent=mRNA:LOC_Os02g01960.1
+Chr2	MSU_osa1r6_db	CDS	536318	537226	.	-	2	Parent=mRNA:LOC_Os02g01960.1
+Chr2	MSU_osa1r6_db	CDS	535275	535509	.	-	2	Parent=mRNA:LOC_Os02g01960.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	538159	538203	.	-	.	Parent=mRNA:LOC_Os02g01960.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	534930	535274	.	-	.	Parent=mRNA:LOC_Os02g01960.1

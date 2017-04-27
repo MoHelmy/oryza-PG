@@ -1,0 +1,8 @@
+Chr1	MSU_osa1r6_db	gene	4493598	4496627	.	-	.	ID=Gene:LOC_Os01g08960;Note=phosducin-like+protein+3%2C+putative%2C+expressed;Alias=13101.t00772
+Chr1	MSU_osa1r6_db	processed_transcript	4493598	4496627	.	-	.	ID=mRNA:LOC_Os01g08960.1;Note=13101.m00949;Gene=LOC_Os01g08960
+Chr1	MSU_osa1r6_db	CDS	4496298	4496539	.	-	0	Parent=mRNA:LOC_Os01g08960.1
+Chr1	MSU_osa1r6_db	CDS	4495860	4496003	.	-	2	Parent=mRNA:LOC_Os01g08960.1
+Chr1	MSU_osa1r6_db	CDS	4494538	4494746	.	-	2	Parent=mRNA:LOC_Os01g08960.1
+Chr1	MSU_osa1r6_db	CDS	4493868	4494028	.	-	1	Parent=mRNA:LOC_Os01g08960.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	4496540	4496627	.	-	.	Parent=mRNA:LOC_Os01g08960.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	4493598	4493867	.	-	.	Parent=mRNA:LOC_Os01g08960.1

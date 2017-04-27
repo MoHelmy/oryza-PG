@@ -1,0 +1,14 @@
+Chr6	MSU_osa1r6_db	gene	5981670	5986672	.	-	.	ID=Gene:LOC_Os06g11380;Note=geminivirus+Rep-interacting+motor+protein%2C+putative%2C+expressed;Alias=13106.t01013
+Chr6	MSU_osa1r6_db	processed_transcript	5981670	5986672	.	-	.	ID=mRNA:LOC_Os06g11380.1;Note=13106.m01232;Gene=LOC_Os06g11380
+Chr6	MSU_osa1r6_db	CDS	5986346	5986417	.	-	0	Parent=mRNA:LOC_Os06g11380.1
+Chr6	MSU_osa1r6_db	CDS	5985441	5985632	.	-	0	Parent=mRNA:LOC_Os06g11380.1
+Chr6	MSU_osa1r6_db	CDS	5985113	5985334	.	-	0	Parent=mRNA:LOC_Os06g11380.1
+Chr6	MSU_osa1r6_db	CDS	5984364	5984711	.	-	0	Parent=mRNA:LOC_Os06g11380.1
+Chr6	MSU_osa1r6_db	CDS	5984183	5984281	.	-	0	Parent=mRNA:LOC_Os06g11380.1
+Chr6	MSU_osa1r6_db	CDS	5983255	5983395	.	-	0	Parent=mRNA:LOC_Os06g11380.1
+Chr6	MSU_osa1r6_db	CDS	5982995	5983153	.	-	0	Parent=mRNA:LOC_Os06g11380.1
+Chr6	MSU_osa1r6_db	CDS	5981910	5982344	.	-	0	Parent=mRNA:LOC_Os06g11380.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	5986655	5986672	.	-	.	Parent=mRNA:LOC_Os06g11380.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	5986418	5986562	.	-	.	Parent=mRNA:LOC_Os06g11380.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	5981670	5981909	.	-	.	Parent=mRNA:LOC_Os06g11380.1
+Chr6	Protein-DB	peptide_p	5985044	5985079	.	?	.	Parent=mRNA:LOC_Os06g11380.1:P999_27710

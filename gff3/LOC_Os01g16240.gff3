@@ -1,0 +1,10 @@
+Chr1	MSU_osa1r6_db	gene	9194527	9197962	.	-	.	ID=Gene:LOC_Os01g16240;Note=OsCam1-3+-+Calmodulin%2C+expressed;Alias=13101.t01470
+Chr1	MSU_osa1r6_db	processed_transcript	9194527	9197962	.	-	.	ID=mRNA:LOC_Os01g16240.1;Note=13101.m01811;Gene=LOC_Os01g16240
+Chr1	MSU_osa1r6_db	CDS	9197783	9197858	.	-	0	Parent=mRNA:LOC_Os01g16240.1
+Chr1	MSU_osa1r6_db	CDS	9194783	9195156	.	-	1	Parent=mRNA:LOC_Os01g16240.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	9197859	9197962	.	-	.	Parent=mRNA:LOC_Os01g16240.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	9194527	9194782	.	-	.	Parent=mRNA:LOC_Os01g16240.1
+Chr1	Protein-DB	peptide_p	9197639	9197689	.	?	.	Parent=mRNA:LOC_Os01g16240.1:P999_1409
+Chr1	Protein-DB	peptide_p	9197486	9197518	.	?	.	Parent=mRNA:LOC_Os01g16240.1:P999_1414
+Chr1	Protein-DB	peptide_p	9197543	9197578	.	?	.	Parent=mRNA:LOC_Os01g16240.1:P999_1421
+Chr1	Protein-DB	peptide_p	9197483	9197518	.	?	.	Parent=mRNA:LOC_Os01g16240.1:P999_1426

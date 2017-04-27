@@ -1,0 +1,7 @@
+Chr12	MSU_osa1r6_db	gene	8538060	8538681	.	-	.	ID=Gene:LOC_Os12g14930;Note=ATP+synthase+protein+MI25%2C+putative%2C+expressed;Alias=13112.t01355
+Chr12	MSU_osa1r6_db	processed_transcript	8538060	8538681	.	-	.	ID=mRNA:LOC_Os12g14930.1;Note=13112.m01579;Gene=LOC_Os12g14930
+Chr12	MSU_osa1r6_db	CDS	8538086	8538679	.	-	0	Parent=mRNA:LOC_Os12g14930.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	8538680	8538681	.	-	.	Parent=mRNA:LOC_Os12g14930.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	8538060	8538085	.	-	.	Parent=mRNA:LOC_Os12g14930.1
+Chr12	Protein-DB	peptide_p	8538360	8538398	.	?	.	Parent=mRNA:LOC_Os12g14930.1:P999_41654
+Chr12	Protein-DB	peptide_p	8538627	8538647	.	?	.	Parent=mRNA:LOC_Os12g14930.1:P999_41657

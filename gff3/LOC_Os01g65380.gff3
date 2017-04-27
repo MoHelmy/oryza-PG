@@ -1,0 +1,15 @@
+Chr1	MSU_osa1r6_db	gene	37947824	37950989	.	+	.	ID=Gene:LOC_Os01g65380;Note=patellin+protein%2C+putative%2C+expressed;Alias=13101.t05828
+Chr1	MSU_osa1r6_db	processed_transcript	37947824	37950989	.	+	.	ID=mRNA:LOC_Os01g65380.1;Note=13101.m07061;Gene=LOC_Os01g65380
+Chr1	MSU_osa1r6_db	CDS	37948087	37949400	.	+	0	Parent=mRNA:LOC_Os01g65380.1
+Chr1	MSU_osa1r6_db	CDS	37949840	37949964	.	+	0	Parent=mRNA:LOC_Os01g65380.1
+Chr1	MSU_osa1r6_db	CDS	37950056	37950197	.	+	2	Parent=mRNA:LOC_Os01g65380.1
+Chr1	MSU_osa1r6_db	CDS	37950300	37950560	.	+	0	Parent=mRNA:LOC_Os01g65380.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	37947824	37948086	.	+	.	Parent=mRNA:LOC_Os01g65380.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	37950561	37950989	.	+	.	Parent=mRNA:LOC_Os01g65380.1
+Chr1	Protein-DB	peptide_p	37950301	37950327	.	?	.	Parent=mRNA:LOC_Os01g65380.1:P999_5060
+Chr1	Protein-DB	peptide_p	37948742	37948777	.	?	.	Parent=mRNA:LOC_Os01g65380.1:P999_5061
+Chr1	Protein-DB	peptide_p	37949114	37949161	.	?	.	Parent=mRNA:LOC_Os01g65380.1:P999_5062
+Chr1	Protein-DB	peptide_p	37950475	37950507	.	?	.	Parent=mRNA:LOC_Os01g65380.1:P999_5063
+Chr1	Protein-DB	peptide_p	37950412	37950444	.	?	.	Parent=mRNA:LOC_Os01g65380.1:P999_5064
+Chr1	Protein-DB	peptide_p	37949838	37949882	.	?	.	Parent=mRNA:LOC_Os01g65380.1:P999_5065
+Chr1	Protein-DB	peptide_p	37948937	37948957	.	?	.	Parent=mRNA:LOC_Os01g65380.1:P999_5066

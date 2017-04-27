@@ -1,0 +1,14 @@
+Chr1	MSU_osa1r6_db	gene	9324521	9328310	.	-	.	ID=Gene:LOC_Os01g16430;Note=cysteine+proteinase+inhibitor+precursor+protein%2C+putative%2C+expressed;Alias=13101.t01489
+Chr1	MSU_osa1r6_db	processed_transcript	9324521	9328310	.	-	.	ID=mRNA:LOC_Os01g16430.1;Note=13101.m01838;Gene=LOC_Os01g16430
+Chr1	MSU_osa1r6_db	CDS	9327976	9328209	.	-	0	Parent=mRNA:LOC_Os01g16430.1
+Chr1	MSU_osa1r6_db	CDS	9327647	9327866	.	-	0	Parent=mRNA:LOC_Os01g16430.1
+Chr1	MSU_osa1r6_db	CDS	9325425	9325570	.	-	1	Parent=mRNA:LOC_Os01g16430.1
+Chr1	MSU_osa1r6_db	CDS	9324919	9325071	.	-	0	Parent=mRNA:LOC_Os01g16430.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	9328210	9328310	.	-	.	Parent=mRNA:LOC_Os01g16430.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	9324521	9324918	.	-	.	Parent=mRNA:LOC_Os01g16430.1
+Chr1	Protein-DB	peptide_p	9325005	9325064	.	?	.	Parent=mRNA:LOC_Os01g16430.1:P999_1451
+Chr1	Protein-DB	peptide_p	9325086	9325115	.	?	.	Parent=mRNA:LOC_Os01g16430.1:P999_1454
+Chr1	Protein-DB	peptide_p	9325134	9325181	.	?	.	Parent=mRNA:LOC_Os01g16430.1:P999_1458
+Chr1	Protein-DB	peptide_p	9324827	9324853	.	?	.	Parent=mRNA:LOC_Os01g16430.1:P999_1460
+Chr1	Protein-DB	peptide_p	9327354	9327395	.	?	.	Parent=mRNA:LOC_Os01g16430.1:P999_1463
+Chr1	Protein-DB	peptide_p	9324963	9324989	.	?	.	Parent=mRNA:LOC_Os01g16430.1:P999_1464

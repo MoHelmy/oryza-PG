@@ -1,0 +1,9 @@
+Chr12	MSU_osa1r6_db	gene	21206933	21209969	.	-	.	ID=Gene:LOC_Os12g34890;Note=acyl+carrier+protein%2C+putative%2C+expressed;Alias=13112.t03190
+Chr12	MSU_osa1r6_db	processed_transcript	21206933	21209969	.	-	.	ID=mRNA:LOC_Os12g34890.1;Note=13112.m03562;Gene=LOC_Os12g34890
+Chr12	MSU_osa1r6_db	CDS	21209779	21209850	.	-	0	Parent=mRNA:LOC_Os12g34890.1
+Chr12	MSU_osa1r6_db	CDS	21208087	21208197	.	-	0	Parent=mRNA:LOC_Os12g34890.1
+Chr12	MSU_osa1r6_db	CDS	21207460	21207582	.	-	0	Parent=mRNA:LOC_Os12g34890.1
+Chr12	MSU_osa1r6_db	CDS	21207253	21207381	.	-	0	Parent=mRNA:LOC_Os12g34890.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	21209851	21209969	.	-	.	Parent=mRNA:LOC_Os12g34890.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	21206933	21207252	.	-	.	Parent=mRNA:LOC_Os12g34890.1
+Chr12	Protein-DB	peptide_p	21209363	21209410	.	?	.	Parent=mRNA:LOC_Os12g34890.1:P999_42156

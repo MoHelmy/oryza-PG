@@ -1,0 +1,11 @@
+Chr10	MSU_osa1r6_db	gene	19012851	19016222	.	+	.	ID=Gene:LOC_Os10g35690;Note=ribosomal+protein+S18+containing+protein%2C+expressed;Alias=13110.t02858
+Chr10	MSU_osa1r6_db	processed_transcript	19012851	19016222	.	+	.	ID=mRNA:LOC_Os10g35690.1;Note=13110.m03212;Gene=LOC_Os10g35690
+Chr10	MSU_osa1r6_db	CDS	19012972	19013098	.	+	0	Parent=mRNA:LOC_Os10g35690.1
+Chr10	MSU_osa1r6_db	CDS	19013654	19013949	.	+	1	Parent=mRNA:LOC_Os10g35690.1
+Chr10	MSU_osa1r6_db	CDS	19014318	19014413	.	+	0	Parent=mRNA:LOC_Os10g35690.1
+Chr10	MSU_osa1r6_db	CDS	19015045	19015104	.	+	0	Parent=mRNA:LOC_Os10g35690.1
+Chr10	MSU_osa1r6_db	CDS	19015649	19015894	.	+	0	Parent=mRNA:LOC_Os10g35690.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	19012851	19012971	.	+	.	Parent=mRNA:LOC_Os10g35690.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	19015895	19016222	.	+	.	Parent=mRNA:LOC_Os10g35690.1
+Chr10	Protein-DB	peptide_p	19013771	19013842	.	?	.	Parent=mRNA:LOC_Os10g35690.1:P999_38446
+Chr10	Protein-DB	peptide_p	19015055	19015096	.	?	.	Parent=mRNA:LOC_Os10g35690.1:P999_38447

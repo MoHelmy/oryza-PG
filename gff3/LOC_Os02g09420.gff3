@@ -1,0 +1,12 @@
+Chr2	MSU_osa1r6_db	gene	4831143	4835213	.	+	.	ID=Gene:LOC_Os02g09420;Note=cyclase+family+protein%2C+putative%2C+expressed;Alias=13102.t00801
+Chr2	MSU_osa1r6_db	processed_transcript	4831143	4835213	.	+	.	ID=mRNA:LOC_Os02g09420.1;Note=13102.m01032;Gene=LOC_Os02g09420
+Chr2	MSU_osa1r6_db	CDS	4831209	4831620	.	+	0	Parent=mRNA:LOC_Os02g09420.1
+Chr2	MSU_osa1r6_db	CDS	4833356	4833400	.	+	1	Parent=mRNA:LOC_Os02g09420.1
+Chr2	MSU_osa1r6_db	CDS	4833612	4833684	.	+	1	Parent=mRNA:LOC_Os02g09420.1
+Chr2	MSU_osa1r6_db	CDS	4833877	4833974	.	+	2	Parent=mRNA:LOC_Os02g09420.1
+Chr2	MSU_osa1r6_db	CDS	4834160	4834230	.	+	1	Parent=mRNA:LOC_Os02g09420.1
+Chr2	MSU_osa1r6_db	CDS	4834830	4834955	.	+	0	Parent=mRNA:LOC_Os02g09420.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	4831143	4831208	.	+	.	Parent=mRNA:LOC_Os02g09420.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	4834956	4835213	.	+	.	Parent=mRNA:LOC_Os02g09420.1
+Chr2	Protein-DB	peptide_p	4831414	4831464	.	?	.	Parent=mRNA:LOC_Os02g09420.1:P999_7830
+Chr2	Protein-DB	peptide_p	4831387	4831413	.	?	.	Parent=mRNA:LOC_Os02g09420.1:P999_7836

@@ -1,0 +1,7 @@
+Chr9	MSU_osa1r6_db	gene	20213895	20215700	.	+	.	ID=Gene:LOC_Os09g34230;Note=UDP-glucoronosyl%2FUDP-glucosyl+transferase%2C+putative%2C+expressed;Alias=13109.t03005
+Chr9	MSU_osa1r6_db	processed_transcript	20213895	20215700	.	+	.	ID=mRNA:LOC_Os09g34230.1;Note=13109.m03436;Gene=LOC_Os09g34230
+Chr9	MSU_osa1r6_db	CDS	20213952	20214629	.	+	0	Parent=mRNA:LOC_Os09g34230.1
+Chr9	MSU_osa1r6_db	CDS	20214705	20215454	.	+	0	Parent=mRNA:LOC_Os09g34230.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	20213895	20213951	.	+	.	Parent=mRNA:LOC_Os09g34230.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	20215455	20215700	.	+	.	Parent=mRNA:LOC_Os09g34230.1
+Chr9	Protein-DB	peptide_p	20215198	20215218	.	?	.	Parent=mRNA:LOC_Os09g34230.1:P999_36541

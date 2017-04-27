@@ -1,0 +1,14 @@
+Chr6	MSU_osa1r6_db	gene	21613169	21616123	.	-	.	ID=Gene:LOC_Os06g36710;Note=transposon+protein%2C+putative%2C+CACTA%2C+En%2FSpm+sub-class%2C+expressed;Alias=13106.t03345
+Chr6	MSU_osa1r6_db	processed_transcript	21613169	21616123	.	-	.	ID=mRNA:LOC_Os06g36710.1;Note=13106.m03798;Gene=LOC_Os06g36710
+Chr6	MSU_osa1r6_db	CDS	21615658	21615732	.	-	0	Parent=mRNA:LOC_Os06g36710.1
+Chr6	MSU_osa1r6_db	CDS	21615427	21615558	.	-	0	Parent=mRNA:LOC_Os06g36710.1
+Chr6	MSU_osa1r6_db	CDS	21614561	21614836	.	-	0	Parent=mRNA:LOC_Os06g36710.1
+Chr6	MSU_osa1r6_db	CDS	21614312	21614373	.	-	0	Parent=mRNA:LOC_Os06g36710.1
+Chr6	MSU_osa1r6_db	CDS	21613294	21614044	.	-	2	Parent=mRNA:LOC_Os06g36710.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	21615957	21616123	.	-	.	Parent=mRNA:LOC_Os06g36710.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	21615733	21615819	.	-	.	Parent=mRNA:LOC_Os06g36710.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	21613169	21613293	.	-	.	Parent=mRNA:LOC_Os06g36710.1
+Chr6	Protein-DB	peptide_p	21615340	21615411	.	?	.	Parent=mRNA:LOC_Os06g36710.1:P999_28655
+Chr6	Protein-DB	peptide_p	21614601	21614636	.	?	.	Parent=mRNA:LOC_Os06g36710.1:P999_28656
+Chr6	Protein-DB	peptide_p	21614478	21614522	.	?	.	Parent=mRNA:LOC_Os06g36710.1:P999_28657
+Chr6	Protein-DB	peptide_p	21614523	21614585	.	?	.	Parent=mRNA:LOC_Os06g36710.1:P999_28658

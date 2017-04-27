@@ -1,0 +1,9 @@
+Chr6	MSU_osa1r6_db	gene	9262602	9264450	.	+	.	ID=Gene:LOC_Os06g16270;Note=heat+shock+factor+binding+protein+2%2C+putative%2C+expressed;Alias=13106.t01498
+Chr6	MSU_osa1r6_db	processed_transcript	9262602	9264450	.	+	.	ID=mRNA:LOC_Os06g16270.1;Note=13106.m01793;Gene=LOC_Os06g16270
+Chr6	MSU_osa1r6_db	CDS	9262602	9262643	.	+	0	Parent=mRNA:LOC_Os06g16270.1
+Chr6	MSU_osa1r6_db	CDS	9263150	9263203	.	+	0	Parent=mRNA:LOC_Os06g16270.1
+Chr6	MSU_osa1r6_db	CDS	9263345	9263493	.	+	0	Parent=mRNA:LOC_Os06g16270.1
+Chr6	MSU_osa1r6_db	CDS	9263943	9263949	.	+	2	Parent=mRNA:LOC_Os06g16270.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	9263950	9264450	.	+	.	Parent=mRNA:LOC_Os06g16270.1
+Chr6	cDNA-DB	peptide_c	9263964	9263999	.	?	.	Parent=mRNA:LOC_Os06g16270:C999_5146
+Chr6	cDNA-DB	peptide_c	9263461	9263493	.	?	.	Parent=mRNA:LOC_Os06g16270:C999_5147

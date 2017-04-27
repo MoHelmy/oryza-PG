@@ -1,0 +1,17 @@
+Chr12	MSU_osa1r6_db	gene	19101360	19105214	.	+	.	ID=Gene:LOC_Os12g31800;Note=glycine-rich+RNA-binding+protein+7%2C+putative%2C+expressed;Alias=13112.t02887
+Chr12	MSU_osa1r6_db	processed_transcript	19101360	19105214	.	+	.	ID=mRNA:LOC_Os12g31800.1;Note=13112.m03235;Gene=LOC_Os12g31800
+Chr12	MSU_osa1r6_db	CDS	19103384	19103492	.	+	0	Parent=mRNA:LOC_Os12g31800.1
+Chr12	MSU_osa1r6_db	CDS	19103592	19103660	.	+	1	Parent=mRNA:LOC_Os12g31800.1
+Chr12	MSU_osa1r6_db	CDS	19103740	19103846	.	+	1	Parent=mRNA:LOC_Os12g31800.1
+Chr12	MSU_osa1r6_db	CDS	19104446	19104937	.	+	0	Parent=mRNA:LOC_Os12g31800.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	19101360	19101403	.	+	.	Parent=mRNA:LOC_Os12g31800.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	19103375	19103383	.	+	.	Parent=mRNA:LOC_Os12g31800.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	19104938	19105214	.	+	.	Parent=mRNA:LOC_Os12g31800.1
+Chr12	Protein-DB	peptide_p	3507	3539	.	?	.	Parent=mRNA:LOC_Os12g31800.1:P41966
+Chr12	Protein-DB	peptide_p	3510	3539	.	?	.	Parent=mRNA:LOC_Os12g31800.1:P41967
+Chr12	Protein-DB	peptide_p	2419	2487	.	?	.	Parent=mRNA:LOC_Os12g31800.1:P41968
+Chr12	Protein-DB	peptide_p	2232	2267	.	?	.	Parent=mRNA:LOC_Os12g31800.1:P41969
+Chr12	Protein-DB	peptide_p	3507	3569	.	?	.	Parent=mRNA:LOC_Os12g31800.1:P41972
+Chr12	Protein-DB	peptide_p	3510	3569	.	?	.	Parent=mRNA:LOC_Os12g31800.1:P41974
+Chr12	Protein-DB	peptide_p	2268	2300	.	?	.	Parent=mRNA:LOC_Os12g31800.1:P41979
+Chr12	cDNA-DB	peptide_c	19104867	19104929	.	?	.	Parent=mRNA:LOC_Os12g31800.1:PC31

@@ -1,0 +1,17 @@
+Chr9	MSU_osa1r6_db	gene	19398498	19400662	.	+	.	ID=Gene:LOC_Os09g32500;Note=60S+ribosomal+protein+L32%2C+putative%2C+expressed;Alias=13109.t02866
+Chr9	MSU_osa1r6_db	processed_transcript	19398498	19400662	.	+	.	ID=mRNA:LOC_Os09g32500.1;Note=13109.m03234;Gene=LOC_Os09g32500
+Chr9	MSU_osa1r6_db	CDS	19398668	19398757	.	+	0	Parent=mRNA:LOC_Os09g32500.1
+Chr9	MSU_osa1r6_db	CDS	19399671	19399852	.	+	0	Parent=mRNA:LOC_Os09g32500.1
+Chr9	MSU_osa1r6_db	CDS	19400202	19400331	.	+	2	Parent=mRNA:LOC_Os09g32500.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	19398498	19398569	.	+	.	Parent=mRNA:LOC_Os09g32500.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	19400332	19400662	.	+	.	Parent=mRNA:LOC_Os09g32500.1
+Chr9	MSU_osa1r6_db	processed_transcript	19398515	19400662	.	+	.	ID=mRNA:LOC_Os09g32500.2;Note=13109.m03235;Gene=LOC_Os09g32500
+Chr9	MSU_osa1r6_db	CDS	19398668	19398757	.	+	0	Parent=mRNA:LOC_Os09g32500.2
+Chr9	MSU_osa1r6_db	CDS	19399671	19399852	.	+	0	Parent=mRNA:LOC_Os09g32500.2
+Chr9	MSU_osa1r6_db	CDS	19400202	19400331	.	+	2	Parent=mRNA:LOC_Os09g32500.2
+Chr9	MSU_osa1r6_db	five_prime_UTR	19398515	19398574	.	+	.	Parent=mRNA:LOC_Os09g32500.2
+Chr9	MSU_osa1r6_db	three_prime_UTR	19400332	19400662	.	+	.	Parent=mRNA:LOC_Os09g32500.2
+Chr9	Protein-DB	peptide_p	19399720	19399770	.	?	.	Parent=mRNA:LOC_Os09g32500.1:P999_36280
+Chr9	Protein-DB	peptide_p	19399726	19399767	.	?	.	Parent=mRNA:LOC_Os09g32500.1:P999_36281
+Chr9	Protein-DB	peptide_p	19399804	19399854	.	?	.	Parent=mRNA:LOC_Os09g32500.1:P999_36282
+Chr9	Protein-DB	peptide_p	19400204	19400242	.	?	.	Parent=mRNA:LOC_Os09g32500.1:P999_36293

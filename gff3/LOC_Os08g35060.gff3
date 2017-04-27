@@ -1,0 +1,6 @@
+Chr8	MSU_osa1r6_db	gene	22101595	22102926	.	+	.	ID=Gene:LOC_Os08g35060;Note=protein+binding+protein%2C+putative%2C+expressed;Alias=13108.t03256
+Chr8	MSU_osa1r6_db	processed_transcript	22101595	22102926	.	+	.	ID=mRNA:LOC_Os08g35060.1;Note=13108.m03674;Gene=LOC_Os08g35060
+Chr8	MSU_osa1r6_db	CDS	22101615	22102489	.	+	0	Parent=mRNA:LOC_Os08g35060.1
+Chr8	MSU_osa1r6_db	CDS	22102611	22102683	.	+	2	Parent=mRNA:LOC_Os08g35060.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	22101595	22101614	.	+	.	Parent=mRNA:LOC_Os08g35060.1
+Chr8	MSU_osa1r6_db	three_prime_UTR	22102684	22102926	.	+	.	Parent=mRNA:LOC_Os08g35060.1

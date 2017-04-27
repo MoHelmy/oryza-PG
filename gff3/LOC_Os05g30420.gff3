@@ -1,0 +1,7 @@
+Chr5	MSU_osa1r6_db	gene	17570622	17573022	.	-	.	ID=Gene:LOC_Os05g30420;Note=expressed+protein;Alias=13105.t02666
+Chr5	MSU_osa1r6_db	processed_transcript	17570622	17573022	.	-	.	ID=mRNA:LOC_Os05g30420.1;Note=13105.m03109;Gene=LOC_Os05g30420
+Chr5	MSU_osa1r6_db	CDS	17572528	17572879	.	-	0	Parent=mRNA:LOC_Os05g30420.1
+Chr5	MSU_osa1r6_db	CDS	17571140	17571261	.	-	1	Parent=mRNA:LOC_Os05g30420.1
+Chr5	MSU_osa1r6_db	CDS	17570906	17571019	.	-	0	Parent=mRNA:LOC_Os05g30420.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	17572880	17573022	.	-	.	Parent=mRNA:LOC_Os05g30420.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	17570622	17570905	.	-	.	Parent=mRNA:LOC_Os05g30420.1

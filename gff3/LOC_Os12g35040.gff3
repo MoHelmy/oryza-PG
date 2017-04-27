@@ -1,0 +1,14 @@
+Chr12	MSU_osa1r6_db	gene	21291319	21294199	.	-	.	ID=Gene:LOC_Os12g35040;Note=2%2C3-bisphosphoglycerate-independent+phosphoglycerate+mutase%2C+putative%2C+expressed;Alias=13112.t03204
+Chr12	MSU_osa1r6_db	processed_transcript	21291319	21294199	.	-	.	ID=mRNA:LOC_Os12g35040.1;Note=13112.m03582;Gene=LOC_Os12g35040
+Chr12	MSU_osa1r6_db	CDS	21293788	21293940	.	-	0	Parent=mRNA:LOC_Os12g35040.1
+Chr12	MSU_osa1r6_db	CDS	21293262	21293407	.	-	0	Parent=mRNA:LOC_Os12g35040.1
+Chr12	MSU_osa1r6_db	CDS	21292884	21293160	.	-	2	Parent=mRNA:LOC_Os12g35040.1
+Chr12	MSU_osa1r6_db	CDS	21292063	21292335	.	-	0	Parent=mRNA:LOC_Os12g35040.1
+Chr12	MSU_osa1r6_db	CDS	21291503	21291982	.	-	0	Parent=mRNA:LOC_Os12g35040.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	21293941	21294199	.	-	.	Parent=mRNA:LOC_Os12g35040.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	21291319	21291502	.	-	.	Parent=mRNA:LOC_Os12g35040.1
+Chr12	Protein-DB	peptide_p	21293831	21293875	.	?	.	Parent=mRNA:LOC_Os12g35040.1:P999_42160
+Chr12	Protein-DB	peptide_p	21292540	21292572	.	?	.	Parent=mRNA:LOC_Os12g35040.1:P999_42162
+Chr12	Protein-DB	peptide_p	21292405	21292440	.	?	.	Parent=mRNA:LOC_Os12g35040.1:P999_42165
+Chr12	Protein-DB	peptide_p	21293891	21293941	.	?	.	Parent=mRNA:LOC_Os12g35040.1:P999_42167
+Chr12	Protein-DB	peptide_p	21292223	21292252	.	?	.	Parent=mRNA:LOC_Os12g35040.1:P999_42168

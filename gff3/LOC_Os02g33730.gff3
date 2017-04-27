@@ -1,0 +1,9 @@
+Chr2	MSU_osa1r6_db	gene	20119391	20124366	.	-	.	ID=Gene:LOC_Os02g33730;Note=ubiquinol-cytochrome+C+reductase+hinge+protein%2C+putative%2C+expressed;Alias=13102.t03033
+Chr2	MSU_osa1r6_db	processed_transcript	20119391	20124366	.	-	.	ID=mRNA:LOC_Os02g33730.1;Note=13102.m03660;Gene=LOC_Os02g33730
+Chr2	MSU_osa1r6_db	CDS	20124126	20124366	.	-	0	Parent=mRNA:LOC_Os02g33730.1
+Chr2	MSU_osa1r6_db	CDS	20121597	20121660	.	-	1	Parent=mRNA:LOC_Os02g33730.1
+Chr2	MSU_osa1r6_db	CDS	20120143	20120227	.	-	2	Parent=mRNA:LOC_Os02g33730.1
+Chr2	MSU_osa1r6_db	CDS	20119730	20119819	.	-	0	Parent=mRNA:LOC_Os02g33730.1
+Chr2	MSU_osa1r6_db	CDS	20119391	20119423	.	-	0	Parent=mRNA:LOC_Os02g33730.1
+Chr2	Protein-DB	peptide_p	20123981	20124013	.	?	.	Parent=mRNA:LOC_Os02g33730.1:P999_9486
+Chr2	Protein-DB	peptide_p	20123589	20123615	.	?	.	Parent=mRNA:LOC_Os02g33730.1:P999_9488

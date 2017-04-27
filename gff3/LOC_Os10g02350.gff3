@@ -1,0 +1,11 @@
+Chr10	MSU_osa1r6_db	gene	839016	842835	.	-	.	ID=Gene:LOC_Os10g02350;Note=transmembrane+9+superfamily+member%2C+putative%2C+expressed;Alias=13110.t00128
+Chr10	MSU_osa1r6_db	processed_transcript	839016	842835	.	-	.	ID=mRNA:LOC_Os10g02350.1;Note=13110.m00139;Gene=LOC_Os10g02350
+Chr10	MSU_osa1r6_db	CDS	842647	842786	.	-	0	Parent=mRNA:LOC_Os10g02350.1
+Chr10	MSU_osa1r6_db	CDS	841946	841986	.	-	2	Parent=mRNA:LOC_Os10g02350.1
+Chr10	MSU_osa1r6_db	CDS	841095	841671	.	-	1	Parent=mRNA:LOC_Os10g02350.1
+Chr10	MSU_osa1r6_db	CDS	840755	840892	.	-	2	Parent=mRNA:LOC_Os10g02350.1
+Chr10	MSU_osa1r6_db	CDS	840508	840664	.	-	2	Parent=mRNA:LOC_Os10g02350.1
+Chr10	MSU_osa1r6_db	CDS	839904	840388	.	-	0	Parent=mRNA:LOC_Os10g02350.1
+Chr10	MSU_osa1r6_db	CDS	839442	839661	.	-	2	Parent=mRNA:LOC_Os10g02350.1
+Chr10	MSU_osa1r6_db	five_prime_UTR	842787	842835	.	-	.	Parent=mRNA:LOC_Os10g02350.1
+Chr10	MSU_osa1r6_db	three_prime_UTR	839016	839441	.	-	.	Parent=mRNA:LOC_Os10g02350.1

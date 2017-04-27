@@ -1,0 +1,9 @@
+Chr3	MSU_osa1r6_db	gene	7180078	7183166	.	+	.	ID=Gene:LOC_Os03g13300;Note=glutamate+decarboxylase%2C+putative%2C+expressed;Alias=13103.t01142
+Chr3	MSU_osa1r6_db	processed_transcript	7180078	7183166	.	+	.	ID=mRNA:LOC_Os03g13300.1;Note=13103.m01542;Gene=LOC_Os03g13300
+Chr3	MSU_osa1r6_db	CDS	7180274	7180359	.	+	0	Parent=mRNA:LOC_Os03g13300.1
+Chr3	MSU_osa1r6_db	CDS	7180472	7180676	.	+	2	Parent=mRNA:LOC_Os03g13300.1
+Chr3	MSU_osa1r6_db	CDS	7181329	7181744	.	+	0	Parent=mRNA:LOC_Os03g13300.1
+Chr3	MSU_osa1r6_db	CDS	7181831	7182137	.	+	2	Parent=mRNA:LOC_Os03g13300.1
+Chr3	MSU_osa1r6_db	CDS	7182228	7182692	.	+	0	Parent=mRNA:LOC_Os03g13300.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	7180078	7180273	.	+	.	Parent=mRNA:LOC_Os03g13300.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	7182693	7183166	.	+	.	Parent=mRNA:LOC_Os03g13300.1

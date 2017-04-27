@@ -1,0 +1,15 @@
+Chr1	MSU_osa1r6_db	gene	144577	146852	.	+	.	ID=Gene:LOC_Os01g01302;Note=shikimate+kinase%2C+putative%2C+expressed;Alias=13101.t00031
+Chr1	MSU_osa1r6_db	processed_transcript	144577	146852	.	+	.	ID=mRNA:LOC_Os01g01302.1;Note=13101.m00042;Gene=LOC_Os01g01302
+Chr1	MSU_osa1r6_db	CDS	144645	144786	.	+	0	Parent=mRNA:LOC_Os01g01302.1
+Chr1	MSU_osa1r6_db	CDS	144905	144951	.	+	1	Parent=mRNA:LOC_Os01g01302.1
+Chr1	MSU_osa1r6_db	CDS	145028	145082	.	+	0	Parent=mRNA:LOC_Os01g01302.1
+Chr1	MSU_osa1r6_db	CDS	145179	145339	.	+	1	Parent=mRNA:LOC_Os01g01302.1
+Chr1	MSU_osa1r6_db	CDS	145450	145532	.	+	0	Parent=mRNA:LOC_Os01g01302.1
+Chr1	MSU_osa1r6_db	CDS	145611	145719	.	+	2	Parent=mRNA:LOC_Os01g01302.1
+Chr1	MSU_osa1r6_db	CDS	146106	146184	.	+	0	Parent=mRNA:LOC_Os01g01302.1
+Chr1	MSU_osa1r6_db	CDS	146311	146375	.	+	1	Parent=mRNA:LOC_Os01g01302.1
+Chr1	MSU_osa1r6_db	CDS	146507	146575	.	+	0	Parent=mRNA:LOC_Os01g01302.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	144577	144644	.	+	.	Parent=mRNA:LOC_Os01g01302.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	146576	146852	.	+	.	Parent=mRNA:LOC_Os01g01302.1
+Chr1	Protein-DB	peptide_p	145242	145286	.	?	.	Parent=mRNA:LOC_Os01g01302.1:P999_21
+Chr1	Protein-DB	peptide_p	144908	144952	.	?	.	Parent=mRNA:LOC_Os01g01302.1:P999_22

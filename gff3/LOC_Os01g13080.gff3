@@ -1,0 +1,9 @@
+Chr1	MSU_osa1r6_db	gene	7277720	7279250	.	-	.	ID=Gene:LOC_Os01g13080;Note=60S+acidic+ribosomal+protein%2C+putative%2C+expressed;Alias=13101.t01167
+Chr1	MSU_osa1r6_db	processed_transcript	7277720	7279250	.	-	.	ID=mRNA:LOC_Os01g13080.1;Note=13101.m01433;Gene=LOC_Os01g13080
+Chr1	MSU_osa1r6_db	CDS	7278975	7279172	.	-	0	Parent=mRNA:LOC_Os01g13080.1
+Chr1	MSU_osa1r6_db	CDS	7278021	7278182	.	-	0	Parent=mRNA:LOC_Os01g13080.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	7279173	7279250	.	-	.	Parent=mRNA:LOC_Os01g13080.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	7277720	7278020	.	-	.	Parent=mRNA:LOC_Os01g13080.1
+Chr1	Protein-DB	peptide_p	7277862	7277906	.	?	.	Parent=mRNA:LOC_Os01g13080.1:P999_1105
+Chr1	Protein-DB	peptide_p	7277802	7277825	.	?	.	Parent=mRNA:LOC_Os01g13080.1:P999_1110
+Chr1	Protein-DB	peptide_p	7277826	7277852	.	?	.	Parent=mRNA:LOC_Os01g13080.1:P999_1113

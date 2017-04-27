@@ -1,0 +1,11 @@
+Chr7	MSU_osa1r6_db	gene	27705366	27708962	.	-	.	ID=Gene:LOC_Os07g46440;Note=ribosomal+protein%2C+putative%2C+expressed;Alias=13107.t04271
+Chr7	MSU_osa1r6_db	processed_transcript	27705366	27708962	.	-	.	ID=mRNA:LOC_Os07g46440.1;Note=13107.m04899;Gene=LOC_Os07g46440
+Chr7	MSU_osa1r6_db	CDS	27708278	27708911	.	-	0	Parent=mRNA:LOC_Os07g46440.1
+Chr7	MSU_osa1r6_db	CDS	27707230	27707670	.	-	1	Parent=mRNA:LOC_Os07g46440.1
+Chr7	MSU_osa1r6_db	CDS	27706736	27706816	.	-	1	Parent=mRNA:LOC_Os07g46440.1
+Chr7	MSU_osa1r6_db	CDS	27706434	27706525	.	-	1	Parent=mRNA:LOC_Os07g46440.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	27708912	27708962	.	-	.	Parent=mRNA:LOC_Os07g46440.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	27706431	27706433	.	-	.	Parent=mRNA:LOC_Os07g46440.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	27705366	27705951	.	-	.	Parent=mRNA:LOC_Os07g46440.1
+Chr7	Protein-DB	peptide_p	27706934	27706960	.	?	.	Parent=mRNA:LOC_Os07g46440.1:P999_31993
+Chr7	Protein-DB	peptide_p	27705772	27705798	.	?	.	Parent=mRNA:LOC_Os07g46440.1:P999_31994

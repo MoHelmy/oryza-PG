@@ -1,0 +1,12 @@
+Chr12	MSU_osa1r6_db	gene	22547217	22548411	.	+	.	ID=Gene:LOC_Os12g36830;Note=pathogenesis-related+Bet+v+I+family+protein%2C+putative%2C+expressed;Alias=13112.t03378
+Chr12	MSU_osa1r6_db	processed_transcript	22547217	22548411	.	+	.	ID=mRNA:LOC_Os12g36830.1;Note=13112.m03777;Gene=LOC_Os12g36830
+Chr12	MSU_osa1r6_db	CDS	22547399	22547573	.	+	0	Parent=mRNA:LOC_Os12g36830.1
+Chr12	MSU_osa1r6_db	CDS	22547871	22548178	.	+	1	Parent=mRNA:LOC_Os12g36830.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	22547217	22547398	.	+	.	Parent=mRNA:LOC_Os12g36830.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	22548179	22548411	.	+	.	Parent=mRNA:LOC_Os12g36830.1
+Chr12	Protein-DB	peptide_p	22548135	22548176	.	?	.	Parent=mRNA:LOC_Os12g36830.1:P999_42234
+Chr12	Protein-DB	peptide_p	22547493	22547564	.	?	.	Parent=mRNA:LOC_Os12g36830.1:P999_42235
+Chr12	Protein-DB	peptide_p	22548045	22548095	.	?	.	Parent=mRNA:LOC_Os12g36830.1:P999_42236
+Chr12	Protein-DB	peptide_p	22547871	22547897	.	?	.	Parent=mRNA:LOC_Os12g36830.1:P999_42237
+Chr12	Protein-DB	peptide_p	22548009	22548044	.	?	.	Parent=mRNA:LOC_Os12g36830.1:P999_42241
+Chr12	Protein-DB	peptide_p	22548102	22548134	.	?	.	Parent=mRNA:LOC_Os12g36830.1:P999_42245

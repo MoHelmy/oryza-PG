@@ -1,0 +1,7 @@
+Chr2	MSU_osa1r6_db	gene	35830928	35832496	.	-	.	ID=Gene:LOC_Os02g58640;Note=tumor+susceptibility+gene+101%2C+putative%2C+expressed;Alias=13102.t05492
+Chr2	MSU_osa1r6_db	processed_transcript	35830928	35832496	.	-	.	ID=mRNA:LOC_Os02g58640.1;Note=13102.m06792;Gene=LOC_Os02g58640
+Chr2	MSU_osa1r6_db	CDS	35831181	35832389	.	-	0	Parent=mRNA:LOC_Os02g58640.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	35832390	35832496	.	-	.	Parent=mRNA:LOC_Os02g58640.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	35830928	35831180	.	-	.	Parent=mRNA:LOC_Os02g58640.1
+Chr2	Protein-DB	peptide_p	35831957	35832016	.	?	.	Parent=mRNA:LOC_Os02g58640.1:P999_12562
+Chr2	Protein-DB	peptide_p	35831459	35831500	.	?	.	Parent=mRNA:LOC_Os02g58640.1:P999_12563

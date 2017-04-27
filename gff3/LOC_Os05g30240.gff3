@@ -1,0 +1,12 @@
+Chr5	MSU_osa1r6_db	gene	17462358	17466127	.	+	.	ID=Gene:LOC_Os05g30240;Note=PPR+repeat+domain+containing+protein%2C+putative%2C+expressed;Alias=13105.t02648
+Chr5	MSU_osa1r6_db	processed_transcript	17462358	17466127	.	+	.	ID=mRNA:LOC_Os05g30240.1;Note=13105.m03084;Gene=LOC_Os05g30240
+Chr5	MSU_osa1r6_db	CDS	17462435	17465170	.	+	0	Parent=mRNA:LOC_Os05g30240.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	17462358	17462434	.	+	.	Parent=mRNA:LOC_Os05g30240.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	17465171	17465210	.	+	.	Parent=mRNA:LOC_Os05g30240.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	17465763	17466127	.	+	.	Parent=mRNA:LOC_Os05g30240.1
+Chr5	Protein-DB	peptide_p	17463723	17463776	.	?	.	Parent=mRNA:LOC_Os05g30240.1:P999_24529
+Chr5	Protein-DB	peptide_p	17463846	17463869	.	?	.	Parent=mRNA:LOC_Os05g30240.1:P999_24531
+Chr5	Protein-DB	peptide_p	17463141	17463167	.	?	.	Parent=mRNA:LOC_Os05g30240.1:P999_24532
+Chr5	Protein-DB	peptide_p	17463075	17463107	.	?	.	Parent=mRNA:LOC_Os05g30240.1:P999_24536
+Chr5	Protein-DB	peptide_p	17463870	17463899	.	?	.	Parent=mRNA:LOC_Os05g30240.1:P999_24537
+Chr5	Protein-DB	peptide_p	17463402	17463446	.	?	.	Parent=mRNA:LOC_Os05g30240.1:P999_24538

@@ -1,0 +1,17 @@
+Chr7	MSU_osa1r6_db	gene	522361	524795	.	-	.	ID=Gene:LOC_Os07g01870;Note=ribosomal+protein+L13%2C+putative%2C+expressed;Alias=13107.t00087
+Chr7	MSU_osa1r6_db	processed_transcript	522361	524795	.	-	.	ID=mRNA:LOC_Os07g01870.1;Note=13107.m00106;Gene=LOC_Os07g01870
+Chr7	MSU_osa1r6_db	CDS	524289	524677	.	-	0	Parent=mRNA:LOC_Os07g01870.1
+Chr7	MSU_osa1r6_db	CDS	524125	524212	.	-	2	Parent=mRNA:LOC_Os07g01870.1
+Chr7	MSU_osa1r6_db	CDS	522920	523063	.	-	0	Parent=mRNA:LOC_Os07g01870.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	524678	524795	.	-	.	Parent=mRNA:LOC_Os07g01870.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	522361	522919	.	-	.	Parent=mRNA:LOC_Os07g01870.1
+Chr7	MSU_osa1r6_db	processed_transcript	522361	524795	.	-	.	ID=mRNA:LOC_Os07g01870.2;Note=13107.m00107;Gene=LOC_Os07g01870
+Chr7	MSU_osa1r6_db	CDS	524289	524677	.	-	0	Parent=mRNA:LOC_Os07g01870.2
+Chr7	MSU_osa1r6_db	CDS	524125	524196	.	-	2	Parent=mRNA:LOC_Os07g01870.2
+Chr7	MSU_osa1r6_db	CDS	523003	523063	.	-	2	Parent=mRNA:LOC_Os07g01870.2
+Chr7	MSU_osa1r6_db	five_prime_UTR	524678	524795	.	-	.	Parent=mRNA:LOC_Os07g01870.2
+Chr7	MSU_osa1r6_db	three_prime_UTR	522361	523002	.	-	.	Parent=mRNA:LOC_Os07g01870.2
+Chr7	Protein-DB	peptide_p	522549	522569	.	?	.	Parent=mRNA:LOC_Os07g01870.1:P999_29953
+Chr7	Protein-DB	peptide_p	522750	522776	.	?	.	Parent=mRNA:LOC_Os07g01870.1:P999_29954
+Chr7	Protein-DB	peptide_p	524196	524234	.	?	.	Parent=mRNA:LOC_Os07g01870.1:P999_29958
+Chr7	Protein-DB	peptide_p	523000	523032	.	?	.	Parent=mRNA:LOC_Os07g01870.1:P999_29959

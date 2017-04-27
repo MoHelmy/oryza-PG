@@ -1,0 +1,15 @@
+Chr2	MSU_osa1r6_db	gene	11668274	11673601	.	+	.	ID=Gene:LOC_Os02g19860;Note=pre-mRNA-splicing+factor+ATP-dependent+RNA+helicase%2C+putative%2C+expressed;Alias=13102.t01788
+Chr2	MSU_osa1r6_db	processed_transcript	11668274	11673601	.	+	.	ID=mRNA:LOC_Os02g19860.1;Note=13102.m02223;Gene=LOC_Os02g19860
+Chr2	MSU_osa1r6_db	CDS	11668355	11671683	.	+	0	Parent=mRNA:LOC_Os02g19860.1
+Chr2	MSU_osa1r6_db	CDS	11672926	11673319	.	+	2	Parent=mRNA:LOC_Os02g19860.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	11668274	11668354	.	+	.	Parent=mRNA:LOC_Os02g19860.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	11673320	11673601	.	+	.	Parent=mRNA:LOC_Os02g19860.1
+Chr2	Protein-DB	peptide_p	11668476	11668508	.	?	.	Parent=mRNA:LOC_Os02g19860.1:P999_8686
+Chr2	Protein-DB	peptide_p	11670333	11670362	.	?	.	Parent=mRNA:LOC_Os02g19860.1:P999_8687
+Chr2	Protein-DB	peptide_p	11669160	11669213	.	?	.	Parent=mRNA:LOC_Os02g19860.1:P999_8688
+Chr2	Protein-DB	peptide_p	11668404	11668433	.	?	.	Parent=mRNA:LOC_Os02g19860.1:P999_8689
+Chr2	Protein-DB	peptide_p	11670558	11670593	.	?	.	Parent=mRNA:LOC_Os02g19860.1:P999_8690
+Chr2	Protein-DB	peptide_p	11671587	11671631	.	?	.	Parent=mRNA:LOC_Os02g19860.1:P999_8691
+Chr2	Protein-DB	peptide_p	11670003	11670041	.	?	.	Parent=mRNA:LOC_Os02g19860.1:P999_8692
+Chr2	Protein-DB	peptide_p	11671188	11671220	.	?	.	Parent=mRNA:LOC_Os02g19860.1:P999_8693
+Chr2	Protein-DB	peptide_p	11670828	11670890	.	?	.	Parent=mRNA:LOC_Os02g19860.1:P999_8697

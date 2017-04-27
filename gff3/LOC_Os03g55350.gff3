@@ -1,0 +1,9 @@
+Chr3	MSU_osa1r6_db	gene	31480825	31483770	.	-	.	ID=Gene:LOC_Os03g55350;Note=OsSub31+-+Putative+Subtilisin+homologue%2C+expressed;Alias=13103.t04804
+Chr3	MSU_osa1r6_db	processed_transcript	31480825	31483770	.	-	.	ID=mRNA:LOC_Os03g55350.1;Note=13103.m06022;Gene=LOC_Os03g55350
+Chr3	MSU_osa1r6_db	CDS	31481183	31483477	.	-	0	Parent=mRNA:LOC_Os03g55350.1
+Chr3	MSU_osa1r6_db	five_prime_UTR	31483478	31483770	.	-	.	Parent=mRNA:LOC_Os03g55350.1
+Chr3	MSU_osa1r6_db	three_prime_UTR	31480825	31481182	.	-	.	Parent=mRNA:LOC_Os03g55350.1
+Chr3	Protein-DB	peptide_p	31483087	31483158	.	?	.	Parent=mRNA:LOC_Os03g55350.1:P999_18498
+Chr3	Protein-DB	peptide_p	31483204	31483278	.	?	.	Parent=mRNA:LOC_Os03g55350.1:P999_18502
+Chr3	Protein-DB	peptide_p	31481809	31481847	.	?	.	Parent=mRNA:LOC_Os03g55350.1:P999_18503
+Chr3	Protein-DB	peptide_p	31481683	31481712	.	?	.	Parent=mRNA:LOC_Os03g55350.1:P999_18504

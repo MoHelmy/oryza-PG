@@ -1,0 +1,15 @@
+Chr2	MSU_osa1r6_db	gene	17969420	17975238	.	+	.	ID=Gene:LOC_Os02g30230;Note=exo70+exocyst+complex+subunit+domain+containing+protein%2C+expressed;Alias=13102.t02731
+Chr2	MSU_osa1r6_db	processed_transcript	17969420	17975238	.	+	.	ID=mRNA:LOC_Os02g30230.1;Note=13102.m03298;Gene=LOC_Os02g30230
+Chr2	MSU_osa1r6_db	CDS	17969519	17971588	.	+	0	Parent=mRNA:LOC_Os02g30230.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	17969420	17969518	.	+	.	Parent=mRNA:LOC_Os02g30230.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	17971589	17975238	.	+	.	Parent=mRNA:LOC_Os02g30230.1
+Chr2	MSU_osa1r6_db	processed_transcript	17969420	17975238	.	+	.	ID=mRNA:LOC_Os02g30230.2;Note=13102.m03300;Gene=LOC_Os02g30230
+Chr2	MSU_osa1r6_db	CDS	17969519	17971588	.	+	0	Parent=mRNA:LOC_Os02g30230.2
+Chr2	MSU_osa1r6_db	five_prime_UTR	17969420	17969518	.	+	.	Parent=mRNA:LOC_Os02g30230.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	17971589	17971614	.	+	.	Parent=mRNA:LOC_Os02g30230.2
+Chr2	MSU_osa1r6_db	three_prime_UTR	17974751	17975238	.	+	.	Parent=mRNA:LOC_Os02g30230.2
+Chr2	MSU_osa1r6_db	processed_transcript	17969446	17975238	.	+	.	ID=mRNA:LOC_Os02g30230.3;Note=13102.m03299;Gene=LOC_Os02g30230
+Chr2	MSU_osa1r6_db	CDS	17969519	17971588	.	+	0	Parent=mRNA:LOC_Os02g30230.3
+Chr2	MSU_osa1r6_db	five_prime_UTR	17969446	17969518	.	+	.	Parent=mRNA:LOC_Os02g30230.3
+Chr2	MSU_osa1r6_db	three_prime_UTR	17971589	17971614	.	+	.	Parent=mRNA:LOC_Os02g30230.3
+Chr2	MSU_osa1r6_db	three_prime_UTR	17974319	17975238	.	+	.	Parent=mRNA:LOC_Os02g30230.3

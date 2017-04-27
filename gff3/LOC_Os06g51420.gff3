@@ -1,0 +1,12 @@
+Chr6	MSU_osa1r6_db	gene	31146903	31149547	.	+	.	ID=Gene:LOC_Os06g51420;Note=coiled-coil+domain-containing+protein+12%2C+putative%2C+expressed;Alias=13106.t04807
+Chr6	MSU_osa1r6_db	processed_transcript	31146903	31149547	.	+	.	ID=mRNA:LOC_Os06g51420.1;Note=13106.m05558;Gene=LOC_Os06g51420
+Chr6	MSU_osa1r6_db	CDS	31147051	31147157	.	+	0	Parent=mRNA:LOC_Os06g51420.1
+Chr6	MSU_osa1r6_db	CDS	31148163	31148294	.	+	2	Parent=mRNA:LOC_Os06g51420.1
+Chr6	MSU_osa1r6_db	CDS	31148669	31148804	.	+	2	Parent=mRNA:LOC_Os06g51420.1
+Chr6	MSU_osa1r6_db	CDS	31148895	31149009	.	+	0	Parent=mRNA:LOC_Os06g51420.1
+Chr6	MSU_osa1r6_db	CDS	31149133	31149191	.	+	1	Parent=mRNA:LOC_Os06g51420.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	31146903	31147050	.	+	.	Parent=mRNA:LOC_Os06g51420.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	31149192	31149547	.	+	.	Parent=mRNA:LOC_Os06g51420.1
+Chr6	Protein-DB	peptide_p	31148758	31148796	.	?	.	Parent=mRNA:LOC_Os06g51420.1:P999_29858
+Chr6	Protein-DB	peptide_p	31147106	31147159	.	?	.	Parent=mRNA:LOC_Os06g51420.1:P999_29859
+Chr6	Protein-DB	peptide_p	31148992	31149015	.	?	.	Parent=mRNA:LOC_Os06g51420.1:P999_29860

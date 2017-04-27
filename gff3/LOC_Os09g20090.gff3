@@ -1,0 +1,7 @@
+Chr9	MSU_osa1r6_db	gene	12028911	12034267	.	-	.	ID=Gene:LOC_Os09g20090;Note=L-ascorbate+oxidase+precursor%2C+putative%2C+expressed;Alias=13109.t01750
+Chr9	MSU_osa1r6_db	processed_transcript	12028911	12034267	.	-	.	ID=mRNA:LOC_Os09g20090.1;Note=13109.m01900;Gene=LOC_Os09g20090
+Chr9	MSU_osa1r6_db	CDS	12033290	12034060	.	-	0	Parent=mRNA:LOC_Os09g20090.1
+Chr9	MSU_osa1r6_db	CDS	12029279	12030241	.	-	0	Parent=mRNA:LOC_Os09g20090.1
+Chr9	MSU_osa1r6_db	five_prime_UTR	12034061	12034267	.	-	.	Parent=mRNA:LOC_Os09g20090.1
+Chr9	MSU_osa1r6_db	three_prime_UTR	12028911	12029278	.	-	.	Parent=mRNA:LOC_Os09g20090.1
+Chr9	Protein-DB	peptide_p	12033703	12033744	.	?	.	Parent=mRNA:LOC_Os09g20090.1:P999_35389

@@ -1,0 +1,9 @@
+Chr10	MSU_osa1r6_db	gene	16021545	16025196	.	+	.	ID=Gene:LOC_Os10g30860;Note=nicotiana+lesion-inducing+like%2C+putative%2C+expressed;Alias=13110.t02416
+Chr10	MSU_osa1r6_db	processed_transcript	16021545	16025196	.	+	.	ID=mRNA:LOC_Os10g30860.1;Note=13110.m02666;Gene=LOC_Os10g30860
+Chr10	MSU_osa1r6_db	CDS	16021545	16021783	.	+	0	Parent=mRNA:LOC_Os10g30860.1
+Chr10	MSU_osa1r6_db	CDS	16023360	16023474	.	+	2	Parent=mRNA:LOC_Os10g30860.1
+Chr10	MSU_osa1r6_db	CDS	16023594	16023683	.	+	0	Parent=mRNA:LOC_Os10g30860.1
+Chr10	MSU_osa1r6_db	CDS	16024873	16024971	.	+	0	Parent=mRNA:LOC_Os10g30860.1
+Chr10	MSU_osa1r6_db	CDS	16025092	16025196	.	+	0	Parent=mRNA:LOC_Os10g30860.1
+Chr10	Protein-DB	peptide_p	16023416	16023448	.	?	.	Parent=mRNA:LOC_Os10g30860.1:P999_37849
+Chr10	Protein-DB	peptide_p	16023449	16023478	.	?	.	Parent=mRNA:LOC_Os10g30860.1:P999_37850

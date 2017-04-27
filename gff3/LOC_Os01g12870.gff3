@@ -1,0 +1,11 @@
+Chr1	MSU_osa1r6_db	gene	7124360	7127912	.	-	.	ID=Gene:LOC_Os01g12870;Note=eukaryotic+translation+initiation+factor+3+subunit+E-interacting+protein%2C+putative%2C+expressed;Alias=13101.t01148
+Chr1	MSU_osa1r6_db	processed_transcript	7124360	7127912	.	-	.	ID=mRNA:LOC_Os01g12870.1;Note=13101.m01406;Gene=LOC_Os01g12870
+Chr1	MSU_osa1r6_db	CDS	7127327	7127860	.	-	0	Parent=mRNA:LOC_Os01g12870.1
+Chr1	MSU_osa1r6_db	CDS	7126759	7127090	.	-	0	Parent=mRNA:LOC_Os01g12870.1
+Chr1	MSU_osa1r6_db	CDS	7126126	7126465	.	-	2	Parent=mRNA:LOC_Os01g12870.1
+Chr1	MSU_osa1r6_db	CDS	7125424	7125572	.	-	0	Parent=mRNA:LOC_Os01g12870.1
+Chr1	MSU_osa1r6_db	CDS	7125257	7125350	.	-	2	Parent=mRNA:LOC_Os01g12870.1
+Chr1	MSU_osa1r6_db	CDS	7124854	7124925	.	-	0	Parent=mRNA:LOC_Os01g12870.1
+Chr1	MSU_osa1r6_db	CDS	7124686	7124730	.	-	0	Parent=mRNA:LOC_Os01g12870.1
+Chr1	MSU_osa1r6_db	five_prime_UTR	7127861	7127912	.	-	.	Parent=mRNA:LOC_Os01g12870.1
+Chr1	MSU_osa1r6_db	three_prime_UTR	7124360	7124685	.	-	.	Parent=mRNA:LOC_Os01g12870.1

@@ -1,0 +1,8 @@
+Chr7	MSU_osa1r6_db	gene	26602643	26603976	.	+	.	ID=Gene:LOC_Os07g44550;Note=peroxidase+precursor%2C+putative%2C+expressed;Alias=13107.t04083
+Chr7	MSU_osa1r6_db	processed_transcript	26602643	26603976	.	+	.	ID=mRNA:LOC_Os07g44550.1;Note=13107.m04687;Gene=LOC_Os07g44550
+Chr7	MSU_osa1r6_db	CDS	26602690	26602896	.	+	0	Parent=mRNA:LOC_Os07g44550.1
+Chr7	MSU_osa1r6_db	CDS	26602995	26603756	.	+	0	Parent=mRNA:LOC_Os07g44550.1
+Chr7	MSU_osa1r6_db	five_prime_UTR	26602643	26602689	.	+	.	Parent=mRNA:LOC_Os07g44550.1
+Chr7	MSU_osa1r6_db	three_prime_UTR	26603757	26603976	.	+	.	Parent=mRNA:LOC_Os07g44550.1
+Chr7	Protein-DB	peptide_p	26603125	26603175	.	?	.	Parent=mRNA:LOC_Os07g44550.1:P999_31788
+Chr7	Protein-DB	peptide_p	26603176	26603217	.	?	.	Parent=mRNA:LOC_Os07g44550.1:P999_31789

@@ -1,0 +1,10 @@
+Chr4	MSU_osa1r6_db	gene	482239	485063	.	+	.	ID=Gene:LOC_Os04g01740;Note=heat+shock+protein%2C+putative%2C+expressed;Alias=13104.t00070
+Chr4	MSU_osa1r6_db	processed_transcript	482239	485063	.	+	.	ID=mRNA:LOC_Os04g01740.1;Note=13104.m00087;Gene=LOC_Os04g01740
+Chr4	MSU_osa1r6_db	CDS	482371	482517	.	+	0	Parent=mRNA:LOC_Os04g01740.1
+Chr4	MSU_osa1r6_db	CDS	482667	482808	.	+	0	Parent=mRNA:LOC_Os04g01740.1
+Chr4	MSU_osa1r6_db	CDS	482901	484723	.	+	1	Parent=mRNA:LOC_Os04g01740.1
+Chr4	MSU_osa1r6_db	five_prime_UTR	482239	482370	.	+	.	Parent=mRNA:LOC_Os04g01740.1
+Chr4	MSU_osa1r6_db	three_prime_UTR	484724	485063	.	+	.	Parent=mRNA:LOC_Os04g01740.1
+Chr4	Protein-DB	peptide_p	484308	484370	.	?	.	Parent=mRNA:LOC_Os04g01740.1:P999_19812
+Chr4	Protein-DB	peptide_p	482767	482805	.	?	.	Parent=mRNA:LOC_Os04g01740.1:P999_19813
+Chr4	Protein-DB	peptide_p	484431	484478	.	?	.	Parent=mRNA:LOC_Os04g01740.1:P999_19814

@@ -1,0 +1,13 @@
+Chr8	MSU_osa1r6_db	gene	13927737	13931996	.	+	.	ID=Gene:LOC_Os08g23120;Note=RNA+recognition+motif+containing+protein%2C+putative%2C+expressed;Alias=13108.t02087
+Chr8	MSU_osa1r6_db	processed_transcript	13927737	13931996	.	+	.	ID=mRNA:LOC_Os08g23120.1;Note=13108.m02364;Gene=LOC_Os08g23120
+Chr8	MSU_osa1r6_db	CDS	13927968	13928011	.	+	0	Parent=mRNA:LOC_Os08g23120.1
+Chr8	MSU_osa1r6_db	CDS	13928149	13928189	.	+	2	Parent=mRNA:LOC_Os08g23120.1
+Chr8	MSU_osa1r6_db	CDS	13930046	13930209	.	+	1	Parent=mRNA:LOC_Os08g23120.1
+Chr8	MSU_osa1r6_db	CDS	13930407	13930506	.	+	0	Parent=mRNA:LOC_Os08g23120.1
+Chr8	MSU_osa1r6_db	CDS	13930600	13930772	.	+	1	Parent=mRNA:LOC_Os08g23120.1
+Chr8	MSU_osa1r6_db	CDS	13931014	13931544	.	+	0	Parent=mRNA:LOC_Os08g23120.1
+Chr8	MSU_osa1r6_db	five_prime_UTR	13927737	13927967	.	+	.	Parent=mRNA:LOC_Os08g23120.1
+Chr8	MSU_osa1r6_db	three_prime_UTR	13931545	13931996	.	+	.	Parent=mRNA:LOC_Os08g23120.1
+Chr8	Protein-DB	peptide_p	13930130	13930174	.	?	.	Parent=mRNA:LOC_Os08g23120.1:P999_33382
+Chr8	Protein-DB	peptide_p	13930684	13930716	.	?	.	Parent=mRNA:LOC_Os08g23120.1:P999_33383
+Chr8	Protein-DB	peptide_p	13930471	13930503	.	?	.	Parent=mRNA:LOC_Os08g23120.1:P999_33385

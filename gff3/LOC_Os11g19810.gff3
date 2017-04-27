@@ -1,0 +1,13 @@
+Chr11	MSU_osa1r6_db	gene	11405817	11410493	.	-	.	ID=Gene:LOC_Os11g19810;Note=PWWP+domain+containing+protein%2C+expressed;Alias=13111.t01754
+Chr11	MSU_osa1r6_db	processed_transcript	11405818	11410250	.	-	.	ID=mRNA:LOC_Os11g19810.1;Note=13111.m02008;Gene=LOC_Os11g19810
+Chr11	MSU_osa1r6_db	CDS	11410083	11410250	.	-	0	Parent=mRNA:LOC_Os11g19810.1
+Chr11	MSU_osa1r6_db	CDS	11409776	11409820	.	-	0	Parent=mRNA:LOC_Os11g19810.1
+Chr11	MSU_osa1r6_db	CDS	11406204	11409158	.	-	0	Parent=mRNA:LOC_Os11g19810.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	11406167	11406203	.	-	.	Parent=mRNA:LOC_Os11g19810.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	11405818	11406050	.	-	.	Parent=mRNA:LOC_Os11g19810.1
+Chr11	MSU_osa1r6_db	processed_transcript	11405817	11410493	.	-	.	ID=mRNA:LOC_Os11g19810.2;Note=13111.m02007;Gene=LOC_Os11g19810
+Chr11	MSU_osa1r6_db	CDS	11410083	11410250	.	-	0	Parent=mRNA:LOC_Os11g19810.2
+Chr11	MSU_osa1r6_db	CDS	11406204	11409158	.	-	0	Parent=mRNA:LOC_Os11g19810.2
+Chr11	MSU_osa1r6_db	five_prime_UTR	11410251	11410493	.	-	.	Parent=mRNA:LOC_Os11g19810.2
+Chr11	MSU_osa1r6_db	three_prime_UTR	11406162	11406203	.	-	.	Parent=mRNA:LOC_Os11g19810.2
+Chr11	MSU_osa1r6_db	three_prime_UTR	11405817	11406050	.	-	.	Parent=mRNA:LOC_Os11g19810.2

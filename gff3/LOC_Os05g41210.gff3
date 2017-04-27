@@ -1,0 +1,12 @@
+Chr5	MSU_osa1r6_db	gene	24069860	24072318	.	-	.	ID=Gene:LOC_Os05g41210;Note=OsCam2+-+Calmodulin%2C+expressed;Alias=13105.t03693
+Chr5	MSU_osa1r6_db	processed_transcript	24069860	24072318	.	-	.	ID=mRNA:LOC_Os05g41210.1;Note=13105.m04370;Gene=LOC_Os05g41210
+Chr5	MSU_osa1r6_db	CDS	24072096	24072171	.	-	0	Parent=mRNA:LOC_Os05g41210.1
+Chr5	MSU_osa1r6_db	CDS	24070280	24070653	.	-	1	Parent=mRNA:LOC_Os05g41210.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	24072172	24072318	.	-	.	Parent=mRNA:LOC_Os05g41210.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	24069860	24070279	.	-	.	Parent=mRNA:LOC_Os05g41210.1
+Chr5	Protein-DB	peptide_p	24071678	24071722	.	?	.	Parent=mRNA:LOC_Os05g41210.1:P999_25553
+Chr5	Protein-DB	peptide_p	24071723	24071770	.	?	.	Parent=mRNA:LOC_Os05g41210.1:P999_25555
+Chr5	Protein-DB	peptide_p	24071684	24071722	.	?	.	Parent=mRNA:LOC_Os05g41210.1:P999_25556
+Chr5	Protein-DB	peptide_p	24070050	24070085	.	?	.	Parent=mRNA:LOC_Os05g41210.1:P999_25557
+Chr5	Protein-DB	peptide_p	24070050	24070073	.	?	.	Parent=mRNA:LOC_Os05g41210.1:P999_25559
+Chr5	Protein-DB	peptide_p	24070011	24070049	.	?	.	Parent=mRNA:LOC_Os05g41210.1:P999_25560

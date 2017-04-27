@@ -1,0 +1,12 @@
+Chr2	MSU_osa1r6_db	gene	10700748	10701514	.	-	.	ID=Gene:LOC_Os02g18380;Note=60S+ribosomal+protein+L27-3%2C+putative%2C+expressed;Alias=13102.t01643
+Chr2	MSU_osa1r6_db	processed_transcript	10700748	10701514	.	-	.	ID=mRNA:LOC_Os02g18380.1;Note=13102.m02062;Gene=LOC_Os02g18380
+Chr2	MSU_osa1r6_db	CDS	10700992	10701405	.	-	0	Parent=mRNA:LOC_Os02g18380.1
+Chr2	MSU_osa1r6_db	five_prime_UTR	10701406	10701514	.	-	.	Parent=mRNA:LOC_Os02g18380.1
+Chr2	MSU_osa1r6_db	three_prime_UTR	10700748	10700991	.	-	.	Parent=mRNA:LOC_Os02g18380.1
+Chr2	Protein-DB	peptide_p	10701110	10701172	.	?	.	Parent=mRNA:LOC_Os02g18380.1:P999_8616
+Chr2	Protein-DB	peptide_p	10700861	10700884	.	?	.	Parent=mRNA:LOC_Os02g18380.1:P999_8623
+Chr2	Protein-DB	peptide_p	10701134	10701172	.	?	.	Parent=mRNA:LOC_Os02g18380.1:P999_8639
+Chr2	Protein-DB	peptide_p	10700960	10701001	.	?	.	Parent=mRNA:LOC_Os02g18380.1:P999_8640
+Chr2	Protein-DB	peptide_p	10700885	10700908	.	?	.	Parent=mRNA:LOC_Os02g18380.1:P999_8641
+Chr2	Protein-DB	peptide_p	10701077	10701109	.	?	.	Parent=mRNA:LOC_Os02g18380.1:P999_8642
+Chr2	Protein-DB	peptide_p	10701110	10701133	.	?	.	Parent=mRNA:LOC_Os02g18380.1:P999_8652

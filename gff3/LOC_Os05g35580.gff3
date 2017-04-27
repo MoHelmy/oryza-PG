@@ -1,0 +1,10 @@
+Chr5	MSU_osa1r6_db	gene	21078817	21080975	.	+	.	ID=Gene:LOC_Os05g35580;Note=amidophosphoribosyltransferase%2C+chloroplast+precursor%2C+putative%2C+expressed;Alias=13105.t03181
+Chr5	MSU_osa1r6_db	processed_transcript	21078817	21080975	.	+	.	ID=mRNA:LOC_Os05g35580.1;Note=13105.m03728;Gene=LOC_Os05g35580
+Chr5	MSU_osa1r6_db	CDS	21078878	21080503	.	+	0	Parent=mRNA:LOC_Os05g35580.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	21078817	21078877	.	+	.	Parent=mRNA:LOC_Os05g35580.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	21080504	21080975	.	+	.	Parent=mRNA:LOC_Os05g35580.1
+Chr5	Protein-DB	peptide_p	21079338	21079370	.	?	.	Parent=mRNA:LOC_Os05g35580.1:P999_24951
+Chr5	Protein-DB	peptide_p	21080250	21080327	.	?	.	Parent=mRNA:LOC_Os05g35580.1:P999_24952
+Chr5	Protein-DB	peptide_p	21079245	21079295	.	?	.	Parent=mRNA:LOC_Os05g35580.1:P999_24953
+Chr5	Protein-DB	peptide_p	21079581	21079622	.	?	.	Parent=mRNA:LOC_Os05g35580.1:P999_24954
+Chr5	Protein-DB	peptide_p	21080118	21080144	.	?	.	Parent=mRNA:LOC_Os05g35580.1:P999_24955

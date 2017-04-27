@@ -1,0 +1,13 @@
+Chr5	MSU_osa1r6_db	gene	4117705	4121336	.	-	.	ID=Gene:LOC_Os05g07670;Note=solute+carrier+family+35+member+E3%2C+putative%2C+expressed;Alias=13105.t00654
+Chr5	MSU_osa1r6_db	processed_transcript	4117705	4121336	.	-	.	ID=mRNA:LOC_Os05g07670.1;Note=13105.m00834;Gene=LOC_Os05g07670
+Chr5	MSU_osa1r6_db	CDS	4120817	4120940	.	-	0	Parent=mRNA:LOC_Os05g07670.1
+Chr5	MSU_osa1r6_db	CDS	4119940	4120124	.	-	1	Parent=mRNA:LOC_Os05g07670.1
+Chr5	MSU_osa1r6_db	CDS	4119528	4119595	.	-	0	Parent=mRNA:LOC_Os05g07670.1
+Chr5	MSU_osa1r6_db	CDS	4119322	4119454	.	-	2	Parent=mRNA:LOC_Os05g07670.1
+Chr5	MSU_osa1r6_db	CDS	4118801	4118962	.	-	0	Parent=mRNA:LOC_Os05g07670.1
+Chr5	MSU_osa1r6_db	CDS	4118454	4118720	.	-	0	Parent=mRNA:LOC_Os05g07670.1
+Chr5	MSU_osa1r6_db	CDS	4118217	4118342	.	-	0	Parent=mRNA:LOC_Os05g07670.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	4121121	4121336	.	-	.	Parent=mRNA:LOC_Os05g07670.1
+Chr5	MSU_osa1r6_db	five_prime_UTR	4120941	4121039	.	-	.	Parent=mRNA:LOC_Os05g07670.1
+Chr5	MSU_osa1r6_db	three_prime_UTR	4117705	4118216	.	-	.	Parent=mRNA:LOC_Os05g07670.1
+Chr5	Protein-DB	peptide_p	4120706	4120747	.	?	.	Parent=mRNA:LOC_Os05g07670.1:P999_23451

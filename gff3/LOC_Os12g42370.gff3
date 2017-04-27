@@ -1,0 +1,12 @@
+Chr12	MSU_osa1r6_db	gene	26300655	26304564	.	-	.	ID=Gene:LOC_Os12g42370;Note=GTPase+of+unknown+function+domain+containing+protein%2C+putative%2C+expressed;Alias=13112.t03926
+Chr12	MSU_osa1r6_db	processed_transcript	26300655	26304564	.	-	.	ID=mRNA:LOC_Os12g42370.1;Note=13112.m04449;Gene=LOC_Os12g42370
+Chr12	MSU_osa1r6_db	CDS	26304234	26304487	.	-	0	Parent=mRNA:LOC_Os12g42370.1
+Chr12	MSU_osa1r6_db	CDS	26304017	26304106	.	-	2	Parent=mRNA:LOC_Os12g42370.1
+Chr12	MSU_osa1r6_db	CDS	26303844	26303930	.	-	2	Parent=mRNA:LOC_Os12g42370.1
+Chr12	MSU_osa1r6_db	CDS	26303346	26303439	.	-	2	Parent=mRNA:LOC_Os12g42370.1
+Chr12	MSU_osa1r6_db	CDS	26302983	26303039	.	-	0	Parent=mRNA:LOC_Os12g42370.1
+Chr12	MSU_osa1r6_db	CDS	26302394	26302473	.	-	0	Parent=mRNA:LOC_Os12g42370.1
+Chr12	MSU_osa1r6_db	CDS	26301161	26302295	.	-	2	Parent=mRNA:LOC_Os12g42370.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	26304488	26304564	.	-	.	Parent=mRNA:LOC_Os12g42370.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	26300655	26301160	.	-	.	Parent=mRNA:LOC_Os12g42370.1
+Chr12	Protein-DB	peptide_p	26303595	26303633	.	?	.	Parent=mRNA:LOC_Os12g42370.1:P999_42629

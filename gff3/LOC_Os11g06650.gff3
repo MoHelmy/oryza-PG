@@ -1,0 +1,13 @@
+Chr11	MSU_osa1r6_db	gene	3229614	3232449	.	-	.	ID=Gene:LOC_Os11g06650;Note=transcription+elongation+factor+protein%2C+putative%2C+expressed;Alias=13111.t00567
+Chr11	MSU_osa1r6_db	processed_transcript	3229614	3232449	.	-	.	ID=mRNA:LOC_Os11g06650.1;Note=13111.m00672;Gene=LOC_Os11g06650
+Chr11	MSU_osa1r6_db	CDS	3231960	3232304	.	-	0	Parent=mRNA:LOC_Os11g06650.1
+Chr11	MSU_osa1r6_db	CDS	3231791	3231859	.	-	0	Parent=mRNA:LOC_Os11g06650.1
+Chr11	MSU_osa1r6_db	CDS	3231585	3231667	.	-	0	Parent=mRNA:LOC_Os11g06650.1
+Chr11	MSU_osa1r6_db	CDS	3231393	3231466	.	-	2	Parent=mRNA:LOC_Os11g06650.1
+Chr11	MSU_osa1r6_db	CDS	3231217	3231269	.	-	1	Parent=mRNA:LOC_Os11g06650.1
+Chr11	MSU_osa1r6_db	CDS	3230813	3230852	.	-	0	Parent=mRNA:LOC_Os11g06650.1
+Chr11	MSU_osa1r6_db	CDS	3230558	3230700	.	-	1	Parent=mRNA:LOC_Os11g06650.1
+Chr11	MSU_osa1r6_db	CDS	3230110	3230206	.	-	0	Parent=mRNA:LOC_Os11g06650.1
+Chr11	MSU_osa1r6_db	CDS	3229824	3229939	.	-	1	Parent=mRNA:LOC_Os11g06650.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	3232305	3232449	.	-	.	Parent=mRNA:LOC_Os11g06650.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	3229614	3229823	.	-	.	Parent=mRNA:LOC_Os11g06650.1

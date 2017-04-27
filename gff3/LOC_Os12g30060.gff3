@@ -1,0 +1,12 @@
+Chr12	MSU_osa1r6_db	gene	17973595	17976524	.	+	.	ID=Gene:LOC_Os12g30060;Note=prefoldin+subunit%2C+putative%2C+expressed;Alias=13112.t02719
+Chr12	MSU_osa1r6_db	processed_transcript	17973595	17976524	.	+	.	ID=mRNA:LOC_Os12g30060.1;Note=13112.m03062;Gene=LOC_Os12g30060
+Chr12	MSU_osa1r6_db	CDS	17975894	17976337	.	+	0	Parent=mRNA:LOC_Os12g30060.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	17973595	17973725	.	+	.	Parent=mRNA:LOC_Os12g30060.1
+Chr12	MSU_osa1r6_db	five_prime_UTR	17975850	17975893	.	+	.	Parent=mRNA:LOC_Os12g30060.1
+Chr12	MSU_osa1r6_db	three_prime_UTR	17976338	17976524	.	+	.	Parent=mRNA:LOC_Os12g30060.1
+Chr12	MSU_osa1r6_db	processed_transcript	17973616	17976524	.	+	.	ID=mRNA:LOC_Os12g30060.2;Note=13112.m08876;Gene=LOC_Os12g30060
+Chr12	MSU_osa1r6_db	CDS	17975894	17976337	.	+	0	Parent=mRNA:LOC_Os12g30060.2
+Chr12	MSU_osa1r6_db	five_prime_UTR	17973616	17973897	.	+	.	Parent=mRNA:LOC_Os12g30060.2
+Chr12	MSU_osa1r6_db	five_prime_UTR	17975850	17975893	.	+	.	Parent=mRNA:LOC_Os12g30060.2
+Chr12	MSU_osa1r6_db	three_prime_UTR	17976338	17976524	.	+	.	Parent=mRNA:LOC_Os12g30060.2
+Chr12	Protein-DB	peptide_p	17976087	17976113	.	?	.	Parent=mRNA:LOC_Os12g30060.1:P999_41882

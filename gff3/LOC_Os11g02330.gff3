@@ -1,0 +1,12 @@
+Chr11	MSU_osa1r6_db	gene	679037	679912	.	+	.	ID=Gene:LOC_Os11g02330;Note=LTPL22+-+Protease+inhibitor%2Fseed+storage%2FLTP+family+protein+precursor%2C+expressed;Alias=13111.t00129
+Chr11	MSU_osa1r6_db	processed_transcript	679037	679912	.	+	.	ID=mRNA:LOC_Os11g02330.1;Note=13111.m00158;Gene=LOC_Os11g02330
+Chr11	MSU_osa1r6_db	CDS	679124	679473	.	+	0	Parent=mRNA:LOC_Os11g02330.1
+Chr11	MSU_osa1r6_db	CDS	679580	679589	.	+	2	Parent=mRNA:LOC_Os11g02330.1
+Chr11	MSU_osa1r6_db	five_prime_UTR	679037	679123	.	+	.	Parent=mRNA:LOC_Os11g02330.1
+Chr11	MSU_osa1r6_db	three_prime_UTR	679590	679912	.	+	.	Parent=mRNA:LOC_Os11g02330.1
+Chr11	MSU_osa1r6_db	processed_transcript	679037	679892	.	+	.	ID=mRNA:LOC_Os11g02330.2;Note=13111.m00159;Gene=LOC_Os11g02330
+Chr11	MSU_osa1r6_db	CDS	679124	679473	.	+	0	Parent=mRNA:LOC_Os11g02330.2
+Chr11	MSU_osa1r6_db	CDS	679580	679589	.	+	2	Parent=mRNA:LOC_Os11g02330.2
+Chr11	MSU_osa1r6_db	five_prime_UTR	679037	679123	.	+	.	Parent=mRNA:LOC_Os11g02330.2
+Chr11	MSU_osa1r6_db	three_prime_UTR	679590	679676	.	+	.	Parent=mRNA:LOC_Os11g02330.2
+Chr11	MSU_osa1r6_db	three_prime_UTR	679704	679892	.	+	.	Parent=mRNA:LOC_Os11g02330.2

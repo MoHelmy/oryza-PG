@@ -1,0 +1,6 @@
+Chr6	MSU_osa1r6_db	gene	13301547	13305575	.	-	.	ID=Gene:LOC_Os06g22820;Note=cyclin-dependent+kinase+F-1%2C+putative%2C+expressed;Alias=13106.t02098
+Chr6	MSU_osa1r6_db	processed_transcript	13301547	13305575	.	-	.	ID=mRNA:LOC_Os06g22820.1;Note=13106.m02452;Gene=LOC_Os06g22820
+Chr6	MSU_osa1r6_db	CDS	13305001	13305501	.	-	0	Parent=mRNA:LOC_Os06g22820.1
+Chr6	MSU_osa1r6_db	CDS	13301748	13302686	.	-	0	Parent=mRNA:LOC_Os06g22820.1
+Chr6	MSU_osa1r6_db	five_prime_UTR	13305502	13305575	.	-	.	Parent=mRNA:LOC_Os06g22820.1
+Chr6	MSU_osa1r6_db	three_prime_UTR	13301547	13301747	.	-	.	Parent=mRNA:LOC_Os06g22820.1
