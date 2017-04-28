@@ -1,4 +1,4 @@
-# The archive of the the rice proteogenomics database (OryzaPG-DB)
+# The rice proteogenomics database (OryzaPG-DB) archive
 
 ![Oryza-PG database header](https://github.com/MoHelmy/oryza-PG/blob/master/oryza-PG-header.png)
 
